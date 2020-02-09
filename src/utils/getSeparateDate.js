@@ -1,7 +1,13 @@
 export default function(dashDate) {
-  const dates = dashDate.split("-");
-  const year = dates[0];
-  const month = dates[1];
-  const day = dates[2];
+  let year,
+    month,
+    day = "";
+
+  if (dashDate) {
+    const dates = dashDate.split("-");
+    year = dates[0];
+    month = dates[1];
+    day = dates[2];
+  }
   return { year, month, day };
 }

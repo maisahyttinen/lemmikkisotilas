@@ -26,9 +26,6 @@ export default class Spotlight extends React.Component {
               "desc"
             ),
             (post, post_idx) => {
-              const { year, month, day } = getSeparateDate(
-                post.frontmatter.date
-              );
               return (
                 <section key={post_idx} className="spotlight">
                   <span className="image">
@@ -42,7 +39,6 @@ export default class Spotlight extends React.Component {
                       <h3 style={{ marginBottom: "0px" }}>
                         {_.get(post, "frontmatter.title")}
                       </h3>
-                      <p>{`${day}.${month}.${year}`}</p>
                     </header>
                     {markdownify(_.get(post, "frontmatter.excerpt"))}
                     <footer>
