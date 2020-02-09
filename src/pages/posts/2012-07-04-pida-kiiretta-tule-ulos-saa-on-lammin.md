@@ -12,4 +12,4 @@ Tekemistä on ollut ihan riittävästi enkä ole tuolla helteessä puuhaillut So
 
   
 
-[![](images/hehe.png)](http://2.bp.blogspot.com/-ntR_zwv3-lw/T_PyFm7aWrI/AAAAAAAAAz0/X3MXrlX9-Fk/s1600/hehe.png)
+[![](/images/hehe.png)](http://2.bp.blogspot.com/-ntR_zwv3-lw/T_PyFm7aWrI/AAAAAAAAAz0/X3MXrlX9-Fk/s1600/hehe.png)

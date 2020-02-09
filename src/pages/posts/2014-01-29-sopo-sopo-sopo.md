@@ -8,7 +8,7 @@ template: "page"
 post_button_label: "Lue lisää"
 ---
 
-[![](images/IMG_2565.png)](http://2.bp.blogspot.com/-cu7hRUbP2vY/UulO12IEtiI/AAAAAAAAH38/xVDQCSZW1oY/s1600/IMG_2565.png)
+[![](/images/IMG_2565.png)](http://2.bp.blogspot.com/-cu7hRUbP2vY/UulO12IEtiI/AAAAAAAAH38/xVDQCSZW1oY/s1600/IMG_2565.png)
 
   
 
@@ -18,17 +18,17 @@ Kelpaisiko teille lauma tupsujalkoja? Minun käsitykseni kylmäverisistä perust
 
   
 
-[![](images/IMG_2753_.png)](http://1.bp.blogspot.com/-4C9_UowEYBU/UulVdICDc_I/AAAAAAAAH4s/pB7-ZuD4Ncg/s1600/IMG_2753_.png)[![](images/IMG_2745.png)](http://2.bp.blogspot.com/-Y4OvFB4DYMo/UulO2kZR5wI/AAAAAAAAH4I/_ou-584cKbU/s1600/IMG_2745.png)
+[![](/images/IMG_2753_.png)](http://1.bp.blogspot.com/-4C9_UowEYBU/UulVdICDc_I/AAAAAAAAH4s/pB7-ZuD4Ncg/s1600/IMG_2753_.png)[![](/images/IMG_2745.png)](http://2.bp.blogspot.com/-Y4OvFB4DYMo/UulO2kZR5wI/AAAAAAAAH4I/_ou-584cKbU/s1600/IMG_2745.png)
 
   
   
 
-[![](images/IMG_2535.png)](http://2.bp.blogspot.com/-jpLzabdpb3s/UulO0Lfc2mI/AAAAAAAAH3s/fg6svjnQc40/s1600/IMG_2535.png)
+[![](/images/IMG_2535.png)](http://2.bp.blogspot.com/-jpLzabdpb3s/UulO0Lfc2mI/AAAAAAAAH3s/fg6svjnQc40/s1600/IMG_2535.png)
 
   
 
-[![](images/IMG_2534.png)](http://2.bp.blogspot.com/-dpIiOw4qVUs/UulO0ALRjjI/AAAAAAAAH3k/2cNFUalUjbQ/s1600/IMG_2534.png)
+[![](/images/IMG_2534.png)](http://2.bp.blogspot.com/-dpIiOw4qVUs/UulO0ALRjjI/AAAAAAAAH3k/2cNFUalUjbQ/s1600/IMG_2534.png)
 
   
 
-[![](images/IMG_2515.png)](http://3.bp.blogspot.com/-gM5KD3qYvOs/UulOzb_kC4I/AAAAAAAAH3g/DpI0f6lpxWY/s1600/IMG_2515.png)
+[![](/images/IMG_2515.png)](http://3.bp.blogspot.com/-gM5KD3qYvOs/UulOzb_kC4I/AAAAAAAAH3g/DpI0f6lpxWY/s1600/IMG_2515.png)

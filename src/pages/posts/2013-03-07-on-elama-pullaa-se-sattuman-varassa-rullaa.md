@@ -20,10 +20,10 @@ PS. Onko teidänkin karvapalloilla jo kevättä rinnassa? Tämän karvapallon ka
 
   
 
-[![](images/IMG_9591_.png)](http://3.bp.blogspot.com/-4XaP_RNvXMw/UTjY2nf1Y8I/AAAAAAAAFbQ/Mz3obzeYnno/s1600/IMG_9591_.png)
+[![](/images/IMG_9591_.png)](http://3.bp.blogspot.com/-4XaP_RNvXMw/UTjY2nf1Y8I/AAAAAAAAFbQ/Mz3obzeYnno/s1600/IMG_9591_.png)
 
 Kesäravikausi starttaa vain hieman reilun kuukauden päästä! Jee!
 
   
 
-[![](images/ak.png)](http://3.bp.blogspot.com/-oug_nuAkn1A/UTjWRxCKRUI/AAAAAAAAFao/E7XnlacJD_U/s1600/ak.png)
+[![](/images/ak.png)](http://3.bp.blogspot.com/-oug_nuAkn1A/UTjWRxCKRUI/AAAAAAAAFao/E7XnlacJD_U/s1600/ak.png)

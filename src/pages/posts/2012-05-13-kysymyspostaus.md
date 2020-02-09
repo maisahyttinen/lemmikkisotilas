@@ -13,7 +13,7 @@ Jee tehdäämpä tämä nyt sitten. **Kiitos kaikille kysymyksistä!**
 Ensin tosin on pakko hieman hehkuttaa - match show lähestyy! Ensi viikko on muutenkin hurjan kiireinen. Onneksi Sotilas on jo tehnyt osansa ja päässyt eroon suurimmasta osasta talvikarvaansa. (Mihin ihmeeseen se on kadonnut? Missään vaiheessa sitä ei ole mainittavammin irronnut, mutta se kauhea pörrö on poissa.. Vetänyt ovela pentele sen takaisin odottamaan ensi talvea.) Ja hahaha, tunnen itseni melkein kukkahattutädiksi. Tuolla tuo ulkoilee ihan nakuna iiisolla laitumella ilman kenkiä ja viihtyy luonnonoloissaan loistavasti. Kävin eilen ratsastamassakin! Toissapäivänä saatiin uusi satula postissa ja kauheilla paineilla kokeilemaan. Ainakin ensimmäisen ratsastuksen jälkeen se tuntui sopivalta niin ratsastajalle kuin hevosellekin!  
   
 
-[![](images/IMG_9946.png)](http://1.bp.blogspot.com/-15r35yk7Lm4/T6-SKKlX7BI/AAAAAAAAAn0/GNJtUvUpgps/s1600/IMG_9946.png)[![](images/IMG_9762.png)](http://4.bp.blogspot.com/-flAiTptGevQ/T6-R6AhUyZI/AAAAAAAAAnU/tTbWqQCoab4/s1600/IMG_9762.png)[![](images/IMG_9767.png)](http://4.bp.blogspot.com/-klQ-0z7Tq4k/T6-R-B05gJI/AAAAAAAAAnc/7fSXJGTPszY/s1600/IMG_9767.png)
+[![](/images/IMG_9946.png)](http://1.bp.blogspot.com/-15r35yk7Lm4/T6-SKKlX7BI/AAAAAAAAAn0/GNJtUvUpgps/s1600/IMG_9946.png)[![](/images/IMG_9762.png)](http://4.bp.blogspot.com/-flAiTptGevQ/T6-R6AhUyZI/AAAAAAAAAnU/tTbWqQCoab4/s1600/IMG_9762.png)[![](/images/IMG_9767.png)](http://4.bp.blogspot.com/-klQ-0z7Tq4k/T6-R-B05gJI/AAAAAAAAAnc/7fSXJGTPszY/s1600/IMG_9767.png)
 
   
 **Kuinka kauan olet ratsastanut?**  
@@ -74,7 +74,7 @@ Toki. Pitänee tehdä erikseen jossain vaiheessa ihan postaus aiheesta. Sitä en
 
   
 
-[![](images/IMG_9907.png)](http://4.bp.blogspot.com/-dkNigJ6l_44/T6-SGwMFlqI/AAAAAAAAAns/bLDtt2_8X-4/s1600/IMG_9907.png)
+[![](/images/IMG_9907.png)](http://4.bp.blogspot.com/-dkNigJ6l_44/T6-SGwMFlqI/AAAAAAAAAns/bLDtt2_8X-4/s1600/IMG_9907.png)
 
   
 
@@ -106,7 +106,7 @@ Hyviin puoliin kuuluu ehdottomasti sen rauhallisuus! Se ei stressaa eikä pelkä
 
   
 
-[![](images/IMG_9782.png)](http://2.bp.blogspot.com/-Nz3KlwLib1Q/T6-SCl-VYFI/AAAAAAAAAnk/XwtIx8_XQ6I/s1600/IMG_9782.png)
+[![](/images/IMG_9782.png)](http://2.bp.blogspot.com/-Nz3KlwLib1Q/T6-SCl-VYFI/AAAAAAAAAnk/XwtIx8_XQ6I/s1600/IMG_9782.png)
 
   
 

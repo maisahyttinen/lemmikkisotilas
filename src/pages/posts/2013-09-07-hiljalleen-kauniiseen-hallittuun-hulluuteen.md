@@ -8,7 +8,7 @@ template: "page"
 post_button_label: "Lue lisää"
 ---
 
-[![](images/vermo_.png)](http://3.bp.blogspot.com/-5bL4GSeKsQg/UiuCGFdFWOI/AAAAAAAAGzM/F0P2Dh-8DFw/s1600/vermo_.png)
+[![](/images/vermo_.png)](http://3.bp.blogspot.com/-5bL4GSeKsQg/UiuCGFdFWOI/AAAAAAAAGzM/F0P2Dh-8DFw/s1600/vermo_.png)
 
 Polte hevostöihin on _ihan uskomaton_. Mitään muuta en oikein osaa sanoa. Sotilas menee kyllä nykyisellään hyvin korvikkeesta, mutta tällaiset päivät aurinkoisella raviradalla hienojen hevosten keskellä horjuttavat ikävästi tyytyväisyyttä. Noh, kohta sataa vettä/räntää/lunta + on kylmää ja pimeää ja olen jälleen oikein iloinen siitä, että hoidettavana on vain yksi hevonen jonka kanssa ei sen suurempia vaatimuksia ole. Ehheh, niin vissiin.
 
@@ -25,7 +25,7 @@ Anteeksi yöllinen avautuminen. Tällä hetkellä ravirata kuitenkin tuntuu maai
 Niin, kaikkineen loistava ravipäivä. Ellette ole koskaan kokeilleet niin tehkää se ihmeessä. Ei siitä tarvitse ymmärtää mitään syvällistä, fiilis riittää. Parhautta!  
   
 
-[![](images/ak.png)](http://1.bp.blogspot.com/-r6Dv_Ah8skk/UiuYr8ubtyI/AAAAAAAAGzs/fZ0M5oXDxwE/s1600/ak.png)
+[![](/images/ak.png)](http://1.bp.blogspot.com/-r6Dv_Ah8skk/UiuYr8ubtyI/AAAAAAAAGzs/fZ0M5oXDxwE/s1600/ak.png)
 
 _Koskaan ei enää tätäkään päivää_
 

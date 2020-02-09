@@ -8,9 +8,9 @@ template: "page"
 post_button_label: "Lue lisää"
 ---
 
-[![](images/tammikuu.png)](http://1.bp.blogspot.com/-NyqIfVZmo9k/UOBB1EarH_I/AAAAAAAAEds/_e107Yu2b3A/s1600/tammikuu.png)
+[![](/images/tammikuu.png)](http://1.bp.blogspot.com/-NyqIfVZmo9k/UOBB1EarH_I/AAAAAAAAEds/_e107Yu2b3A/s1600/tammikuu.png)
 
-[![](images/IMG_3345.png)](http://1.bp.blogspot.com/-zMDhBoCbMls/UOGiX-DHnuI/AAAAAAAAEfw/5Yadx-14qIg/s1600/IMG_3345.png)[![](images/S3+(6).png)](http://2.bp.blogspot.com/-2tHUswttr7Y/UOGicDtmzyI/AAAAAAAAEgI/cGtTYGUPjPY/s1600/S3+(6).png)
+[![](/images/IMG_3345.png)](http://1.bp.blogspot.com/-zMDhBoCbMls/UOGiX-DHnuI/AAAAAAAAEfw/5Yadx-14qIg/s1600/IMG_3345.png)[![](/images/S3+(6).png)](http://2.bp.blogspot.com/-2tHUswttr7Y/UOGicDtmzyI/AAAAAAAAEgI/cGtTYGUPjPY/s1600/S3+(6).png)
 
   
 
@@ -20,9 +20,9 @@ Sotilas asui Anjalankoskella, joten pystyimme puuhailemaan vain viikonloppuisin.
 
   
 
-[![](images/helmikuu.png)](http://1.bp.blogspot.com/-2cYSATlORdE/UOBBvOt0RpI/AAAAAAAAEcs/BJPDIZ3duF0/s1600/helmikuu.png)
+[![](/images/helmikuu.png)](http://1.bp.blogspot.com/-2cYSATlORdE/UOBBvOt0RpI/AAAAAAAAEcs/BJPDIZ3duF0/s1600/helmikuu.png)
 
-[![](images/unknown_soldier17.png)](http://1.bp.blogspot.com/-pOL8Qu6307g/UOGjEQr838I/AAAAAAAAEgg/qP1dNT9JhqE/s1600/unknown_soldier17.png)[![](images/unknown_soldier_apex1.png)](http://1.bp.blogspot.com/-s-1gCpHYx94/UOGjGPpQE8I/AAAAAAAAEgo/WAhiN_eH6aw/s1600/unknown_soldier_apex1.png)
+[![](/images/unknown_soldier17.png)](http://1.bp.blogspot.com/-pOL8Qu6307g/UOGjEQr838I/AAAAAAAAEgg/qP1dNT9JhqE/s1600/unknown_soldier17.png)[![](/images/unknown_soldier_apex1.png)](http://1.bp.blogspot.com/-s-1gCpHYx94/UOGjGPpQE8I/AAAAAAAAEgo/WAhiN_eH6aw/s1600/unknown_soldier_apex1.png)
 
   
 
@@ -32,9 +32,9 @@ Sotilas asui Anjalankoskella, joten pystyimme puuhailemaan vain viikonloppuisin.
 
   
 
-[![](images/maaliskuu.png)](http://3.bp.blogspot.com/-WcqgJble1Yg/UOBByvAFqVI/AAAAAAAAEdU/piT784YJxwo/s1600/maaliskuu.png)
+[![](/images/maaliskuu.png)](http://3.bp.blogspot.com/-WcqgJble1Yg/UOBByvAFqVI/AAAAAAAAEdU/piT784YJxwo/s1600/maaliskuu.png)
 
-[![](images/IMG_4795.png)](http://1.bp.blogspot.com/-2AAwQfeSb50/UOL_rmnMa3I/AAAAAAAAEnc/ootNvk1DKBM/s1600/IMG_4795.png)[![](images/IMG_4775.png)](http://3.bp.blogspot.com/-rv0VAPdF8uE/UOL_oCPhoBI/AAAAAAAAEnU/_Jy6EPtEGZg/s1600/IMG_4775.png)
+[![](/images/IMG_4795.png)](http://1.bp.blogspot.com/-2AAwQfeSb50/UOL_rmnMa3I/AAAAAAAAEnc/ootNvk1DKBM/s1600/IMG_4795.png)[![](/images/IMG_4775.png)](http://3.bp.blogspot.com/-rv0VAPdF8uE/UOL_oCPhoBI/AAAAAAAAEnU/_Jy6EPtEGZg/s1600/IMG_4775.png)
 
   
 
@@ -44,9 +44,9 @@ Mitään ei tapahtunut, jos näin voi sanoa. Maaliskuussa olen julkaissut vain k
 
   
 
-[![](images/huhtikuu.png)](http://3.bp.blogspot.com/-NdSeiiLFkdw/UOBBv76hL7I/AAAAAAAAEc0/_lz5_4sVcjA/s1600/huhtikuu.png)
+[![](/images/huhtikuu.png)](http://3.bp.blogspot.com/-NdSeiiLFkdw/UOBBv76hL7I/AAAAAAAAEc0/_lz5_4sVcjA/s1600/huhtikuu.png)
 
-[![](images/IMG_8952.png)](http://4.bp.blogspot.com/-EqSwXW3xHDY/UOGkGErKeYI/AAAAAAAAEg8/1UcozF51thk/s1600/IMG_8952.png)[![](images/IMG_8795.png)](http://1.bp.blogspot.com/-vKPygv4Gr9U/UOGkE9bjKXI/AAAAAAAAEg0/qoWdh_OCaLE/s1600/IMG_8795.png)
+[![](/images/IMG_8952.png)](http://4.bp.blogspot.com/-EqSwXW3xHDY/UOGkGErKeYI/AAAAAAAAEg8/1UcozF51thk/s1600/IMG_8952.png)[![](/images/IMG_8795.png)](http://1.bp.blogspot.com/-vKPygv4Gr9U/UOGkE9bjKXI/AAAAAAAAEg0/qoWdh_OCaLE/s1600/IMG_8795.png)
 
   
 
@@ -54,9 +54,9 @@ Totesin klippaamisen huonoksi ideaksi - klipatuista kohdista karva lähti vaihtu
 
   
 
-[![](images/toukokuu.png)](http://4.bp.blogspot.com/-388MR0tMrTo/UOBB1oOfSNI/AAAAAAAAEd0/Bl9v7yeGwE0/s1600/toukokuu.png)
+[![](/images/toukokuu.png)](http://4.bp.blogspot.com/-388MR0tMrTo/UOBB1oOfSNI/AAAAAAAAEd0/Bl9v7yeGwE0/s1600/toukokuu.png)
 
-[![](images/IMG_0312.png)](http://1.bp.blogspot.com/-YX-1kpUFiok/UOL-CkSmNYI/AAAAAAAAEk4/71DknFV5OH8/s1600/IMG_0312.png)[![](images/IMG_9765.png)](http://4.bp.blogspot.com/-uOxeowU5e_4/UOL-KHimUXI/AAAAAAAAElY/kIG4A9O5ko4/s1600/IMG_9765.png)
+[![](/images/IMG_0312.png)](http://1.bp.blogspot.com/-YX-1kpUFiok/UOL-CkSmNYI/AAAAAAAAEk4/71DknFV5OH8/s1600/IMG_0312.png)[![](/images/IMG_9765.png)](http://4.bp.blogspot.com/-uOxeowU5e_4/UOL-KHimUXI/AAAAAAAAElY/kIG4A9O5ko4/s1600/IMG_9765.png)
 
   
 
@@ -66,9 +66,9 @@ Toukokuun ehdottomasti suurin juttu oli 17. päivän match show Anjalassa. En ko
 
   
 
-[![](images/kesakuu.png)](http://1.bp.blogspot.com/-4q5ZXkjNxPE/UOBBxZmv6QI/AAAAAAAAEdE/-jiISi9_5eA/s1600/kesakuu.png)
+[![](/images/kesakuu.png)](http://1.bp.blogspot.com/-4q5ZXkjNxPE/UOBBxZmv6QI/AAAAAAAAEdE/-jiISi9_5eA/s1600/kesakuu.png)
 
-[![](images/IMG_1893.png)](http://1.bp.blogspot.com/-qh2k5xlSLV0/UOL-F9q61RI/AAAAAAAAElI/uFMvMmAAmio/s1600/IMG_1893.png)[![](images/IMG_0711.png)](http://2.bp.blogspot.com/-Yrfzl0hEHh8/UOL-Efcl7-I/AAAAAAAAElA/8uOkJKND65w/s1600/IMG_0711.png)
+[![](/images/IMG_1893.png)](http://1.bp.blogspot.com/-qh2k5xlSLV0/UOL-F9q61RI/AAAAAAAAElI/uFMvMmAAmio/s1600/IMG_1893.png)[![](/images/IMG_0711.png)](http://2.bp.blogspot.com/-Yrfzl0hEHh8/UOL-Efcl7-I/AAAAAAAAElA/8uOkJKND65w/s1600/IMG_0711.png)
 
   
 
@@ -76,9 +76,9 @@ Sotilas muutti heti kesäkuun vaihteessa 10 kilometrin päähän laidunpaikalle.
 
   
 
-[![](images/heinakuu.png)](http://2.bp.blogspot.com/--LnEmIQA4eQ/UOBBuef-udI/AAAAAAAAEck/_AaJKqrsVwY/s1600/heinakuu.png)
+[![](/images/heinakuu.png)](http://2.bp.blogspot.com/--LnEmIQA4eQ/UOBBuef-udI/AAAAAAAAEck/_AaJKqrsVwY/s1600/heinakuu.png)
 
-[![](images/IMG_6432.png)](http://4.bp.blogspot.com/-7gl4rCfbgvM/UOMEq__O5BI/AAAAAAAAEqk/6BdsTdIYpzk/s1600/IMG_6432.png)[![](images/IMG_7429.png)](http://4.bp.blogspot.com/-t92KmaFViuM/UOMEsTgNKYI/AAAAAAAAEqs/qnfF7u3cHMw/s1600/IMG_7429.png)
+[![](/images/IMG_6432.png)](http://4.bp.blogspot.com/-7gl4rCfbgvM/UOMEq__O5BI/AAAAAAAAEqk/6BdsTdIYpzk/s1600/IMG_6432.png)[![](/images/IMG_7429.png)](http://4.bp.blogspot.com/-t92KmaFViuM/UOMEsTgNKYI/AAAAAAAAEqs/qnfF7u3cHMw/s1600/IMG_7429.png)
 
   
 
@@ -86,9 +86,9 @@ Alkuperäisistä suunnitelmista poiketen Sotilas vietti heinäkuunkin laidunpaik
 
   
 
-[![](images/elokuu.png)](http://4.bp.blogspot.com/-neAmWbs77cI/UOBBtSyE4lI/AAAAAAAAEcg/Pgzp4fYBB4w/s1600/elokuu.png)
+[![](/images/elokuu.png)](http://4.bp.blogspot.com/-neAmWbs77cI/UOBBtSyE4lI/AAAAAAAAEcg/Pgzp4fYBB4w/s1600/elokuu.png)
 
-[![](images/IMG_2886.png)](http://2.bp.blogspot.com/-ksX2YV6WwQc/UOMDklB2IxI/AAAAAAAAEqY/Sc9dbk6BxCs/s1600/IMG_2886.png)[![](images/IMG_8916.png)](http://3.bp.blogspot.com/-LlT4mFA4SWU/UOMDGNvD0HI/AAAAAAAAEp4/ZpMsgfmP6pM/s1600/IMG_8916.png)
+[![](/images/IMG_2886.png)](http://2.bp.blogspot.com/-ksX2YV6WwQc/UOMDklB2IxI/AAAAAAAAEqY/Sc9dbk6BxCs/s1600/IMG_2886.png)[![](/images/IMG_8916.png)](http://3.bp.blogspot.com/-LlT4mFA4SWU/UOMDGNvD0HI/AAAAAAAAEp4/ZpMsgfmP6pM/s1600/IMG_8916.png)
 
   
 
@@ -96,9 +96,9 @@ Tallin rakentaminen kotona aloitettiin. Sotilas vietti siis vielä elonkuunkin l
 
   
 
-[![](images/syyskuu.png)](http://4.bp.blogspot.com/-AvESSFCrdiY/UOBB0fqINAI/AAAAAAAAEdk/C0trUy8IGa8/s1600/syyskuu.png)
+[![](/images/syyskuu.png)](http://4.bp.blogspot.com/-AvESSFCrdiY/UOBB0fqINAI/AAAAAAAAEdk/C0trUy8IGa8/s1600/syyskuu.png)
 
-[![](images/2.png)](http://3.bp.blogspot.com/-ML8cg6X4gbo/UOMDBXG8L_I/AAAAAAAAEpY/MMU5m4Glc7k/s1600/2.png)[![](images/IMG_8677.png)](http://2.bp.blogspot.com/-RZFADaL-qm4/UOMDFM7bZ7I/AAAAAAAAEpw/ZtkrcJLKr1M/s1600/IMG_8677.png)
+[![](/images/2.png)](http://3.bp.blogspot.com/-ML8cg6X4gbo/UOMDBXG8L_I/AAAAAAAAEpY/MMU5m4Glc7k/s1600/2.png)[![](/images/IMG_8677.png)](http://2.bp.blogspot.com/-RZFADaL-qm4/UOMDFM7bZ7I/AAAAAAAAEpw/ZtkrcJLKr1M/s1600/IMG_8677.png)
 
   
 
@@ -108,9 +108,9 @@ Sotilas muutti kotiin! Hieman sitä ennen se kävi eläinlääkärillä hampaide
 
   
 
-[![](images/lokakuu.png)](http://1.bp.blogspot.com/-s_3wr6VfIPo/UOBByKAKupI/AAAAAAAAEdM/nn87c-FnoCE/s1600/lokakuu.png)
+[![](/images/lokakuu.png)](http://1.bp.blogspot.com/-s_3wr6VfIPo/UOBByKAKupI/AAAAAAAAEdM/nn87c-FnoCE/s1600/lokakuu.png)
 
-[![](images/IMG_9108.JPG)](http://4.bp.blogspot.com/-hpIenLTNQMw/UOMDHeiJPEI/AAAAAAAAEqA/XgNmeRXASOE/s1600/IMG_9108.JPG)[![](images/IMG_7389.png)](http://2.bp.blogspot.com/-RINohk2mugk/UOMDDlQ4hJI/AAAAAAAAEpo/SVFadxe18no/s1600/IMG_7389.png)
+[![](/images/IMG_9108.JPG)](http://4.bp.blogspot.com/-hpIenLTNQMw/UOMDHeiJPEI/AAAAAAAAEqA/XgNmeRXASOE/s1600/IMG_9108.JPG)[![](/images/IMG_7389.png)](http://2.bp.blogspot.com/-RINohk2mugk/UOMDDlQ4hJI/AAAAAAAAEpo/SVFadxe18no/s1600/IMG_7389.png)
 
   
 
@@ -118,9 +118,9 @@ Vähitellen keli muuttui täälläkin sateiseksi ja kuraiseksi, mutta nätteinä
 
   
 
-[![](images/marraskuu.png)](http://3.bp.blogspot.com/-kK_FtwXqOSg/UOBBzXS3LII/AAAAAAAAEdc/hqYtg3z4R6M/s1600/marraskuu.png)
+[![](/images/marraskuu.png)](http://3.bp.blogspot.com/-kK_FtwXqOSg/UOBBzXS3LII/AAAAAAAAEdc/hqYtg3z4R6M/s1600/marraskuu.png)
 
-[![](images/IMG_0268%C3%A5.JPG)](http://2.bp.blogspot.com/-Upsj0hmvQvQ/UOMDCUootNI/AAAAAAAAEpc/sQwioODIZFo/s1600/IMG_0268%C3%A5.JPG)[![](images/IMG_0069.JPG)](http://2.bp.blogspot.com/-9Ft93PaftDs/UOMDLwPPTbI/AAAAAAAAEqQ/RY8pO62x6R4/s1600/IMG_0069.JPG)
+[![](/images/IMG_0268%C3%A5.JPG)](http://2.bp.blogspot.com/-Upsj0hmvQvQ/UOMDCUootNI/AAAAAAAAEpc/sQwioODIZFo/s1600/IMG_0268%C3%A5.JPG)[![](/images/IMG_0069.JPG)](http://2.bp.blogspot.com/-9Ft93PaftDs/UOMDLwPPTbI/AAAAAAAAEqQ/RY8pO62x6R4/s1600/IMG_0069.JPG)
 
   
 
@@ -128,9 +128,9 @@ Talvea oli tuskallista odottaa eikä kengättömällä hevosella ollut mitään 
 
   
 
-[![](images/joulukuu.png)](http://1.bp.blogspot.com/-EC_JHWRzmIc/UOBBwbl96aI/AAAAAAAAEdA/378YJOalfWE/s1600/joulukuu.png)
+[![](/images/joulukuu.png)](http://1.bp.blogspot.com/-EC_JHWRzmIc/UOBBwbl96aI/AAAAAAAAEdA/378YJOalfWE/s1600/joulukuu.png)
 
-[![](images/IMG_0111x.JPG)](http://4.bp.blogspot.com/-Gs2U4Py-7uQ/UOMFXc_YJBI/AAAAAAAAEss/N7Pex2Tuds8/s1600/IMG_0111x.JPG)[![](images/22.12.2004.JPG)](http://2.bp.blogspot.com/-vjxkaCCXaBE/UOMFQWNnkjI/AAAAAAAAEsk/IB3TCA5y-Ik/s1600/22.12.2004.JPG)
+[![](/images/IMG_0111x.JPG)](http://4.bp.blogspot.com/-Gs2U4Py-7uQ/UOMFXc_YJBI/AAAAAAAAEss/N7Pex2Tuds8/s1600/IMG_0111x.JPG)[![](/images/22.12.2004.JPG)](http://2.bp.blogspot.com/-vjxkaCCXaBE/UOMFQWNnkjI/AAAAAAAAEsk/IB3TCA5y-Ik/s1600/22.12.2004.JPG)
 
   
 
@@ -138,4 +138,4 @@ Ratsupuuhailujen osalta antoisin kuukausi. Liikunnan määrä on jäänyt pitkie
 
   
 
-[![](images/ak.png)](http://1.bp.blogspot.com/-dZJaVegses4/UOM7mUEeyCI/AAAAAAAAEuo/BvFqqsbO2l0/s1600/ak.png)
+[![](/images/ak.png)](http://1.bp.blogspot.com/-dZJaVegses4/UOM7mUEeyCI/AAAAAAAAEuo/BvFqqsbO2l0/s1600/ak.png)

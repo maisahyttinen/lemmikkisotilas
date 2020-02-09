@@ -15,7 +15,7 @@ Kaikki alkaa ylihuomenna, kun ratsastelen Sotilaan kanssa aamusella käymään e
 Ruotsista on kivaa tulla kotiin, kun postissa odottaa uusi kamera. Puhumattakaan siitä, että Sotilaan muutto on sovittu samalle viikonlopulle! Pihalla on jo aitatolpat pystyssä ja maalattuna ja karsinoiden pohja on tarkoitus valaa loppuviikosta. Hauskaa nähdä, mitä kaikkea täällä on poissaollessani tapahtunut, kun tulen takaisin kotiin. Älyttömän siistiä, että kohta Sotilas on täällä! Melkein makuuhuoneen ikkunan alla. Vau.  
   
 
-[![](images/kuva+1880.jpg)](http://4.bp.blogspot.com/--4tyIVYxpd8/UD5VxDmF98I/AAAAAAAABEk/BLVmDg5gzMs/s1600/kuva+1880.jpg)
+[![](/images/kuva+1880.jpg)](http://4.bp.blogspot.com/--4tyIVYxpd8/UD5VxDmF98I/AAAAAAAABEk/BLVmDg5gzMs/s1600/kuva+1880.jpg)
 
   
 Hehe tui, toinen täydellinen mies oli mukana Suur-Hollolassa ja sain äsken ihan viihdyttäviä kuvia! Kiitokset [Tintulle](http://puskaponi.blogspot.fi/) kuvasta.  

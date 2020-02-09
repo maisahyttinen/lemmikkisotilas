@@ -13,7 +13,7 @@ Mitä jos ei yhtään huvita?
 Tiedän etten ole yksin tyhmän tammikuuni kanssa.  
 Jaa omat selviytymisvinkkisi postauksen alle!
 
-![](images/IMG_5646-1000x667.jpg)
+![](/images/IMG_5646-1000x667.jpg)
 
 ### 5 hyvää
 
@@ -37,9 +37,9 @@ Olen tavallaan kateellisena, mutta toisaalta helpottuneena seurannut muiden kes�
 
 Sotilaan varusteiden suhteen olen aina ollut melko tarkka, mutta etenkin omat tallivaatteeni ovat olleet vähän mitä sattuu. Tänä vuonna Kuomat, Equsanan pitkä ratsastustoppatakki ja CRW:n polvipituiset ratsastustoppahousut pitävät minutkin lämpimänä pitkälle kevääseen. Nettikirppikseltä löysin Mountain Horsen ratsastussaappaat 40 eurolla. Virheettömässä kunnossa ja juuri oikean kokoiset!
 
-![](images/IMG_5629-1000x667.jpg)
+![](/images/IMG_5629-1000x667.jpg)
 
-![](images/IMG_5661-1000x667.jpg)
+![](/images/IMG_5661-1000x667.jpg)
 
 ### 3 huonoa
 
@@ -55,4 +55,4 @@ Teen töitä pääosin kotona, luentoja on harvakseltaan pitkin päivää, keske
 
 Tässä yhdistyvät kaksi edellistä. Väsyneenä ajatus tökkii eivätkä rikkonaiset päivät tue luomisprosessia. Ja väkisin kun tekee, ei esimerkiksi blogin kirjoittamisesta saa samanlaista iloa kuin helpompina hetkinä. Toisaalta mitä pidempään tekemistä venyttää, sitä vaikeammalta aloittaminen/jatkaminen tuntuu.
 
-![](images/IMG_5698-1000x667.jpg)
+![](/images/IMG_5698-1000x667.jpg)

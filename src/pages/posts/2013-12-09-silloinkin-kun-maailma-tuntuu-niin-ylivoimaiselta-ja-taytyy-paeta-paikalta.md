@@ -18,7 +18,7 @@ Onneksi sain eilen Millan kuvaamaan! Maisema oli ihan mahtava ja pitkästä aika
 
   
 
-[![](images/muutos2.png)](http://3.bp.blogspot.com/-dGhlfUSBODs/UqYdySMTGrI/AAAAAAAAHkw/PLFao0ebxLI/s1600/muutos2.png)
+[![](/images/muutos2.png)](http://3.bp.blogspot.com/-dGhlfUSBODs/UqYdySMTGrI/AAAAAAAAHkw/PLFao0ebxLI/s1600/muutos2.png)
 
   
 
@@ -26,4 +26,4 @@ Mitä ihmettä vuoden aikana on taas tapahtunut.. Oikeanpuolimmainen kuva on ote
 
   
 
-[![](images/ak_uusi.png)](http://2.bp.blogspot.com/-BbGsVOuHUds/UqYdzOtb9JI/AAAAAAAAHk0/d5IKAfU5zuE/s1600/ak_uusi.png)
+[![](/images/ak_uusi.png)](http://2.bp.blogspot.com/-BbGsVOuHUds/UqYdzOtb9JI/AAAAAAAAHk0/d5IKAfU5zuE/s1600/ak_uusi.png)

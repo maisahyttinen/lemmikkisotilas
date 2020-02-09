@@ -16,9 +16,9 @@ Kävimme pari viikkoa sitten vierailulla **Veljekset Wahlsténilla** Lahdessa (l
 
   
 
-[![](images/IMG_1987_.png)](http://1.bp.blogspot.com/-pxklq8ObJQE/Vhv9evnXH8I/AAAAAAAAKQ0/7BMUm5oilfA/s1600/IMG_1987_.png)
+[![](/images/IMG_1987_.png)](http://1.bp.blogspot.com/-pxklq8ObJQE/Vhv9evnXH8I/AAAAAAAAKQ0/7BMUm5oilfA/s1600/IMG_1987_.png)
 
-[![](images/IMG_1935_.png)](http://1.bp.blogspot.com/-mhqX3n-l1Ic/Vhv9dJHJcbI/AAAAAAAAKQo/ddAJG7cNRAY/s1600/IMG_1935_.png)
+[![](/images/IMG_1935_.png)](http://1.bp.blogspot.com/-mhqX3n-l1Ic/Vhv9dJHJcbI/AAAAAAAAKQo/ddAJG7cNRAY/s1600/IMG_1935_.png)
 
   
 
@@ -30,9 +30,9 @@ Pienistä käyttövaikeuksista huolimatta Staysound kuitenkin tekee loistavasti 
 
   
 
-[![](images/IMG_1602_.png)](http://4.bp.blogspot.com/-Q-wToeapvoE/Vhv9cAEC8CI/AAAAAAAAKRI/6dFaVTTTCkE/s1600/IMG_1602_.png)
+[![](/images/IMG_1602_.png)](http://4.bp.blogspot.com/-Q-wToeapvoE/Vhv9cAEC8CI/AAAAAAAAKRI/6dFaVTTTCkE/s1600/IMG_1602_.png)
 
-[![](images/IMG_1991_.png)](http://3.bp.blogspot.com/-slJYgwHcwI0/Vhv9fVsksAI/AAAAAAAAKQ8/HS1UtvwZw2k/s1600/IMG_1991_.png)
+[![](/images/IMG_1991_.png)](http://3.bp.blogspot.com/-slJYgwHcwI0/Vhv9fVsksAI/AAAAAAAAKQ8/HS1UtvwZw2k/s1600/IMG_1991_.png)
 
   
 
@@ -44,9 +44,9 @@ Nämä eivät vielä ole päässeet varsinaiseen testiin asti. Sotilaan viime ke
 
   
 
-[![](images/IMG_1650_2_.png)](http://3.bp.blogspot.com/-sxHbVxhuFlM/VhwOpcB3XKI/AAAAAAAAKRw/SpDLyez65c8/s1600/IMG_1650_2_.png)
+[![](/images/IMG_1650_2_.png)](http://3.bp.blogspot.com/-sxHbVxhuFlM/VhwOpcB3XKI/AAAAAAAAKRw/SpDLyez65c8/s1600/IMG_1650_2_.png)
 
-[![](images/IMG_1965_.png)](http://1.bp.blogspot.com/-Wwgcvd1EQ1k/Vhv9d78Tb_I/AAAAAAAAKRA/Lb20MG8MjoI/s1600/IMG_1965_.png)
+[![](/images/IMG_1965_.png)](http://1.bp.blogspot.com/-Wwgcvd1EQ1k/Vhv9d78Tb_I/AAAAAAAAKRA/Lb20MG8MjoI/s1600/IMG_1965_.png)
 
   
 
@@ -58,9 +58,9 @@ Kaikista tuotteista tämä lienee suosikkini! Carr & Day & Martinilta saa vaikka
 
   
 
-[![](images/IMG_1989_.png)](http://4.bp.blogspot.com/-5HR_7mwFhPM/Vhv9fF8e0aI/AAAAAAAAKRE/_bsa-QrKZG0/s1600/IMG_1989_.png)
+[![](/images/IMG_1989_.png)](http://4.bp.blogspot.com/-5HR_7mwFhPM/Vhv9fF8e0aI/AAAAAAAAKRE/_bsa-QrKZG0/s1600/IMG_1989_.png)
 
-[![](images/IMG_1983_.png)](http://3.bp.blogspot.com/-hPzqWjfwGRg/Vhv9eH7YAwI/AAAAAAAAKQ4/K-llaz2Z-7w/s1600/IMG_1983_.png)
+[![](/images/IMG_1983_.png)](http://3.bp.blogspot.com/-hPzqWjfwGRg/Vhv9eH7YAwI/AAAAAAAAKQ4/K-llaz2Z-7w/s1600/IMG_1983_.png)
 
   
 
@@ -68,7 +68,7 @@ Pakko nöyrtyä ja myöntää, että olen ratsastanut edelliset pitkään palvel
 
   
 
-[![](images/IMG_1921_.png)](http://4.bp.blogspot.com/-Y8lfFSj3BF8/Vhv9c8bD25I/AAAAAAAAKRU/Jx50co38T7s/s1600/IMG_1921_.png)
+[![](/images/IMG_1921_.png)](http://4.bp.blogspot.com/-Y8lfFSj3BF8/Vhv9c8bD25I/AAAAAAAAKRU/Jx50co38T7s/s1600/IMG_1921_.png)
 
   
 
@@ -76,4 +76,4 @@ Pakko nöyrtyä ja myöntää, että olen ratsastanut edelliset pitkään palvel
 
   
 
-[![](images/IMG_1673_.png)](http://1.bp.blogspot.com/-O6HOhQaFxrE/Vhv9PjpTjZI/AAAAAAAAKQA/Gtf6X9pyQYI/s1600/IMG_1673_.png)
+[![](/images/IMG_1673_.png)](http://1.bp.blogspot.com/-O6HOhQaFxrE/Vhv9PjpTjZI/AAAAAAAAKQA/Gtf6X9pyQYI/s1600/IMG_1673_.png)

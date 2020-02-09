@@ -8,13 +8,13 @@ template: "page"
 post_button_label: "Lue lisää"
 ---
 
-[![](images/IMG_7579_2.png)](http://3.bp.blogspot.com/-A1CUJhc7X5I/VZG55bmSkEI/AAAAAAAAJ2Y/2dCbP7UsmFk/s1600/IMG_7579_2.png)
+[![](/images/IMG_7579_2.png)](http://3.bp.blogspot.com/-A1CUJhc7X5I/VZG55bmSkEI/AAAAAAAAJ2Y/2dCbP7UsmFk/s1600/IMG_7579_2.png)
 
 JÄRVI ON IHAN HIRVEÄ KLISEE. SILTI YKSI NIISTÄ JUTUISTA JOITA MAALTA IKÄVÖI ENITEN. ONNEKSI KOTONA ON SAIMAA MELKEIN IKKUNAN ALLA.
 
   
 
-[![](images/IMG_7526_.png)](http://2.bp.blogspot.com/-1S1jSUSODRc/VZG55X3PZNI/AAAAAAAAJ2c/zucIvlv-RsM/s1600/IMG_7526_.png)
+[![](/images/IMG_7526_.png)](http://2.bp.blogspot.com/-1S1jSUSODRc/VZG55X3PZNI/AAAAAAAAJ2c/zucIvlv-RsM/s1600/IMG_7526_.png)
 
   
 
@@ -26,7 +26,7 @@ Kaikki kirjoittelevat juhannusjuttuja, joten ehkä minäkin! Vietimme Sotilaan k
 
   
 
-[![](images/IMG_7583_.png)](http://1.bp.blogspot.com/-J1lARkhymR8/VZFf_ZCbeuI/AAAAAAAAJ2A/0M6U7Gkqr4A/s1600/IMG_7583_.png)
+[![](/images/IMG_7583_.png)](http://1.bp.blogspot.com/-J1lARkhymR8/VZFf_ZCbeuI/AAAAAAAAJ2A/0M6U7Gkqr4A/s1600/IMG_7583_.png)
 
   
 
@@ -38,12 +38,12 @@ Kävin vähän aikaa sitten ottamassa muutaman kuvan **[Team Divinen](http://www
 
   
 
-[![](images/Divine%2BCharlene%2B%25281%2529%2Bpieni.png)](http://3.bp.blogspot.com/-gCvJNYdoulQ/VZHJhDz4mPI/AAAAAAAAJ2s/bzZU1LGhdDc/s1600/Divine%2BCharlene%2B%25281%2529%2Bpieni.png)
+[![](/images/Divine%2BCharlene%2B%25281%2529%2Bpieni.png)](http://3.bp.blogspot.com/-gCvJNYdoulQ/VZHJhDz4mPI/AAAAAAAAJ2s/bzZU1LGhdDc/s1600/Divine%2BCharlene%2B%25281%2529%2Bpieni.png)
 
   
 
-[![](images/Divine%2BCharlene%2B%25283%2529.png)](http://1.bp.blogspot.com/-67d879iOozs/VZHJh0gmOYI/AAAAAAAAJ24/MpIle_NEsxA/s1600/Divine%2BCharlene%2B%25283%2529.png)[![](images/Hagels%2BJet%2B%25282%2529.png)](http://4.bp.blogspot.com/-QB4jZI8n7MI/VZHJhSZ5YbI/AAAAAAAAJ2w/IPmYYiPSpzU/s1600/Hagels%2BJet%2B%25282%2529.png)
+[![](/images/Divine%2BCharlene%2B%25283%2529.png)](http://1.bp.blogspot.com/-67d879iOozs/VZHJh0gmOYI/AAAAAAAAJ24/MpIle_NEsxA/s1600/Divine%2BCharlene%2B%25283%2529.png)[![](/images/Hagels%2BJet%2B%25282%2529.png)](http://4.bp.blogspot.com/-QB4jZI8n7MI/VZHJhSZ5YbI/AAAAAAAAJ2w/IPmYYiPSpzU/s1600/Hagels%2BJet%2B%25282%2529.png)
 
   
 
-[![](images/IMG_7555_pieni.png)](http://4.bp.blogspot.com/-foz-ostWUa8/VZHJjo8qomI/AAAAAAAAJ3E/hRzclCphJNg/s1600/IMG_7555_pieni.png)
+[![](/images/IMG_7555_pieni.png)](http://4.bp.blogspot.com/-foz-ostWUa8/VZHJjo8qomI/AAAAAAAAJ3E/hRzclCphJNg/s1600/IMG_7555_pieni.png)

@@ -16,7 +16,7 @@ _Yksinoikeudella._
 
   
 
-[![](images/IMG_0194.png)](http://3.bp.blogspot.com/-L34Uh1pVQGA/TZDMWVeSs4I/AAAAAAAAAEg/oVOnj2BGOsQ/s1600/IMG_0194.png)
+[![](/images/IMG_0194.png)](http://3.bp.blogspot.com/-L34Uh1pVQGA/TZDMWVeSs4I/AAAAAAAAAEg/oVOnj2BGOsQ/s1600/IMG_0194.png)
 
   
 
@@ -36,6 +36,6 @@ _Ja vaikka hetki on traumasta kankea
 Se on elettävä huolella  
 On elettävä huolella.._
 
-_[![](images/nimet%25C3%25B6n22.png)](http://4.bp.blogspot.com/-hkQFVVOEMyo/TZDD0lUHJkI/AAAAAAAAAEc/qyc7ldCIBEU/s1600/nimet%25C3%25B6n22.png)_
+_[![](/images/nimet%25C3%25B6n22.png)](http://4.bp.blogspot.com/-hkQFVVOEMyo/TZDD0lUHJkI/AAAAAAAAAEc/qyc7ldCIBEU/s1600/nimet%25C3%25B6n22.png)_
 
 _Mut onneks on pikkumies. Antaa aika paljon muuta ajateltavaa. Eihän se pikkuprinsessan paikkaa ihan kokonaan täytä, mut kyl ton kokonen heppanen siitä aika ison osan täyttää. Oli eilen pikkuputen peräheppasena. Pikkumies sai kivaa liikuntaa ja mä sain vähän vähemmän kivan räkätaudin. Tällänen kevät ei oo yhtään kiva kevät. Sää vaihtelee parhaimmillaa viiden minuutin välein ja lunta vaan sataa.. Me halutaan jo kesä! Halutaan uittelemaan heppasia, halutaan hornetteja, halutaan nukkumaan Sarkun mökkiin. Halutaan kesä!_

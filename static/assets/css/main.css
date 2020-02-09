@@ -1783,11 +1783,15 @@ table.alt tbody tr td {
     .spotlight:last-of-type {
         border-bottom-color: rgba(86, 86, 86, 0.25); } }
 
+.page-inner{
+    max-width: 900px !important;
+}
+
 /* Wrapper */
 .wrapper {
     padding: 7.5em 0 5.5em 0 ; }
     .wrapper > .inner {
-        width: 72em;
+        width: 68em;
         max-width: 100%;
         margin: 0 auto; }
         @media screen and (max-width: 1680px) {
@@ -1801,7 +1805,7 @@ table.alt tbody tr td {
         background-image: -moz-linear-gradient(to top, rgba(86, 86, 86, 0.7), rgba(86, 86, 86, 0.7)), url("../../images/pic05.jpg");
         background-image: -webkit-linear-gradient(to top, rgba(86, 86, 86, 0.7), rgba(86, 86, 86, 0.7)), url("../../images/pic05.jpg");
         background-image: -ms-linear-gradient(to top, rgba(86, 86, 86, 0.7), rgba(86, 86, 86, 0.7)), url("../../images/pic05.jpg");
-        background-image: linear-gradient(to top, rgba(86, 86, 86, 0.7), rgba(86, 86, 86, 0.7)), url("../../images/pic05.jpg");
+        background-image: linear-gradient(to top, rgba(86, 86, 86, 0.7), rgba(185, 134, 134, 0.7)), url("../../images/pic05.jpg");
         background-size: cover, cover;
         background-position: center, center;
         background-repeat: repeat, no-repeat;

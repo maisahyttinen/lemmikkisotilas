@@ -8,7 +8,7 @@ template: "page"
 post_button_label: "Lue lisää"
 ---
 
-[![](images/melli2.png)](http://2.bp.blogspot.com/-aIRq2b4qtc4/T3x0gyap37I/AAAAAAAAAgw/l9GvcVq8f4Y/s1600/melli2.png)
+[![](/images/melli2.png)](http://2.bp.blogspot.com/-aIRq2b4qtc4/T3x0gyap37I/AAAAAAAAAgw/l9GvcVq8f4Y/s1600/melli2.png)
 
   
   
@@ -20,4 +20,4 @@ Ja voooi miten rakastan kaikkia kivoja pikkujuttuja heppasen kanssa, etenki tois
   
 Okeiokei yritän keksiä jotain järkevää kirjoitettavaa lähipäivinä..  
 
-[![](images/11.png)](http://2.bp.blogspot.com/-_md45XlH5Dg/T3x0iorS5AI/AAAAAAAAAg4/p7N0G4cd9js/s1600/11.png)
+[![](/images/11.png)](http://2.bp.blogspot.com/-_md45XlH5Dg/T3x0iorS5AI/AAAAAAAAAg4/p7N0G4cd9js/s1600/11.png)

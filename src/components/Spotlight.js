@@ -1,7 +1,14 @@
 import React from "react";
 import _ from "lodash";
 
-import { markdownify, getPages, safePrefix, Link, classNames } from "../utils";
+import {
+  markdownify,
+  getPages,
+  safePrefix,
+  Link,
+  classNames,
+  getSeparateDate
+} from "../utils";
 
 export default class Spotlight extends React.Component {
   render() {
@@ -18,34 +25,42 @@ export default class Spotlight extends React.Component {
               "frontmatter.date",
               "desc"
             ),
-            (post, post_idx) => (
-              <section key={post_idx} className="spotlight">
-                <span className="image">
-                  <img
-                    src={safePrefix(_.get(post, "frontmatter.img_path"))}
-                    alt=""
-                  />
-                </span>
-                <div className="content">
-                  <header>
-                    <h3>{_.get(post, "frontmatter.title")}</h3>
-                  </header>
-                  {markdownify(_.get(post, "frontmatter.excerpt"))}
-                  <footer>
-                    <ul className="actions">
-                      <li>
-                        <Link
-                          to={safePrefix(_.get(post, "url"))}
-                          className="button"
-                        >
-                          {_.get(post, "frontmatter.post_button_label")}
-                        </Link>
-                      </li>
-                    </ul>
-                  </footer>
-                </div>
-              </section>
-            )
+            (post, post_idx) => {
+              const { year, month, day } = getSeparateDate(
+                post.frontmatter.date
+              );
+              return (
+                <section key={post_idx} className="spotlight">
+                  <span className="image">
+                    <img
+                      src={safePrefix(_.get(post, "frontmatter.img_path"))}
+                      alt=""
+                    />
+                  </span>
+                  <div className="content">
+                    <header>
+                      <h3 style={{ marginBottom: "0px" }}>
+                        {_.get(post, "frontmatter.title")}
+                      </h3>
+                      <p>{`${day}.${month}.${year}`}</p>
+                    </header>
+                    {markdownify(_.get(post, "frontmatter.excerpt"))}
+                    <footer>
+                      <ul className="actions">
+                        <li>
+                          <Link
+                            to={safePrefix(_.get(post, "url"))}
+                            className="button"
+                          >
+                            {_.get(post, "frontmatter.post_button_label")}
+                          </Link>
+                        </li>
+                      </ul>
+                    </footer>
+                  </div>
+                </section>
+              );
+            }
           )}
           {markdownify(_.get(this.props, "section.content"))}
           {_.get(this.props, "section.actions") && (

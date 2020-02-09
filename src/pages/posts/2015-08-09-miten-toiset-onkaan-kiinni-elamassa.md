@@ -8,7 +8,7 @@ template: "page"
 post_button_label: "Lue lisää"
 ---
 
-[![](images/IMG_8569_.png)](http://1.bp.blogspot.com/-cSak1Y4Vk90/VcSfmc_c59I/AAAAAAAAJ58/fhFTvBeMX8o/s1600/IMG_8569_.png)
+[![](/images/IMG_8569_.png)](http://1.bp.blogspot.com/-cSak1Y4Vk90/VcSfmc_c59I/AAAAAAAAJ58/fhFTvBeMX8o/s1600/IMG_8569_.png)
 
   
 
@@ -20,7 +20,7 @@ Jos jokin jalka hajoaa pahasti, ottaa jokin toinen sen rasituksen kantaakseen. Y
 
   
 
-[![](images/IMG_8572_.png)](http://4.bp.blogspot.com/-osV36VBZjAc/VcSfoJvUauI/AAAAAAAAJ6Y/x4VeW8Y4R_U/s1600/IMG_8572_.png)
+[![](/images/IMG_8572_.png)](http://4.bp.blogspot.com/-osV36VBZjAc/VcSfoJvUauI/AAAAAAAAJ6Y/x4VeW8Y4R_U/s1600/IMG_8572_.png)
 
   
 
@@ -28,7 +28,7 @@ Todellisuus ei kuitenkaan vastannut odotuksia. Onneksi. Oikean takajalan hankosi
 
   
 
-[![](images/IMG_8541_.png)](http://1.bp.blogspot.com/-4APqqUt-mh8/VcSfmXRtxTI/AAAAAAAAJ6M/IkBAmw6cIBQ/s1600/IMG_8541_.png)
+[![](/images/IMG_8541_.png)](http://1.bp.blogspot.com/-4APqqUt-mh8/VcSfmXRtxTI/AAAAAAAAJ6M/IkBAmw6cIBQ/s1600/IMG_8541_.png)
 
   
 

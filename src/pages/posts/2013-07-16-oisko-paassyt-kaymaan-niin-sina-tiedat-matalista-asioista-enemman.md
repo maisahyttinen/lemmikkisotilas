@@ -8,7 +8,7 @@ template: "page"
 post_button_label: "Lue lisää"
 ---
 
-[![](images/j%C3%A4ttil%C3%A4inen.png)](http://2.bp.blogspot.com/-UXemoeq_deI/UeT43eysSTI/AAAAAAAAGTE/qVy6eF_S3Mw/s1600/j%C3%A4ttil%C3%A4inen.png)
+[![](/images/j%C3%A4ttil%C3%A4inen.png)](http://2.bp.blogspot.com/-UXemoeq_deI/UeT43eysSTI/AAAAAAAAGTE/qVy6eF_S3Mw/s1600/j%C3%A4ttil%C3%A4inen.png)
 
   
 
@@ -16,8 +16,8 @@ Ohjasajo on aina ollut älyttömän kivaa, eilen ehkä jopa jättimäisen kivaa?
 
   
 
-[![](images/billy.png)](http://3.bp.blogspot.com/-F02e-38V5OQ/UeT7a_HL0RI/AAAAAAAAGTc/N_g9gbI6PG8/s1600/billy.png)
+[![](/images/billy.png)](http://3.bp.blogspot.com/-F02e-38V5OQ/UeT7a_HL0RI/AAAAAAAAGTc/N_g9gbI6PG8/s1600/billy.png)
 
   
 
-[![](images/ak.png)](http://2.bp.blogspot.com/-y6w5GgoT4HI/UeT5cZWxFVI/AAAAAAAAGTM/X52W4W6F9as/s1600/ak.png)
+[![](/images/ak.png)](http://2.bp.blogspot.com/-y6w5GgoT4HI/UeT5cZWxFVI/AAAAAAAAGTM/X52W4W6F9as/s1600/ak.png)

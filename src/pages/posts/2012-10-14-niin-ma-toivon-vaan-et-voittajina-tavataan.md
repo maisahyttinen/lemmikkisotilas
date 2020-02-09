@@ -8,7 +8,7 @@ template: "page"
 post_button_label: "Lue lisää"
 ---
 
-[![](images/IMG_2113.png)](http://3.bp.blogspot.com/-Kt747UR2AGI/UHsOzNoXxpI/AAAAAAAABqA/9B8Gmlrf9W4/s1600/IMG_2113.png)
+[![](/images/IMG_2113.png)](http://3.bp.blogspot.com/-Kt747UR2AGI/UHsOzNoXxpI/AAAAAAAABqA/9B8Gmlrf9W4/s1600/IMG_2113.png)
 
 c. Anniina Suojanen
 
@@ -20,4 +20,4 @@ Olin haljeta ylpeydestä erikoispalkinnon ja Sotilaan saamien kehujen jälkeen, 
   
 _"Melko sopusuhtainen. Saisi olla ryhdikkäämpi. Alas liittyvä kaula. Pitkä mutta pysty lapa. Hyvä säkä ja rungon syvyys. Luisu lautanen. Vahva luusto jaloissa. KJT vennot vuohiset. MEJ hajavarpaiset ja kerii. Matkaavoittava, irtonainen käynti. Tahdikas, tasapainoinen ravi. Hyvässä kunnossa."_  
 
-[![](images/ak.png)](http://1.bp.blogspot.com/-m99f-Gro23A/UHsdeDNQr8I/AAAAAAAABrA/FXMeN1vJ3Fk/s1600/ak.png)
+[![](/images/ak.png)](http://1.bp.blogspot.com/-m99f-Gro23A/UHsdeDNQr8I/AAAAAAAABrA/FXMeN1vJ3Fk/s1600/ak.png)

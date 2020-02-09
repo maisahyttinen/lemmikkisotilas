@@ -13,10 +13,10 @@ Cha! Selvisin hengissä kotiin ja nyt voin rauhassa palata teidän seuraanne. Ku
 Moni on jo kysellyt missä blogiesittelyt viipyvät. Iloksenne voin kertoa julkaisevani ne huomenna. En lupaa mitään vuorokaudenajasta, mutta huomenna te ne saatte. Käykäähän muuten äänestämässä ottamaani valokuvaa [täällä](http://sandynjahasenelamaa.blogspot.fi/)! Kävijämäärä blogissani on päivittäin ihan hurja ja olisi hauska tietää, kuinka monta rekisteröitymätöntä lukijaa meillä on. Kuinka moni teistä siis seuraa meitä anonyymisti?  
   
 
-[![](images/uudetsarjat13.gif)](http://4.bp.blogspot.com/-wVOswBC1-QY/UI7T0WiHC3I/AAAAAAAACAg/3nsH2dJIz0M/s1600/uudetsarjat13.gif)
+[![](/images/uudetsarjat13.gif)](http://4.bp.blogspot.com/-wVOswBC1-QY/UI7T0WiHC3I/AAAAAAAACAg/3nsH2dJIz0M/s1600/uudetsarjat13.gif)
 
   
 Haha, todellisuudessa tämä lumi on ihan kivaa vaihtelua kaiken sen kuran jälkeen.  
   
 
-[![](images/ak.png)](http://3.bp.blogspot.com/-gXy40u0_EOQ/UI7VWg_soYI/AAAAAAAACAo/smtrCkWD-ks/s1600/ak.png)
+[![](/images/ak.png)](http://3.bp.blogspot.com/-gXy40u0_EOQ/UI7VWg_soYI/AAAAAAAACAo/smtrCkWD-ks/s1600/ak.png)

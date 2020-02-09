@@ -8,7 +8,7 @@ template: "page"
 post_button_label: "Lue lisää"
 ---
 
-[![](images/IMG_1536b.png)](http://4.bp.blogspot.com/-0lAO9P1SxiY/UgIPz6xaNmI/AAAAAAAAGiU/Y1JL2w_sLCk/s1600/IMG_1536b.png)[![](images/IMG_1540b.png)](http://1.bp.blogspot.com/-olp-lW23hqU/UgIPz-swn6I/AAAAAAAAGiQ/0MIFeIp7KhY/s1600/IMG_1540b.png)
+[![](/images/IMG_1536b.png)](http://4.bp.blogspot.com/-0lAO9P1SxiY/UgIPz6xaNmI/AAAAAAAAGiU/Y1JL2w_sLCk/s1600/IMG_1536b.png)[![](/images/IMG_1540b.png)](http://1.bp.blogspot.com/-olp-lW23hqU/UgIPz-swn6I/AAAAAAAAGiQ/0MIFeIp7KhY/s1600/IMG_1540b.png)
 
   
 
@@ -16,7 +16,7 @@ Aiemmin tänään talli näytti tältä. Päivän puuhailun myötä ovenpielet o
 
   
 
-[![](images/2012-09-15-095.png)](http://4.bp.blogspot.com/-EsL5zV8Pdrg/UgJO8TbSnxI/AAAAAAAAGis/th3cuN6GykE/s1600/2012-09-15-095.png)[![](images/2012-09-15-098.png)](http://2.bp.blogspot.com/-XgLm4wTOMbQ/UgJO78dgXyI/AAAAAAAAGio/dYRyrBv-Zng/s1600/2012-09-15-098.png)
+[![](/images/2012-09-15-095.png)](http://4.bp.blogspot.com/-EsL5zV8Pdrg/UgJO8TbSnxI/AAAAAAAAGis/th3cuN6GykE/s1600/2012-09-15-095.png)[![](/images/2012-09-15-098.png)](http://2.bp.blogspot.com/-XgLm4wTOMbQ/UgJO78dgXyI/AAAAAAAAGio/dYRyrBv-Zng/s1600/2012-09-15-098.png)
 
   
 
@@ -24,7 +24,7 @@ Aiemmin tänään talli näytti tältä. Päivän puuhailun myötä ovenpielet o
 
   
 
-[![](images/2012-09-20-103.png)](http://1.bp.blogspot.com/-8NPyRc9rfco/UgJO8fUgFPI/AAAAAAAAGiw/FqWe3qeTu8E/s1600/2012-09-20-103.png)[![](images/2012-09-20-106.png)](http://2.bp.blogspot.com/--c660v8FV6c/UgJO92nNkQI/AAAAAAAAGjA/UTs_gkvi_9I/s1600/2012-09-20-106.png)
+[![](/images/2012-09-20-103.png)](http://1.bp.blogspot.com/-8NPyRc9rfco/UgJO8fUgFPI/AAAAAAAAGiw/FqWe3qeTu8E/s1600/2012-09-20-103.png)[![](/images/2012-09-20-106.png)](http://2.bp.blogspot.com/--c660v8FV6c/UgJO92nNkQI/AAAAAAAAGjA/UTs_gkvi_9I/s1600/2012-09-20-106.png)
 
   
 
@@ -32,7 +32,7 @@ Aiemmin tänään talli näytti tältä. Päivän puuhailun myötä ovenpielet o
 
   
 
-[![](images/2012-10-01-127.png)](http://1.bp.blogspot.com/-PcQSRl-qIMo/UgJU6nCWvJI/AAAAAAAAGjo/E4mwz7TgPPQ/s1600/2012-10-01-127.png)[![](images/2012-10-01-123.png)](http://1.bp.blogspot.com/-CAkT5tFKkEo/UgJU50Kd2UI/AAAAAAAAGjg/eA95jL-_ep4/s1600/2012-10-01-123.png)
+[![](/images/2012-10-01-127.png)](http://1.bp.blogspot.com/-PcQSRl-qIMo/UgJU6nCWvJI/AAAAAAAAGjo/E4mwz7TgPPQ/s1600/2012-10-01-127.png)[![](/images/2012-10-01-123.png)](http://1.bp.blogspot.com/-CAkT5tFKkEo/UgJU50Kd2UI/AAAAAAAAGjg/eA95jL-_ep4/s1600/2012-10-01-123.png)
 
   
 
@@ -40,7 +40,7 @@ Aiemmin tänään talli näytti tältä. Päivän puuhailun myötä ovenpielet o
 
   
 
-[![](images/2013-07-06-339.png)](http://3.bp.blogspot.com/-uv_jcdDkxr4/UgJO-ssIwzI/AAAAAAAAGjI/8azit4OsBQU/s1600/2013-07-06-339.png)[![](images/2013-07-06-338.png)](http://3.bp.blogspot.com/-LwasqsRnmck/UgJO_1kYDdI/AAAAAAAAGjQ/dO_qIkxsUcw/s1600/2013-07-06-338.png)
+[![](/images/2013-07-06-339.png)](http://3.bp.blogspot.com/-uv_jcdDkxr4/UgJO-ssIwzI/AAAAAAAAGjI/8azit4OsBQU/s1600/2013-07-06-339.png)[![](/images/2013-07-06-338.png)](http://3.bp.blogspot.com/-LwasqsRnmck/UgJO_1kYDdI/AAAAAAAAGjQ/dO_qIkxsUcw/s1600/2013-07-06-338.png)
 
   
 
@@ -48,8 +48,8 @@ Aiemmin tänään talli näytti tältä. Päivän puuhailun myötä ovenpielet o
 
   
 
-[![](images/IMG_1545b.png)](http://4.bp.blogspot.com/-JSXFbH_Ez1k/UgJb3UYTBVI/AAAAAAAAGkE/UkeJpNwq8Bo/s1600/IMG_1545b.png)
+[![](/images/IMG_1545b.png)](http://4.bp.blogspot.com/-JSXFbH_Ez1k/UgJb3UYTBVI/AAAAAAAAGkE/UkeJpNwq8Bo/s1600/IMG_1545b.png)
 
   
 
-[![](images/ak.png)](http://4.bp.blogspot.com/-vKVAEUyH1Fs/UgJb3e7uj_I/AAAAAAAAGkA/DdDZcrBcjCY/s1600/ak.png)
+[![](/images/ak.png)](http://4.bp.blogspot.com/-vKVAEUyH1Fs/UgJb3e7uj_I/AAAAAAAAGkA/DdDZcrBcjCY/s1600/ak.png)

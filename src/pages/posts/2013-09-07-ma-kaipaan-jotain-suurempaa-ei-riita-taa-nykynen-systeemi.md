@@ -8,7 +8,7 @@ template: "page"
 post_button_label: "Lue lisää"
 ---
 
-[![](images/muutos_.png)](http://3.bp.blogspot.com/-TSdmM6I48Wo/Uiq9WqPG7wI/AAAAAAAAGyk/3fvvUHAa0U4/s1600/muutos_.png)
+[![](/images/muutos_.png)](http://3.bp.blogspot.com/-TSdmM6I48Wo/Uiq9WqPG7wI/AAAAAAAAGyk/3fvvUHAa0U4/s1600/muutos_.png)
 
   
 
@@ -22,4 +22,4 @@ Ja ettei starttikuume pääsisi hiipumaan: pitänee alkaa valmistautua Vermoon l
 PS. yli 50 000 sivunkatselua, 304 + 84 lukijaa! Ootte mahtavia!  
   
 
-[![](images/ak.png)](http://2.bp.blogspot.com/-TJq6eLp_dgk/UirEscvCJdI/AAAAAAAAGy8/w1mpZPly9Jo/s1600/ak.png)
+[![](/images/ak.png)](http://2.bp.blogspot.com/-TJq6eLp_dgk/UirEscvCJdI/AAAAAAAAGy8/w1mpZPly9Jo/s1600/ak.png)

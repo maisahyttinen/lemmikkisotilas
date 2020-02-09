@@ -12,7 +12,7 @@ Ratsastuskoulu Kaviohovilla oli erittäin hyvä maastakäsittelyä käsittelevä
 
 > _"Lieneekö sillä niin väliä miten hevosta taluttaa? __Taluttaminen on mm juurikin sitä jokapäiväistä "maastakäsittelyä" jota jokainen hevosten kanssa touhuava tekee. Hevonen oppii jokaisesta näistä tilanteesta jotain, joko - meidän ihmisten kannalta - hyviä tai huonoja asioita."_ \- Kaviohovi
 
-![](images/IMG_2779.jpg)
+![](/images/IMG_2779.jpg)
 
 Usein hevosen käytösongelmiin tarjotaan ratkaisuksi maastakäsittelyä. Perinteinen maastakäsittelyn starter kit sisältää naruriimun, pitkän köyden tai liinan ja koulupiiskan. Varustautumisen jälkeen suunnataan kentälle käsittelemään - peruutellaan, väistellään ja pyöritellään narua ilman sen kummempaa teoriapohjaa, kokemusta, suunnitelmaa tai tavoitteita.
 
@@ -20,7 +20,7 @@ Tämän jälkeen hevosen pitäisi kunnioittaa ihmisen tilaa ja käyttäytyä ark
 
 Kuulostaa lähinnä ilkeältä kärjistykseltä, mutta tällaista on ollut se "maastakäsittely", johon olen vuosien varrella harrastehevosten kanssa törmännyt. Tehdään jotain vain tekemisen vuoksi.
 
-![](images/IMG_2842.jpg)
+![](/images/IMG_2842.jpg)
 
 Hyvinkin tehtynä se puolituntinen kentällä kahdesti viikossa opettaa hevoselle huomattavasti vähemmän kuin päivittäinen arkikäsittely. Tarhaan vienti, tarhasta tuonti, ruokinnat, varusteiden pukeminen, riisuminen, jalkojen pesu...
 
@@ -34,7 +34,7 @@ Monen hevosen käytösongelmien juuret ovat epäjohdonmukaisessa peruskäsittely
 
 Kuinka tietoisesti ja hyvin luet hevostasi esimerkiksi satuloidessasi sitä? Kuinka pieniin muutoksiin reagoit? Muutatko omaa toimintaasi hevosen eleiden perusteella? Moni havahtuu vasta sitten kun hevonen jo luimii, irvistelee tai käyttäytyy ratsastaessa arvaamattomasti, vaikka se olisi jo viikkoja yrittänyt viestiä epämukavuudestaan esimerkiksi siirtelemällä painoaan puolelta toiselle.
 
-![](images/IMG_2812-2.jpg)
+![](/images/IMG_2812-2.jpg)
 
 **Jos et osaa lukea hevosta harjatessasi sitä, miten voisit osata lukea sitä koulutustilanteessakaan?** Siksi "maastakäsittely" on niin harvoin avain onneen, tai edes konkreettisesti avuksi.
 
@@ -46,7 +46,7 @@ Olen huomannut, että useimmat varmat ja sopeutumiskykyiset hevoset ovat oppinee
 
 Esimerkiksi Sotilas on juuri tällainen - sitä on varsasta saakka kohdeltu hyvin, palkittu hyvästä ja vastattu oikeudenmukaisesti huonoon. Sillä harvoin on tarvetta ottaa tilannetta omiin käsiinsä, koska se kokee vuorovaikutuksen ihmisen kanssa paremmaksi vaihtoehdoksi.
 
-![](images/IMG_2799.jpg)
+![](/images/IMG_2799.jpg)
 
 Ns. oikea maastakäsittely sen sijaan on mahtava työkalu silloin, kun hevoselle on tarkoitus suunnitelmallisesti opettaa jotain. Onnistunut koulutus kuitenkin yleensä edellyttää, että perustottelevaisuus on jo kunnossa ja käsittelijä osaa lukea hevostaan hyvin.
 

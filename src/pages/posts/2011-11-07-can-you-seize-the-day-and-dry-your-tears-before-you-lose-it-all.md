@@ -8,7 +8,7 @@ template: "page"
 post_button_label: "Lue lisää"
 ---
 
-[![](images/a3.png)](http://1.bp.blogspot.com/-3_R61LiF1mA/Trb3D3nVeiI/AAAAAAAAAH8/nmlv3O_2PfA/s1600/a3.png)
+[![](/images/a3.png)](http://1.bp.blogspot.com/-3_R61LiF1mA/Trb3D3nVeiI/AAAAAAAAAH8/nmlv3O_2PfA/s1600/a3.png)
 
   
 
@@ -16,7 +16,7 @@ _I don't know but we have to stand tall just like always before.._
 
   
 
-[![](images/a1.png)](http://1.bp.blogspot.com/-okm92fNyq4o/Trb3AVVTbVI/AAAAAAAAAHs/GmlEC1MVufI/s1600/a1.png)
+[![](/images/a1.png)](http://1.bp.blogspot.com/-okm92fNyq4o/Trb3AVVTbVI/AAAAAAAAAHs/GmlEC1MVufI/s1600/a1.png)
 
   
 
@@ -25,7 +25,7 @@ _Life is beautiful, but it's complicated. We barely make it._
 _We don't need to understand, there are miracles, miracles._
 
   
-[![](images/a2.png)](http://1.bp.blogspot.com/-E126cPsKc58/Trb3CKHxQqI/AAAAAAAAAH0/7RZYj2_wQtY/s1600/a2.png)
+[![](/images/a2.png)](http://1.bp.blogspot.com/-E126cPsKc58/Trb3CKHxQqI/AAAAAAAAAH0/7RZYj2_wQtY/s1600/a2.png)
 
   
 
@@ -33,7 +33,7 @@ _When you run into my arms, we steal a perfect moment._
 
   
 
-[![](images/tui.png)](http://4.bp.blogspot.com/-kTdGHbliCwk/TrbgGnmV80I/AAAAAAAAAHk/CnVqGRFhvjw/s1600/tui.png)
+[![](/images/tui.png)](http://4.bp.blogspot.com/-kTdGHbliCwk/TrbgGnmV80I/AAAAAAAAAHk/CnVqGRFhvjw/s1600/tui.png)
 
   
 

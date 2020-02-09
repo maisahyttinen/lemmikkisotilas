@@ -8,7 +8,7 @@ template: "page"
 post_button_label: "Lue lisää"
 ---
 
-[![](images/IMG_0020.JPG)](http://4.bp.blogspot.com/-ICYCAR52zcQ/UJ4m1OpP-vI/AAAAAAAACD4/LjZ5K4O8Wi8/s1600/IMG_0020.JPG)
+[![](/images/IMG_0020.JPG)](http://4.bp.blogspot.com/-ICYCAR52zcQ/UJ4m1OpP-vI/AAAAAAAACD4/LjZ5K4O8Wi8/s1600/IMG_0020.JPG)
 
   
 
@@ -20,8 +20,8 @@ Tänään ulkoilutin kameraa ensimmäistä kertaa ikuisuuksiin ja tässä tulos.
 
   
 
-[![](images/IMG_0069.JPG)](http://2.bp.blogspot.com/-Jn7NBEp2LOY/UJ4m29lATHI/AAAAAAAACEE/oJzB3P0v-5Q/s1600/IMG_0069.JPG)
+[![](/images/IMG_0069.JPG)](http://2.bp.blogspot.com/-Jn7NBEp2LOY/UJ4m29lATHI/AAAAAAAACEE/oJzB3P0v-5Q/s1600/IMG_0069.JPG)
 
   
 
-[![](images/ak.png)](http://1.bp.blogspot.com/-Nt1TL_OR-fo/UJ6nCJDsh6I/AAAAAAAACFs/lkR2nTRP1M8/s1600/ak.png)
+[![](/images/ak.png)](http://1.bp.blogspot.com/-Nt1TL_OR-fo/UJ6nCJDsh6I/AAAAAAAACFs/lkR2nTRP1M8/s1600/ak.png)

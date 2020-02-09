@@ -8,7 +8,7 @@ template: "page"
 post_button_label: "Lue lisää"
 ---
 
-[![](images/IMG_0008_.png)](http://3.bp.blogspot.com/-i87h5VG8Tcc/Vf5mTSlCPhI/AAAAAAAAKGg/T41IJKIwEns/s1600/IMG_0008_.png)
+[![](/images/IMG_0008_.png)](http://3.bp.blogspot.com/-i87h5VG8Tcc/Vf5mTSlCPhI/AAAAAAAAKGg/T41IJKIwEns/s1600/IMG_0008_.png)
 
   
 
@@ -16,7 +16,7 @@ Sotilas muutti perjantaina Lappeenrantaan! Päätämme parin kuukauden sairaslom
 
   
 
-[![](images/IMG_0031_.png)](http://4.bp.blogspot.com/-8HCIvB0Kz0E/Vf5mTstQuuI/AAAAAAAAKGo/2svuGZJ6Iig/s1600/IMG_0031_.png)
+[![](/images/IMG_0031_.png)](http://4.bp.blogspot.com/-8HCIvB0Kz0E/Vf5mTstQuuI/AAAAAAAAKGo/2svuGZJ6Iig/s1600/IMG_0031_.png)
 
   
 
@@ -24,7 +24,7 @@ Sotilaan ponilook on viety vielä asteen pidemmälle. Klippasin sen alkuviikosta
 
   
 
-[![](images/IMG_0025_.png)](http://1.bp.blogspot.com/-6SlTgelAI_s/Vf5mThsTIKI/AAAAAAAAKGk/QjNF6ylZgDQ/s1600/IMG_0025_.png)
+[![](/images/IMG_0025_.png)](http://1.bp.blogspot.com/-6SlTgelAI_s/Vf5mThsTIKI/AAAAAAAAKGk/QjNF6ylZgDQ/s1600/IMG_0025_.png)
 
   
 
@@ -32,7 +32,7 @@ Huomattavasti siistimpi se on onneksi tämmöisenä, ei kaduta. **Mitä tykkää
 
   
 
-[![](images/IMG_0045_.png)](http://1.bp.blogspot.com/-yVn_DljIw3M/Vf5mT5CflNI/AAAAAAAAKGs/7cSBjnAVjoE/s1600/IMG_0045_.png)
+[![](/images/IMG_0045_.png)](http://1.bp.blogspot.com/-yVn_DljIw3M/Vf5mT5CflNI/AAAAAAAAKGs/7cSBjnAVjoE/s1600/IMG_0045_.png)
 
   
 
@@ -42,4 +42,4 @@ Sain keskiviikkona ajokortin ja puolen tunnin tallimatka on vielä vähän turha
 
   
 
-[![](images/IMG_0054_.png)](http://2.bp.blogspot.com/-pA0Fq69nmJQ/Vf5mUFmDiXI/AAAAAAAAKGw/8K6TI04roYM/s1600/IMG_0054_.png)
+[![](/images/IMG_0054_.png)](http://2.bp.blogspot.com/-pA0Fq69nmJQ/Vf5mUFmDiXI/AAAAAAAAKGw/8K6TI04roYM/s1600/IMG_0054_.png)

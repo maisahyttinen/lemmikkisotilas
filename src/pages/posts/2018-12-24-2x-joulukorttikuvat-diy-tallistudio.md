@@ -14,13 +14,13 @@ Kuten jo Instagramissakin totesin - joulua edeltävät viikot ovat vuoden kiirei
 
 Ihme kyllä selvisin tänäkin vuonna - terveisiä sohvan nurkasta viinilasillisen ääreltä!
 
-![](images/unknown-soldier-82-Edit-1000x667.jpg)
+![](/images/unknown-soldier-82-Edit-1000x667.jpg)
 
 Oma henkilökohtainen suosikkini tältä joululta!
 
 Joulukuun kohokohtia ovat olleet joulukorttikuvaukset (joita harrastimme [Mirellan](https://hertjekker.otukset.fi/kuvat/) kanssa lopulta kaksin kappalein) ja [Playsson.netin](http://www.playsson.net/) järjestämät hevosalan somevaikuttajien pikkujoulut Lahden [Veljekset Wahlsténilla](https://www.veljwahlsten.com/). Vähemmän hohdokkaina mainittakoon kaksi antibioottikuuria vaatinut angiina (juuri sopivasti miehen Aasian-matkan aikaan) ja tietokoneen hajoaminen lopullisesti.
 
-![](images/sylvi-26-Edit-3-1-1000x667.jpg)
+![](/images/sylvi-26-Edit-3-1-1000x667.jpg)
 
 Kranssi askarreltiin Ikean muovihavuköynnöksestä, itse leivotuista pipareista ja Tokmannin pallovalosarjasta.
 
@@ -34,7 +34,7 @@ Lopputuloksesta tuli kunnon hevosenpelotin, joka ei kuitenkaan ajanut asiaansa a
 
 Kuvattavana kävi hevosten lisäksi kaksi koiraa ja kani! Kuvia voi ihastella [täällä](https://hertjekker.otukset.fi/kuvat/2018/Hovin+Ratsutila+2/).
 
-![](images/545A6451-1000x667.jpg)
+![](/images/545A6451-1000x667.jpg)
 
 Sotilaan kanssa joulukorttikuvaukset aloitettiin ulkoilmassa yhteiskuvilla tallikaveri Alman kanssa. Päästään karvaisen mutta jalolta vartaloltaan kaljuksi ajellun hevosen tuunaaminen säädylliseen kuvauskuntoon ei aivan onnistunut. Kovista odotuksista huolimatta lumettomalla sänkipellolla otetuista kuvista ei tehty tämän talven joulukortteja... (Katso karvainen yhteiskuva [täältä](http://hertjekker.net/leimattomat/sotilas/2018-12-joulustudio/unknown%20soldier%20ja%20augustina%20pomelina%20(13)-Edit-3.jpg).)
 
@@ -42,9 +42,9 @@ Sotilaan kanssa joulukorttikuvaukset aloitettiin ulkoilmassa yhteiskuvilla talli
 
 Peurat ovat jo pitkään pyörineet tallin pihapiirissä ja pelotelleet hevosia etenkin iltahämärissä. Nyt ne (tai jokin muu oletettu villieläin horisontissa) antoivat sätkyt päiväsaikaankin ja jopa Sotilas pelästyi tosissaan sydänjuuriaan myöten. Järkyttyneet hevoset vietiin enemmän tai vähemmän hallitusti talliin rauhoittumaan, mutta iltapäivän "studiokuvausten" tunnelma kärsi väistämättä.
 
-- ![](images/unknown-soldier-89-Edit-1-667x1000.jpg)
+- ![](/images/unknown-soldier-89-Edit-1-667x1000.jpg)
     
-- ![](images/unknown-soldier-151-Edit-1-667x1000.jpg)
+- ![](/images/unknown-soldier-151-Edit-1-667x1000.jpg)
     
 
 ### Tampere sai lunta vasta viime hetkillä.
@@ -59,4 +59,4 @@ Nyt on kuitenkin aika rauhoittua hetkeksi.
 
 ### Hyvää Joulua kaikille!
 
-![](images/unknown-soldier-203-Edit-1-1000x667.jpg)
+![](/images/unknown-soldier-203-Edit-1-1000x667.jpg)

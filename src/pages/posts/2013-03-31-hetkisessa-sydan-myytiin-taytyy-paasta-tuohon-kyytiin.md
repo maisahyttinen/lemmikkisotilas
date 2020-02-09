@@ -8,7 +8,7 @@ template: "page"
 post_button_label: "Lue lisää"
 ---
 
-[![](images/tui.png)](http://3.bp.blogspot.com/-fKtcvtcbwtc/UViOhA6yoFI/AAAAAAAAFiw/YUAHV5_mjCk/s1600/tui.png)
+[![](/images/tui.png)](http://3.bp.blogspot.com/-fKtcvtcbwtc/UViOhA6yoFI/AAAAAAAAFiw/YUAHV5_mjCk/s1600/tui.png)
 
   
 
@@ -24,4 +24,4 @@ Mikä tahansa hevonen ei miettimättä kävelisi tukkirekan ja lumipenkan välis
 
   
 
-[![](images/ak.png)](http://3.bp.blogspot.com/-mNCBfF680lI/UVih9HPpy9I/AAAAAAAAFjA/c8DdSZiMwGg/s1600/ak.png)
+[![](/images/ak.png)](http://3.bp.blogspot.com/-mNCBfF680lI/UVih9HPpy9I/AAAAAAAAFjA/c8DdSZiMwGg/s1600/ak.png)

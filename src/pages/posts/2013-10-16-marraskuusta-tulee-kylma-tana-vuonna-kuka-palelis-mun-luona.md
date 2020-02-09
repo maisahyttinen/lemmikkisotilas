@@ -14,15 +14,15 @@ Sotilaan kanssa palattiin liinapuuhiin eilen iltasella. Laiskuus kostautui hiema
 
   
 
-[![](images/ak.png)](http://1.bp.blogspot.com/-VTwe3MxN_20/Ul6-si-AbNI/AAAAAAAAHCU/Uz9YKu6gkTc/s1600/ak.png)
+[![](/images/ak.png)](http://1.bp.blogspot.com/-VTwe3MxN_20/Ul6-si-AbNI/AAAAAAAAHCU/Uz9YKu6gkTc/s1600/ak.png)
 
   
 
-[![](images/sotilas11_.png)](http://2.bp.blogspot.com/-8mSIk75BaYc/Ul6_hnSPfCI/AAAAAAAAHCo/Dq2TgLeg5s0/s1600/sotilas11_.png)[![](images/sotilas2_2.png)](http://3.bp.blogspot.com/-hB_p9iDBUcQ/Ul6_hLguCrI/AAAAAAAAHCc/Nx-S6W5YFQ4/s1600/sotilas2_2.png)
+[![](/images/sotilas11_.png)](http://2.bp.blogspot.com/-8mSIk75BaYc/Ul6_hnSPfCI/AAAAAAAAHCo/Dq2TgLeg5s0/s1600/sotilas11_.png)[![](/images/sotilas2_2.png)](http://3.bp.blogspot.com/-hB_p9iDBUcQ/Ul6_hLguCrI/AAAAAAAAHCc/Nx-S6W5YFQ4/s1600/sotilas2_2.png)
 
   
 
-[![](images/sotilas10.png)](http://4.bp.blogspot.com/-8lNJmWQro0c/Ul6_hhKiyFI/AAAAAAAAHCg/7Agmqs19Ua8/s1600/sotilas10.png)[![](images/sotilas_.png)](http://3.bp.blogspot.com/-wxp71GOEJrc/Ul6_iA8bWUI/AAAAAAAAHCw/idMf3pkPMGY/s1600/sotilas_.png)
+[![](/images/sotilas10.png)](http://4.bp.blogspot.com/-8lNJmWQro0c/Ul6_hhKiyFI/AAAAAAAAHCg/7Agmqs19Ua8/s1600/sotilas10.png)[![](/images/sotilas_.png)](http://3.bp.blogspot.com/-wxp71GOEJrc/Ul6_iA8bWUI/AAAAAAAAHCw/idMf3pkPMGY/s1600/sotilas_.png)
 
   
 

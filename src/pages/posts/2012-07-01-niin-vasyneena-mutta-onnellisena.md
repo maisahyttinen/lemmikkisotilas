@@ -8,7 +8,7 @@ template: "page"
 post_button_label: "Lue lisää"
 ---
 
-[![](images/IMG_3448.png)](http://2.bp.blogspot.com/-C0MlJOGujO8/T_C2wdJwH1I/AAAAAAAAAzg/z9IgtmLnWx8/s1600/IMG_3448.png)
+[![](/images/IMG_3448.png)](http://2.bp.blogspot.com/-C0MlJOGujO8/T_C2wdJwH1I/AAAAAAAAAzg/z9IgtmLnWx8/s1600/IMG_3448.png)
 
   
 
@@ -42,10 +42,10 @@ Tämän enempään en enää tänään pysty. Anteeksi. Saatatte aamulla ennen t
 
   
 
-[![](images/IMG_3686.png)](http://2.bp.blogspot.com/-yONhkLR9mCQ/T_C2pM5s5LI/AAAAAAAAAzY/b_iWOnQ7lEE/s1600/IMG_3686.png)
+[![](/images/IMG_3686.png)](http://2.bp.blogspot.com/-yONhkLR9mCQ/T_C2pM5s5LI/AAAAAAAAAzY/b_iWOnQ7lEE/s1600/IMG_3686.png)
 
   
 
   
 
-[![](images/IMG_3719.png)](http://4.bp.blogspot.com/-F8RCyoexpy0/T_C22Kl1s-I/AAAAAAAAAzo/4MrMpLLxdYs/s1600/IMG_3719.png)
+[![](/images/IMG_3719.png)](http://4.bp.blogspot.com/-F8RCyoexpy0/T_C22Kl1s-I/AAAAAAAAAzo/4MrMpLLxdYs/s1600/IMG_3719.png)

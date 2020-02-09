@@ -13,7 +13,7 @@ Hehe alkuun vähän arvontajuttuja. Käykäähän vilkaisemassa arvonnat [Worki
 Mitään erityistä kerrottavaa ei taida olla, mutta huomennahuomenna on viimeinen koulupäivä ennen lomaa! Ja suosittelen odottamaan innolla - tiedossa on ihan hurjasti kuvia!  
   
 
-[![](images/IMG_0747.png)](http://1.bp.blogspot.com/-zVa9DxOzq6c/T0ZYysWgwlI/AAAAAAAAAVE/V9yEV5dFQ6U/s1600/IMG_0747.png)
+[![](/images/IMG_0747.png)](http://1.bp.blogspot.com/-zVa9DxOzq6c/T0ZYysWgwlI/AAAAAAAAAVE/V9yEV5dFQ6U/s1600/IMG_0747.png)
 
   
 Kuva viime keväältä, ylläpitoheppasesta. Isoa kaveria on ikävä.

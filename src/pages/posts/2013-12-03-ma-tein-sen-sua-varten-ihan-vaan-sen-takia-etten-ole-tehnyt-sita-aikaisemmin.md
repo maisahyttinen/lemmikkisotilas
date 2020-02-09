@@ -17,7 +17,7 @@ Kirjoitin näin päivälleen vuosi sitten.. Missä ihmeen siperiassa me ollaan o
   
   
 
-[![](images/IMG_0314x.JPG)](http://2.bp.blogspot.com/-nVvAE-n4M5I/Up4LDTTsWpI/AAAAAAAAHbQ/AKo6GyWfEsw/s1600/IMG_0314x.JPG)[![](images/IMG_0004y.JPG)](http://1.bp.blogspot.com/-DQvYzL9GbdM/Up4LDmlXB9I/AAAAAAAAHbU/8gzgj2ky-2k/s1600/IMG_0004y.JPG)
+[![](/images/IMG_0314x.JPG)](http://2.bp.blogspot.com/-nVvAE-n4M5I/Up4LDTTsWpI/AAAAAAAAHbQ/AKo6GyWfEsw/s1600/IMG_0314x.JPG)[![](/images/IMG_0004y.JPG)](http://1.bp.blogspot.com/-DQvYzL9GbdM/Up4LDmlXB9I/AAAAAAAAHbU/8gzgj2ky-2k/s1600/IMG_0004y.JPG)
 
   
 
@@ -29,10 +29,10 @@ Rakennekuvalle oli pakko tirskahtaa ääneen - onko se oikeasti näyttänyt _tuo
 
   
 
-[![](images/IMG_2382%5B1%5D.png)](http://3.bp.blogspot.com/-683dfQzaCkI/Up4TYp38ZmI/AAAAAAAAHbw/9vJDj0SHpgo/s1600/IMG_2382%5B1%5D.png)
+[![](/images/IMG_2382%5B1%5D.png)](http://3.bp.blogspot.com/-683dfQzaCkI/Up4TYp38ZmI/AAAAAAAAHbw/9vJDj0SHpgo/s1600/IMG_2382%5B1%5D.png)
 
 Sininen hetki ja satuponit!
 
   
 
-[![](images/ak_uusi.png)](http://3.bp.blogspot.com/-T7f4SXU5OLk/Up4TyOqdQZI/AAAAAAAAHb4/wExg242fbBI/s1600/ak_uusi.png)
+[![](/images/ak_uusi.png)](http://3.bp.blogspot.com/-T7f4SXU5OLk/Up4TyOqdQZI/AAAAAAAAHb4/wExg242fbBI/s1600/ak_uusi.png)

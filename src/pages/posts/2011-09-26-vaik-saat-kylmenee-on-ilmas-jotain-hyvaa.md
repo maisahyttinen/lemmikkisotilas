@@ -16,7 +16,7 @@ Tihkusateinen ilta Vermossa päättyy harvemmin lupaukseen lähteä kuukaudeksi 
 
   
 
-[![](images/nimet%25C3%25B6n41.png)](http://3.bp.blogspot.com/-9L7ma-L1GMU/ToC85QDRxkI/AAAAAAAAAHc/ezLOG4S2tJo/s1600/nimet%25C3%25B6n41.png)
+[![](/images/nimet%25C3%25B6n41.png)](http://3.bp.blogspot.com/-9L7ma-L1GMU/ToC85QDRxkI/AAAAAAAAAHc/ezLOG4S2tJo/s1600/nimet%25C3%25B6n41.png)
 
   
 
@@ -24,7 +24,7 @@ Kameraton edelleen.. Lainamuru tosin on päässyt taas maailmalle, kauas ja väh
 
   
 
-[![](images/DSC_1434.png)](http://3.bp.blogspot.com/-ifmSysHhjoQ/ToC839ugeEI/AAAAAAAAAHY/R9ACpvWwMEE/s1600/DSC_1434.png)
+[![](/images/DSC_1434.png)](http://3.bp.blogspot.com/-ifmSysHhjoQ/ToC839ugeEI/AAAAAAAAAHY/R9ACpvWwMEE/s1600/DSC_1434.png)
 
   
 
@@ -32,7 +32,7 @@ Monen pitkän ja tuskallisen huutokilpailun ja kieron neuvottelun päätteeksi -
 
   
 
-[![](images/AAARGH.png)](http://1.bp.blogspot.com/-1gR_DaEbdKw/ToC815ochwI/AAAAAAAAAHU/OtF8So0Esho/s1600/AAARGH.png)
+[![](/images/AAARGH.png)](http://1.bp.blogspot.com/-1gR_DaEbdKw/ToC815ochwI/AAAAAAAAAHU/OtF8So0Esho/s1600/AAARGH.png)
 
   
 

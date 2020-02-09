@@ -12,15 +12,15 @@ Tänään inttiä on jäljellä tasan kaksi viikkoa. 14 aamua. Huomenna syksykin
 
 Sen kunniaksi **elokuun 8 hyvää**!
 
-[![](images/4.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/08/4.png)
+[![](/images/4.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/08/4.png)
 
 \- _Syksy_. Istuin tänään aamuyöllä hetken ulkona ja fiilistelin sitä miten hengitys höyryää. Päivisin on kuitenkin vielä ihanan lämmin. Syksy on vuodenajoista ehdoton suosikkini. Inttikin tuntuu oikealta intiltä vasta sitten kun vähän palelee.
 
 \- _Sotilas sai eilen kengät_, koko kesän kengättömyyden jälkeen. Juuri oikeaan aikaan. Hieman epätoivoisesti toivoin taas, että luonnollinen paljasjaloin oleilu olisi kavioille hyväksi. Pehmeästä tarhasta huolimatta lopputuloksena on vähän liian lyhyet ja pystyt pikkukaviot. Huoh. Mutta nyt on taas kengät ja Razerin Propadit alla, joten syksyn treenit voivat alkaa!
 
-[![](images/10.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/08/10.png)
+[![](/images/10.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/08/10.png)
 
-[![](images/9-300x200.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/08/9.png)[![](images/8-300x200.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/08/8.png)
+[![](/images/9-300x200.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/08/9.png)[![](/images/8-300x200.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/08/8.png)
 
 NOPEASTI VANHAN ASUNNON POHJALTA SISUSTETTU, MUTTA TUNTUU SILTI JO NYT KODILTA.
 
@@ -30,7 +30,7 @@ NOPEASTI VANHAN ASUNNON POHJALTA SISUSTETTU, MUTTA TUNTUU SILTI JO NYT KODILTA.
 
 \- _Kissa_. Olen haaveillut kissasta jo pitkään ja nyt sen hankkiminen on vihdoin mahdollista. Valitsin itselleni Lappeenrannan eläinsuojeluyhdistykseltä uutta kotia etsivän 9-vuotiaan kisuherran. Haen sen kotiin muutama päivä kotiutumiseni jälkeen.
 
-[![](images/3-200x300.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/08/3.png)[![](images/11-200x300.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/08/11.png)
+[![](/images/3-200x300.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/08/3.png)[![](/images/11-200x300.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/08/11.png)
 
 SAANKO ESITELLÄ, UUSI JA TOIVOTTAVASTI PITKÄAIKAINEN KISSAYSTÄVÄNI ISMO.
 
@@ -38,7 +38,7 @@ SAANKO ESITELLÄ, UUSI JA TOIVOTTAVASTI PITKÄAIKAINEN KISSAYSTÄVÄNI ISMO.
 
 \- _Ystävät_. Olen päässyt käymään kotona harvemmin kuin kerran kahdessa viikossa, joten ei ihme että oikeastaan kaikki siviili-ihmissuhteet ovat jääneet heitteille. Onneksi on whatsapp.. Vietimme pari viikkoa sitten pieniä tupareita mahtavalla porukalla. Salaa vähän pelkäsin, ettei kotiin palatessa ole enää ketään odottamassa, mutta näköjään ei hätää!
 
-[![](images/5-200x300.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/08/5.png)[![](images/6-200x300.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/08/6.png)
+[![](/images/5-200x300.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/08/5.png)[![](/images/6-200x300.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/08/6.png)
 
 YKSI PARHAISTA YSTÄVISTÄNI ALOITTAA INTIN TAMMIKUUSSA. AIKA JÄNNÄÄ!
 
@@ -48,4 +48,4 @@ YKSI PARHAISTA YSTÄVISTÄNI ALOITTAA INTIN TAMMIKUUSSA. AIKA JÄNNÄÄ!
 
 \- _Perhe_. En tiedä miten tämä tulisi sanottua oikein, mutta olen ihan älyttömän onnekas ja etuoikeutettu. Olen koko vuoden saanut tulla ja mennä juuri sen mukaan miten intin puolesta ehdin ja pystyn. Sotilaasta on pidetty älyttömän hyvää huolta, muutto tehtiin yhdessä ihan pikavauhdilla ja muutenkin kaikesta on tehty niin helppoa kuin mahdollista. Kiitos!
 
-[![](images/1-200x300.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/08/1.png)[![](images/7-200x300.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/08/7.png)
+[![](/images/1-200x300.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/08/1.png)[![](/images/7-200x300.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/08/7.png)

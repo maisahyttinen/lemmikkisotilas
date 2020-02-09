@@ -8,7 +8,7 @@ template: "page"
 post_button_label: "Lue lisää"
 ---
 
-[![](images/IMG_1793_.png)](http://1.bp.blogspot.com/-TkGgUtzb2hs/VQ9IC5wM-vI/AAAAAAAAJSo/hAqVBg2RZP4/s1600/IMG_1793_.png)
+[![](/images/IMG_1793_.png)](http://1.bp.blogspot.com/-TkGgUtzb2hs/VQ9IC5wM-vI/AAAAAAAAJSo/hAqVBg2RZP4/s1600/IMG_1793_.png)
 
   
 
@@ -20,11 +20,11 @@ Maneesin seinien sisällä kehitys sen sijaan on ollut vahvasti nousujohteista. 
 
   
 
-[![](images/IMG_1796_.png)](http://1.bp.blogspot.com/-FSg_okmcg9s/VQ9IAnuFyDI/AAAAAAAAJSg/PEM3mE4Ttn4/s1600/IMG_1796_.png)
+[![](/images/IMG_1796_.png)](http://1.bp.blogspot.com/-FSg_okmcg9s/VQ9IAnuFyDI/AAAAAAAAJSg/PEM3mE4Ttn4/s1600/IMG_1796_.png)
 
   
 
-[![](images/IMG_1826_.png)](http://1.bp.blogspot.com/-fIuWV0oUMYI/VQ9ICzwUyzI/AAAAAAAAJSs/3wznWztWleI/s1600/IMG_1826_.png)
+[![](/images/IMG_1826_.png)](http://1.bp.blogspot.com/-fIuWV0oUMYI/VQ9ICzwUyzI/AAAAAAAAJSs/3wznWztWleI/s1600/IMG_1826_.png)
 
   
 
@@ -36,8 +36,8 @@ Osallistuimme eilen Kati Rantasen valmennukseen. Olen jo jonkin aikaa seurannut 
 
   
 
-[![](images/IMG_1823_.png)](http://4.bp.blogspot.com/-ySTJd1fRSdQ/VQ9ICwuVPfI/AAAAAAAAJTA/v-k1ygLzIoo/s1600/IMG_1823_.png)
+[![](/images/IMG_1823_.png)](http://4.bp.blogspot.com/-ySTJd1fRSdQ/VQ9ICwuVPfI/AAAAAAAAJTA/v-k1ygLzIoo/s1600/IMG_1823_.png)
 
   
 
-[![](images/IMG_1806_.png)](http://3.bp.blogspot.com/-N6-PJtIi9aA/VQ9kNQRk7BI/AAAAAAAAJTQ/RGGxFmfAnQE/s1600/IMG_1806_.png)[![](images/IMG_1838_.png)](http://4.bp.blogspot.com/-Acfvx1f2q3U/VQ9IDkXB2NI/AAAAAAAAJSw/H23tXmNUF5w/s1600/IMG_1838_.png)
+[![](/images/IMG_1806_.png)](http://3.bp.blogspot.com/-N6-PJtIi9aA/VQ9kNQRk7BI/AAAAAAAAJTQ/RGGxFmfAnQE/s1600/IMG_1806_.png)[![](/images/IMG_1838_.png)](http://4.bp.blogspot.com/-Acfvx1f2q3U/VQ9IDkXB2NI/AAAAAAAAJSw/H23tXmNUF5w/s1600/IMG_1838_.png)

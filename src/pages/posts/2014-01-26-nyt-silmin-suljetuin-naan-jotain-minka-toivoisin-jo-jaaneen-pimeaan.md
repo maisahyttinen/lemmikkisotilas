@@ -8,7 +8,7 @@ template: "page"
 post_button_label: "Lue lisää"
 ---
 
-[![](images/IMG_4115%5B1%5D.png)](http://1.bp.blogspot.com/-oP4rRi-XPdU/UuUeD2nq9aI/AAAAAAAAH2I/fMWUodz-2gs/s1600/IMG_4115%5B1%5D.png)
+[![](/images/IMG_4115%5B1%5D.png)](http://1.bp.blogspot.com/-oP4rRi-XPdU/UuUeD2nq9aI/AAAAAAAAH2I/fMWUodz-2gs/s1600/IMG_4115%5B1%5D.png)
 
   
 
@@ -20,7 +20,7 @@ Sotilas inhoaa epätasaista tarhaa (lisää lunta jooko jooko?) ja eilinen hetki
 
   
 
-[![](images/IMG_4154.png)](http://1.bp.blogspot.com/-tHb0qOmIS8s/UuUeCP-NDMI/AAAAAAAAH2A/P69VoZdMK2Q/s1600/IMG_4154.png)[![](images/IMG_4186.png)](http://1.bp.blogspot.com/-t8VnjYlAZNU/UuUeFJwoeCI/AAAAAAAAH2k/PM7VF_6-In4/s1600/IMG_4186.png)
+[![](/images/IMG_4154.png)](http://1.bp.blogspot.com/-tHb0qOmIS8s/UuUeCP-NDMI/AAAAAAAAH2A/P69VoZdMK2Q/s1600/IMG_4154.png)[![](/images/IMG_4186.png)](http://1.bp.blogspot.com/-t8VnjYlAZNU/UuUeFJwoeCI/AAAAAAAAH2k/PM7VF_6-In4/s1600/IMG_4186.png)
 
   
 
@@ -28,7 +28,7 @@ Toimeliaisuuspuuskassani pesaisin ainakin melkein kaikki harjat. Ei kovin mielly
 
   
 
-[![](images/IMG_4126.png)](http://4.bp.blogspot.com/-P10EfW3RY18/UuUeBwD96DI/AAAAAAAAH14/YnBCh0NhwEc/s1600/IMG_4126.png)[![](images/IMG_4104.png)](http://2.bp.blogspot.com/-jk9AQER5UXE/UuUeBvgZYJI/AAAAAAAAH1w/zSDjkFpI87A/s1600/IMG_4104.png)
+[![](/images/IMG_4126.png)](http://4.bp.blogspot.com/-P10EfW3RY18/UuUeBwD96DI/AAAAAAAAH14/YnBCh0NhwEc/s1600/IMG_4126.png)[![](/images/IMG_4104.png)](http://2.bp.blogspot.com/-jk9AQER5UXE/UuUeBvgZYJI/AAAAAAAAH1w/zSDjkFpI87A/s1600/IMG_4104.png)
 
   
 

@@ -12,7 +12,7 @@ Antakaa anteeksi tämä pieni tauko. Ei ole ollut mitään kerrottavaa eikä sen
   
   
 
-[![](images/rock.png)](http://4.bp.blogspot.com/-ZYVRASRJhLQ/UP1WebO7pSI/AAAAAAAAE7o/9ulwITJp8Ew/s1600/rock.png)
+[![](/images/rock.png)](http://4.bp.blogspot.com/-ZYVRASRJhLQ/UP1WebO7pSI/AAAAAAAAE7o/9ulwITJp8Ew/s1600/rock.png)
 
   
 HAASTE!
@@ -36,7 +36,7 @@ FAKTAT
 
   
 
-[![](images/hoo.png)](http://3.bp.blogspot.com/-PsBRrnAQm1w/UP2Usg48uJI/AAAAAAAAE8E/JBPZEq6Ui6Q/s1600/hoo.png)
+[![](/images/hoo.png)](http://3.bp.blogspot.com/-PsBRrnAQm1w/UP2Usg48uJI/AAAAAAAAE8E/JBPZEq6Ui6Q/s1600/hoo.png)
 
 Toisen täydellisen miehen salakuvauksen tulos. Aika taiteellista.
 
@@ -85,4 +85,4 @@ KYSYMYKSET
 Ihan yhtätoista blogia en taida keksiä haastettavaksi, mutta haasteen saavat [Christa & Dandy](http://kilpasilakka.blogspot.fi/), [S. Kaskinen](http://skaskinen.blogspot.fi/), [The Best Of F(all)](http://kouluponi.blogspot.fi/) ja [Amazig horses](http://lookatmyhorsemyhorseisamazing.blogspot.fi/).  
   
 
-[![](images/ak.png)](http://4.bp.blogspot.com/-o6SxX_etlJE/UP2WewsflnI/AAAAAAAAE8U/DFGAH4CfOS8/s1600/ak.png)
+[![](/images/ak.png)](http://4.bp.blogspot.com/-o6SxX_etlJE/UP2WewsflnI/AAAAAAAAE8U/DFGAH4CfOS8/s1600/ak.png)

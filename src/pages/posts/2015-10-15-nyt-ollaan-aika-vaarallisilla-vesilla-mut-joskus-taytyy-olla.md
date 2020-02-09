@@ -8,7 +8,7 @@ template: "page"
 post_button_label: "Lue lisää"
 ---
 
-[![](images/IMG_1916_.png)](http://4.bp.blogspot.com/-CdKYJzal9Xs/Vh-9BIdBnPI/AAAAAAAAKSA/H-J85iR47UQ/s1600/IMG_1916_.png)
+[![](/images/IMG_1916_.png)](http://4.bp.blogspot.com/-CdKYJzal9Xs/Vh-9BIdBnPI/AAAAAAAAKSA/H-J85iR47UQ/s1600/IMG_1916_.png)
 
   
 
@@ -36,7 +36,7 @@ Kaikki alkaa siitä, että tunnistetaan oireet. Hevosen loukkaantuminen tai sair
 
   
 
-[![](images/IMG_1939_.png)](http://4.bp.blogspot.com/-TJ7XvkLQAoQ/Vh_RwGHxS9I/AAAAAAAAKSM/Bvc-4J5QTFg/s1600/IMG_1939_.png)
+[![](/images/IMG_1939_.png)](http://4.bp.blogspot.com/-TJ7XvkLQAoQ/Vh_RwGHxS9I/AAAAAAAAKSM/Bvc-4J5QTFg/s1600/IMG_1939_.png)
 
   
 

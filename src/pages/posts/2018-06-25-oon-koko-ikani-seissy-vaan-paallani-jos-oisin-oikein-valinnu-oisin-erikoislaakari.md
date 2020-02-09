@@ -8,7 +8,7 @@ template: "page"
 post_button_label: "Lue lisää"
 ---
 
-![](images/MG_6684-1.jpg)
+![](/images/MG_6684-1.jpg)
 
 Lihasongelmat ovat saaneet jatkoa nyt kuukauden verran. On hoidettu iilimadoilla, kraniolla ja laserilla. Venytelty ja jumpattu vaikka millä mitalla. Viime keskiviikkona lähdettiin sitten klinikallekin kun kotihoito ei tuntunut juuri auttavan. Tottakai selkä kävi tokenemaan heti klinikka-ajan varaamisen jälkeen, mutta lähdimme Teivoon joka tapauksessa. Ensisijaisesti halusin tietää miltä Sotilaan veriarvot näyttävät - sitkeiden lihasvaivojen taustalla on usein esimerkiksi aineenvaihduntaongelmia.
 
@@ -16,9 +16,9 @@ Verikokeet otettiin. Sen jälkeen Sotilas seistä törrötti klinikan karsinassa
 
 Kristiina Ertola antoi kotihoito-ohjeiksi lisää laseria ja säännöllistä rentoa liikuntaa. Voidaan siis käytännössä huoletta palata arkeen ja hoitaa lihaspuolta kuten urheiluhevosilla tapana on - liike on lääke. Tänään tulee käymään kengittäjä, torstaina ratsuttaja. Loppuviikosta taas laseroidaan.
 
-![](images/MG_6619-1.jpg)
+![](/images/MG_6619-1.jpg)
 
-![](images/MG_6708-1-4.jpg)
+![](/images/MG_6708-1-4.jpg)
 
 **Mitä tässä sitten on puuhattu?**
 
@@ -30,4 +30,4 @@ Meillä käy tallilla säännöllisesti jos jonkinlaista hoitajaa, joten uusien 
 
 Ratkaiseva apu löytyi kuitenkin vanhasta tutusta laserista. Laserhoitaja on käynyt koko kesäkuun kahdesti viikossa. Niskan hoitaminen osoittautui kaikkein tehokkaimmaksi tavaksi vaikuttaa koko selkään - ristiselkä ei suoraan ottanut laseria vastaan aivan toivotulla tavalla. Jo kahden hoitokerran jälkeen ero oli valtava! Laserin ehdottomia etuja on se, ettei hoito kestä pitkään eikä juuri vaikuta kevyeen liikutukseen. Sopii joustavasti kalenteriin vielä senkin jälkeen kun liikunnan osalta palataan normaaliin arkeen.
 
-![](images/E7CB81E9-5A68-4ADD-B29E-7BBD6F3C5717.jpeg)
+![](/images/E7CB81E9-5A68-4ADD-B29E-7BBD6F3C5717.jpeg)

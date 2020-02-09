@@ -15,7 +15,7 @@ Juuri nyt lojun sängyssä enkä keksi nykytilanteesta kauheasti valittamista. T
 Olin tosiaan monta päivää täydellisessä blogipimennossa (vaikka iphone aika tiiviisti kädessä onkin), ja sen asian suhteen paluu arkeen oli raaka. Aktiivisesti seuraan kourallista hyväksi toteamiani blogeja, mutta etenkin viimeaikoina olen laajentanut valikoimaani ehkä vähän turhankin löyhin kriteerein. Olen kaivannut hieman vertailukohdetta, joten tällä hetkellä listalta löytyy hyvin sekalainen valikoima lämminveriblogeja. Valitettavasti suurin osa niistä on kammottavaa luettavaa! Oikeastaan olin sanaton selattuani uusimmat postaukset läpi. Olin 15 aloittaessani blogin kirjoittamisen ja kieltämättä minunkin ensimmäiset juttuni olivat aika lapsellisia (käykää kurkkaamassa, ne ovat julkisia edelleen), mutta joidenkin asioiden suhteen linjani on ollut sama alusta saakka. Hyvä niin, muuten olisin jo aikoja sitten päätynyt sensuroimaan vaikka mitä vanhoja tekstejä. Tässäpä tätä.  
   
 
-[![](images/_full+(2).jpg)](http://2.bp.blogspot.com/-6DSq3T0UlpQ/Urdx15yvkNI/AAAAAAAAHpk/7TpMob33UMY/s1600/_full+(2).jpg)
+[![](/images/_full+(2).jpg)](http://2.bp.blogspot.com/-6DSq3T0UlpQ/Urdx15yvkNI/AAAAAAAAHpk/7TpMob33UMY/s1600/_full+(2).jpg)
 
   
   
@@ -33,7 +33,7 @@ Bloggerissa on edelleen mahdollista lukea kommentit etukäteen ja valita itse ne
 Oikolukekaa, oikolukekaa, oikolukekaa! Ja mikäli ette itse osaa niin käyttäkää tekstinne edes Wordin tai jonkin muun oikolukevan ohjelman kautta.. Yksi ehdottomasti turhauttavimmista asioista on säännönmukaisesti toistuvat lapselliset typot ja kielioppivirheet.. Etenkin mikäli blogi olisi muuten erittäin kiinnostava niin aiheensa kuin päähenkilöidensäkin puolesta. Kaikkein pahinta on kuitenkin "_kirjotan kuule ihan miten huvittaa!!_" -asenne jos joku mainitsee runsaista kirjoitusvirheistä. Saahan sitä kirjoittaa ihan miten lystää, mutta yhdys\_sana on yhdyssana eikä lukioilla ole mitään tekemistä lukijoiden kanssa vaikka sitä kuinka hokisikin. (Monelle blogaajalle lukiat ovat tärkeitä ja lukioille oikein kirjoitus voi olla kynnys kysymys! <3)  
   
 
-[![](images/_full+(1).jpg)](http://4.bp.blogspot.com/-S9Z26oJi2oY/UrdxYuQZXdI/AAAAAAAAHpY/fQjtGfOe5E8/s1600/_full+(1).jpg)[![](images/_full.jpg)](http://3.bp.blogspot.com/-OwX8_0LFB3A/UrdxYtCbV1I/AAAAAAAAHpU/aBgfRcQQYvs/s1600/_full.jpg)
+[![](/images/_full+(1).jpg)](http://4.bp.blogspot.com/-S9Z26oJi2oY/UrdxYuQZXdI/AAAAAAAAHpY/fQjtGfOe5E8/s1600/_full+(1).jpg)[![](/images/_full.jpg)](http://3.bp.blogspot.com/-OwX8_0LFB3A/UrdxYtCbV1I/AAAAAAAAHpU/aBgfRcQQYvs/s1600/_full.jpg)
 
   
 
@@ -44,4 +44,4 @@ PS. Kilpajuoksijaksi suunniteltu sporttimallin lämminverinen näyttää auttama
   
   
 
-[![](images/ak_uusi.png)](http://1.bp.blogspot.com/-2H9JzEzjKSU/Urdwjf5s4NI/AAAAAAAAHpE/wAem4HTFslo/s1600/ak_uusi.png)
+[![](/images/ak_uusi.png)](http://1.bp.blogspot.com/-2H9JzEzjKSU/Urdwjf5s4NI/AAAAAAAAHpE/wAem4HTFslo/s1600/ak_uusi.png)

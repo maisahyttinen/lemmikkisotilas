@@ -14,7 +14,7 @@ Mitä nää yölliset kotiintulot oikein on? Ei väärin, ei väärin. Mitä nä
 
   
 
-[![](images/nimet%25C3%25B6n30.png)](http://4.bp.blogspot.com/-rE42P3dAZjY/TbMiFkoDg9I/AAAAAAAAAFc/oQdpf7PlAiQ/s1600/nimet%25C3%25B6n30.png)
+[![](/images/nimet%25C3%25B6n30.png)](http://4.bp.blogspot.com/-rE42P3dAZjY/TbMiFkoDg9I/AAAAAAAAAFc/oQdpf7PlAiQ/s1600/nimet%25C3%25B6n30.png)
 
   
 
@@ -22,7 +22,7 @@ Mut kyl täl viikol on muutaki tehty ku grillattu hornettei ja vietelty synttere
 
   
 
-[![](images/damn.png)](http://1.bp.blogspot.com/-yAoN7TqeMxg/TbMgDqTFuVI/AAAAAAAAAFY/woAkOYvQvMU/s1600/damn.png)
+[![](/images/damn.png)](http://1.bp.blogspot.com/-yAoN7TqeMxg/TbMgDqTFuVI/AAAAAAAAAFY/woAkOYvQvMU/s1600/damn.png)
 
   
 

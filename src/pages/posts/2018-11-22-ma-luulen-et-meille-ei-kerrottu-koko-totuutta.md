@@ -16,7 +16,7 @@ Teen töitä yritysten Instagram-markkinoinnin parissa ja törmään jatkuvasti 
 
 Millä perusteella minun syötteeni (= julkaisut, jotka minulle näytetään) rakentuu? Millä perusteella minun julkaisuni näkyvät (tai eivät näy) muille? Miten voin lisätä julkaisujeni näyttökertojen, tykkäysten tai kommenttien määrää?
 
-![](images/IMG_1577.jpg)
+![](/images/IMG_1577.jpg)
 
 ### Karkeasti sanottuna Instagram pyrkii tarjoamaan julkaisuja joista olet todennäköisesti kiinnostunut.
 
@@ -32,7 +32,7 @@ Jos käyt sovelluksessa vain harvoin ja vietät siellä aikaa vähän, tarjoaa I
 
 Jos taas käytät sovellusta usein ja paljon, näet ylempänä syötteessäsi enemmän myös vanhempia julkaisuja. IG ei piilota mitään keneltäkään - jos jaksat selata tarpeeksi kauan, näet kaikkien seuraamiesi profiilien kaikki julkaisut.
 
-![](images/IMG_1474.jpg)
+![](/images/IMG_1474.jpg)
 
 ### Instagramin algoritmi kannustaa käyttäjiä vuorovaikutukseen, eli reagoimaan toistensa julkaisuihin.
 
@@ -52,7 +52,7 @@ Joihinkin juttuihin kannattaa kuitenkin kiinnittää huomiota, jos haluaa lisät
 
 \- julkaise säännöllisesti - seuraajasi oppivat "odottamaan" uutta - julkaise silloin kun seuraajasi ovat paikalla - saat reagointeja nopeasti - kannusta seuraajiasi kommentoimaan tai lähettämään sinulle viestejä - päivitä Storiesia - se sitouttaa seuraajiasi (ja algoritmikin näkee sen) - panosta kuvateksteihin - niiden lukeminen lisää julkaisusi kohdalla käytettyä aikaa - julkaise sekä kuvia että videoita - monipuolinen sisältö, monipuolinen yleisö - reagoi aktiivisesti seuraajiesi julkaisuihin
 
-### ![](images/IMG_1506.jpg)
+### ![](/images/IMG_1506.jpg)
 
 ### Etenkin julkaisujen näkyvyyteen ja näyttökertojen määrään liittyy paljon kiisteltyjä huhuja ja kokemuksia.
 

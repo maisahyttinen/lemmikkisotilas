@@ -8,13 +8,13 @@ template: "page"
 post_button_label: "Lue lisää"
 ---
 
-[![](images/201511262336519627.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2015/11/201511262336519627.png)
+[![](/images/201511262336519627.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2015/11/201511262336519627.png)
 
 Talvi käväisi parin päivän vierailulla täälläkin. Auton ratissa vähän hirvitti, mutta muuten pieni kerros lunta ja muutama aste pakkasta oli toivottua vaihtelua vesisateelle. Enää lumista ei ole tietoakaan. Nyt maan jäätyessä olen taas erittäin kiitollinen maneesista. Ei hyistä tuulta, ei jäisiä pohjia eikä tilsoja. Eikä haittaa sekään, että aurinko laskee jo kolmelta iltapäivällä. Koko internet on täynnä tuoreita toinen toistaan ihanampia talvikuvia. En oikeastaan pidä talvesta lainkaan, mutta kauniita maisemia ja aurinkoa on kyllä jo ikävä.
 
  
 
-[![](images/201511202316268318.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2015/11/201511202316268318.png)
+[![](/images/201511202316268318.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2015/11/201511202316268318.png)
 
 Olen ratsastanut Sotilaalla nelisen kertaa viikossa. Edelleen ihan perusratsastusta vain. Pitkään edistys oli jopa erittäin lupaavaa, mutta ensimmäiseet pakkaset toivat taas mukanaan omat lieveilmiönsä. Sotilas on aina reagoinut säiden viilenemiseen selvästi ja etenkin pakkaset laittavat sen aika sekaisin. Muutama päivä sitten sain pitkästä aikaa muistutuksen siitä, miksi on syytä pitää kypärä päässä ja ohjat kädessä vaikka tarkoitus olisi vain kävellä oman tossukan kanssa neljän seinän sisällä.
 
@@ -22,7 +22,7 @@ Olemme höntsäilleet ilman satulaa, Sotilas vähän lämmittävään cooleriin 
 
 Edellisten vuosien tapaan klippaaminen (kolmas kerta tänä syksynä..) tönäisi kupin lopullisesti nurin. Eilen lähdettiinkin sitten töihin satuloituna, ensimmäistä kertaa pariin kuukauteen. Perjantaina Sotilaan lääkäristä on kulunut 6 viikkoa ja takajalka tuntuu oikeinkin hyvältä. Alan olla jo itsekin niin täynnä päivästä toiseen kävelemistä, etten voinut vastustaa kiusausta vähän hölkätä tyhjässä maneesissa. En olisi uskonut kuinka hyvältä neljä kierrosta ravia voikaan tuntua! Hyvien pohjatöiden jälkeen iloisesti yllättynyt Sotilas antoi aivan parastaan. Seuraavat kaksi viikkoa taitavat kulua aika hitaasti..
 
-[![](images/201511202316303278.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2015/11/201511202316303278.png)
+[![](/images/201511202316303278.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2015/11/201511202316303278.png)
 
  
 

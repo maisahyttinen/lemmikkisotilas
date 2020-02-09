@@ -12,7 +12,7 @@ Otimme Toisen täydellisen miehen kanssa kuvia aivan toisenlaista postausta vart
 
   
 
-[![](images/ennenjalkeen2.png)](http://3.bp.blogspot.com/-3c1YOxb-1x4/Uf-1qMtOcMI/AAAAAAAAGgo/Ek6aQcltJ4k/s1600/ennenjalkeen2.png)
+[![](/images/ennenjalkeen2.png)](http://3.bp.blogspot.com/-3c1YOxb-1x4/Uf-1qMtOcMI/AAAAAAAAGgo/Ek6aQcltJ4k/s1600/ennenjalkeen2.png)
 
   
 
@@ -20,11 +20,11 @@ Kyseessä aivan tavallinen kuvaustilanne. Nukahtanut laama, pilvinen aamupäivä
 
   
 
-[![](images/dpp1.png)](http://2.bp.blogspot.com/-iq6j5r_gbGg/Uf-0hPeSMTI/AAAAAAAAGgM/ldVGmHF85Go/s1600/dpp1.png)
+[![](/images/dpp1.png)](http://2.bp.blogspot.com/-iq6j5r_gbGg/Uf-0hPeSMTI/AAAAAAAAGgM/ldVGmHF85Go/s1600/dpp1.png)
 
   
 
-[![](images/dpp2.png)](http://2.bp.blogspot.com/-kDel3Qxefro/Uf-0hzDQeJI/AAAAAAAAGgU/FVR6L__CyvU/s1600/dpp2.png)[![](images/dpp3.png)](http://3.bp.blogspot.com/-F0S4IlwHDv8/Uf-zdf-bCUI/AAAAAAAAGfc/QUwThcdPS-E/s1600/dpp3.png)
+[![](/images/dpp2.png)](http://2.bp.blogspot.com/-kDel3Qxefro/Uf-0hzDQeJI/AAAAAAAAGgU/FVR6L__CyvU/s1600/dpp2.png)[![](/images/dpp3.png)](http://3.bp.blogspot.com/-F0S4IlwHDv8/Uf-zdf-bCUI/AAAAAAAAGfc/QUwThcdPS-E/s1600/dpp3.png)
 
   
 
@@ -32,11 +32,11 @@ Kyseessä aivan tavallinen kuvaustilanne. Nukahtanut laama, pilvinen aamupäivä
 
   
 
-[![](images/IMG_1413b.JPG)](http://4.bp.blogspot.com/-SHRAIoRDwM4/Uf-zVV9wa0I/AAAAAAAAGe4/HV9Sy_YWAc0/s1600/IMG_1413b.JPG)
+[![](/images/IMG_1413b.JPG)](http://4.bp.blogspot.com/-SHRAIoRDwM4/Uf-zVV9wa0I/AAAAAAAAGe4/HV9Sy_YWAc0/s1600/IMG_1413b.JPG)
 
   
 
-[![](images/dpp4.png)](http://4.bp.blogspot.com/-QqI9J2RJAWM/Uf-1R__5OzI/AAAAAAAAGgc/wK0VAH2XRfo/s1600/dpp4.png)
+[![](/images/dpp4.png)](http://4.bp.blogspot.com/-QqI9J2RJAWM/Uf-1R__5OzI/AAAAAAAAGgc/wK0VAH2XRfo/s1600/dpp4.png)
 
   
 
@@ -44,11 +44,11 @@ Suoristettu, joskin hyvin mitättömän näköinen kuva. Perusasetusten säätä
 
   
 
-[![](images/IMG_1413.JPG)](http://1.bp.blogspot.com/-8jZgT5dDZ4c/Uf-zW7XvFRI/AAAAAAAAGfE/7eGUTtvffog/s1600/IMG_1413.JPG)
+[![](/images/IMG_1413.JPG)](http://1.bp.blogspot.com/-8jZgT5dDZ4c/Uf-zW7XvFRI/AAAAAAAAGfE/7eGUTtvffog/s1600/IMG_1413.JPG)
 
   
 
-[![](images/psp1.png)](http://3.bp.blogspot.com/-o7yLrLVH66A/Uf-zgFzSgOI/AAAAAAAAGfs/EEpQ4l6XAD4/s1600/psp1.png)[![](images/psp2.png)](http://1.bp.blogspot.com/-Ov1-NIv4wxA/Uf-ziCleNKI/AAAAAAAAGf0/3bgenOhXOw4/s1600/psp2.png)
+[![](/images/psp1.png)](http://3.bp.blogspot.com/-o7yLrLVH66A/Uf-zgFzSgOI/AAAAAAAAGfs/EEpQ4l6XAD4/s1600/psp1.png)[![](/images/psp2.png)](http://1.bp.blogspot.com/-Ov1-NIv4wxA/Uf-ziCleNKI/AAAAAAAAGf0/3bgenOhXOw4/s1600/psp2.png)
 
   
 
@@ -56,10 +56,10 @@ Suoristettu, joskin hyvin mitättömän näköinen kuva. Perusasetusten säätä
 
   
 
-[![](images/IMG_1413.png)](http://3.bp.blogspot.com/-6kmKtxWCfpw/Uf-zXktt5tI/AAAAAAAAGfM/ge2upSbEvlA/s1600/IMG_1413.png)
+[![](/images/IMG_1413.png)](http://3.bp.blogspot.com/-6kmKtxWCfpw/Uf-zXktt5tI/AAAAAAAAGfM/ge2upSbEvlA/s1600/IMG_1413.png)
 
   
 PS. Oikeasti ja edelleen olen valokuvaaja.  
   
 
-[![](images/ak.png)](http://3.bp.blogspot.com/-GJX3zAyhJws/Uf_ea8AYBzI/AAAAAAAAGg4/htimvlDs7Lw/s1600/ak.png)
+[![](/images/ak.png)](http://3.bp.blogspot.com/-GJX3zAyhJws/Uf_ea8AYBzI/AAAAAAAAGg4/htimvlDs7Lw/s1600/ak.png)

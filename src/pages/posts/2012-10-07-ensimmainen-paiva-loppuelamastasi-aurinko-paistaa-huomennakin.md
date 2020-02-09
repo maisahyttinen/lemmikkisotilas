@@ -15,23 +15,23 @@ Muuta uutta ei eilisen jälkeen ei taida olla tullut. Kuvat ovat eiliseltä ja p
 
   
 
-[![](images/IMG_9067a.JPG)](http://3.bp.blogspot.com/-dl97vZ4waAA/UHGWhDfVyqI/AAAAAAAABjI/gGXcIzBiLNc/s1600/IMG_9067a.JPG)
+[![](/images/IMG_9067a.JPG)](http://3.bp.blogspot.com/-dl97vZ4waAA/UHGWhDfVyqI/AAAAAAAABjI/gGXcIzBiLNc/s1600/IMG_9067a.JPG)
 
   
 
-[![](images/IMG_0335j.JPG)](http://1.bp.blogspot.com/-_ZRmhZDop_4/UHGWXinFFjI/AAAAAAAABio/GiFJp23Q5ZE/s1600/IMG_0335j.JPG)[![](images/IMG_9092a.JPG)](http://2.bp.blogspot.com/-CXtC-21gaEU/UHGWmiD-GmI/AAAAAAAABjY/h_h5dOY4YMs/s1600/IMG_9092a.JPG)[![](images/IMG_9082a.JPG)](http://2.bp.blogspot.com/-xvNE5ZzXPsY/UHGWkBFP09I/AAAAAAAABjQ/MXECg6kjTHk/s1600/IMG_9082a.JPG)
+[![](/images/IMG_0335j.JPG)](http://1.bp.blogspot.com/-_ZRmhZDop_4/UHGWXinFFjI/AAAAAAAABio/GiFJp23Q5ZE/s1600/IMG_0335j.JPG)[![](/images/IMG_9092a.JPG)](http://2.bp.blogspot.com/-CXtC-21gaEU/UHGWmiD-GmI/AAAAAAAABjY/h_h5dOY4YMs/s1600/IMG_9092a.JPG)[![](/images/IMG_9082a.JPG)](http://2.bp.blogspot.com/-xvNE5ZzXPsY/UHGWkBFP09I/AAAAAAAABjQ/MXECg6kjTHk/s1600/IMG_9082a.JPG)
 
   
 
-[![](images/IMG_9098a.JPG)](http://3.bp.blogspot.com/-TOrD9_8cI3s/UHGWo23ZApI/AAAAAAAABjg/sCqTT2vzvsI/s1600/IMG_9098a.JPG)
+[![](/images/IMG_9098a.JPG)](http://3.bp.blogspot.com/-TOrD9_8cI3s/UHGWo23ZApI/AAAAAAAABjg/sCqTT2vzvsI/s1600/IMG_9098a.JPG)
 
   
 
-[![](images/IMG_0399.JPG)](http://1.bp.blogspot.com/-LM4INFQnHsg/UHGWabtvPaI/AAAAAAAABiw/Pnqhbo4JuEE/s1600/IMG_0399.JPG)
+[![](/images/IMG_0399.JPG)](http://1.bp.blogspot.com/-LM4INFQnHsg/UHGWabtvPaI/AAAAAAAABiw/Pnqhbo4JuEE/s1600/IMG_0399.JPG)
 
   
 
-[![](images/IMG_9040j.JPG)](http://1.bp.blogspot.com/-ksxk6pnJKfs/UHGWcOYgDhI/AAAAAAAABi4/ak0PXCp3UbQ/s1600/IMG_9040j.JPG)
+[![](/images/IMG_9040j.JPG)](http://1.bp.blogspot.com/-ksxk6pnJKfs/UHGWcOYgDhI/AAAAAAAABi4/ak0PXCp3UbQ/s1600/IMG_9040j.JPG)
 
 [  
-](http://1.bp.blogspot.com/-fWN3itFI1OY/UHGam4qbyZI/AAAAAAAABkg/fka2b-_R5uM/s1600/ak.png)[![](images/ak.png)](http://1.bp.blogspot.com/-fWN3itFI1OY/UHGam4qbyZI/AAAAAAAABkg/fka2b-_R5uM/s1600/ak.png)
+](http://1.bp.blogspot.com/-fWN3itFI1OY/UHGam4qbyZI/AAAAAAAABkg/fka2b-_R5uM/s1600/ak.png)[![](/images/ak.png)](http://1.bp.blogspot.com/-fWN3itFI1OY/UHGam4qbyZI/AAAAAAAABkg/fka2b-_R5uM/s1600/ak.png)

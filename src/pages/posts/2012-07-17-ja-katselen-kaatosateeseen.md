@@ -8,7 +8,7 @@ template: "page"
 post_button_label: "Lue lisää"
 ---
 
-[![](images/surakka%252Bsoturi+062.png)](http://4.bp.blogspot.com/-bSmui5YQ4Po/UAWVTTdtX_I/AAAAAAAAA4g/II1MN70xl8U/s1600/surakka%252Bsoturi+062.png)
+[![](/images/surakka%252Bsoturi+062.png)](http://4.bp.blogspot.com/-bSmui5YQ4Po/UAWVTTdtX_I/AAAAAAAAA4g/II1MN70xl8U/s1600/surakka%252Bsoturi+062.png)
 
   
   
@@ -17,11 +17,11 @@ Muutama toisen Sara-ystävättäreni muutama päivä sitten ottama kuva Sotilaas
 Vettä sataa joka päivä kaatamalla eikä oikein mistään järkevästä tule mitään. Kirjastossa on ihan kivaa löhväillä kuuntelemassa sadetta ja pitää kahvitaukoja. Tuntipalkkakin on sen verran hyvä, että kyllä tuolla mielellään istuu tiskin takana lueskelemassa. Etenkin kun päivät loppuvat niin ajoissa, että ehdin vielä tupsujalkatöihin tai ratsastamaan tai mitä tahansa (siis jos ei sataisi melkein tauotta..). Eilinen Loviisakin meni loppujenlopuksi kaatosateessa, vaikka alku näyttikin lupaavalta. Kuvia saatte ehkä lähiaikoina!  
   
 
-[![](images/surakka+soturi+045.png)](http://2.bp.blogspot.com/-1IVbk7rt4nI/UAWVQsOd-JI/AAAAAAAAA4Y/1t5S_MedXvs/s1600/surakka+soturi+045.png)
+[![](/images/surakka+soturi+045.png)](http://2.bp.blogspot.com/-1IVbk7rt4nI/UAWVQsOd-JI/AAAAAAAAA4Y/1t5S_MedXvs/s1600/surakka+soturi+045.png)
 
   
 
-[![](images/surakka+soturi+033.png)](http://2.bp.blogspot.com/-1-1rGAar5y0/UAWVNasEkTI/AAAAAAAAA4Q/YQ0rvFwuvpU/s1600/surakka+soturi+033.png)
+[![](/images/surakka+soturi+033.png)](http://2.bp.blogspot.com/-1-1rGAar5y0/UAWVNasEkTI/AAAAAAAAA4Q/YQ0rvFwuvpU/s1600/surakka+soturi+033.png)
 
   
   

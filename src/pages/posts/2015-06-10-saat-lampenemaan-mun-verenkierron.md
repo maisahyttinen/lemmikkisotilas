@@ -8,7 +8,7 @@ template: "page"
 post_button_label: "Lue lisää"
 ---
 
-[![](images/IMG_7108_2.png)](http://2.bp.blogspot.com/-fknd1F6vi48/VXiW8-_CiiI/AAAAAAAAJuw/44aUVE2QwP4/s1600/IMG_7108_2.png)[![](images/ratsastis2.png)](http://4.bp.blogspot.com/-OOvbz7Wn7p4/VXiW8zVUqYI/AAAAAAAAJus/lNJOZBF57Hs/s1600/ratsastis2.png)
+[![](/images/IMG_7108_2.png)](http://2.bp.blogspot.com/-fknd1F6vi48/VXiW8-_CiiI/AAAAAAAAJuw/44aUVE2QwP4/s1600/IMG_7108_2.png)[![](/images/ratsastis2.png)](http://4.bp.blogspot.com/-OOvbz7Wn7p4/VXiW8zVUqYI/AAAAAAAAJus/lNJOZBF57Hs/s1600/ratsastis2.png)
 
   
 

@@ -8,13 +8,13 @@ template: "page"
 post_button_label: "Lue lisää"
 ---
 
-[![](images/S+%25289%2529.png)](http://1.bp.blogspot.com/-x3QldQATHVA/TvrUKJd4QbI/AAAAAAAAALY/qni9kWQaHMk/s1600/S+%25289%2529.png)
+[![](/images/S+%25289%2529.png)](http://1.bp.blogspot.com/-x3QldQATHVA/TvrUKJd4QbI/AAAAAAAAALY/qni9kWQaHMk/s1600/S+%25289%2529.png)
 
   
 Aika jouluinen maisema, eikö? Eilen oli hassu kevätsää, aurinko lämmitti ja pallero innostu kirmailemaan. Täällä on säästytty suuremmilta myrskytuhoilta eikä pikkuheppasta pieni tuuli hetkauta. Eikä hetkauta klipperikään! Eilenillalla saattoi käydä niin, että toveri yllättäen kaljuuntui. Ainakin ujosti osittain. Tänään taitaa kaljuuntumista tapahtua lisää. Hämärässä tallissa suoritetun operaation jälki ei välttämättä ole ihan julkaisukelpoista, mutta pääsimpähän kokeilemaan! Onneksi karva on uusiutuva luonnonvara..  
   
 
-[![](images/S+%252811%2529.png)](http://4.bp.blogspot.com/-62rV_DPi5Ak/TvrXyx-pYBI/AAAAAAAAAMM/LiMK7w5z-0c/s1600/S+%252811%2529.png)[![](images/S+%25282%2529.png)](http://2.bp.blogspot.com/-HbEQNh_Hdng/TvrXvJD18zI/AAAAAAAAAME/nRNSmOsAdjk/s1600/S+%25282%2529.png)
+[![](/images/S+%252811%2529.png)](http://4.bp.blogspot.com/-62rV_DPi5Ak/TvrXyx-pYBI/AAAAAAAAAMM/LiMK7w5z-0c/s1600/S+%252811%2529.png)[![](/images/S+%25282%2529.png)](http://2.bp.blogspot.com/-HbEQNh_Hdng/TvrXvJD18zI/AAAAAAAAAME/nRNSmOsAdjk/s1600/S+%25282%2529.png)
 
   
 

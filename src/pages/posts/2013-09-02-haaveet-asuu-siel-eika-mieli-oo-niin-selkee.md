@@ -10,11 +10,11 @@ post_button_label: "Lue lisää"
 
   
 
-[![](images/IMG_4503.png)](http://4.bp.blogspot.com/-P17PBRQ7ym0/UiTrOpUddaI/AAAAAAAAGx0/rnIMsP-HdXc/s1600/IMG_4503.png)
+[![](/images/IMG_4503.png)](http://4.bp.blogspot.com/-P17PBRQ7ym0/UiTrOpUddaI/AAAAAAAAGx0/rnIMsP-HdXc/s1600/IMG_4503.png)
 
   
 
-[![](images/IMG_4637.png)](http://1.bp.blogspot.com/-uvlOoOjcg70/UiTrNha8WMI/AAAAAAAAGxo/7aUqYeA8U2A/s1600/IMG_4637.png)[![](images/IMG_4609.png)](http://4.bp.blogspot.com/-HhSjRD7qyV0/UiTrMxZBwbI/AAAAAAAAGxc/kBB34zhQkLI/s1600/IMG_4609.png)
+[![](/images/IMG_4637.png)](http://1.bp.blogspot.com/-uvlOoOjcg70/UiTrNha8WMI/AAAAAAAAGxo/7aUqYeA8U2A/s1600/IMG_4637.png)[![](/images/IMG_4609.png)](http://4.bp.blogspot.com/-HhSjRD7qyV0/UiTrMxZBwbI/AAAAAAAAGxc/kBB34zhQkLI/s1600/IMG_4609.png)
 
   
 
@@ -22,7 +22,7 @@ Tänään sain vääntäydyttyä takaisin satulaan. Viime keskiviikon jälkeen o
 
   
 
-[![](images/IMG_4578_.png)](http://4.bp.blogspot.com/-P4-nu0gMyi8/UiTroGN506I/AAAAAAAAGyA/u5mKJAMPU_8/s1600/IMG_4578_.png)[![](images/IMG_4657.png)](http://4.bp.blogspot.com/-AAJAWDhohss/UiTrOHqXvlI/AAAAAAAAGxs/VNGC3bwrm34/s1600/IMG_4657.png)
+[![](/images/IMG_4578_.png)](http://4.bp.blogspot.com/-P4-nu0gMyi8/UiTroGN506I/AAAAAAAAGyA/u5mKJAMPU_8/s1600/IMG_4578_.png)[![](/images/IMG_4657.png)](http://4.bp.blogspot.com/-AAJAWDhohss/UiTrOHqXvlI/AAAAAAAAGxs/VNGC3bwrm34/s1600/IMG_4657.png)
 
   
 
@@ -30,12 +30,12 @@ Jopa Milla kiipesi niin hurjan korkean ja vaarallisen ponin selkään.. Vietetty
 
   
 
-[![](images/IMG_4475_.png)](http://3.bp.blogspot.com/-DNnz6eLePrc/UiTrJ3D4D9I/AAAAAAAAGxA/Ribrl0_ysIQ/s1600/IMG_4475_.png)
+[![](/images/IMG_4475_.png)](http://3.bp.blogspot.com/-DNnz6eLePrc/UiTrJ3D4D9I/AAAAAAAAGxA/Ribrl0_ysIQ/s1600/IMG_4475_.png)
 
   
 
-[![](images/IMG_4550.png)](http://2.bp.blogspot.com/-qa3J7aUhZBE/UiTrKMo1h_I/AAAAAAAAGxE/R1enrtqd3vk/s1600/IMG_4550.png)
+[![](/images/IMG_4550.png)](http://2.bp.blogspot.com/-qa3J7aUhZBE/UiTrKMo1h_I/AAAAAAAAGxE/R1enrtqd3vk/s1600/IMG_4550.png)
 
   
 
-[![](images/ak.png)](http://4.bp.blogspot.com/-OhgyEbax4yc/UiTsnBk-QFI/AAAAAAAAGyM/kCe73cIMZsk/s1600/ak.png)
+[![](/images/ak.png)](http://4.bp.blogspot.com/-OhgyEbax4yc/UiTsnBk-QFI/AAAAAAAAGyM/kCe73cIMZsk/s1600/ak.png)

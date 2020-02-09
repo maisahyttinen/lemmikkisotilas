@@ -15,7 +15,7 @@ Alla olevista kuvista ylempi on otettu 27.10.2011 eli alle viikko Sotilaan tulon
 Jälkimmäinen kuva on otettu 21.6.2012 eli kuutta päivää alle kahdeksan kuukautta edellisen jälkeen. Onhan sillä laidunmaha ja vähän ylimääräistä massaa, mut kylkiluut löytyy ja painoa on ulkonäöstä huolimatta todennäköisesti edelleen vähemmän kuin tullessaan. Ei ole hajuakaan, mistä tuo lihas on ilmestynyt, mutta massaa on siinäkin mielessä tullut lisää. Jalat ovat hurjan hyvässä kunnossa, jouhet kasvavat ja karvakin on hyvässä kunnossa nyt kun lopulta vaihtuikin. Muutos on ollut kaikin puolin positiivista, onneksi.  
   
 
-[![](images/muutos2.png)](http://2.bp.blogspot.com/-j486TQ_eUGc/T-mads6GcDI/AAAAAAAAAzM/kANs7cPunN0/s1600/muutos2.png)
+[![](/images/muutos2.png)](http://2.bp.blogspot.com/-j486TQ_eUGc/T-mads6GcDI/AAAAAAAAAzM/kANs7cPunN0/s1600/muutos2.png)
 
   
 Tänään olisi tarkoitus lähteä uimaan kahden hellyyttävän minisuokin ja parin hyvän kaverin kanssa. Kuvamateriaaliakin saatte! Juhannuksen mukavasta seurasta, hyvästä grilliruuasta ja valvomisesta on siis selvitty ja loma jatkuu. Näillä näkymin Sotilas jää vielä heinäkuuksi tämänhetkiseen asuinpaikkaansa ja muuttaa kotiin vasta lähempänä syksyä.

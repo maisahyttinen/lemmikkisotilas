@@ -8,11 +8,11 @@ template: "page"
 post_button_label: "Lue lisää"
 ---
 
-[![](images/Unknown+Soldier+(6).JPG)](http://1.bp.blogspot.com/-S2D3Uo0omqo/Ub4tsjMoezI/AAAAAAAAGBQ/enY520V634E/s1600/Unknown+Soldier+(6).JPG)[![](images/Unknown+Soldier+(9).JPG)](http://1.bp.blogspot.com/-_0xRisdn5s0/Ub4tt-t6ICI/AAAAAAAAGBs/GX28lkbagRM/s1600/Unknown+Soldier+(9).JPG)
+[![](/images/Unknown+Soldier+(6).JPG)](http://1.bp.blogspot.com/-S2D3Uo0omqo/Ub4tsjMoezI/AAAAAAAAGBQ/enY520V634E/s1600/Unknown+Soldier+(6).JPG)[![](/images/Unknown+Soldier+(9).JPG)](http://1.bp.blogspot.com/-_0xRisdn5s0/Ub4tt-t6ICI/AAAAAAAAGBs/GX28lkbagRM/s1600/Unknown+Soldier+(9).JPG)
 
   
 
-[![](images/Unknown+Soldier+(11).JPG)](http://1.bp.blogspot.com/-wj1CBmLJTo8/Ub4trcKRP4I/AAAAAAAAGBI/QvxLcV_6zVM/s1600/Unknown+Soldier+(11).JPG)[![](images/Unknown+Soldier+(1).JPG)](http://3.bp.blogspot.com/-liNQbN6QVs0/Ub4trJ3ecWI/AAAAAAAAGBE/L9hpx-J7Tvs/s1600/Unknown+Soldier+(1).JPG)
+[![](/images/Unknown+Soldier+(11).JPG)](http://1.bp.blogspot.com/-wj1CBmLJTo8/Ub4trcKRP4I/AAAAAAAAGBI/QvxLcV_6zVM/s1600/Unknown+Soldier+(11).JPG)[![](/images/Unknown+Soldier+(1).JPG)](http://3.bp.blogspot.com/-liNQbN6QVs0/Ub4trJ3ecWI/AAAAAAAAGBE/L9hpx-J7Tvs/s1600/Unknown+Soldier+(1).JPG)
 
   
 
@@ -20,7 +20,7 @@ Väsyttää niin kamalasti ettei nukkuminenkaan oikein onnistu. Kiireisin viikko
 
   
 
-[![](images/Unknown+Soldier+(8).JPG)](http://4.bp.blogspot.com/-ktpoHtFowIU/Ub4xmdRzPsI/AAAAAAAAGB8/TEv85t_snjE/s1600/Unknown+Soldier+(8).JPG)
+[![](/images/Unknown+Soldier+(8).JPG)](http://4.bp.blogspot.com/-ktpoHtFowIU/Ub4xmdRzPsI/AAAAAAAAGB8/TEv85t_snjE/s1600/Unknown+Soldier+(8).JPG)
 
   
 
@@ -28,7 +28,7 @@ Toinen täydellinen mies otti ihan älyttömän kivoja kuvia. Kaikki kuvat meist
 
   
 
-[![](images/Unknown+Soldier+(13).JPG)](http://3.bp.blogspot.com/-Zhuld_BVsJM/Ub40EV6ts7I/AAAAAAAAGCM/YMGm9rfakF8/s1600/Unknown+Soldier+(13).JPG)
+[![](/images/Unknown+Soldier+(13).JPG)](http://3.bp.blogspot.com/-Zhuld_BVsJM/Ub40EV6ts7I/AAAAAAAAGCM/YMGm9rfakF8/s1600/Unknown+Soldier+(13).JPG)
 
   
 
@@ -36,4 +36,4 @@ Sotilaalla oli eilen synttärit. Uusi toppaloimi (violetti vaaleanpunaisilla kan
 
   
 
-[![](images/ak.png)](http://1.bp.blogspot.com/-FV4GMbnkEDw/Ub41EPZDywI/AAAAAAAAGCY/dv2NrDgIFa4/s1600/ak.png)
+[![](/images/ak.png)](http://1.bp.blogspot.com/-FV4GMbnkEDw/Ub41EPZDywI/AAAAAAAAGCY/dv2NrDgIFa4/s1600/ak.png)

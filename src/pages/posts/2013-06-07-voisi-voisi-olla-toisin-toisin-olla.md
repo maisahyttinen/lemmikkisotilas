@@ -8,7 +8,7 @@ template: "page"
 post_button_label: "Lue lisää"
 ---
 
-[![](images/1.png)](http://1.bp.blogspot.com/-pZLDV1mDe9w/UbIFn8ruEDI/AAAAAAAAF9o/iIQhaoV0gR4/s1600/1.png)
+[![](/images/1.png)](http://1.bp.blogspot.com/-pZLDV1mDe9w/UbIFn8ruEDI/AAAAAAAAF9o/iIQhaoV0gR4/s1600/1.png)
 
   
 
@@ -24,11 +24,11 @@ Olen huomannut, että miellekästä hevostouhua on ravitallien ulkopuolellakin (
 
   
 
-[![](images/6.png)](http://3.bp.blogspot.com/-C0pY7bpnI-w/UbIFrIHDwoI/AAAAAAAAF-Q/fmpOyb88R5s/s1600/6.png)[![](images/7.png)](http://2.bp.blogspot.com/-IxpNl5HRf_U/UbIFsgsPcII/AAAAAAAAF-g/X-JvrKxpndg/s1600/7.png)
+[![](/images/6.png)](http://3.bp.blogspot.com/-C0pY7bpnI-w/UbIFrIHDwoI/AAAAAAAAF-Q/fmpOyb88R5s/s1600/6.png)[![](/images/7.png)](http://2.bp.blogspot.com/-IxpNl5HRf_U/UbIFsgsPcII/AAAAAAAAF-g/X-JvrKxpndg/s1600/7.png)
 
   
 
-[![](images/4.png)](http://1.bp.blogspot.com/-CMLisLwLuJ8/UbIFqrO7aOI/AAAAAAAAF-M/ZYD6epQY618/s1600/4.png)[![](images/3.png)](http://2.bp.blogspot.com/-5wUE3guFsmQ/UbIFn5JeGHI/AAAAAAAAF94/50EdK-YQ8ag/s1600/3.png)[![](images/5.png)](http://1.bp.blogspot.com/-81C2cqguxUQ/UbIFrEyvMrI/AAAAAAAAF-U/4wn_HRHJvwk/s1600/5.png)
+[![](/images/4.png)](http://1.bp.blogspot.com/-CMLisLwLuJ8/UbIFqrO7aOI/AAAAAAAAF-M/ZYD6epQY618/s1600/4.png)[![](/images/3.png)](http://2.bp.blogspot.com/-5wUE3guFsmQ/UbIFn5JeGHI/AAAAAAAAF94/50EdK-YQ8ag/s1600/3.png)[![](/images/5.png)](http://1.bp.blogspot.com/-81C2cqguxUQ/UbIFrEyvMrI/AAAAAAAAF-U/4wn_HRHJvwk/s1600/5.png)
 
   
 
@@ -36,8 +36,8 @@ Alla lemppaririiviöt - Näsvallens Pors ja Broängens Mittimellan! En ole yhtä
 
   
 
-[![](images/8.png)](http://3.bp.blogspot.com/-KRhlJ_9Poaw/UbIFsw9ZVLI/AAAAAAAAF-k/mR0fAuXzve8/s1600/8.png)
+[![](/images/8.png)](http://3.bp.blogspot.com/-KRhlJ_9Poaw/UbIFsw9ZVLI/AAAAAAAAF-k/mR0fAuXzve8/s1600/8.png)
 
   
 
-[![](images/ak.png)](http://1.bp.blogspot.com/-LjGu59GJ_Rg/UbIGLFsIhUI/AAAAAAAAF-o/k8hQO_V8Nks/s1600/ak.png)
+[![](/images/ak.png)](http://1.bp.blogspot.com/-LjGu59GJ_Rg/UbIGLFsIhUI/AAAAAAAAF-o/k8hQO_V8Nks/s1600/ak.png)

@@ -8,7 +8,7 @@ template: "page"
 post_button_label: "Lue lisää"
 ---
 
-[![](images/k11.png)](http://1.bp.blogspot.com/-bPgSh2JGjDY/UMoi1g4fqMI/AAAAAAAADZw/hBSr0UNqQ7k/s1600/k11.png) [![](images/k12.png)](http://1.bp.blogspot.com/-Agqwieelb6Q/UMokHRZd0sI/AAAAAAAADZ4/UiJImFKaneI/s1600/k12.png)
+[![](/images/k11.png)](http://1.bp.blogspot.com/-bPgSh2JGjDY/UMoi1g4fqMI/AAAAAAAADZw/hBSr0UNqQ7k/s1600/k11.png) [![](/images/k12.png)](http://1.bp.blogspot.com/-Agqwieelb6Q/UMokHRZd0sI/AAAAAAAADZ4/UiJImFKaneI/s1600/k12.png)
 
   
 
@@ -16,7 +16,7 @@ Olen ihan säälittävän epäaktiivinen.. Tämä viikko on mennyt ohi ilman, et
 
   
 
-[![](images/k13.png)](http://4.bp.blogspot.com/-lfHobj9ZGIM/UMokJRrkZTI/AAAAAAAADaA/y3FxI2_mlbI/s1600/k13.png)
+[![](/images/k13.png)](http://4.bp.blogspot.com/-lfHobj9ZGIM/UMokJRrkZTI/AAAAAAAADaA/y3FxI2_mlbI/s1600/k13.png)
 
   
 Tämän päivän kuvassa on kokonaan uusi kaveri. Suomenhevostamma Veena, joka sekin on Pennun entisiä tallikavereita. Kuva on muokkaukseltaan samaa tasoa kuin monet muutkin toissatalven kuvat, mutta kelvannee. (Oikeasti, miten olen voinut päästää nettiin näin epämääräisen värisiä kuvia, joissa horisonttikin on ihan miten sattuu..) Joka tapauksessa, Veena on yksi lempparikuvattavistani ikinä. Oikeastaan ihan tavallisen näköinen suomenhevonen, mutta harvemmin se on kuvattavana tyytynyt vain jolkottelemaan ympäri kenttää. Pomppivat hepat on aina plussaa.  
@@ -27,4 +27,4 @@ PS. Vautsi, millainen video ht.nettiin oli linkitetty! (Ja kerrakin keskusteluki
   
   
 
-[![](images/ak.png)](http://4.bp.blogspot.com/-m7H6n0JuiIo/UMokL9mvS6I/AAAAAAAADaI/5U_lhuOZjd0/s1600/ak.png)
+[![](/images/ak.png)](http://4.bp.blogspot.com/-m7H6n0JuiIo/UMokL9mvS6I/AAAAAAAADaI/5U_lhuOZjd0/s1600/ak.png)

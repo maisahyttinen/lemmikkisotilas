@@ -8,7 +8,7 @@ template: "page"
 post_button_label: "Lue lisää"
 ---
 
-[![](images/IMG_1488_.png)](http://1.bp.blogspot.com/-HRZUiU1q7W4/VE0UcapnX9I/AAAAAAAAJDY/eFAGfk-hKs8/s1600/IMG_1488_.png)
+[![](/images/IMG_1488_.png)](http://1.bp.blogspot.com/-HRZUiU1q7W4/VE0UcapnX9I/AAAAAAAAJDY/eFAGfk-hKs8/s1600/IMG_1488_.png)
 
   
 
@@ -28,11 +28,11 @@ Melkein kolmen kuukauden liikkumattomuus muuttaa hevosta kyllä hurjasti.. Meina
 
   
 
-[![](images/IMG_1440_.png)](http://2.bp.blogspot.com/-nfOwyTIs2FQ/VE0WPW8YAXI/AAAAAAAAJEA/xnoZhecdovM/s1600/IMG_1440_.png)
+[![](/images/IMG_1440_.png)](http://2.bp.blogspot.com/-nfOwyTIs2FQ/VE0WPW8YAXI/AAAAAAAAJEA/xnoZhecdovM/s1600/IMG_1440_.png)
 
   
 
-[![](images/IMG_1342_.png)](http://2.bp.blogspot.com/-C-7VOtHSjQM/VE0VXAttwcI/AAAAAAAAJD4/A30L09gJ-LI/s1600/IMG_1342_.png)[![](images/IMG_1495_2.png)](http://2.bp.blogspot.com/-GGGXbNKpnIA/VE0UdTGX5AI/AAAAAAAAJDc/ikwjTud7Noc/s1600/IMG_1495_2.png)
+[![](/images/IMG_1342_.png)](http://2.bp.blogspot.com/-C-7VOtHSjQM/VE0VXAttwcI/AAAAAAAAJD4/A30L09gJ-LI/s1600/IMG_1342_.png)[![](/images/IMG_1495_2.png)](http://2.bp.blogspot.com/-GGGXbNKpnIA/VE0UdTGX5AI/AAAAAAAAJDc/ikwjTud7Noc/s1600/IMG_1495_2.png)
 
   
 
@@ -44,7 +44,7 @@ Alla olevassa kuvassa näkyy Sotilaan tämänhetkinen suojitus. Back on Trackin 
 
   
 
-[![](images/IMG_1467_.png)](http://2.bp.blogspot.com/-P3D1dj4h2iE/VE0UcQ4PmrI/AAAAAAAAJDQ/SEEX7C_vTOw/s1600/IMG_1467_.png)
+[![](/images/IMG_1467_.png)](http://2.bp.blogspot.com/-P3D1dj4h2iE/VE0UcQ4PmrI/AAAAAAAAJDQ/SEEX7C_vTOw/s1600/IMG_1467_.png)
 
   
 
@@ -56,4 +56,4 @@ PS. Kolmisen kuukautta haaverista enkä ole vielä saanut yhtään suoraa ikäv�
 
   
 
-[![](images/IMG_1251_.png)](http://2.bp.blogspot.com/-Z8ZP5ZVexc4/VE0UcVKhV2I/AAAAAAAAJDU/5vkzDuwci6U/s1600/IMG_1251_.png)
+[![](/images/IMG_1251_.png)](http://2.bp.blogspot.com/-Z8ZP5ZVexc4/VE0UcVKhV2I/AAAAAAAAJDU/5vkzDuwci6U/s1600/IMG_1251_.png)

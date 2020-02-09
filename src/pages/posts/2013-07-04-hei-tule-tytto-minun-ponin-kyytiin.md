@@ -14,13 +14,13 @@ Se laukkaa, todistetusti. Meno tosin näytti siltä etten aivan heti kokeile sam
 
   
 
-[![](images/IMG_0051.JPG)](http://4.bp.blogspot.com/-3RFk-NUE0bw/UdVVnZD9K5I/AAAAAAAAGK0/jkpMWzaMeQA/s800/IMG_0051.JPG)
+[![](/images/IMG_0051.JPG)](http://4.bp.blogspot.com/-3RFk-NUE0bw/UdVVnZD9K5I/AAAAAAAAGK0/jkpMWzaMeQA/s800/IMG_0051.JPG)
 
   
 
-[![](images/IMG_0078.JPG)](http://4.bp.blogspot.com/-zCHpCaVvwsg/UdVVmwgFCoI/AAAAAAAAGKs/krAnFmgOk48/s800/IMG_0078.JPG)[![](images/IMG_0198.JPG)](http://3.bp.blogspot.com/-rQ_lwKWbWbY/UdVVpUOTtaI/AAAAAAAAGLQ/8U9sY9mMJDc/s800/IMG_0198.JPG)
+[![](/images/IMG_0078.JPG)](http://4.bp.blogspot.com/-zCHpCaVvwsg/UdVVmwgFCoI/AAAAAAAAGKs/krAnFmgOk48/s800/IMG_0078.JPG)[![](/images/IMG_0198.JPG)](http://3.bp.blogspot.com/-rQ_lwKWbWbY/UdVVpUOTtaI/AAAAAAAAGLQ/8U9sY9mMJDc/s800/IMG_0198.JPG)
 
   
   
 
-[![](images/ak.png)](http://1.bp.blogspot.com/-mSrLcHgYZuc/UdVaL8Z7K2I/AAAAAAAAGLg/1DmlXaEHeRE/s200/ak.png)
+[![](/images/ak.png)](http://1.bp.blogspot.com/-mSrLcHgYZuc/UdVaL8Z7K2I/AAAAAAAAGLg/1DmlXaEHeRE/s200/ak.png)

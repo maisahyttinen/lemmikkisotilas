@@ -8,7 +8,7 @@ template: "page"
 post_button_label: "Lue lisää"
 ---
 
-[![](images/IMG_1053_.png)](http://2.bp.blogspot.com/-mJ302-gixqQ/VfVWW59TEvI/AAAAAAAAJ_g/sgaBRt4KkPQ/s1600/IMG_1053_.png)
+[![](/images/IMG_1053_.png)](http://2.bp.blogspot.com/-mJ302-gixqQ/VfVWW59TEvI/AAAAAAAAJ_g/sgaBRt4KkPQ/s1600/IMG_1053_.png)
 
   
 
@@ -16,7 +16,7 @@ Reissaan jatkuvasti paikasta toiseen muutenkin, mutta perjantaina tuli tehtyä e
 
   
 
-[![](images/IMG_1140_.png)](http://4.bp.blogspot.com/-LSYkcv36uGk/VfVWe7c5ljI/AAAAAAAAKBI/T_nxFUQa3nQ/s1600/IMG_1140_.png)
+[![](/images/IMG_1140_.png)](http://4.bp.blogspot.com/-LSYkcv36uGk/VfVWe7c5ljI/AAAAAAAAKBI/T_nxFUQa3nQ/s1600/IMG_1140_.png)
 
   
 
@@ -24,11 +24,11 @@ Sovimme jo etukäteen mistä kukakin kirjoittaa. Minä keskityin **hevosten syys
 
   
 
-[![](images/IMG_1123_.png)](http://3.bp.blogspot.com/-cz01r23VB9o/VfVWb_mqL_I/AAAAAAAAKAg/57GX2l3H4uY/s1600/IMG_1123_.png)
+[![](/images/IMG_1123_.png)](http://3.bp.blogspot.com/-cz01r23VB9o/VfVWb_mqL_I/AAAAAAAAKAg/57GX2l3H4uY/s1600/IMG_1123_.png)
 
   
 
-[![](images/IMG_1125_.png)](http://3.bp.blogspot.com/-8HdlIYWEI1c/VfVWdRrNOaI/AAAAAAAAKAw/0ZYiXw7PD3A/s1600/IMG_1125_.png)
+[![](/images/IMG_1125_.png)](http://3.bp.blogspot.com/-8HdlIYWEI1c/VfVWdRrNOaI/AAAAAAAAKAw/0ZYiXw7PD3A/s1600/IMG_1125_.png)
 
   
 
@@ -40,7 +40,7 @@ Yksi kaikkein kiinnostavimmista uutuuksista löytyi suojahyllystä. EquiXpertilt
 
   
 
-[![](images/IMG_1131_.png)](http://3.bp.blogspot.com/-ShvnbUgAigo/VfVWeZyU2YI/AAAAAAAAKA8/FrBhUt5ksQY/s1600/IMG_1131_.png)[![](images/IMG_1096_.png)](http://4.bp.blogspot.com/-i7gWqvcDbQA/VfVWa6PL0tI/AAAAAAAAKAQ/h3uhWG3rO24/s1600/IMG_1096_.png)
+[![](/images/IMG_1131_.png)](http://3.bp.blogspot.com/-ShvnbUgAigo/VfVWeZyU2YI/AAAAAAAAKA8/FrBhUt5ksQY/s1600/IMG_1131_.png)[![](/images/IMG_1096_.png)](http://4.bp.blogspot.com/-i7gWqvcDbQA/VfVWa6PL0tI/AAAAAAAAKAQ/h3uhWG3rO24/s1600/IMG_1096_.png)
 
   
 
@@ -48,11 +48,11 @@ Omien uutuuksien lisäksi Hööksin valikoimiin ovat tulleet myös Sprenger-kuol
 
   
 
-[![](images/IMG_1130_.png)](http://2.bp.blogspot.com/-p1gEopHhR14/VfVWeNViXFI/AAAAAAAAKA4/OqWa7gD_Ny4/s1600/IMG_1130_.png)[![](images/IMG_1118_.png)](http://3.bp.blogspot.com/-7M6CWIpm3Dg/VfVWbjCjXpI/AAAAAAAAKAk/ApuqVw2yimg/s1600/IMG_1118_.png)
+[![](/images/IMG_1130_.png)](http://2.bp.blogspot.com/-p1gEopHhR14/VfVWeNViXFI/AAAAAAAAKA4/OqWa7gD_Ny4/s1600/IMG_1130_.png)[![](/images/IMG_1118_.png)](http://3.bp.blogspot.com/-7M6CWIpm3Dg/VfVWbjCjXpI/AAAAAAAAKAk/ApuqVw2yimg/s1600/IMG_1118_.png)
 
   
 
-[![](images/IMG_1090_.png)](http://4.bp.blogspot.com/-vq8aNZA49aY/VfVWZdlrTII/AAAAAAAAKAE/nat-W64HFrQ/s1600/IMG_1090_.png)
+[![](/images/IMG_1090_.png)](http://4.bp.blogspot.com/-vq8aNZA49aY/VfVWZdlrTII/AAAAAAAAKAE/nat-W64HFrQ/s1600/IMG_1090_.png)
 
   
 
@@ -64,7 +64,7 @@ Syksyn värit näkyvät tottakai myös loimipuolella. Etenkin vihreää ja harma
 
   
 
-[![](images/IMG_1072_.png)](http://4.bp.blogspot.com/-mIPPO_rSyBE/VfVWZQ9OPII/AAAAAAAAKAA/t44huEiIg2A/s1600/IMG_1072_.png)[![](images/IMG_1070_.png)](http://2.bp.blogspot.com/-519QEpee3fY/VfVWY9qyE8I/AAAAAAAAJ_8/ApyHafO4H8s/s1600/IMG_1070_.png)
+[![](/images/IMG_1072_.png)](http://4.bp.blogspot.com/-mIPPO_rSyBE/VfVWZQ9OPII/AAAAAAAAKAA/t44huEiIg2A/s1600/IMG_1072_.png)[![](/images/IMG_1070_.png)](http://2.bp.blogspot.com/-519QEpee3fY/VfVWY9qyE8I/AAAAAAAAJ_8/ApyHafO4H8s/s1600/IMG_1070_.png)
 
   
 
@@ -78,4 +78,4 @@ Tuliaisista lisää myöhemmin!
 
   
 
-[![](images/IMG_1209_.png)](http://2.bp.blogspot.com/-txu--r6YiFU/VfVWfeG-z_I/AAAAAAAAKBM/KWNxZUwcIog/s1600/IMG_1209_.png)
+[![](/images/IMG_1209_.png)](http://2.bp.blogspot.com/-txu--r6YiFU/VfVWfeG-z_I/AAAAAAAAKBM/KWNxZUwcIog/s1600/IMG_1209_.png)

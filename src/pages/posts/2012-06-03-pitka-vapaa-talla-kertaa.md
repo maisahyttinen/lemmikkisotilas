@@ -24,7 +24,7 @@ Sotilas muutti, koulu loppui eikä lomaa olisi voinut aloittaa paremmin kuin vii
 
   
 
-[![](images/IMG_0721.png)](http://1.bp.blogspot.com/-aIhKjN0iPs0/T8vbTvcSlAI/AAAAAAAAAtE/_YmIk3yt6bI/s1600/IMG_0721.png)
+[![](/images/IMG_0721.png)](http://1.bp.blogspot.com/-aIhKjN0iPs0/T8vbTvcSlAI/AAAAAAAAAtE/_YmIk3yt6bI/s1600/IMG_0721.png)
 
   
 
@@ -34,20 +34,20 @@ Myöhästyin karusti tältä vuorokaudelta.. Mutta voitte kuvitella päivämää
 
   
 
-[![](images/IMG_0734.png)](http://1.bp.blogspot.com/-Z31ycwTUcdI/T8vLnbt1_MI/AAAAAAAAAs4/1UV6b1VJH_o/s1600/IMG_0734.png)
+[![](/images/IMG_0734.png)](http://1.bp.blogspot.com/-Z31ycwTUcdI/T8vLnbt1_MI/AAAAAAAAAs4/1UV6b1VJH_o/s1600/IMG_0734.png)
 
   
   
 Tullessaan Sotilas ei tullut toimeen alamäkien kanssa ja jokaisen tiellä olevan kiven tai risun kohdalla meinattiin olla polvillaan. Pieni harjoittelu on kuitenkin tainnut tehdä tehtävänsä ja tänään selvittiin metsäpoluilla ja jyrkissä mäissä ihan näppärästi. Hypähdettiin jopa eteen osuneen vesilätäkön yli. Oltiin ensimmäistä kertaa lenkkeilemässä kaverin kanssa ja varusteetkin olivat sen mukaiset. Kaikenlaiset ylimääräjarrut ovat ilmeisesti ihan turhia ympäristöstä ja matkaseurasta riippumatta. Etenkin paluumatkalla tämänkertainen matkaseura meinasi heittäytyä villiksi, mutta se ei meitä juurikaan hetkauttanut. Oli ihanaa maastoilla pitkästä aikaa hevosella jonka voi antaa kulkea pitkin ohjin missä tahansa.  
   
 
-[![](images/IMG_0690.png)](http://1.bp.blogspot.com/-my8T10cqV6A/T8vLf1x2AzI/AAAAAAAAAsg/r85NEq11WJU/s1600/IMG_0690.png)
+[![](/images/IMG_0690.png)](http://1.bp.blogspot.com/-my8T10cqV6A/T8vLf1x2AzI/AAAAAAAAAsg/r85NEq11WJU/s1600/IMG_0690.png)
 
   
 Veteen pääseminen meinasi ensimmäisellä kerralla muodostua haasteeksi, mutta meitä useammin uimista harrastaneen matkaseuran esimerkillä ja avulla päästiin lopulta järveen saakka. Alun tahmeuden jälkeen Sotilas innostui touhusta ja uskalsi lähteä kaverin perässä syvemmällekin. (Haha ensimmäisessä kuvassa näkyy meidän näkemyksemme toimivasta kannustimesta. En ole koskaan tykännyt ratsastaa turhaan piiskan kanssa eikä sitä ole mukana juuri koskaan tarvittaessakaan joten välillä pitää vähän soveltaa. Tällä kertaa ratkaisu oli hellävarainen mutta oikein toimiva!) Ja kuten kuvasta voi ehkä havaita, oli stressin määrä valtava. Kaikkineen oli oikein rentouttava ja hauska reissu.  
   
 
-[![](images/IMG_0541.png)](http://2.bp.blogspot.com/-jB8U-90YxGM/T8vLdlCmSII/AAAAAAAAAsY/67Pw2e1QFa4/s1600/IMG_0541.png)
+[![](/images/IMG_0541.png)](http://2.bp.blogspot.com/-jB8U-90YxGM/T8vLdlCmSII/AAAAAAAAAsY/67Pw2e1QFa4/s1600/IMG_0541.png)
 
   
   

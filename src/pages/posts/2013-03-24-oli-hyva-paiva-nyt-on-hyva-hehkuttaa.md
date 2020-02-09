@@ -12,19 +12,19 @@ Viime tekstistä on .. yli kolme viikkoa? Vieläkään ei ole mitään kerrottav
 
   
 
-[![](images/IMG_0321.JPG)](http://4.bp.blogspot.com/-yGbrL_XOE6c/UU60ziUeEbI/AAAAAAAAFfc/j5_pjqbIk48/s1600/IMG_0321.JPG)[![](images/IMG_0156.JPG)](http://1.bp.blogspot.com/-FLHG1ADjDZk/UU60xJwhrGI/AAAAAAAAFe0/WmEQdeFNHWE/s1600/IMG_0156.JPG)
+[![](/images/IMG_0321.JPG)](http://4.bp.blogspot.com/-yGbrL_XOE6c/UU60ziUeEbI/AAAAAAAAFfc/j5_pjqbIk48/s1600/IMG_0321.JPG)[![](/images/IMG_0156.JPG)](http://1.bp.blogspot.com/-FLHG1ADjDZk/UU60xJwhrGI/AAAAAAAAFe0/WmEQdeFNHWE/s1600/IMG_0156.JPG)
 
   
 
-[![](images/IMG_0123.JPG)](http://1.bp.blogspot.com/-Mw8Y9QfTaXM/UU61QtPUV4I/AAAAAAAAFgI/P3XVSH8neaE/s1600/IMG_0123.JPG)[![](images/IMG_0363.JPG)](http://3.bp.blogspot.com/-MRbCDrUE88g/UU601NQIEUI/AAAAAAAAFgA/ZsOmUL_DKDs/s1600/IMG_0363.JPG)[![](images/IMG_0340.JPG)](http://1.bp.blogspot.com/-7Jn46qYpGXg/UU600j4s2nI/AAAAAAAAFf0/awT_nrmxxZ0/s1600/IMG_0340.JPG)
+[![](/images/IMG_0123.JPG)](http://1.bp.blogspot.com/-Mw8Y9QfTaXM/UU61QtPUV4I/AAAAAAAAFgI/P3XVSH8neaE/s1600/IMG_0123.JPG)[![](/images/IMG_0363.JPG)](http://3.bp.blogspot.com/-MRbCDrUE88g/UU601NQIEUI/AAAAAAAAFgA/ZsOmUL_DKDs/s1600/IMG_0363.JPG)[![](/images/IMG_0340.JPG)](http://1.bp.blogspot.com/-7Jn46qYpGXg/UU600j4s2nI/AAAAAAAAFf0/awT_nrmxxZ0/s1600/IMG_0340.JPG)
 
   
 
-[![](images/IMG_0246.JPG)](http://2.bp.blogspot.com/-02Po6QS4Zq4/UU60zPT1mVI/AAAAAAAAFfY/wLygSHYdU1E/s1600/IMG_0246.JPG)[![](images/IMG_0381.JPG)](http://4.bp.blogspot.com/-zHWa18Dy0MY/UU600yHrECI/AAAAAAAAFf8/uc6ozl0lJes/s1600/IMG_0381.JPG)
+[![](/images/IMG_0246.JPG)](http://2.bp.blogspot.com/-02Po6QS4Zq4/UU60zPT1mVI/AAAAAAAAFfY/wLygSHYdU1E/s1600/IMG_0246.JPG)[![](/images/IMG_0381.JPG)](http://4.bp.blogspot.com/-zHWa18Dy0MY/UU600yHrECI/AAAAAAAAFf8/uc6ozl0lJes/s1600/IMG_0381.JPG)
 
   
 
-[![](images/IMG_0383.JPG)](http://3.bp.blogspot.com/-73HU_2TNP0U/UU601hUhD6I/AAAAAAAAFgE/F4Cj-tzRuIc/s1600/IMG_0383.JPG)
+[![](/images/IMG_0383.JPG)](http://3.bp.blogspot.com/-73HU_2TNP0U/UU601hUhD6I/AAAAAAAAFgE/F4Cj-tzRuIc/s1600/IMG_0383.JPG)
 
   
 
@@ -32,4 +32,4 @@ PS. Minulle ja Sotilaalle kuuluu ihan hyvää. Istuin terveystiedon yo-kokeessa 
 
   
 
-[![](images/ak.png)](http://4.bp.blogspot.com/-Yd2FZ_ogY-Q/UU63wYuPvEI/AAAAAAAAFgY/heFJ4dDAxIw/s1600/ak.png)
+[![](/images/ak.png)](http://4.bp.blogspot.com/-Yd2FZ_ogY-Q/UU63wYuPvEI/AAAAAAAAFgY/heFJ4dDAxIw/s1600/ak.png)

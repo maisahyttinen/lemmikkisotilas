@@ -18,7 +18,7 @@ Banneri muuttunee vielä hieman, ei todellakaan enää tänä iltana, mutta muut
 
   
 
-[![](images/piha.png)](http://2.bp.blogspot.com/-Hb67HUihIb4/Ujn7N1_sgGI/AAAAAAAAG68/b7cISFbuo1w/s1600/piha.png)
+[![](/images/piha.png)](http://2.bp.blogspot.com/-Hb67HUihIb4/Ujn7N1_sgGI/AAAAAAAAG68/b7cISFbuo1w/s1600/piha.png)
 
   
 
@@ -28,4 +28,4 @@ PPS. Vau, facebook-tykkääjiä on jo yli 70! Ketkä tunnustavat tykänneensä? 
 
   
 
-[![](images/ak.png)](http://3.bp.blogspot.com/-3mmlYD7zIrU/Ujn85BwTBXI/AAAAAAAAG7M/rcQoxyTQT8U/s1600/ak.png)
+[![](/images/ak.png)](http://3.bp.blogspot.com/-3mmlYD7zIrU/Ujn85BwTBXI/AAAAAAAAG7M/rcQoxyTQT8U/s1600/ak.png)

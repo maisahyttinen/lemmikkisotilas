@@ -11,13 +11,13 @@ post_button_label: "Lue lisää"
 Huh, ulkoasu muuttui taas hieman. Edellinen ei koskaan tullut oikein valmiiksi.. Tämä keväinen tai ehkä jopa kesäinenkin versio saa kelvata nyt ainakin hetken. Oma tietokoneeni muuttui perjantaina kasaksi hassuja osia (ei löytynyt mitään jännää), joten kuvankäsittelyvälineistön puuttuessa ulkoasukin jäänee pelkistetyksi. Toisen täydellisen miehen avulla sain tästä kuitenkin mieleiseni ja korvaan grafiikan kuvilla! Mitä tykkäätte? (Bannerikin tulee lähiaikoina.)  
   
 
-[![](images/IMG_0267.JPG)](http://4.bp.blogspot.com/-yxF0_AUt7uU/UZpR_-fp1iI/AAAAAAAAFyw/1h-zQLZNqK0/s1600/IMG_0267.JPG)
+[![](/images/IMG_0267.JPG)](http://4.bp.blogspot.com/-yxF0_AUt7uU/UZpR_-fp1iI/AAAAAAAAFyw/1h-zQLZNqK0/s1600/IMG_0267.JPG)
 
   
 Tätä kuuluu meidän treeniohjelmaamme runsaasti tällä hetkellä. Sotilas kiipeilee ihan mielellään ja lähimaastoista löytyy paljon mäkiä mitä rämpiä edestakaisin. Tämäkin kiipeilykohde on soramontulla alle kahden kilometrin päässä meiltä. Alas ei vielä päästä yhdessä, mutta syksyllä ehkä uskallamme jo yrittää? Eilisen vapaapäivän jälkeen meno oli aika motivoitunutta ja rauhallisen hölkän sijaan tarjolla oli paljon viileämpää kyytiä. Viimeviikkojen ratsastelun jälkeen pystyin huoletta antaa Sotilaan juosta loivan nousun jonka olin suunnitellut hölkäksi - vauhdin kasvaessa Sotilaan selkä pysyy lähes paikallaan.  
   
 
-[![](images/IMG_0276.JPG)](http://4.bp.blogspot.com/-6y3xNAL8WCw/UZpShCPqrVI/AAAAAAAAFzA/XE2J1C4Wshk/s1600/IMG_0276.JPG)[![](images/IMG_0313.JPG)](http://4.bp.blogspot.com/-EgBuDCrpUGk/UZpTHBdpPJI/AAAAAAAAFzI/s-fuH3d-BQE/s1600/IMG_0313.JPG)
+[![](/images/IMG_0276.JPG)](http://4.bp.blogspot.com/-6y3xNAL8WCw/UZpShCPqrVI/AAAAAAAAFzA/XE2J1C4Wshk/s1600/IMG_0276.JPG)[![](/images/IMG_0313.JPG)](http://4.bp.blogspot.com/-EgBuDCrpUGk/UZpTHBdpPJI/AAAAAAAAFzI/s-fuH3d-BQE/s1600/IMG_0313.JPG)
 
  Kuvista kiitos vakituiselle lenkkeilyseuralle, Iidalle!
 
@@ -41,4 +41,4 @@ PPS. Kesäkuu alkaa sittenkin hevostöillä. Kivaa!
 
   
 
-[![](images/ak.png)](http://1.bp.blogspot.com/-FniC4EyGaw4/UZpSA0z60iI/AAAAAAAAFy4/EkVK5YmH1Lw/s1600/ak.png)
+[![](/images/ak.png)](http://1.bp.blogspot.com/-FniC4EyGaw4/UZpSA0z60iI/AAAAAAAAFy4/EkVK5YmH1Lw/s1600/ak.png)

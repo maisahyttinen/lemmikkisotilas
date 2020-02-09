@@ -8,7 +8,7 @@ template: "page"
 post_button_label: "Lue lisää"
 ---
 
-[![](images/IMG_3295.png)](https://lh3.googleusercontent.com/-ZSBaRTUAZ4w/TXVAAoALgfI/AAAAAAAAAC0/V9AK1pmfGAk/s1600/IMG_3295.png)
+[![](/images/IMG_3295.png)](https://lh3.googleusercontent.com/-ZSBaRTUAZ4w/TXVAAoALgfI/AAAAAAAAAC0/V9AK1pmfGAk/s1600/IMG_3295.png)
 
   
 Tätä päivää ei kyllä pelasta mikään. Musta ei vaan oo ajattelemaan muittenki puolesta, hyväku itteni puolesta ajattelemisesta selviän. Etenki ku kukaan ei tunnu saavan silmiä auki yhtään.. Mutta ei se mitään, ei auta ku elää sitä mukaa ku asioita tapahtuu. Täl hetkellä kaikki on ainaki vielä ihan OK.  

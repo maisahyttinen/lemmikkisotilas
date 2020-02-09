@@ -16,4 +16,4 @@ Sotilaalle kuuluu ihan hyvää. Se saa kesäkengät vihdoin perjantai-iltana ja 
 
   
 
-[![](images/ak.png)](http://2.bp.blogspot.com/-BHRnFcTbvnQ/UX6e6UpVH8I/AAAAAAAAFq4/ZE-4TGwDU6I/s1600/ak.png)
+[![](/images/ak.png)](http://2.bp.blogspot.com/-BHRnFcTbvnQ/UX6e6UpVH8I/AAAAAAAAFq4/ZE-4TGwDU6I/s1600/ak.png)

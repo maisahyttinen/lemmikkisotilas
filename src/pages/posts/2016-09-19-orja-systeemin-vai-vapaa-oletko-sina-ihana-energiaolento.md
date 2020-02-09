@@ -8,15 +8,15 @@ template: "page"
 post_button_label: "Lue lisää"
 ---
 
-[![](images/2.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/09/2.png)
+[![](/images/2.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/09/2.png)
 
-[![](images/3-200x300.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/09/3.png)[![](images/1-200x300.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/09/1.png)
+[![](/images/3-200x300.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/09/3.png)[![](/images/1-200x300.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/09/1.png)
 
 Lauantaina perhe kasvoi yhdellä pienellä karvaisella kaverilla. Olen haaveillut kissasta siitä asti kun muutin omilleni pari vuotta sitten, ja nyt vihdoin sain sellaisen! Halusin ehdottomasti aikuisen, peruskesyn ja muutenkin "valmiin" kissan. Kodittoman kissan valitseminen oli itsestäänselvää. 9-vuotias Ismo löytyi Lappeenrannan eläinsuojeluyhdistyksen kautta. Olen sille neljäs tai viides omistaja, välissä se on viettänyt aikaa kissatalolla ja sijaiskodeissa. Tätä melkein seitsenkiloista sängynlämmitintä ei reissaaminen ole suuremmin vahingoittanut - se matkusti hyvin ja asettui taloksi parissa tunnissa.
 
  
 
-[![](images/4.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/09/4.png)
+[![](/images/4.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/09/4.png)
 
  
 
@@ -24,7 +24,7 @@ Reilun parin vuorokauden yhdessäolon jälkeen voisi varovasti sanoa, että löy
 
  
 
-[![](images/5.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/09/5.png)
+[![](/images/5.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/09/5.png)
 
  
 
@@ -32,4 +32,4 @@ Rescue-eläinten kanssa sitä yleensä saa mitä sattuu tulemaan. Voi yrittää 
 
 Tiedossa on siis Sotilaan kuulumisien lisäksi myös paljon kissakuvia.. Sotilaalla on kaikki hyvin. Se rokotettiin ja raspattiin viime viikolla ja kaikki oli onneksi kunnossa!
 
-[![](images/6-200x300.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/09/6.png)[![](images/7-200x300.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/09/7.png)
+[![](/images/6-200x300.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/09/6.png)[![](/images/7-200x300.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/09/7.png)

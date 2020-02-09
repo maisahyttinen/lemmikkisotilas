@@ -8,7 +8,7 @@ template: "page"
 post_button_label: "Lue lisää"
 ---
 
-[![](images/nimet%25C3%25B6n.png)](https://lh6.googleusercontent.com/-wjNiwM54jS4/TWrAvXyuAmI/AAAAAAAAABQ/Kj6v27ux_18/s1600/nimet%25C3%25B6n.png)
+[![](/images/nimet%25C3%25B6n.png)](https://lh6.googleusercontent.com/-wjNiwM54jS4/TWrAvXyuAmI/AAAAAAAAABQ/Kj6v27ux_18/s1600/nimet%25C3%25B6n.png)
 
   
 Prinsessa lähti kuukaus sitte.. Ihan älytön ikävä. Mistään ei tuu mitään ku ei oo pientä heppasta. Eikä iso heppanenka oikein sen paikkaa täytä.. Missä mun oma pikku prinsessa.. Näyttääpä vielä karummalta tolleen kirjotettuna. Ootan kyl ihan älyttömästi sitä, et tää tallista talliin kiertäminen loppuu. Viimeistään kesällä, että sitä odotellessa. Voi luoja, äh.  

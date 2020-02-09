@@ -20,7 +20,7 @@ Eilen Sotilasta kävi moikkaamassa vanha tallikaveri Hubertukselta. (Video yllä
 
   
 
-[![](images/IMG_1803_.png)](http://3.bp.blogspot.com/-9sUwA8EdTD0/Vg15xRQ7aBI/AAAAAAAAKLc/-ywWC3j8j1w/s1600/IMG_1803_.png)
+[![](/images/IMG_1803_.png)](http://3.bp.blogspot.com/-9sUwA8EdTD0/Vg15xRQ7aBI/AAAAAAAAKLc/-ywWC3j8j1w/s1600/IMG_1803_.png)
 
   
 

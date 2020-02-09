@@ -8,7 +8,7 @@ template: "page"
 post_button_label: "Lue lisää"
 ---
 
-[![](images/asdf.png)](http://2.bp.blogspot.com/-34tGT_cDWCs/UF7FVV8PooI/AAAAAAAABXI/sfR4puPIUh0/s1600/asdf.png)
+[![](/images/asdf.png)](http://2.bp.blogspot.com/-34tGT_cDWCs/UF7FVV8PooI/AAAAAAAABXI/sfR4puPIUh0/s1600/asdf.png)
 
   
 
@@ -48,4 +48,4 @@ Oma valintani on jälleen kerran vaikea, mutta..
 
 Antakaa anteeksi tämä epäaktiivisuus. Täällä vain sataa ja sataa.. Kameraa ei voi eikä huvita ulkoiluttaa, eikä sateessa mikään jaksa innostaa hevosta eikä omistajaa. Siispä toinen panostaa syömiseen loimiin käärittynä ja toinen istuu tietokoneella saamatta tässäkään aikaan yhtään mitään. Hienoa.
 
-[![](images/ak.png)](http://2.bp.blogspot.com/-P9Y-dtr-Dow/UF9Nuid9T2I/AAAAAAAABYM/U6mAd4av4Tg/s1600/ak.png)
+[![](/images/ak.png)](http://2.bp.blogspot.com/-P9Y-dtr-Dow/UF9Nuid9T2I/AAAAAAAABYM/U6mAd4av4Tg/s1600/ak.png)

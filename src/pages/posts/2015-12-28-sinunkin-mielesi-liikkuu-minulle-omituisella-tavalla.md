@@ -8,7 +8,7 @@ template: "page"
 post_button_label: "Lue lisää"
 ---
 
-[![](images/IMG_3286_.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2015/12/IMG_3286_.png)
+[![](/images/IMG_3286_.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2015/12/IMG_3286_.png)
 
  
 
@@ -26,4 +26,4 @@ Kuinka ihmeessä parisuhde sitten kestää inttiajan toisensa perään? Voin tä
 
 Miten blogin käy? Katsellaan! Lupaan pitää teidät ajan tasalla ainakin siitä kuinka hurjaa vauhtia Sotilas lihoo ja karvaantuu päästyään äitini hoiviin. Harrastan sen kanssa itse niin paljon kuin ikinä pystyn ja ehdin. Sairasloman jatkuminen rajoittaa liikuntaa toistaiseksi jonkin verran, jatkosta en uskalla sanoa vielä mitään. Jatkoa on joka tapauksessa luvassa, ennemmin tai myöhemmin. Vielä tällä viikolla on tulossa juttua ainakin tämän joulun joululahjoista, ja Otonkin pitäisi tulla kylään myöhemmin tänään. Kuvasaastetta tiedossa.
 
-[![](images/2015-12-23-2B01.00.57-2B1.jpg)](https://qpm.kda.mybluehost.me/wp-content/uploads/2015/12/2015-12-23-2B01.00.57-2B1.jpg)
+[![](/images/2015-12-23-2B01.00.57-2B1.jpg)](https://qpm.kda.mybluehost.me/wp-content/uploads/2015/12/2015-12-23-2B01.00.57-2B1.jpg)

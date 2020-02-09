@@ -14,7 +14,7 @@ post_button_label: "Lue lisää"
 
 Kuten jo muutama päivä sitten mainitsin, vietin juuri huisin viikonlopun Tukholmassa. Kolme pitkää päivää pelkkää raviurheilua! Voin täysin rehellisesti sanoa, etten ole koskaan ikinä nähnyt missään yhtä paljon hienoja hevosia samalla kertaa. **Elitloppet** on muutenkin aivan omaa luokkaansa verrattuna yhteenkään suomalaiseen ravitapahtumaan. Edes kuninkuusravien päätöspäivänä ei päästä samaan tunnelmaan mikä Solvallassa oli jo perjantain lounasravien aikaan. Ravivuoden ehdoton kohokohta! **#älskatrav**
 
-[![](images/IMG_5765_.png)](http://1.bp.blogspot.com/-EVYKE9SafFo/VXDFLAD1u8I/AAAAAAAAJsw/73laXPEQXJY/s1600/IMG_5765_.png)
+[![](/images/IMG_5765_.png)](http://1.bp.blogspot.com/-EVYKE9SafFo/VXDFLAD1u8I/AAAAAAAAJsw/73laXPEQXJY/s1600/IMG_5765_.png)
 
   
 
@@ -26,7 +26,7 @@ Elitloppet-viikonloppu kerää paikan päälle yli 50 000 katsojaa. Sunnuntaina 
 
   
 
-[![](images/IMG_5810_.png)](http://3.bp.blogspot.com/-CZnqfMkk8iY/VXDFLh54T4I/AAAAAAAAJtA/OZPv9N0_SVA/s1600/IMG_5810_.png)
+[![](/images/IMG_5810_.png)](http://3.bp.blogspot.com/-CZnqfMkk8iY/VXDFLh54T4I/AAAAAAAAJtA/OZPv9N0_SVA/s1600/IMG_5810_.png)
 
   
 
@@ -38,7 +38,7 @@ Emme koskaan pääseet perjantain varsahuutokauppaan asti. Harmi sinänsä, sill
 
   
 
-[![](images/IMG_5859_.png)](http://3.bp.blogspot.com/-DxbRX3Zwqkg/VXDFN-0lpzI/AAAAAAAAJtc/lKXkWD3SXi8/s1600/IMG_5859_.png)
+[![](/images/IMG_5859_.png)](http://3.bp.blogspot.com/-DxbRX3Zwqkg/VXDFN-0lpzI/AAAAAAAAJtc/lKXkWD3SXi8/s1600/IMG_5859_.png)
 
   
 
@@ -46,11 +46,11 @@ Lauantaina satoi vettä. Kaatamalla. Itse kilpailutapahtuman tasoa se ei juuri l
 
   
 
-[![](images/IMG_5813_.png)](http://1.bp.blogspot.com/-DtChQ5qx1LA/VXDFNEXmbJI/AAAAAAAAJtU/_I564QXaI9Q/s1600/IMG_5813_.png)
+[![](/images/IMG_5813_.png)](http://1.bp.blogspot.com/-DtChQ5qx1LA/VXDFNEXmbJI/AAAAAAAAJtU/_I564QXaI9Q/s1600/IMG_5813_.png)
 
   
 
-[![](images/IMG_5934_.png)](http://2.bp.blogspot.com/-tSiqWWlfd3w/VXDFNiW_5sI/AAAAAAAAJtk/3DOQfas1d2Y/s1600/IMG_5934_.png)
+[![](/images/IMG_5934_.png)](http://2.bp.blogspot.com/-tSiqWWlfd3w/VXDFNiW_5sI/AAAAAAAAJtk/3DOQfas1d2Y/s1600/IMG_5934_.png)
 
   
 
@@ -60,7 +60,7 @@ Itse Elitloppetin suurin jännitys jäi jo karsintoihin - Suomen edustaja, Finla
 
   
 
-[![](images/IMG_5989_.png)](http://4.bp.blogspot.com/--nWeK3MI49I/VXDFOsndatI/AAAAAAAAJto/s8fqnAqr17M/s1600/IMG_5989_.png)
+[![](/images/IMG_5989_.png)](http://4.bp.blogspot.com/--nWeK3MI49I/VXDFOsndatI/AAAAAAAAJto/s8fqnAqr17M/s1600/IMG_5989_.png)
 
   
 
@@ -68,7 +68,7 @@ Kaikkein suurin ero suomalaisiin suurkilpailuihin taitaa löytyä yleisöstä. J
 
   
 
-[![](images/IMG_6012_2_.png)](http://2.bp.blogspot.com/-W9ZBxsq2caU/VXDPP3WoLUI/AAAAAAAAJuI/_ap2C36RDUo/s1600/IMG_6012_2_.png)
+[![](/images/IMG_6012_2_.png)](http://2.bp.blogspot.com/-W9ZBxsq2caU/VXDPP3WoLUI/AAAAAAAAJuI/_ap2C36RDUo/s1600/IMG_6012_2_.png)
 
   
 
@@ -76,8 +76,8 @@ Pääsin Elitloppet-finalisti Nuncion palvelusväen mukana kiertämään myös t
 
   
 
-[![](images/IMG_6016_.png)](http://3.bp.blogspot.com/-UhZ30ja0mCc/VXDFQNLboNI/AAAAAAAAJt4/C6ZO5viZ9_Q/s1600/IMG_6016_.png)
+[![](/images/IMG_6016_.png)](http://3.bp.blogspot.com/-UhZ30ja0mCc/VXDFQNLboNI/AAAAAAAAJt4/C6ZO5viZ9_Q/s1600/IMG_6016_.png)
 
   
 
-[![](images/IMG_6018_.png)](http://1.bp.blogspot.com/-UEmfteeJxt4/VXDFQq17rLI/AAAAAAAAJt8/cFp9ZLfFgzc/s1600/IMG_6018_.png)
+[![](/images/IMG_6018_.png)](http://1.bp.blogspot.com/-UEmfteeJxt4/VXDFQq17rLI/AAAAAAAAJt8/cFp9ZLfFgzc/s1600/IMG_6018_.png)

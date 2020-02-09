@@ -8,11 +8,11 @@ template: "page"
 post_button_label: "Lue lisää"
 ---
 
-[![](images/uima2_1.png)](http://2.bp.blogspot.com/-w96eGhEkd4U/Uad8YgBCxoI/AAAAAAAAF6Y/bejbMZsigH4/s1600/uima2_1.png)
+[![](/images/uima2_1.png)](http://2.bp.blogspot.com/-w96eGhEkd4U/Uad8YgBCxoI/AAAAAAAAF6Y/bejbMZsigH4/s1600/uima2_1.png)
 
   
 
-[![](images/uima2_3.png)](http://2.bp.blogspot.com/-kgOI2U7RmLg/Uad8YFCTrHI/AAAAAAAAF6U/9cX__UnCZe8/s1600/uima2_3.png)[![](images/uima2_4.png)](http://1.bp.blogspot.com/-LLn7Xu-D66w/Uad8YA1ndHI/AAAAAAAAF6Q/uTdQRj7O1PU/s1600/uima2_4.png)
+[![](/images/uima2_3.png)](http://2.bp.blogspot.com/-kgOI2U7RmLg/Uad8YFCTrHI/AAAAAAAAF6U/9cX__UnCZe8/s1600/uima2_3.png)[![](/images/uima2_4.png)](http://1.bp.blogspot.com/-LLn7Xu-D66w/Uad8YA1ndHI/AAAAAAAAF6Q/uTdQRj7O1PU/s1600/uima2_4.png)
 
   
 
@@ -24,4 +24,4 @@ Oisko teidän toverit valmiita näyttelykehään vai olisiko paljon hiottavaa? :
 
   
 
-[![](images/ak.png)](http://4.bp.blogspot.com/-V5EU2DDUvKQ/UaeM3HMq2nI/AAAAAAAAF6w/wO2skWwdh2g/s1600/ak.png)
+[![](/images/ak.png)](http://4.bp.blogspot.com/-V5EU2DDUvKQ/UaeM3HMq2nI/AAAAAAAAF6w/wO2skWwdh2g/s1600/ak.png)

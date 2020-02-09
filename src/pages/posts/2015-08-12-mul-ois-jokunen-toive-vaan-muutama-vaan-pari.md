@@ -8,7 +8,7 @@ template: "page"
 post_button_label: "Lue lisää"
 ---
 
-[![](images/IMG_8030_.png)](http://2.bp.blogspot.com/-7Qm_vOsQZjw/Vcs46L9aeNI/AAAAAAAAJ7Q/zD-jcbpgypk/s1600/IMG_8030_.png)
+[![](/images/IMG_8030_.png)](http://2.bp.blogspot.com/-7Qm_vOsQZjw/Vcs46L9aeNI/AAAAAAAAJ7Q/zD-jcbpgypk/s1600/IMG_8030_.png)
 
   
 Sopivasti juuri ennen sairaslomaa ostin Sotilaalle pitkään haaveillun koulusatulan. En ole kovin suuri koulupenkkien ystävä, polvet suussa istuminen tuntuu jotenkin vain kotoisammalta. Sotilaan selkä on aika helppo, joten tällä kertaa halusin löytää sellaisen satulan joka on ehdottomasti sopiva itsellenikin. Yleensä joka satulassa tuntuu siltä, että penkissä mahtuu seilaamaan älyttömästi edestakaisin. Sotilaan estesatula on 17-tuumainen, mutta sen verran syvä, että siinä istuu yllättävän tukevasti. Ei tosiaan mikään heittoistuin. Se on kuitenkin toistaiseksi ainoa kokoisensa, joka on tuntunut sopivalta, joten lähdin ensisijaisesti etsimään 16- tai 16,5-tuumaista.
@@ -19,7 +19,7 @@ Supremeita on tullut vastaan aikaisemminkin jonkin verran ja hyvin hoidettuna ne
 
   
 
-[![](images/IMG_8352_.png)](http://2.bp.blogspot.com/-5XWH4cidVZM/VchsEuqxmOI/AAAAAAAAJ6o/n3VZbcDEnpQ/s1600/IMG_8352_.png)
+[![](/images/IMG_8352_.png)](http://2.bp.blogspot.com/-5XWH4cidVZM/VchsEuqxmOI/AAAAAAAAJ6o/n3VZbcDEnpQ/s1600/IMG_8352_.png)
 
   
 
@@ -27,7 +27,7 @@ Veljekset Wahlstén on maahantuonut Supremea jo pitkään, joten käännyin heid
 
   
 
-[![](images/IMG_8350_.png)](http://4.bp.blogspot.com/-sHCYi5ZL5dk/VchsOCAcxWI/AAAAAAAAJ6w/CSyaOTpD0jo/s1600/IMG_8350_.png)
+[![](/images/IMG_8350_.png)](http://4.bp.blogspot.com/-sHCYi5ZL5dk/VchsOCAcxWI/AAAAAAAAJ6w/CSyaOTpD0jo/s1600/IMG_8350_.png)
 
   
 Aikaisemmin meillä oli Prestigen koulusatula, josta jäi sen verran paha maku, että uuden koulusatulan hankkiminen vähän arvelutti. Sotilaalla on aika tuhdit lavat ja edestä kiristävä satula näkyy liikkuessa heti. Prestigen etummainen vastinhihna tuli suoraan polvituen läpi ja kiristi satulan edestä niin napakaksi, että lavat olivat jumissa äkkiä. Yllättävän monessa koulusatulassa vastinhihnat on sijoiteltu niin.. Ehdin ratsastaa Supremella pari kolme viikkoa ja Sotilas liikkuu sen kanssa selvästi mielellään. Iloisesti ja paljon irtonaisemmin kuin estesatulalla. Siinäkin mielessä olen erittäin tyytyväinen!  
@@ -42,4 +42,4 @@ Nyt meillä on sitten kaksi satulaa. Saa nähdä kumpi näistä jää kakkossatu
 
   
 
-[![](images/IMG_8356_.png)](http://4.bp.blogspot.com/-fEAIzvroBoI/Vcs41aCvM7I/AAAAAAAAJ7E/1wKG9sSOs4s/s1600/IMG_8356_.png)
+[![](/images/IMG_8356_.png)](http://4.bp.blogspot.com/-fEAIzvroBoI/Vcs41aCvM7I/AAAAAAAAJ7E/1wKG9sSOs4s/s1600/IMG_8356_.png)

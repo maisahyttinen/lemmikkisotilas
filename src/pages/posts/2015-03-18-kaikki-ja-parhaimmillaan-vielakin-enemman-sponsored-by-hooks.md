@@ -16,7 +16,7 @@ Täällä on ollut ihan häpeällisen hiljaista. Siitä huolimatta minäkin sain
 
   
 
-[![](images/IMG_1747_.png)](http://1.bp.blogspot.com/-CXu00jglnuw/VQnr6swm2GI/AAAAAAAAJRk/5xiTHZMUFPE/s1600/IMG_1747_.png)
+[![](/images/IMG_1747_.png)](http://1.bp.blogspot.com/-CXu00jglnuw/VQnr6swm2GI/AAAAAAAAJRk/5xiTHZMUFPE/s1600/IMG_1747_.png)
 
   
 
@@ -24,7 +24,7 @@ Hööksillä on pitkä perheyrityshistoria. Toimintaa johdetaan nykyäänkin Ruo
 
   
 
-[![](images/IMG_1754_.png)](http://4.bp.blogspot.com/-97G-xfsWKeU/VQnr7Z6sSkI/AAAAAAAAJRo/eFT3S3Vee0Q/s1600/IMG_1754_.png)
+[![](/images/IMG_1754_.png)](http://4.bp.blogspot.com/-97G-xfsWKeU/VQnr7Z6sSkI/AAAAAAAAJRo/eFT3S3Vee0Q/s1600/IMG_1754_.png)
 
   
 
@@ -36,7 +36,7 @@ Toinen ehdottomasti kiinnostava aihe oli ratsastuskypäriä koskevien EU-direkti
 
   
 
-[![](images/IMG_1744_.png)](http://1.bp.blogspot.com/-wRrfQ7Ixpic/VQnr6uRtHOI/AAAAAAAAJRg/xd1Q7NN9ZWA/s1600/IMG_1744_.png)
+[![](/images/IMG_1744_.png)](http://1.bp.blogspot.com/-wRrfQ7Ixpic/VQnr6uRtHOI/AAAAAAAAJRg/xd1Q7NN9ZWA/s1600/IMG_1744_.png)
 
   
 
@@ -44,7 +44,7 @@ Tänä(kin) keväänä kirkkaat värit ovat pinnalla. Hillitymmän pukeutumisen 
 
   
 
-[![](images/IMG_1761_.png)](http://3.bp.blogspot.com/-z1gCLTwQekA/VQnr7sCbH_I/AAAAAAAAJR0/RRYcV_8i1PE/s1600/IMG_1761_.png)
+[![](/images/IMG_1761_.png)](http://3.bp.blogspot.com/-z1gCLTwQekA/VQnr7sCbH_I/AAAAAAAAJR0/RRYcV_8i1PE/s1600/IMG_1761_.png)
 
   
 

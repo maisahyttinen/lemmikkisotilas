@@ -14,7 +14,7 @@ Siitä on pitkä aika. Vieläkään en tunnista ensimmäisistä meillä otetuist
 
   
 
-[![](images/photo.png)](http://4.bp.blogspot.com/-fAp5Slg_XkE/UpOukk3dzdI/AAAAAAAAHaA/tJcAVOD-WV4/s1600/photo.png)
+[![](/images/photo.png)](http://4.bp.blogspot.com/-fAp5Slg_XkE/UpOukk3dzdI/AAAAAAAAHaA/tJcAVOD-WV4/s1600/photo.png)
 
   
 
@@ -22,7 +22,7 @@ Hassulla poniruunalla oli eilen hassu päivä. Tuplana! Libbyn vanhat valjaat p�
 
   
 
-[![](images/kakkosversio7_.png)](http://3.bp.blogspot.com/-Hu2eRrZg_9M/UpOuzusLk-I/AAAAAAAAHaI/sbr0uC92dCE/s1600/kakkosversio7_.png)[![](images/kakkosversio6.png)](http://2.bp.blogspot.com/-0Hz45Pzdpmc/UpOu0GX8QdI/AAAAAAAAHaM/Bg5p3vT4Lr4/s1600/kakkosversio6.png)
+[![](/images/kakkosversio7_.png)](http://3.bp.blogspot.com/-Hu2eRrZg_9M/UpOuzusLk-I/AAAAAAAAHaI/sbr0uC92dCE/s1600/kakkosversio7_.png)[![](/images/kakkosversio6.png)](http://2.bp.blogspot.com/-0Hz45Pzdpmc/UpOu0GX8QdI/AAAAAAAAHaM/Bg5p3vT4Lr4/s1600/kakkosversio6.png)
 
   
 
@@ -30,7 +30,7 @@ Toinen täydellinen mies tuli käymään jo eilen ja puutöiden lisäksi Sotilas
 
   
 
-[![](images/kakkosversio5_.png)](http://3.bp.blogspot.com/-Vt--FBhFaEI/UpOvJZio1gI/AAAAAAAAHao/KKuKqROWJxc/s1600/kakkosversio5_.png)
+[![](/images/kakkosversio5_.png)](http://3.bp.blogspot.com/-Vt--FBhFaEI/UpOvJZio1gI/AAAAAAAAHao/KKuKqROWJxc/s1600/kakkosversio5_.png)
 
   
 
@@ -39,4 +39,4 @@ PS. Koeviikko jatkuu taas huomenna.. Mahtavaa..
 
   
 
-[![](images/ak_uusi.png)](http://2.bp.blogspot.com/-dphYh6JfuzQ/UpOvXeC9RlI/AAAAAAAAHaw/h-LDQW_MPw8/s1600/ak_uusi.png)
+[![](/images/ak_uusi.png)](http://2.bp.blogspot.com/-dphYh6JfuzQ/UpOvXeC9RlI/AAAAAAAAHaw/h-LDQW_MPw8/s1600/ak_uusi.png)

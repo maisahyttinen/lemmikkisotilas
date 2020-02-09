@@ -8,7 +8,7 @@ template: "page"
 post_button_label: "Lue lisää"
 ---
 
-[![](images/iltalenkki_.png)](http://1.bp.blogspot.com/-EQP-XqTPhvw/UiCUuEpRxwI/AAAAAAAAGvE/Le1PYlSFVTU/s1600/iltalenkki_.png)
+[![](/images/iltalenkki_.png)](http://1.bp.blogspot.com/-EQP-XqTPhvw/UiCUuEpRxwI/AAAAAAAAGvE/Le1PYlSFVTU/s1600/iltalenkki_.png)
 
 Hihi, terkut eiliseltä palauttelukävelyltä! Enemmän palauteltavaa on ratsastajalla - eilen pääsin ihan ketterästi sängystä, mutta tänään todellisuus on ollut hieman julmempi. Vähän on vaikeaa kävellä, mutta ei se kai haittaa.. Toivottavasti jumit lähtevät sillä millä ovat tulleetkin, viimeistään ylihuomenna kiipeän satulaan taas.
 
@@ -26,7 +26,7 @@ Koskaan aiemmin Sotilaan kanssa ei ole ollut jarrujen kanssa suuria ongelmia, mu
 
   
 
-[![](images/monte7.png)](http://1.bp.blogspot.com/-zyXyuwH07k8/UiCUuuJZLdI/AAAAAAAAGvI/xK4jnNxBimI/s1600/monte7.png)
+[![](/images/monte7.png)](http://1.bp.blogspot.com/-zyXyuwH07k8/UiCUuuJZLdI/AAAAAAAAGvI/xK4jnNxBimI/s1600/monte7.png)
 
   
 
@@ -34,7 +34,7 @@ Todellisuudessa haluaisin vain hehkuttaa sitä miten mahdottoman hienon otuksen 
 
   
 
-[![](images/monte6.png)](http://1.bp.blogspot.com/-3B21Q7lJZ1s/UiCUsJWoOEI/AAAAAAAAGu0/5yU_AayiaYQ/s1600/monte6.png)
+[![](/images/monte6.png)](http://1.bp.blogspot.com/-3B21Q7lJZ1s/UiCUsJWoOEI/AAAAAAAAGu0/5yU_AayiaYQ/s1600/monte6.png)
 
   
 
@@ -42,11 +42,11 @@ Joka tapauksessa eilen tultiin kotiin kaikkein aikaavievimmän kaavan mukaan, mo
 
   
 
-[![](images/monte8.JPG)](http://2.bp.blogspot.com/-h43LVYpX7i8/UiCyg4eCFAI/AAAAAAAAGvs/5mcmN_hY-M0/s1600/monte8.JPG)
+[![](/images/monte8.JPG)](http://2.bp.blogspot.com/-h43LVYpX7i8/UiCyg4eCFAI/AAAAAAAAGvs/5mcmN_hY-M0/s1600/monte8.JPG)
 
   
 
-[![](images/monte1_.png)](http://3.bp.blogspot.com/-TVqCz4yCw3A/UiCUtVkXmzI/AAAAAAAAGu8/ACzw1BuGZHo/s1600/monte1_.png)
+[![](/images/monte1_.png)](http://3.bp.blogspot.com/-TVqCz4yCw3A/UiCUtVkXmzI/AAAAAAAAGu8/ACzw1BuGZHo/s1600/monte1_.png)
 
   
 
@@ -54,4 +54,4 @@ Joka tapauksessa eilen tultiin kotiin kaikkein aikaavievimmän kaavan mukaan, mo
 
   
 
-[![](images/ak.png)](http://4.bp.blogspot.com/-KQNMGzlsXH8/UiClKAcekzI/AAAAAAAAGvc/wt_xk7Mm3us/s1600/ak.png)
+[![](/images/ak.png)](http://4.bp.blogspot.com/-KQNMGzlsXH8/UiClKAcekzI/AAAAAAAAGvc/wt_xk7Mm3us/s1600/ak.png)

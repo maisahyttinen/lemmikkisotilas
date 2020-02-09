@@ -14,7 +14,7 @@ Viime vuoden suuria teemoja olivat asiasisällöt (artikkelit, esittelyt ja tiet
 
 Ei ole tavatonta, että etenkin fitness-, sisustus- ja muotibloggaajat hoitavat bloginsa kuvituksen yhdessä ulkopuolisen (ammatti)kuvaajan kanssa, ja nyt vastaava ilmiö saa jalansijaa myös hevosblogeissa. Näyttää siltä, että tällainen yhteistyö vie suomalaista hevosvalokuvaustakin vauhdilla luovempaan ja rohkeampaan suuntaan!
 
-![](images/IMG_5001-1000x667.jpg)
+![](/images/IMG_5001-1000x667.jpg)
 
 ### Mitä hevosblogeissa nähdään vuonna 2019?
 
@@ -48,7 +48,7 @@ Video on tällä hetkellä somen katsotuinta, puhutuinta ja halutuinta sisältö
 
 Etenkin fitness- ja kosmetiikkabloggaajat ovat menestyksekkäästi yhdistäneet perinteisen blogin ja videosisällöt esimerkiksi oman YouTube-kanavan kautta (katso em. somekokonaisuudet). Harvoin voi puhua varmasta menestyksestä, mutta intohimoisia, vähän tekniseen toteutukseen perehtyneitä ja kehityksennälkäisiä videontekijöitä hevossomesta juuri nyt puuttuu.
 
-![](images/IMG_4887-1000x667.jpg)
+![](/images/IMG_4887-1000x667.jpg)
 
 Sotilaalla on kuvissa Veljekset Wahlsténin Luxus-villaloimi.
 
@@ -74,6 +74,6 @@ Tässäkin kärjistyksessä on kuitenkin puolikas totuus - siloitellun todellisu
 
 Live on läpinäkyvintä realismia mitä bloggaaja voi yleisölleen tarjota. IG-live, Facebook-live ja YouTube-live tarjoavat alustan ja työkalut lähes jokaisen tarpeisiin. Ota haaste vastaan ja kokeile!
 
-- ![](images/IMG_5004-667x1000.jpg)
+- ![](/images/IMG_5004-667x1000.jpg)
     
-- ![](images/IMG_5016-1-667x1000.jpg)
+- ![](/images/IMG_5016-1-667x1000.jpg)

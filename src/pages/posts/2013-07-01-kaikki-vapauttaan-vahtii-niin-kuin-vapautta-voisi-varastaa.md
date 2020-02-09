@@ -8,11 +8,11 @@ template: "page"
 post_button_label: "Lue lisää"
 ---
 
-[![](images/muki1.JPG)](http://3.bp.blogspot.com/-RrkkSkBWQ40/UdFz3vIiY1I/AAAAAAAAGG0/ushJafZD5eY/s800/muki1.JPG)
+[![](/images/muki1.JPG)](http://3.bp.blogspot.com/-RrkkSkBWQ40/UdFz3vIiY1I/AAAAAAAAGG0/ushJafZD5eY/s800/muki1.JPG)
 
   
 
-[![](images/pikkis2.JPG)](http://2.bp.blogspot.com/-TX9hYfBL8Nc/UdFz35-ZKOI/AAAAAAAAGG8/Ml_G2q5qJvs/s900/pikkis2.JPG)[![](images/pikkis8.JPG)](http://2.bp.blogspot.com/-NCgxVWA6MbA/UdFz3Ugls8I/AAAAAAAAGGo/a_Dwhh2kBqg/s900/pikkis8.JPG)
+[![](/images/pikkis2.JPG)](http://2.bp.blogspot.com/-TX9hYfBL8Nc/UdFz35-ZKOI/AAAAAAAAGG8/Ml_G2q5qJvs/s900/pikkis2.JPG)[![](/images/pikkis8.JPG)](http://2.bp.blogspot.com/-NCgxVWA6MbA/UdFz3Ugls8I/AAAAAAAAGGo/a_Dwhh2kBqg/s900/pikkis8.JPG)
 
   
 
@@ -30,4 +30,4 @@ _se veti kissaa viiksistä:_
 
 _Vain nopeat elävät!_
 
-[![](images/ak.png)](http://4.bp.blogspot.com/-1dOpUT1PN9M/UdF5kkq1yGI/AAAAAAAAGHI/iXQdO5s53CI/s200/ak.png)
+[![](/images/ak.png)](http://4.bp.blogspot.com/-1dOpUT1PN9M/UdF5kkq1yGI/AAAAAAAAGHI/iXQdO5s53CI/s200/ak.png)

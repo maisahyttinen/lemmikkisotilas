@@ -12,7 +12,7 @@ Ei oikein ota bloggaaminen onnistuakseen. Alun perin oli tarkoitus pitää teid�
 
   
 
-[![](images/b6.png)](http://4.bp.blogspot.com/-mTk63V6qbB8/VMunvR1L3EI/AAAAAAAAJM4/m-F_9KVfVmY/s1600/b6.png)
+[![](/images/b6.png)](http://4.bp.blogspot.com/-mTk63V6qbB8/VMunvR1L3EI/AAAAAAAAJM4/m-F_9KVfVmY/s1600/b6.png)
 
   
 
@@ -24,7 +24,7 @@ Ultran yhteydessä Sotilas lämpökuvattiin läpi. Monesti käy niin, että yhde
 
   
 
-[![](images/2.png)](http://2.bp.blogspot.com/-MCwxH3qYclo/VMuzlHe4rLI/AAAAAAAAJNg/6YNS9bZfRAU/s1600/2.png)
+[![](/images/2.png)](http://2.bp.blogspot.com/-MCwxH3qYclo/VMuzlHe4rLI/AAAAAAAAJNg/6YNS9bZfRAU/s1600/2.png)
 
   
 
@@ -32,7 +32,7 @@ Takapolvet, reidet ja takajalat edestä kuvattuna. Oikea takapolvi on vähän va
 
   
 
-[![](images/1.png)](http://4.bp.blogspot.com/-v0ERdItnSug/VMuzlPIF4tI/AAAAAAAAJNI/THxG8Rrg8Ys/s1600/1.png)
+[![](/images/1.png)](http://4.bp.blogspot.com/-v0ERdItnSug/VMuzlPIF4tI/AAAAAAAAJNI/THxG8Rrg8Ys/s1600/1.png)
 
   
 
@@ -44,7 +44,7 @@ Siinä lämpökuvista mielenkiintoisimmat. Lisäksi etujalat kuvattiin sekä etu
 
   
 
-[![](images/b1.png)](http://4.bp.blogspot.com/-QKTfypFtWjE/VMum4PAfzXI/AAAAAAAAJMg/SWve0IewBcM/s1600/b1.png)
+[![](/images/b1.png)](http://4.bp.blogspot.com/-QKTfypFtWjE/VMum4PAfzXI/AAAAAAAAJMg/SWve0IewBcM/s1600/b1.png)
 
   
 

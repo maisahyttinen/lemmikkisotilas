@@ -8,7 +8,7 @@ template: "page"
 post_button_label: "Lue lisää"
 ---
 
-[![](images/2016-03-01-2B10.09.38-2B1.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/03/2016-03-01-2B10.09.38-2B1.png)
+[![](/images/2016-03-01-2B10.09.38-2B1.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/03/2016-03-01-2B10.09.38-2B1.png)
 
   
 
@@ -16,7 +16,7 @@ Aamu numero 61. Muutaman viime viikon jälkeen on tuntunut uskomattoman hyvält�
 
   
 
-[![](images/2016-02-15-2B09.48.15-2B1.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/03/2016-02-15-2B09.48.15-2B1.png)
+[![](/images/2016-02-15-2B09.48.15-2B1.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/03/2016-02-15-2B09.48.15-2B1.png)
 
   
 
@@ -29,7 +29,7 @@ Vajaan kuukauden perusteella on vaikea sanoa, mitä seuraava puoli vuotta pitä�
 Meidän saapumiserämme kohdalla stereotypia varuskunta-alueen portilla asuvasta sotilaspoliisista tuskin tulee pitämään paikkaansa. Vartiossa olemme kyllä, mutta vain joka kolmannen viikon. Välissä on aina kaksi viikkoa koulutusta, kasarmilla tai metsässä. Ainakin seuraavan kuukauden ohjelmat näyttävät siltä, että lepoviikko portilla tulee todella tarpeeseen.. Kaiken muun hyvän lisäksi minä saan viettää vartioviikkoni Haminassa! Hyviä hommia.  
   
 
-[![](images/2016-02-08-2B02.29.27-2B1-200x300.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/03/2016-02-08-2B02.29.27-2B1.png)[![](images/2016-02-22-2B08.46.44-2B1-200x300.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/03/2016-02-22-2B08.46.44-2B1.png)
+[![](/images/2016-02-08-2B02.29.27-2B1-200x300.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/03/2016-02-08-2B02.29.27-2B1.png)[![](/images/2016-02-22-2B08.46.44-2B1-200x300.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/03/2016-02-22-2B08.46.44-2B1.png)
 
   
 Päälimmäinen fiilis on, että koko ajan väsyttää ja sattuu johonkin. Jossei fyysisen koulutuksen takia niin jatkuva odotteleminen hoitaa sen kyllä. Eilen huomasin, että vaaka näyttää nyt melkein 10 kiloa enemmän kuin pari kuukautta sitten. Urheilu ja taukosuklaat, ehkä. Täysin vieraiden ihmisten keskellä kaikki on paljon vaikeampaa (verrattuna oman tuttuun ryhmään), mutta armeija on siitä hauska paikka, että kaikkeen tottuu ja kaikki löytävät paikkansa lopulta kuitenkin. Rankat jutut yhdistävät ja kevyen ohjelman ohella ehtii riitelemään..  

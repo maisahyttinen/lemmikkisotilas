@@ -12,7 +12,7 @@ Kirjoitettavaa ei juur taida olla, joten kuvat kertokoot olennaisen. Sain pallom
 
   
 
-[![](images/S2+%25288%2529.png)](http://2.bp.blogspot.com/-Y-Ul6E07Ztk/TwsvWsDoGZI/AAAAAAAAANk/htZhkVCXcTU/s1600/S2+%25288%2529.png)[![](images/S2+%252815%2529.png)](http://4.bp.blogspot.com/-a2DmOb7Lcy8/TwsrBr25ZNI/AAAAAAAAAM0/pXuHO_4GlIA/s1600/S2+%252815%2529.png)
+[![](/images/S2+%25288%2529.png)](http://2.bp.blogspot.com/-Y-Ul6E07Ztk/TwsvWsDoGZI/AAAAAAAAANk/htZhkVCXcTU/s1600/S2+%25288%2529.png)[![](/images/S2+%252815%2529.png)](http://4.bp.blogspot.com/-a2DmOb7Lcy8/TwsrBr25ZNI/AAAAAAAAAM0/pXuHO_4GlIA/s1600/S2+%252815%2529.png)
 
   
 
@@ -20,10 +20,10 @@ Kirjoitettavaa ei juur taida olla, joten kuvat kertokoot olennaisen. Sain pallom
 
   
 
-[![](images/S2.png)](http://1.bp.blogspot.com/-dPxULLChdTs/TwsrC6FV-nI/AAAAAAAAAM8/D79gHsVIYsw/s1600/S2.png)[![](images/S3+%252811%2529.png)](http://2.bp.blogspot.com/-tN4hGEtgAz4/Twsrd7sGdyI/AAAAAAAAANM/sSf9lVic7iA/s1600/S3+%252811%2529.png)
+[![](/images/S2.png)](http://1.bp.blogspot.com/-dPxULLChdTs/TwsrC6FV-nI/AAAAAAAAAM8/D79gHsVIYsw/s1600/S2.png)[![](/images/S3+%252811%2529.png)](http://2.bp.blogspot.com/-tN4hGEtgAz4/Twsrd7sGdyI/AAAAAAAAANM/sSf9lVic7iA/s1600/S3+%252811%2529.png)
 
   
 
  _Ja jos yksin mä jään, enkä ketään mä nää. On nastaa kun yksi on johon voin luottaa._
 
-[![](images/S3+%252818%2529.png)](http://1.bp.blogspot.com/-FVGbymkuc7k/Twsrisac1tI/AAAAAAAAANc/ZeyeL68lAGA/s1600/S3+%252818%2529.png)[![](images/S3+%252815%2529.png)](http://1.bp.blogspot.com/-MN84DP-95xs/TwsrgF1oseI/AAAAAAAAANU/ft_8FKWh8U0/s1600/S3+%252815%2529.png)
+[![](/images/S3+%252818%2529.png)](http://1.bp.blogspot.com/-FVGbymkuc7k/Twsrisac1tI/AAAAAAAAANc/ZeyeL68lAGA/s1600/S3+%252818%2529.png)[![](/images/S3+%252815%2529.png)](http://1.bp.blogspot.com/-MN84DP-95xs/TwsrgF1oseI/AAAAAAAAANU/ft_8FKWh8U0/s1600/S3+%252815%2529.png)

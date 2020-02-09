@@ -23,7 +23,7 @@ Liimailin kauralastuja yhteen sulatetulla maitosuklaalla. Tulos oli oikein kelvo
 
   
 
-[![](images/IMG_0480.png)](http://2.bp.blogspot.com/-2CkEzYRlPCw/UmFhO3zzgJI/AAAAAAAAHEs/vFNzH0edAsI/s1600/IMG_0480.png) [![](images/IMG_0516.png)](http://1.bp.blogspot.com/-f444WAyo_Tc/UmFiTgOMWaI/AAAAAAAAHE0/alBgKbodKT0/s1600/IMG_0516.png)
+[![](/images/IMG_0480.png)](http://2.bp.blogspot.com/-2CkEzYRlPCw/UmFhO3zzgJI/AAAAAAAAHEs/vFNzH0edAsI/s1600/IMG_0480.png) [![](/images/IMG_0516.png)](http://1.bp.blogspot.com/-f444WAyo_Tc/UmFiTgOMWaI/AAAAAAAAHE0/alBgKbodKT0/s1600/IMG_0516.png)
 
   
 
@@ -31,4 +31,4 @@ Laaturavintoa oli tarjolla aiemmin tällä viikolla. Porkkanatikut ja barbecue-d
 
   
 
-[![](images/ak.png)](http://4.bp.blogspot.com/-6MsUHXVk55c/UmFi4YgDYMI/AAAAAAAAHE8/BKNKDS-3nlY/s1600/ak.png)
+[![](/images/ak.png)](http://4.bp.blogspot.com/-6MsUHXVk55c/UmFi4YgDYMI/AAAAAAAAHE8/BKNKDS-3nlY/s1600/ak.png)

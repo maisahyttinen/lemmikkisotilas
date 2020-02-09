@@ -8,7 +8,7 @@ template: "page"
 post_button_label: "Lue lisää"
 ---
 
-[![](images/IMG_0143.png)](http://4.bp.blogspot.com/-kyXIDnoyfIk/T7gDNlrtNjI/AAAAAAAAAps/6YdBZ-HMHjE/s1600/IMG_0143.png)
+[![](/images/IMG_0143.png)](http://4.bp.blogspot.com/-kyXIDnoyfIk/T7gDNlrtNjI/AAAAAAAAAps/6YdBZ-HMHjE/s1600/IMG_0143.png)
 
   
   
@@ -17,4 +17,4 @@ Käytiin tänään pitkästä aikaa ajelulla! Voi miten hyvä hevonen voi olla a
 Ehkä tälläkin kertaa selviän tästä turhautumisesta mikä epäilemättä muuttuu kohta epätoivoksikin. Inhoan pitkiä taukoja. Ihan sairasta, etten osaa istua edes satulassa rentona ja rauhassa tekemättä kaikkea mahdollista ylimääräistä. Ilman satulaa ratsastaminen on vähän helpompaa (miksi..?), mutta kuten kuvasta näkyy niin olen vailla useampaa ratsastustuntia.. Yhyhyhyhyhy. Ehkä tämä tästä taas kun hevonen ja ratsastaja saavat vähän rutiinia ja pääsevät ehkä jopa jonkun neuvottavaksi..  
   
 
-[![](images/IMG_0336.png)](http://3.bp.blogspot.com/-ilj5m7GFya0/T7gDQukbK3I/AAAAAAAAAp0/tAtuU_5q4tA/s1600/IMG_0336.png)
+[![](/images/IMG_0336.png)](http://3.bp.blogspot.com/-ilj5m7GFya0/T7gDQukbK3I/AAAAAAAAAp0/tAtuU_5q4tA/s1600/IMG_0336.png)

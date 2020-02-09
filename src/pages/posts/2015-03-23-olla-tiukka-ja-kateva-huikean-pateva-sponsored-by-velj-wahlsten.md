@@ -24,11 +24,11 @@ Kiitos Wahlstén ja bloggaajakollegat [Siiri](http://skaskinen.blogspot.fi/), [S
 
   
 
-[![](images/IMG_1897_.png)](http://3.bp.blogspot.com/-EYbbexQskaA/VQ_vaHbctdI/AAAAAAAAJVo/cVFU-uY1ntM/s1600/IMG_1897_.png)
+[![](/images/IMG_1897_.png)](http://3.bp.blogspot.com/-EYbbexQskaA/VQ_vaHbctdI/AAAAAAAAJVo/cVFU-uY1ntM/s1600/IMG_1897_.png)
 
   
 
-[![](images/IMG_2069_.png)](http://1.bp.blogspot.com/-4EvMDalSgxU/VQ_viR5mgkI/AAAAAAAAJXI/HKKmmkcL7WQ/s1600/IMG_2069_.png)
+[![](/images/IMG_2069_.png)](http://1.bp.blogspot.com/-4EvMDalSgxU/VQ_viR5mgkI/AAAAAAAAJXI/HKKmmkcL7WQ/s1600/IMG_2069_.png)
 
   
 
@@ -36,7 +36,7 @@ Veljekset Wahlstén aloitti toimintansa vuonna 1918. Silloin nahkavarusteille ol
 
   
 
-[![](images/IMG_1918_.png)](http://2.bp.blogspot.com/-9XNWG50a1CE/VQ_vaBEOcfI/AAAAAAAAJVw/wANZlSB_vUI/s1600/IMG_1918_.png)[![](images/IMG_2009_.png)](http://1.bp.blogspot.com/-vvu4iFLgiP0/VQ_x07JfKmI/AAAAAAAAJYw/n_En3XIkpf8/s1600/IMG_2009_.png)
+[![](/images/IMG_1918_.png)](http://2.bp.blogspot.com/-9XNWG50a1CE/VQ_vaBEOcfI/AAAAAAAAJVw/wANZlSB_vUI/s1600/IMG_1918_.png)[![](/images/IMG_2009_.png)](http://1.bp.blogspot.com/-vvu4iFLgiP0/VQ_x07JfKmI/AAAAAAAAJYw/n_En3XIkpf8/s1600/IMG_2009_.png)
 
   
 
@@ -44,11 +44,11 @@ Aloitimme sekä hevosten että bloggaajien ruokinnalla. Palautumisen ja vastustu
 
   
 
-[![](images/IMG_2017_.png)](http://1.bp.blogspot.com/-LwT6Y-qfKNM/VQ_w1mivacI/AAAAAAAAJYE/mkl-LHXQZYA/s1600/IMG_2017_.png)
+[![](/images/IMG_2017_.png)](http://1.bp.blogspot.com/-LwT6Y-qfKNM/VQ_w1mivacI/AAAAAAAAJYE/mkl-LHXQZYA/s1600/IMG_2017_.png)
 
   
 
-[![](images/IMG_1954_.png)](http://3.bp.blogspot.com/-utc_YDlCL3k/VQ_w1m80tBI/AAAAAAAAJYA/h94ZIFjzRGU/s1600/IMG_1954_.png)
+[![](/images/IMG_1954_.png)](http://3.bp.blogspot.com/-utc_YDlCL3k/VQ_w1m80tBI/AAAAAAAAJYA/h94ZIFjzRGU/s1600/IMG_1954_.png)
 
   
 
@@ -60,7 +60,7 @@ W-Healingin toimintaperiaate on sama kuin Back On Trackilla - keraamiset kuidut 
 
   
 
-[![](images/IMG_1924_.png)](http://3.bp.blogspot.com/-Z8a7_-k_zIw/VQ_w_j6x4kI/AAAAAAAAJYQ/VOqf8imsqTo/s1600/IMG_1924_.png)[![](images/IMG_1940_.png)](http://3.bp.blogspot.com/-COfKdxW2X9o/VQ_w_jlAY9I/AAAAAAAAJYU/pp3T7b3n0tg/s1600/IMG_1940_.png)
+[![](/images/IMG_1924_.png)](http://3.bp.blogspot.com/-Z8a7_-k_zIw/VQ_w_j6x4kI/AAAAAAAAJYQ/VOqf8imsqTo/s1600/IMG_1924_.png)[![](/images/IMG_1940_.png)](http://3.bp.blogspot.com/-COfKdxW2X9o/VQ_w_jlAY9I/AAAAAAAAJYU/pp3T7b3n0tg/s1600/IMG_1940_.png)
 
   
 
@@ -68,11 +68,11 @@ Vielä en ole sellaiseen kengitystuotteeseen törmännyt mitä ei Wahlsténilta 
 
   
 
-[![](images/IMG_1973_.png)](http://3.bp.blogspot.com/-zu-ZYLh9QPg/VQ_xjNwD1yI/AAAAAAAAJYg/QLhcJW7K4v8/s1600/IMG_1973_.png)
+[![](/images/IMG_1973_.png)](http://3.bp.blogspot.com/-zu-ZYLh9QPg/VQ_xjNwD1yI/AAAAAAAAJYg/QLhcJW7K4v8/s1600/IMG_1973_.png)
 
   
 
-[![](images/IMG_1982_.png)](http://1.bp.blogspot.com/-q3II3sfm8es/VQ_xjCn2AqI/AAAAAAAAJYk/EtJhWREwJO4/s1600/IMG_1982_.png)
+[![](/images/IMG_1982_.png)](http://1.bp.blogspot.com/-q3II3sfm8es/VQ_xjCn2AqI/AAAAAAAAJYk/EtJhWREwJO4/s1600/IMG_1982_.png)
 
   
 
@@ -80,11 +80,11 @@ Erillisessä jälleenmyyjille tarkoitetussa näyttelytilassa pääsimme tutustum
 
   
 
-[![](images/IMG_1966_.png)](http://3.bp.blogspot.com/-PeYEqAnijsU/VQ_yfFxZ-6I/AAAAAAAAJY4/B3S2FGuCg0g/s1600/IMG_1966_.png)
+[![](/images/IMG_1966_.png)](http://3.bp.blogspot.com/-PeYEqAnijsU/VQ_yfFxZ-6I/AAAAAAAAJY4/B3S2FGuCg0g/s1600/IMG_1966_.png)
 
   
 
-[![](images/IMG_1989_.png)](http://2.bp.blogspot.com/-mY0xHlbSxCY/VQ_yfAbQucI/AAAAAAAAJY8/YLhEut14EHc/s1600/IMG_1989_.png)
+[![](/images/IMG_1989_.png)](http://2.bp.blogspot.com/-mY0xHlbSxCY/VQ_yfAbQucI/AAAAAAAAJY8/YLhEut14EHc/s1600/IMG_1989_.png)
 
   
 
@@ -92,7 +92,7 @@ Omien tuotteidensa lisäksi Wahlstén maahantuo mm. Lami-Cellin satulahuopia, ra
 
   
 
-[![](images/IMG_2008_.png)](http://4.bp.blogspot.com/-te7AI56Ln84/VQ_y80oOGDI/AAAAAAAAJZM/6ZvTchXV9NY/s1600/IMG_2008_.png)
+[![](/images/IMG_2008_.png)](http://4.bp.blogspot.com/-te7AI56Ln84/VQ_y80oOGDI/AAAAAAAAJZM/6ZvTchXV9NY/s1600/IMG_2008_.png)
 
   
 Olen elämäni aikana valjastanut enemmän kuin satuloinut, joten pitkä rivi laatuvaljaita herättää mielenkiinnon väkisin. Jo pitkään haaveilemani leveät desing by Timo Nurmos -treenisilat (kuvassa etummaisina) olisivat loistavat meidänkin käyttöömme. Haluan käyttää pikalukkoja kotonakin, joten leveät hyvin pehmustetut silat lisäisivät hevosen mukavuutta huomattavasti. Wahlsténin nahkavaljaat ovat samaa tärnsjö-nahkaa ja käsityötä kuin W-Profilenkin tuotteet, joten laatua ei todella pääse moittimaan. Walshin rinnalla parasta mitä tarjolla on. Toisin kuin monella muulla valmistajalla, Wahlsténilla on edelleen tarjolla laaja valikoima myös perinteisen valjastuksen siloja.  
@@ -105,11 +105,11 @@ Wahlstén tarjoaa muutenkin ihan hurjan valikoiman ajo- ja ravivarusteita niin h
 
   
 
-[![](images/IMG_2036_.png)](http://3.bp.blogspot.com/-eR4TDUVXfQw/VQ_zTY0TMTI/AAAAAAAAJZg/Ko3A35dZWCE/s1600/IMG_2036_.png)
+[![](/images/IMG_2036_.png)](http://3.bp.blogspot.com/-eR4TDUVXfQw/VQ_zTY0TMTI/AAAAAAAAJZg/Ko3A35dZWCE/s1600/IMG_2036_.png)
 
   
 
-[![](images/IMG_2038_.png)](http://2.bp.blogspot.com/-N7PijAQMlwQ/VQ_zTfDF_AI/AAAAAAAAJZ0/NXaWEBbQ2ow/s1600/IMG_2038_.png)
+[![](/images/IMG_2038_.png)](http://2.bp.blogspot.com/-N7PijAQMlwQ/VQ_zTfDF_AI/AAAAAAAAJZ0/NXaWEBbQ2ow/s1600/IMG_2038_.png)
 
   
 
@@ -119,4 +119,4 @@ Pääsimme tutustumaan myös tuontatotiloihin. Tavallaan odotin jotain hieman su
 Tältäkin reissulta Sotilaalle (ja ehkä jopa itselleni) on tiedossa vähän tuliaisia. Niistä lisää myöhemmin!  
   
 
-[![](images/IMG_2052_.png)](http://3.bp.blogspot.com/-AX9E9WX1GtE/VRCL7nZf55I/AAAAAAAAJaM/eKGspuScBtU/s1600/IMG_2052_.png)
+[![](/images/IMG_2052_.png)](http://3.bp.blogspot.com/-AX9E9WX1GtE/VRCL7nZf55I/AAAAAAAAJaM/eKGspuScBtU/s1600/IMG_2052_.png)

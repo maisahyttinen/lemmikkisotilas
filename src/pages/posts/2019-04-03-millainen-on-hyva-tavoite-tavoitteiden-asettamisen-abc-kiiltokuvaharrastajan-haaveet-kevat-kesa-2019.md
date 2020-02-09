@@ -16,7 +16,7 @@ Tavoitteet tekevät kuitenkin kotiharrastamisestakin mielekkäämpää - miksi t
 
 Olen rento ja aika kunnianhimoton harrastaja, mutta ihan jo Sotilaan oman terveyden vuoksi olen pyrkinyt kehittämään sitä ratsuna edes näennäisen määrätietoisesti. Uskon, että ratsutuksella ja muulla koulutuksella on huomattavia terveysetuja kehonkäytön parantuessa. Ja samalla "joudun" tietysti kehittämään myös itseäni. Jos jo nelikymppisenä voisi sanoa olevansa ratsastaja?
 
-![](images/augustina-pomelina-ja-unknown-soldier-15-Edit-2-1000x667.jpg)
+![](/images/augustina-pomelina-ja-unknown-soldier-15-Edit-2-1000x667.jpg)
 
 Tässä postauksessa saatte ihastella kuvasatoa viime kesältä Yyteristä!
 
@@ -28,7 +28,7 @@ Siitä huolimatta olen miettinyt tälle keväälle ja tulevalle kesälle joitaki
 
 Koska kaikki tunnetusti lähtee intohimosta prosessiin (eikä suinkaan lopputulokseen), tarvitsin hieman kättä pidempää myös tavoitteiden asettamiseen. Tekniikkalaji, tekniikkalaji.
 
-![](images/unknown-soldier-100-Edit-1000x667.jpg)
+![](/images/unknown-soldier-100-Edit-1000x667.jpg)
 
 Kuva: Mirella Ruotsalainen / [hertjekker.net](http://www.hertjekker.net)
 
@@ -46,7 +46,7 @@ Tärkeää on myös tavoitteiden saavutettavuus. Haaste motivoi, mutta mahdotont
 
 Etenkin pitkän aikavälin tavoitteille on vaikeaa määrittää tarkkoja aikarajoja, mutta tavoitteen etenemistä on hyvä seurata esimerkiksi välitavoitteilla. Jos haluaa saavuttaa päätavoitteen vaikkapa 6 kuukauden kuluttua, kannattaa parin kuukauden välein pysähtyä katsomaan missä mennään.
 
-![](images/unknown-soldier-241-1000x667.jpg)
+![](/images/unknown-soldier-241-1000x667.jpg)
 
 Kuva: Mirella Ruotsalainen / [hertjekker.net](http://www.hertjekker.net)
 
@@ -58,7 +58,7 @@ Tämä koskee sekä hevosta että ratsastajaa. Olemme molemmat enemmän syömise
 
 Sotilaalle riittää rauhallinen paluu normaaliin arkirytmiin (liikuntaa 5 kertaa viikossa). Se aloittaa kevään treenit ratsuttajan kanssa ensi perjantaina. Minä opettelen syömään viidesti päivässä, vähennän pastaa ja muita turvottavia lisukkeita, suosin kasviksia, juon enemmän vettä ja herkuttelen vain kerran viikossa. Kävin pari viikkoa sitten kehonkoostumusmittauksessa ja teen sen uudelleen viimeistään elokuussa.  
 
-![](images/unknown-soldier-87-Edit-1000x667.jpg)
+![](/images/unknown-soldier-87-Edit-1000x667.jpg)
 
 Kuva: Mirella Ruotsalainen / [hertjekker.net](http://www.hertjekker.net)
 
@@ -68,7 +68,7 @@ Ei enää tekosyitä - vikinät seis ja hevosen selkään. Olen koko talven käy
 
 Asetan tavoitteekseni 3 kertaa viikossa - ihan joka viikko. Edellyttäen toki sitä, että Sotilas pysyy terveenä tämän kesän. Minun lisäkseni Sotilaan vuokraaja käy ratsastamassa kerran viikossa ja pyrin myös saamaan ratsuttajan kylään kerran viikossa. Yhteensä siis yllä mainitut 5 liikuntapäivää viikossa.
 
-![](images/yyteri-uudet-4-1000x665.jpg)
+![](/images/yyteri-uudet-4-1000x665.jpg)
 
 Kuva: [Marle Muuronen](https://marlemuuronen.kuvat.fi)
 
@@ -80,7 +80,7 @@ Ryhti ja katse ovat sellaisia asioita joihin on helppo keskittyä yksinkin ratsa
 
 Istuntaan liittyvien tavoitteiden mittaaminen on haastavaa, mutta etenemistä on helppo seurata vaikkapa videolta. Teen huhtikuun alussa parin minuutin videokoosteen oman ratsastukseni räikeimmistä epäkohdista ja seuraan tilannetta kuukauden välein.
 
-![](images/yyteri-uudet-6-1000x665.jpg)
+![](/images/yyteri-uudet-6-1000x665.jpg)
 
 Kuva: [Marle Muuronen﻿](https://marlemuuronen.kuvat.fi)
 
@@ -90,7 +90,7 @@ Jätän Sotilaan ratsastuksellisen eteenpäin viennin mielelläni ratsuttajalle,
 
 Rauhallisuus ja rentous kattavat tällä hetkellä laukkaa lukuun ottamatta kaikki muut tilanteet ja tehtävät, eikä ratsastettavuudessakaan ollut mitään hälyttävää vikaa pitkästä kävelytauosta huolimatta. Nyt vain yhdessä keksitään miten henkinen rauha saadaan säilymään laukassakin. Tavoite elokuulle on kaksi kierrosta rentoa laukkaa molempiin suuntiin (ilman että hevonen hehkuu tulikuumana).
 
-![](images/yyteri-10-1000x665.jpg)
+![](/images/yyteri-10-1000x665.jpg)
 
 Kuva: [Marle Muuronen﻿](https://marlemuuronen.kuvat.fi)
 
@@ -104,7 +104,7 @@ Harjoittelemme tällä hetkellä maasta käsin mm. rintakehän kohottamista, ren
 
 Huhti-elokuussa otan maastakäsittelyharjoitukset kiinteäksi osaksi myös ratsastukseen liittyviä treenejä - voin esimerkiksi aloittaa työskentelyn ensin maasta. Hyvänä mittarina toimivat PHA:n antamat harjoitukset. Kerron niistä myöhemmin lisää ihan omassa postauksessaan.
 
-![](images/unknown-soldier-304-3-1000x667.jpg)
+![](/images/unknown-soldier-304-3-1000x667.jpg)
 
 Kuva: Mirella Ruotsalainen / [hertjekker.net](http://www.hertjekker.net)
 
@@ -118,6 +118,6 @@ Savuheitekuvaukset
 
 Someton päivä (tai vaikka koko viikko)
 
-- ![](images/unknown-soldier-60-Edit-667x1000.jpg)
+- ![](/images/unknown-soldier-60-Edit-667x1000.jpg)
     
-- ![](images/unknown-soldier-54-Edit-667x1000.jpg)
+- ![](/images/unknown-soldier-54-Edit-667x1000.jpg)

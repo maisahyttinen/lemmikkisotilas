@@ -25,7 +25,7 @@ Ensimmäisenä aamuna seisoin pitkään katselemassa _omaani_, tuntui uskomattom
 
   
 
-[![](images/unknown_soldier13.png)](http://2.bp.blogspot.com/-DpVJrL1XN-E/UW2fEh9zj8I/AAAAAAAAFoo/8zusFO5nQi4/s1600/unknown_soldier13.png)
+[![](/images/unknown_soldier13.png)](http://2.bp.blogspot.com/-DpVJrL1XN-E/UW2fEh9zj8I/AAAAAAAAFoo/8zusFO5nQi4/s1600/unknown_soldier13.png)
 
 _Jälleen hevosenomistaja, syksy 2011. (c. Mirella Ruotsalainen/hertjekker.net)_
 
@@ -36,7 +36,7 @@ Oman hevosen takia revin itseni arkiaamuisin sängystä puoli seitsemältä. Vii
 Loppujen lopuksi Sotilas on kuitenkin _se_ juttu. Kaikki rutiinit pyörivät Sotilaan ympärillä, mutta Sotilaan kanssa pääsen pakoon tasaista arkea. Oma hevonen tarkoittaa minulle stressitöntä vapaa-aikaa. Pakokeinoa, mahdollisuutta nollata vähän. Toisaalta oma hevonen on haaste, jonka kautta voi toteuttaa itseään. Näen Sotilaan aika valmiina hevosena - se on tasapainoinen, luottavainen, yhteistyöhaluinen ja nähnyt elämää jo nyt enemmän kuin moni hevonen näkee koskaan. Omassa ammatissaan kärryjen edessä se on moitteeton tilanteessa kuin tilanteessa. Ratsuna se ei ole valmis eikä koskaan valmiiksi tulekaan. Yhdessä meillä sen sijaan on paljon ratsastustemppuja suurempaa opittavaa, sellaista jonka oppii vain vuosien yhteistyöllä. Vielä kaksikko ei ole yksi.  
   
 
-[![](images/IMG_0312.png)](http://1.bp.blogspot.com/-UDJ_sxi0AOM/UZ0DaGpYJmI/AAAAAAAAF0g/YNxr_6fzOIw/s1600/IMG_0312.png)[![](images/IMG_0374.png) ](http://1.bp.blogspot.com/-yKnadlfNIes/UZ0DbZJmfRI/AAAAAAAAF0o/_1gKlIm986M/s1600/IMG_0374.png)
+[![](/images/IMG_0312.png)](http://1.bp.blogspot.com/-UDJ_sxi0AOM/UZ0DaGpYJmI/AAAAAAAAF0g/YNxr_6fzOIw/s1600/IMG_0312.png)[![](/images/IMG_0374.png) ](http://1.bp.blogspot.com/-yKnadlfNIes/UZ0DbZJmfRI/AAAAAAAAF0o/_1gKlIm986M/s1600/IMG_0374.png)
 
   
 
@@ -64,4 +64,4 @@ Psst. Ilmoittauduimme Sotilaan kanssa match show'hun! Ilmoittakaa omat silmäter
 
   
 
-[![](images/ak.png)](http://1.bp.blogspot.com/-s3uygP3a8IE/UZ3cXt7c3hI/AAAAAAAAF04/ObdccR9iaLo/s1600/ak.png)
+[![](/images/ak.png)](http://1.bp.blogspot.com/-s3uygP3a8IE/UZ3cXt7c3hI/AAAAAAAAF04/ObdccR9iaLo/s1600/ak.png)

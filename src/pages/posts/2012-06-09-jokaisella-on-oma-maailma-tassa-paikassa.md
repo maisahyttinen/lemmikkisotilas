@@ -11,7 +11,7 @@ post_button_label: "Lue lisää"
 Valitettavasti uusia kuvia ei ole jaettavaksi kanssanne. Teidän, joita on jo yli **100**! Vau! Maanantaina uima- ja ratsasteluseura (jolla myös kamera pysyy käsissä) pääsee ripariltaan, joten sen jälkeen varmaankin saatte useammin kuvia ja kuulumisia.  
   
 
-[![](images/IMG_0269.png)](http://1.bp.blogspot.com/-GgX5WqO1juY/T9OlXXktN-I/AAAAAAAAAvs/8kq990VmpG4/s1600/IMG_0269.png)
+[![](/images/IMG_0269.png)](http://1.bp.blogspot.com/-GgX5WqO1juY/T9OlXXktN-I/AAAAAAAAAvs/8kq990VmpG4/s1600/IMG_0269.png)
 
 Tinkertamma Lena. Ehkä kesältä 2010? c. Sara
 

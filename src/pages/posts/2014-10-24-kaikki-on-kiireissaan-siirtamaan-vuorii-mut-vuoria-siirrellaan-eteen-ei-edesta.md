@@ -16,7 +16,7 @@ Siitä huolimatta, että ensimmäinen opiskelijahaalareihin ompelemani merkki li
 
   
 
-[![](images/IMG_7850.JPG)](http://1.bp.blogspot.com/-hoMn43NiYI0/VEqo622-CWI/AAAAAAAAI_o/fiWvyc7Q8fg/s1600/IMG_7850.JPG)[![](images/IMG_9583.JPG)](http://2.bp.blogspot.com/-8R2aaGHHvV0/VEqo1URFwyI/AAAAAAAAI_g/RF6DGFn8Gyc/s1600/IMG_9583.JPG)
+[![](/images/IMG_7850.JPG)](http://1.bp.blogspot.com/-hoMn43NiYI0/VEqo622-CWI/AAAAAAAAI_o/fiWvyc7Q8fg/s1600/IMG_7850.JPG)[![](/images/IMG_9583.JPG)](http://2.bp.blogspot.com/-8R2aaGHHvV0/VEqo1URFwyI/AAAAAAAAI_g/RF6DGFn8Gyc/s1600/IMG_9583.JPG)
 
   
 
@@ -36,7 +36,7 @@ Piiskan käytöstä ja onnettomuuksista on turha edes kirjoittaa. Sen verran yle
 
   
 
-[![](images/IMG_1870.JPG)](http://2.bp.blogspot.com/-RA1ikVoyaVg/VEqmqVldFpI/AAAAAAAAI_A/GI0KHzijvBk/s1600/IMG_1870.JPG)[![](images/IMG_1890.JPG)](http://4.bp.blogspot.com/-SR-zg7O_ECA/VEqmqSpw-xI/AAAAAAAAI_E/2ISfQ0vLb98/s1600/IMG_1890.JPG)
+[![](/images/IMG_1870.JPG)](http://2.bp.blogspot.com/-RA1ikVoyaVg/VEqmqVldFpI/AAAAAAAAI_A/GI0KHzijvBk/s1600/IMG_1870.JPG)[![](/images/IMG_1890.JPG)](http://4.bp.blogspot.com/-SR-zg7O_ECA/VEqmqSpw-xI/AAAAAAAAI_E/2ISfQ0vLb98/s1600/IMG_1890.JPG)
 
   
 

@@ -8,7 +8,7 @@ template: "page"
 post_button_label: "Lue lisää"
 ---
 
-[![](images/l%25C3%25A4mp%25C3%25B6kuva4.png)](http://4.bp.blogspot.com/-DbK4yeYsP2A/Vi3riX02DLI/AAAAAAAAKVE/YVcUmCCAv6M/s1600/l%25C3%25A4mp%25C3%25B6kuva4.png)[![](images/l%25C3%25A4mp%25C3%25B6kuva1.png)](http://4.bp.blogspot.com/-XHIMMyDWtjE/Vi3riZh9qEI/AAAAAAAAKVA/CbTrwg1oP78/s1600/l%25C3%25A4mp%25C3%25B6kuva1.png)
+[![](/images/l%25C3%25A4mp%25C3%25B6kuva4.png)](http://4.bp.blogspot.com/-DbK4yeYsP2A/Vi3riX02DLI/AAAAAAAAKVE/YVcUmCCAv6M/s1600/l%25C3%25A4mp%25C3%25B6kuva4.png)[![](/images/l%25C3%25A4mp%25C3%25B6kuva1.png)](http://4.bp.blogspot.com/-XHIMMyDWtjE/Vi3riZh9qEI/AAAAAAAAKVA/CbTrwg1oP78/s1600/l%25C3%25A4mp%25C3%25B6kuva1.png)
 
  
 
@@ -37,7 +37,7 @@ Sotilas siis "könkkää" liinassa juoksuttaessa aina ulkotakajalkaa. Se on sin�
 
 Oikean puolen jalat siis reagoivat taivutuksiin kaikkein eniten, joskaan eivät nekään kovin paljon. Jokaisella hevosella on yksi muita heikompi jalka ja Sotilaalla se on selvästi oikea takajalka. Sillä on aina ollut hieman ongelmia aavistuksen väljien takapolvien kanssa, ja oikean takajalan ylänivelten taivutusreaktio johtuu todennäköisesti juuri takapolvesta. Reaktio on kuitenkin niin pieni, ettei silläkään varsinaisesti voida selittää epäpuhtautta. Harva jo hieman vanhempi käyttöhevonen on taivutuksissa aivan puhdas, joten kyseessä on muutenkin aika tavanomaisia löydöksiä. Varsinaisen ontumatutkimuksen näkökulmasta taivutukset eivät siis kertoneet mitään lisää.
 
-[![](images/ulta1.png)](http://1.bp.blogspot.com/-pHrbzCzDWLE/Vi1Dv3RbVJI/AAAAAAAAKTc/7Q7zoAdTGQo/s1600/ulta1.png)[![](images/ultra2.png)](http://1.bp.blogspot.com/-rhYxF36i3Yw/Vi1DwFhzLSI/AAAAAAAAKTg/qhTtU-IraV8/s1600/ultra2.png)
+[![](/images/ulta1.png)](http://1.bp.blogspot.com/-pHrbzCzDWLE/Vi1Dv3RbVJI/AAAAAAAAKTc/7Q7zoAdTGQo/s1600/ulta1.png)[![](/images/ultra2.png)](http://1.bp.blogspot.com/-rhYxF36i3Yw/Vi1DwFhzLSI/AAAAAAAAKTg/qhTtU-IraV8/s1600/ultra2.png)
 
  
 
@@ -60,11 +60,11 @@ Muita eläinlääkärin huomioita: "_Vasemman etujalan olkaluun etusivu tuntuu s
 
  
 
-[![](images/IMG_2171_.png)](http://4.bp.blogspot.com/-bIK-e4uKL7k/Vi6JtZM-qvI/AAAAAAAAKV8/Vgm6guXP0bA/s1600/IMG_2171_.png)
+[![](/images/IMG_2171_.png)](http://4.bp.blogspot.com/-bIK-e4uKL7k/Vi6JtZM-qvI/AAAAAAAAKV8/Vgm6guXP0bA/s1600/IMG_2171_.png)
 
  
 
-[![](images/IMG_2134_.png)](http://3.bp.blogspot.com/-wscs4TKfIFI/Vi6JsQwa2SI/AAAAAAAAKVc/w8zdDLwQazc/s1600/IMG_2134_.png)[![](images/IMG_2138_.png)](http://4.bp.blogspot.com/-9C30oxPKU1M/Vi6JsdSDIZI/AAAAAAAAKVg/q6Yh3NS9tUQ/s1600/IMG_2138_.png)
+[![](/images/IMG_2134_.png)](http://3.bp.blogspot.com/-wscs4TKfIFI/Vi6JsQwa2SI/AAAAAAAAKVc/w8zdDLwQazc/s1600/IMG_2134_.png)[![](/images/IMG_2138_.png)](http://4.bp.blogspot.com/-9C30oxPKU1M/Vi6JsdSDIZI/AAAAAAAAKVg/q6Yh3NS9tUQ/s1600/IMG_2138_.png)
 
  
 
@@ -72,7 +72,7 @@ Sairasloma aloitettiin kengityksellä. En tunne täältäpäin juuri ketään, j
 
 Sotilaalla ei ole koskaan ollut niin painavia "oikeita ratsukenkiä" alla kuin nyt. Hauskaa on, että kaviot laitettiin ratsumalliin oikeastaan pelkällä raspilla, vaikkei etenkään vasemmasta kuvasta uskoisi. Etukavioissa ei ollut vieläkään yhtään ylimääräistä mitä olisi voinut varsinaisesti ottaa pois.. Kavioiden pohjat olivat kuitenkin nyt huomattavasti paksummat ja vahvemmat kuin viime kengityksessä, eikä välipohjille nähty enää tarvetta. Yleensä kovin suuria kengitysmuutoksia ei saisi tehdä nopeasti, mutta Sotilas kävelee ainakin seuraavan kuukauden, joten sillä on hyvin aikaa tottua uusiin jalkoihinsa. Saa nähdä miten ratsun rautapainot vaikuttavat etenkin liikkeisiin.
 
-[![](images/IMG_2147_.png)](http://3.bp.blogspot.com/-6eOSz8yEx6M/Vi6JsdK1awI/AAAAAAAAKWE/MjVK1ouUYso/s1600/IMG_2147_.png)[![](images/IMG_2154_.png)](http://3.bp.blogspot.com/-7l6nj64YmgA/Vi6JtFAdO1I/AAAAAAAAKV0/zmBdgGsueAk/s1600/IMG_2154_.png)
+[![](/images/IMG_2147_.png)](http://3.bp.blogspot.com/-6eOSz8yEx6M/Vi6JsdK1awI/AAAAAAAAKWE/MjVK1ouUYso/s1600/IMG_2147_.png)[![](/images/IMG_2154_.png)](http://3.bp.blogspot.com/-7l6nj64YmgA/Vi6JtFAdO1I/AAAAAAAAKV0/zmBdgGsueAk/s1600/IMG_2154_.png)
 
  
 
@@ -82,8 +82,8 @@ Alla etukaviot ennen ja jälkeen.
 
  
 
-[![](images/IMG_1945_.png)](http://4.bp.blogspot.com/-T8bfRd_2PIk/Vi6JvMLZdiI/AAAAAAAAKWM/R8AvEVoxOW8/s1600/IMG_1945_.png)
+[![](/images/IMG_1945_.png)](http://4.bp.blogspot.com/-T8bfRd_2PIk/Vi6JvMLZdiI/AAAAAAAAKWM/R8AvEVoxOW8/s1600/IMG_1945_.png)
 
  
 
-[![](images/IMG_2164_.png)](http://1.bp.blogspot.com/-XsBlu3aL-iQ/Vi6JtDr4DcI/AAAAAAAAKV4/FibiFKBErnk/s1600/IMG_2164_.png)
+[![](/images/IMG_2164_.png)](http://1.bp.blogspot.com/-XsBlu3aL-iQ/Vi6JtDr4DcI/AAAAAAAAKV4/FibiFKBErnk/s1600/IMG_2164_.png)

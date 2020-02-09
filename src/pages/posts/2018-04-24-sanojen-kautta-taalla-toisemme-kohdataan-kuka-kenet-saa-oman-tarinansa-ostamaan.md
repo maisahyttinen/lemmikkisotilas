@@ -16,7 +16,7 @@ Facebookin ryhmät ovat sen sijaan erittäin hyvä esimerkki hyvinvoivasta inter
 
 Monelta tuntuu kuitenkin unohtuvan, että suosituimmilla hevosryhmilläkin on seuraajia keskikokoisen paikallislehden levikin verran. Esimerkkeinä omat suosikkini - Lämminveriset ratsut/ravurit (6 600 jäsentä), Ratsastajat (14 600 jäsentä) ja Talliniksit (21 500 jäsentä). Puhumattakaan siitä screenshottien määrästä, joka leviää suljettujen ryhmien ulkopuolelle. Jokainen tyhmä tai ilkeä kommentti, epäedustava kuva tai mikä tahansa someraatia kiinnostava yksityiskohta lähtee jakoon käsittämättömän nopeasti. Kuinka moni olisi valmis jakamaan ajatuksiaan samaan tapaan vaikkapa Hevosurheilussa? Lehden levikki on 16 700 kpl.
 
-\[caption id="attachment\_1663" align="alignnone" width="1000"\]![](images/MG_3934.jpg) Tilannekuva, olkaa hyvät.\[/caption\]
+\[caption id="attachment\_1663" align="alignnone" width="1000"\]![](/images/MG_3934.jpg) Tilannekuva, olkaa hyvät.\[/caption\]
 
 Kuinka pysyä hengissä somessa mellastavan hevosväen seassa? Helpommin sanottu kuin tehty. Jos haluaa, ettei kukaan provosoidu, ei kannata julkaista mitään. Aina löytyy mielensäpahoittajia, oli kuvassa tai julkaisussa mitä tahansa. Peräänkuuluttaisin kuitenkin ensisijaisesti silti julkaisijan omaa vastuuta siitä, mitä lataa tuhansien ihmisten nähtäville.
 
@@ -26,13 +26,13 @@ Ja sinällään ymmärrän valtaosan reaktion oikein hyvin - ei ole millään ta
 
 Lämminveriset ratsut/ravurit oli taannoin aika surullinen esimerkki juuri tästä. Paljon julkaisuja temppuilevista, ontuvista tai muuten surkean näköisistä hevosista. Suurin osa vetosi siihen, että ei hetken ratsastettu hevonen voi näyttää valmiilta. Ei toki voikaan, mutta ei sen kipeältäkään kuulu näyttää. Pelkän rotuylpeän kehumisen ja ihastelun sijaan rakentavalle (ja negatiivisellekin) palautteelle löytyi paikkansa.
 
-\[caption id="attachment\_1786" align="alignnone" width="1000"\]![](images/MG_3892.jpg) Sotilas on vähitellen alkanut tarjota laukkaa ihan itsekin. Intoa olisi huomattavasti enemmän kuin voimaa ja järkeä.\[/caption\]
+\[caption id="attachment\_1786" align="alignnone" width="1000"\]![](/images/MG_3892.jpg) Sotilas on vähitellen alkanut tarjota laukkaa ihan itsekin. Intoa olisi huomattavasti enemmän kuin voimaa ja järkeä.\[/caption\]
 
 Sotilaastakin on jonkin verran videoita ensimmäisiltä vuosilta, mutta nyt jälkeenpäin olen iloinen että ne ovat jääneet julkaisematta. Blogin ja kaiken kuvatun materiaalin kautta hevosta ja omaakin tekemistä on oppinut katsomaan myös ulkopuolisen silmin. Aina ei homma toimi enkä läheskään aina tee itsekään asioita parhaalla mahdollisella tavalla. Se on ihan okei, mutta internetissä en sitä kaikkea halua jakaa.
 
 Hevonen kehittyy, minä kehityn ja sitä voi vallan mainiosti seurata myös hyvien ja keskivertojen suoritusten perusteella. Eri kehitysvaiheiden havainnollistaminen ei vaadi materiaalia, jossa hevonen on happy athleten suora vastakohta. Jokainen hevosihminen tietää näyttämättäkin, että huonompiakin hetkiä välillä on.
 
-\[caption id="attachment\_1662" align="alignnone" width="1000"\]![](images/MG_3652.jpg) Sotilas kesäkengitettiin lauantaina. Hokit ja irtonainen, pehmeä hiekkapohja eivät palvelleet matalaliikkeistä hevosta kovin hyvin. Ehkä nuo takajalatkin löytävät lähiviikkoina tehtävänsä hieman paremmin.\[/caption\]
+\[caption id="attachment\_1662" align="alignnone" width="1000"\]![](/images/MG_3652.jpg) Sotilas kesäkengitettiin lauantaina. Hokit ja irtonainen, pehmeä hiekkapohja eivät palvelleet matalaliikkeistä hevosta kovin hyvin. Ehkä nuo takajalatkin löytävät lähiviikkoina tehtävänsä hieman paremmin.\[/caption\]
 
 Olemme Sotilaan kanssa olleet siinä mielessä etuoikeutetussa asemassa, että someraivo ei ole koskaan kohdistunut suoraan meihin. Kovin moni bloggaaja ei valitettavasti voi sanoa samaa. Se on osaltaan ollut tietoisten valintojen tulos - kaikki suuremmalle yleisölle julkaistu materiaali on aina mietitty huolella. Etenkin hieman nuorempana olin erittäin kärkäs jakamaan mielipiteitäni avoimesti omalla nimelläni, mutta henkilökohtaisista törmäyksistä huolimatta Sotilas on saanut jäädä erimielisyyksien ulkopuolelle.
 
@@ -40,4 +40,4 @@ Mitä avoimemmin ja henkilökohtaisemmin somessa esiintyy, sitä avoimempaa ja h
 
 Anonyymeistä "palautelinkeistä" puhumattakaan! Sarahah ja Tellonym ovat osoittautuneet ihan verrattomaksi kanavaksi uuden ajan somekiusaamiselle. Kuin ht.net, mutta aivan suoraan ja henkilökohtaisesti. Ja koska tätä en vielä ole kokeillut - [**blogin Tellonym-linkki löytyy tästä.**](https://tellonym.me/maisahyttinen) Käykää purkamassa kaikki ne padotut aggressiot, joita on turhan työlästä ja julkista avata blogin kommentteihin.
 
-\[caption id="attachment\_1785" align="alignnone" width="1000"\]![](images/MG_3255.jpg) Vielä yksi kuukauden takaa. Melkein jo ikävöin aurinkoisia talvipäiviä - tällä hetkellä näyttää ja tuntuu lähinnä loppusyksyltä.\[/caption\]
+\[caption id="attachment\_1785" align="alignnone" width="1000"\]![](/images/MG_3255.jpg) Vielä yksi kuukauden takaa. Melkein jo ikävöin aurinkoisia talvipäiviä - tällä hetkellä näyttää ja tuntuu lähinnä loppusyksyltä.\[/caption\]

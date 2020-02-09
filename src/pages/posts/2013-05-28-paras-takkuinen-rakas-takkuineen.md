@@ -10,7 +10,7 @@ post_button_label: "Lue lisää"
 
   
 
-[![](images/naama1_.png)](http://2.bp.blogspot.com/-fWQuCab6bf0/UaPAw3gd8SI/AAAAAAAAF3s/6n_ZhNaDYQo/s1600/naama1_.png)
+[![](/images/naama1_.png)](http://2.bp.blogspot.com/-fWQuCab6bf0/UaPAw3gd8SI/AAAAAAAAF3s/6n_ZhNaDYQo/s1600/naama1_.png)
 
   
 
@@ -18,7 +18,7 @@ Eilen oli valokuvauspäivä. Sotilaasta napsittiin muutama poseerauskuva (huomaa
 
   
 
-[![](images/2705_2.JPG)](http://1.bp.blogspot.com/-zlt7icD27IY/UaO39tC3CQI/AAAAAAAAF28/ScJB5B8UxS8/s1600/2705_2.JPG)[![](images/2705_3.JPG)](http://4.bp.blogspot.com/-aKh7dPj8xE8/UaO3-D1RYoI/AAAAAAAAF3A/QYOSPKU3v-4/s1600/2705_3.JPG)
+[![](/images/2705_2.JPG)](http://1.bp.blogspot.com/-zlt7icD27IY/UaO39tC3CQI/AAAAAAAAF28/ScJB5B8UxS8/s1600/2705_2.JPG)[![](/images/2705_3.JPG)](http://4.bp.blogspot.com/-aKh7dPj8xE8/UaO3-D1RYoI/AAAAAAAAF3A/QYOSPKU3v-4/s1600/2705_3.JPG)
 
   
 
@@ -26,7 +26,7 @@ Miten hirvittävässä karvassa hevonen voi olla!? Näköjään ihan tajuttoman 
 
   
 
-[![](images/2705_10.JPG)](http://3.bp.blogspot.com/-BfmyLVvcvHo/UaO36rEApnI/AAAAAAAAF2k/jHZWsBgOtrI/s1600/2705_10.JPG)[![](images/2705_8.JPG)](http://4.bp.blogspot.com/--ABHOTeqxGU/UaO3-nb5_II/AAAAAAAAF3I/QA5lje8JABU/s1600/2705_8.JPG)[![](images/2705_12.JPG)](http://1.bp.blogspot.com/-pxI5Xc8PNuc/UaO38Vaa4XI/AAAAAAAAF20/hh8-mV3UHYc/s1600/2705_12.JPG)
+[![](/images/2705_10.JPG)](http://3.bp.blogspot.com/-BfmyLVvcvHo/UaO36rEApnI/AAAAAAAAF2k/jHZWsBgOtrI/s1600/2705_10.JPG)[![](/images/2705_8.JPG)](http://4.bp.blogspot.com/--ABHOTeqxGU/UaO3-nb5_II/AAAAAAAAF3I/QA5lje8JABU/s1600/2705_8.JPG)[![](/images/2705_12.JPG)](http://1.bp.blogspot.com/-pxI5Xc8PNuc/UaO38Vaa4XI/AAAAAAAAF20/hh8-mV3UHYc/s1600/2705_12.JPG)
 
   
 
@@ -34,4 +34,4 @@ Miten hirvittävässä karvassa hevonen voi olla!? Näköjään ihan tajuttoman 
 
   
 
-[![](images/ak.png)](http://2.bp.blogspot.com/-ug1Uuo1-t24/UaO42RNUYAI/AAAAAAAAF3c/BFwJe_f1mpc/s1600/ak.png)
+[![](/images/ak.png)](http://2.bp.blogspot.com/-ug1Uuo1-t24/UaO42RNUYAI/AAAAAAAAF3c/BFwJe_f1mpc/s1600/ak.png)

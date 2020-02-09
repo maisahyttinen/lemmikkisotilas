@@ -18,7 +18,7 @@ Lahdessa luennoivat ja keskustelivat maailman suurimman hevosenkenkävalmistajan
 
   
 
-[![](images/IMG_1848_.png)](http://4.bp.blogspot.com/-gxBUcvh-J4A/VhOrsiTZNUI/AAAAAAAAKMA/P8F9R2Wpbus/s1600/IMG_1848_.png)
+[![](/images/IMG_1848_.png)](http://4.bp.blogspot.com/-gxBUcvh-J4A/VhOrsiTZNUI/AAAAAAAAKMA/P8F9R2Wpbus/s1600/IMG_1848_.png)
 
   
 
@@ -42,7 +42,7 @@ Etenkin lihashuollossa liikunnan merkitys korostuu. Lihakset tarvitsevat riittä
 
   
 
-[![](images/IMG_1827_.png)](http://3.bp.blogspot.com/--ZurmHMCw8M/VhOsWQzqIrI/AAAAAAAAKMU/TpEO-Ef-3T8/s1600/IMG_1827_.png)
+[![](/images/IMG_1827_.png)](http://3.bp.blogspot.com/--ZurmHMCw8M/VhOsWQzqIrI/AAAAAAAAKMU/TpEO-Ef-3T8/s1600/IMG_1827_.png)
 
   
 
@@ -54,7 +54,7 @@ On erittäin mielenkiintoista, että **alusta saakka vasemman ja oikean jalan ke
 
   
 
-[![](images/IMG_1841_.png)](http://1.bp.blogspot.com/-K5bTO4r30tM/VhOsW23nZkI/AAAAAAAAKMs/OWTuoP-LHSI/s1600/IMG_1841_.png)
+[![](/images/IMG_1841_.png)](http://1.bp.blogspot.com/-K5bTO4r30tM/VhOsW23nZkI/AAAAAAAAKMs/OWTuoP-LHSI/s1600/IMG_1841_.png)
 
   
 
@@ -70,7 +70,7 @@ Keski-Eurooppalaiset käytännöt sen sijaan ovat aika kaukana suomalaisista. As
 
   
 
-[![](images/IMG_18322_.png)](http://3.bp.blogspot.com/-ueKn8fRIhR8/VhOsWdFuVnI/AAAAAAAAKMg/-3NO9_ywFn8/s1600/IMG_18322_.png)[![](images/IMG_1830_.png)](http://2.bp.blogspot.com/-nIgwX-pj4qc/VhOsWS-lMlI/AAAAAAAAKM0/5o0AIyXVkHE/s1600/IMG_1830_.png)
+[![](/images/IMG_18322_.png)](http://3.bp.blogspot.com/-ueKn8fRIhR8/VhOsWdFuVnI/AAAAAAAAKMg/-3NO9_ywFn8/s1600/IMG_18322_.png)[![](/images/IMG_1830_.png)](http://2.bp.blogspot.com/-nIgwX-pj4qc/VhOsWS-lMlI/AAAAAAAAKM0/5o0AIyXVkHE/s1600/IMG_1830_.png)
 
   
 

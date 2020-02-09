@@ -8,7 +8,7 @@ template: "page"
 post_button_label: "Lue lisää"
 ---
 
-![](images/IMG_8844-7.jpg)
+![](/images/IMG_8844-7.jpg)
 
 Lokakuu... Syksy on tähän mennessä ollut arveluttavan kuiva, lämmin ja inhimillinen.
 
@@ -18,7 +18,7 @@ Kun on selvitty kesästä, on seuraava tavoite selvitä syksystäkin. Koulu ja m
 
 On siis aika kaivaa esiin asenne, vitamiinipurkit ja kalenteri.
 
-![](images/IMG_8928-2-5.jpg)
+![](/images/IMG_8928-2-5.jpg)
 
 **5 + 1 SELVIYTYMISKEINOA SYKSYYN**
 
@@ -30,9 +30,9 @@ Näistä suurin osa tuntuu ehkä itsestäänselvyyksiltä, mutta unohtuvat helpo
 
 **3\. Keksi vaihtelua.** Märällä kentällä rämpiminen käy väistämättä tympimään, mutta onneksi voi tehdä muutakin. Motivaatiopulassa mikä vain on epäonnistunutta sileätreeniä parempi vaihtoehto. Kotona voi hyvin muuttaa huonejärjestystä tai muuttaa vaikka kokonaan uuteen asuntoon...
 
-![](images/IMG_8976-2-3.jpg)
+![](/images/IMG_8976-2-3.jpg)
 
-![](images/IMG_8930-2.jpg)
+![](/images/IMG_8930-2.jpg)
 
 **4\. Pidä huolta itsestäsi.** Syö hyvin, nuku hyvin, pukeudu mukavasti, käy ulkona ystävien kanssa... Oma aika jää helposti koulun, työn, tallin ja kaiken muun hektisemmän jalkoihin. Nyt on erittäin hyvä aika kaivaa syksyn lempivaatteet esiin ja varata kalenteriin aikaa myös itselleen.
 
@@ -40,4 +40,4 @@ Näistä suurin osa tuntuu ehkä itsestäänselvyyksiltä, mutta unohtuvat helpo
 
 **+1 Kääriydy hyvällä omallatunnolla viltin sisään.** Kuppi teetä, levy suklaata ja pari jaksoa Netflix-sarjaa lämmittävät kaikkein kurjimmankin päivän, viikon tai koko syksyn päätteeksi. Vilttiburriton sisästä kun katsoo, näyttää huominen aina valoisammalta. Syksy on muutenkin ihan parasta aikaa fiilistellä kotona kynttilänvalossa. Eikä itse paistettu omenapiirakkakaan pahaa ole.
 
-\[caption id="attachment\_2481" align="alignnone" width="1000"\]![](images/1R3A0051-2.jpg) Kuva: Jenna Reijo / sudenmarja.org\[/caption\]
+\[caption id="attachment\_2481" align="alignnone" width="1000"\]![](/images/1R3A0051-2.jpg) Kuva: Jenna Reijo / sudenmarja.org\[/caption\]

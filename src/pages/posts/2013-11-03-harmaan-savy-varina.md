@@ -8,7 +8,7 @@ template: "page"
 post_button_label: "Lue lisää"
 ---
 
-[![](images/IMG_1162.png)](http://3.bp.blogspot.com/--m9MANiEayo/UnakHZUPG-I/AAAAAAAAHPI/XpSF8BV7Nyk/s1600/IMG_1162.png)[![](images/IMG_1165.png)](http://4.bp.blogspot.com/-UmWD-LMhA_c/UnakHSWUrlI/AAAAAAAAHPA/D4cDEppk8p0/s1600/IMG_1165.png)
+[![](/images/IMG_1162.png)](http://3.bp.blogspot.com/--m9MANiEayo/UnakHZUPG-I/AAAAAAAAHPI/XpSF8BV7Nyk/s1600/IMG_1162.png)[![](/images/IMG_1165.png)](http://4.bp.blogspot.com/-UmWD-LMhA_c/UnakHSWUrlI/AAAAAAAAHPA/D4cDEppk8p0/s1600/IMG_1165.png)
 
   
 
@@ -16,12 +16,12 @@ Ihan pikapikapikainen postaus ettei väli venähdä ihan mahdottoman pitkäksi..
 
   
 
-[![](images/IMG_1145.png)](http://3.bp.blogspot.com/-ZvBcfzxq0dQ/UnamHuzonsI/AAAAAAAAHPs/qxDpL_PO-yQ/s1600/IMG_1145.png)[![](images/IMG_1132.png)](http://3.bp.blogspot.com/-Up0x2YhwIso/UnamHkGlVbI/AAAAAAAAHPo/E3bCinu08uc/s1600/IMG_1132.png)
+[![](/images/IMG_1145.png)](http://3.bp.blogspot.com/-ZvBcfzxq0dQ/UnamHuzonsI/AAAAAAAAHPs/qxDpL_PO-yQ/s1600/IMG_1145.png)[![](/images/IMG_1132.png)](http://3.bp.blogspot.com/-Up0x2YhwIso/UnamHkGlVbI/AAAAAAAAHPo/E3bCinu08uc/s1600/IMG_1132.png)
 
   
   
 
-[![](images/IMG_1209.png)](http://1.bp.blogspot.com/-qbHMlkeGQr0/UnakIB6GKCI/AAAAAAAAHPg/nKjXIj1VEdk/s1600/IMG_1209.png)[![](images/IMG_1217.png)](http://4.bp.blogspot.com/-FUehWs85NDE/UnakIXViYFI/AAAAAAAAHPc/Ty3vMF5v4rk/s1600/IMG_1217.png)
+[![](/images/IMG_1209.png)](http://1.bp.blogspot.com/-qbHMlkeGQr0/UnakIB6GKCI/AAAAAAAAHPg/nKjXIj1VEdk/s1600/IMG_1209.png)[![](/images/IMG_1217.png)](http://4.bp.blogspot.com/-FUehWs85NDE/UnakIXViYFI/AAAAAAAAHPc/Ty3vMF5v4rk/s1600/IMG_1217.png)
 
   
 
@@ -29,4 +29,4 @@ Vähän minun viikonloppukuulumisiani. Torstaina kävimme katsomassa Taikahuilua
 
   
 
-[![](images/ak.png)](http://4.bp.blogspot.com/-QMhCPy2vUNo/UnaoIOJhZlI/AAAAAAAAHP8/m8wJGwdypy4/s1600/ak.png)
+[![](/images/ak.png)](http://4.bp.blogspot.com/-QMhCPy2vUNo/UnaoIOJhZlI/AAAAAAAAHP8/m8wJGwdypy4/s1600/ak.png)

@@ -8,7 +8,7 @@ template: "page"
 post_button_label: "Lue lisää"
 ---
 
-[![](images/2013-06-13-169.png)](http://2.bp.blogspot.com/-xBUBSSb-b5k/Ubsg6v_BiVI/AAAAAAAAGAk/s4XIDj8A32E/s1600/2013-06-13-169.png)
+[![](/images/2013-06-13-169.png)](http://2.bp.blogspot.com/-xBUBSSb-b5k/Ubsg6v_BiVI/AAAAAAAAGAk/s4XIDj8A32E/s1600/2013-06-13-169.png)
 
   
 
@@ -16,11 +16,11 @@ Pikainen postaus ennen Sotilaan pesua ja omaa laittautumista iltaa varten (toine
 
   
 
-[![](images/Luigi+%25281%2529.JPG)](http://3.bp.blogspot.com/-rMpPIUdU8jE/UbsgjhhkQ4I/AAAAAAAAF_w/f56UQDJfQ0A/s1600/Luigi+%25281%2529.JPG)[![](images/Lauma.JPG)](http://1.bp.blogspot.com/-XAbrQmmuT84/UbsgkNYWPOI/AAAAAAAAF_8/1FruAQS7Wic/s1600/Lauma.JPG)
+[![](/images/Luigi+%25281%2529.JPG)](http://3.bp.blogspot.com/-rMpPIUdU8jE/UbsgjhhkQ4I/AAAAAAAAF_w/f56UQDJfQ0A/s1600/Luigi+%25281%2529.JPG)[![](/images/Lauma.JPG)](http://1.bp.blogspot.com/-XAbrQmmuT84/UbsgkNYWPOI/AAAAAAAAF_8/1FruAQS7Wic/s1600/Lauma.JPG)
 
   
 
-[![](images/Onnelan+Casanova+ja+Tevinski.JPG)](http://3.bp.blogspot.com/-h8-J5OqNkUA/UbsgjvVTR0I/AAAAAAAAF_0/zAsvl7FUIHo/s1600/Onnelan+Casanova+ja+Tevinski.JPG)[![](images/Tevinski+%25286%2529.JPG)](http://4.bp.blogspot.com/-lW1STfKlxEg/UbsglkqHK8I/AAAAAAAAGAI/zd-wdGitFqw/s1600/Tevinski+%25286%2529.JPG)
+[![](/images/Onnelan+Casanova+ja+Tevinski.JPG)](http://3.bp.blogspot.com/-h8-J5OqNkUA/UbsgjvVTR0I/AAAAAAAAF_0/zAsvl7FUIHo/s1600/Onnelan+Casanova+ja+Tevinski.JPG)[![](/images/Tevinski+%25286%2529.JPG)](http://4.bp.blogspot.com/-lW1STfKlxEg/UbsglkqHK8I/AAAAAAAAGAI/zd-wdGitFqw/s1600/Tevinski+%25286%2529.JPG)
 
   
 
@@ -28,7 +28,7 @@ Kuvaterveisiä toissapäivältä. Kuljetin kameraa mukana töissä ja päivän p
 
   
 
-[![](images/IMG_0005.JPG)](http://3.bp.blogspot.com/-sRI5WAwENyY/UbsgvKTIomI/AAAAAAAAGAU/C9enaRnb8cs/s1600/IMG_0005.JPG)
+[![](/images/IMG_0005.JPG)](http://3.bp.blogspot.com/-sRI5WAwENyY/UbsgvKTIomI/AAAAAAAAGAU/C9enaRnb8cs/s1600/IMG_0005.JPG)
 
   
 
@@ -36,8 +36,8 @@ Pieni katsaus Sotilaan nykykuntoon. Talvikarva on irronnut ja se näyttää muut
 
   
 
-[![](images/Tevinski+%252836%2529.JPG)](http://1.bp.blogspot.com/-TYQMX7mZ1MA/Ubsg3hUjGfI/AAAAAAAAGAg/dV5fcwFe_Dc/s1600/Tevinski+%252836%2529.JPG)[![](images/Tevinski+%252813%2529.JPG)](http://3.bp.blogspot.com/-yewacGf3ogo/UbsglA_qCJI/AAAAAAAAGAE/qCTJvhiakUE/s1600/Tevinski+%252813%2529.JPG)[![](images/IMG_0074.JPG)](http://2.bp.blogspot.com/-1gTAy90lrdQ/UbsgvNlySLI/AAAAAAAAGAY/WhlKkynuZi4/s1600/IMG_0074.JPG)
+[![](/images/Tevinski+%252836%2529.JPG)](http://1.bp.blogspot.com/-TYQMX7mZ1MA/Ubsg3hUjGfI/AAAAAAAAGAg/dV5fcwFe_Dc/s1600/Tevinski+%252836%2529.JPG)[![](/images/Tevinski+%252813%2529.JPG)](http://3.bp.blogspot.com/-yewacGf3ogo/UbsglA_qCJI/AAAAAAAAGAE/qCTJvhiakUE/s1600/Tevinski+%252813%2529.JPG)[![](/images/IMG_0074.JPG)](http://2.bp.blogspot.com/-1gTAy90lrdQ/UbsgvNlySLI/AAAAAAAAGAY/WhlKkynuZi4/s1600/IMG_0074.JPG)
 
   
 
-[![](images/ak.png)](http://4.bp.blogspot.com/-e55FJeCyQ40/Ubsj6M7GcSI/AAAAAAAAGA0/1ib_Ev-9Njs/s1600/ak.png)
+[![](/images/ak.png)](http://4.bp.blogspot.com/-e55FJeCyQ40/Ubsj6M7GcSI/AAAAAAAAGA0/1ib_Ev-9Njs/s1600/ak.png)

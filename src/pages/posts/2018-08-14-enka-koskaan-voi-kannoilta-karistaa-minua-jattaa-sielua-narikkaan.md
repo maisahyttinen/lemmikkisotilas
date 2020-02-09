@@ -8,7 +8,7 @@ template: "page"
 post_button_label: "Lue lisää"
 ---
 
-![](images/IMG_0173-1-2.jpg)
+![](/images/IMG_0173-1-2.jpg)
 
 **Viimeiseen kuukauteen on mahtunut enemmän reissaamista, valokuvausta ja elämyksiä kuin koko kuluneeseen vuoteen yhteensä.**
 
@@ -20,7 +20,7 @@ Samaan aikaan Sotilaan ratsutusta on jatkettu viikoittain ja olen itsekin yritt�
 
 Olen päivitellyt kuvia ja kuulumisia Instagramiin lähes päivittäin. Ottakaa [@maisahyttinen](https://www.instagram.com/maisahyttinen/) ihmeessä seurantaan! Yyteri ja valokuvauspäivä saavat aikanaan ihan omat postauksensa, mutta ensimmäisiä kuvamaistiaisia on jo IG:n puolella nähtävillä. Storiesissa pyörii välillä ratsastusvideoitakin.
 
-![](images/MG_9500-1-3.jpg)
+![](/images/MG_9500-1-3.jpg)
 
 **Olen kirjoittanut työkseni pian kolme kuukautta.**
 
@@ -42,6 +42,6 @@ Säännöllinen julkaiseminen on ainoa mistä aion pitää kiinni omissa someiss
 
 Syksyllä lupaan päivittää blogiakin vähintään kerran viikossa. Instagramia päivitän vähintään joka toinen päivä.
 
-![](images/IMG_6577.jpg)![](images/IMG_6255.jpg)
+![](/images/IMG_6577.jpg)![](/images/IMG_6255.jpg)
 
 Kahdesta alemmasta kuvasta kiitos Anette Naroma! Nämä ovat noin kuukauden takaa. Sotilas on hoikistunut ja jäntevöitynyt viime viikkoina hurjasti.

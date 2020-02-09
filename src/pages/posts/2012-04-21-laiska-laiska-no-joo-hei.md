@@ -33,4 +33,4 @@ Kyllä. Tällä hetkellä ehkä aktiivisimmin seuraamani, ht.netin silmätikku. 
 Argh, olkoot tämä tässä. Alla pari maistiaista viime viikonlopun Seinäjoki-ajosta. Näitä kuvia tuntuu riittävän loputtomasti.. Puhumattakaan Suomen cupin ja Kouvolan iltaravien kuvista. Ehkä saan nekin joskus laitettua julkaisukelpoiseen iskuun.  
   
 
-[![](images/IMG_0091.png)](http://4.bp.blogspot.com/-NuA0cMB3_zc/T5MdF3FihzI/AAAAAAAAAiY/kNzJrDNAqDI/s1600/IMG_0091.png)[![](images/IMG_0105.png)](http://2.bp.blogspot.com/-PPxhclBmqG8/T5MdILhXMDI/AAAAAAAAAig/gDM-8z2YTRk/s1600/IMG_0105.png)
+[![](/images/IMG_0091.png)](http://4.bp.blogspot.com/-NuA0cMB3_zc/T5MdF3FihzI/AAAAAAAAAiY/kNzJrDNAqDI/s1600/IMG_0091.png)[![](/images/IMG_0105.png)](http://2.bp.blogspot.com/-PPxhclBmqG8/T5MdILhXMDI/AAAAAAAAAig/gDM-8z2YTRk/s1600/IMG_0105.png)

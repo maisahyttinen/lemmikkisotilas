@@ -8,7 +8,7 @@ template: "page"
 post_button_label: "Lue lisää"
 ---
 
-[![](images/huomenna2.png)](http://4.bp.blogspot.com/-UkMl1Uk8hEc/T8eHGxaVC4I/AAAAAAAAAsA/wFFlciyJ8nY/s1600/huomenna2.png)
+[![](/images/huomenna2.png)](http://4.bp.blogspot.com/-UkMl1Uk8hEc/T8eHGxaVC4I/AAAAAAAAAsA/wFFlciyJ8nY/s1600/huomenna2.png)
 
   
   
@@ -17,7 +17,7 @@ Mulla ei oo yhtään järkevää syytä tulla kirjottamaan mitään mut sivuutet
 Tein tänään tämän lukuvuoden viimeisen kokeen ja koulujutut on luojan kiitos tältä keväältä kaikin puolin ohi. Lukuunottamatta huomista turhakeohjelmaa ja lauantain ylioppilaistilaisuutta. Mutta kuitenkin. Selvisin ilmeisesti kunnialla ensimmäisestä lukiovuodesta ja kesä on hyvä aloittaa viettämällä lauantaista sunnuntaihin kaikki aika toisenkin täydellisen miehen kanssa. Elämä on kivaa!  
   
 
-[![](images/40763_127028704019033_100001357115733_136977_7039868_n.jpg)](http://3.bp.blogspot.com/-nNogfc_XfrE/T8elwhPr6yI/AAAAAAAAAsM/6rY7pgKtxlA/s1600/40763_127028704019033_100001357115733_136977_7039868_n.jpg)
+[![](/images/40763_127028704019033_100001357115733_136977_7039868_n.jpg)](http://3.bp.blogspot.com/-nNogfc_XfrE/T8elwhPr6yI/AAAAAAAAAsM/6rY7pgKtxlA/s1600/40763_127028704019033_100001357115733_136977_7039868_n.jpg)
 
   
 

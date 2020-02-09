@@ -8,7 +8,7 @@ template: "page"
 post_button_label: "Lue lisää"
 ---
 
-[![](images/uinti11.JPG)](http://4.bp.blogspot.com/-l23J8MvuqLM/UaS-4jHGdlI/AAAAAAAAF4A/MoktVWaBCN0/s1600/uinti11.JPG)
+[![](/images/uinti11.JPG)](http://4.bp.blogspot.com/-l23J8MvuqLM/UaS-4jHGdlI/AAAAAAAAF4A/MoktVWaBCN0/s1600/uinti11.JPG)
 
   
 
@@ -16,7 +16,7 @@ Möhkäle huljahti veteen aika vaivattomasti! Alkujännityksen jälkeen viilenty
 
   
 
-[![](images/uinti10.JPG)](http://2.bp.blogspot.com/-pzvxCvIBxsU/UaS-4H1hHVI/AAAAAAAAF38/ZDcJ6H2ztgI/s1600/uinti10.JPG)[![](images/uinti4.JPG)](http://2.bp.blogspot.com/-MA5J4o8yh8Y/UaS-5vOTUmI/AAAAAAAAF4Y/PFDwTI41fv0/s1600/uinti4.JPG)
+[![](/images/uinti10.JPG)](http://2.bp.blogspot.com/-pzvxCvIBxsU/UaS-4H1hHVI/AAAAAAAAF38/ZDcJ6H2ztgI/s1600/uinti10.JPG)[![](/images/uinti4.JPG)](http://2.bp.blogspot.com/-MA5J4o8yh8Y/UaS-5vOTUmI/AAAAAAAAF4Y/PFDwTI41fv0/s1600/uinti4.JPG)
 
   
 
@@ -24,8 +24,8 @@ Olin ihan häpeällisen edustava.. Hauskaa oli, vaikkei kaikista kuvista sitä e
 
   
 
-[![](images/sotilas_sara_6.JPG)](http://4.bp.blogspot.com/-LCX4WQ8TlJY/UaTKIwKVswI/AAAAAAAAF5Y/MbPXbFu841o/s1600/sotilas_sara_6.JPG)
+[![](/images/sotilas_sara_6.JPG)](http://4.bp.blogspot.com/-LCX4WQ8TlJY/UaTKIwKVswI/AAAAAAAAF5Y/MbPXbFu841o/s1600/sotilas_sara_6.JPG)
 
   
 
-[![](images/ak.png)](http://3.bp.blogspot.com/-JzGePbQ9gHM/UaTJS6ZtkYI/AAAAAAAAF5M/4bKXbaDGjZk/s1600/ak.png)
+[![](/images/ak.png)](http://3.bp.blogspot.com/-JzGePbQ9gHM/UaTJS6ZtkYI/AAAAAAAAF5M/4bKXbaDGjZk/s1600/ak.png)

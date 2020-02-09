@@ -12,7 +12,7 @@ Anteeksi tämä epäaktiivisuus, joka tulee vielä jatkumaankin. Olen yrittänyt
 
   
 
-[![](images/pilvet-lila.jpg)](http://2.bp.blogspot.com/-kbjHsm_lZ1Y/Un-dddMzEFI/AAAAAAAAHTw/lcJP41h8Uus/s1600/pilvet-lila.jpg)
+[![](/images/pilvet-lila.jpg)](http://2.bp.blogspot.com/-kbjHsm_lZ1Y/Un-dddMzEFI/AAAAAAAAHTw/lcJP41h8Uus/s1600/pilvet-lila.jpg)
 
 c. [Valokuvaus Hehku](http://valokuvaushehku.fi/)
 
@@ -22,7 +22,7 @@ Sotilaan kanssa en ole tehnyt mitään. En mitään. Facebookissakin viimeinen p
 
   
 
-[![](images/maisajasotilas-29.jpg)](http://4.bp.blogspot.com/-VOx8rjXaZL8/Un-dcVZQAMI/AAAAAAAAHTs/YMx3_M5wxns/s1600/maisajasotilas-29.jpg)
+[![](/images/maisajasotilas-29.jpg)](http://4.bp.blogspot.com/-VOx8rjXaZL8/Un-dcVZQAMI/AAAAAAAAHTs/YMx3_M5wxns/s1600/maisajasotilas-29.jpg)
 
 Sotilas ja Sara! c.[Valokuvaus Hehku](http://valokuvaushehku.fi/)
 
@@ -32,7 +32,7 @@ Kaipaan valaistua kenttää ihan valtavasti! Tosin uuden tallipaikan etsiminen o
 
   
 
-[![](images/maisajasotilas-1.jpg)](http://1.bp.blogspot.com/-kfjzRXQkC0M/Un-dZ2z7sAI/AAAAAAAAHTk/FndCG438ZlM/s1600/maisajasotilas-1.jpg)
+[![](/images/maisajasotilas-1.jpg)](http://1.bp.blogspot.com/-kfjzRXQkC0M/Un-dZ2z7sAI/AAAAAAAAHTk/FndCG438ZlM/s1600/maisajasotilas-1.jpg)
 
 c. [Valokuvaus Hehku](http://valokuvaushehku.fi/)
 
@@ -42,4 +42,4 @@ Joo, olen niinkin syksyihminen, että voisin jäädä sänkyyn ja ryömiä sielt
 
   
 
-[![](images/ak.png)](http://3.bp.blogspot.com/-9nQTYNVPJN0/Un-eKXDVkXI/AAAAAAAAHT4/5lLyrjWFxrQ/s1600/ak.png)
+[![](/images/ak.png)](http://3.bp.blogspot.com/-9nQTYNVPJN0/Un-eKXDVkXI/AAAAAAAAHT4/5lLyrjWFxrQ/s1600/ak.png)

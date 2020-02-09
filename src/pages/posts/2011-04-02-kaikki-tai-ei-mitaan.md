@@ -16,7 +16,7 @@ _Sen luottavan uskon rajalla kaarrellaan, paetaan, kun maailma todistaa karmeint
 
   
 
-[![](images/kemp.png)](http://2.bp.blogspot.com/-C9fKoxUYONI/TZd463S9oWI/AAAAAAAAAEk/aFnvMGKyN6k/s1600/kemp.png)
+[![](/images/kemp.png)](http://2.bp.blogspot.com/-C9fKoxUYONI/TZd463S9oWI/AAAAAAAAAEk/aFnvMGKyN6k/s1600/kemp.png)
 
   
 

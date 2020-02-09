@@ -23,7 +23,7 @@ Ymmärrän kyllä, että ravitaustaisella lämminverisellä ei ole minkäänlais
 Huh, avauduimpas. Pelkkä viimeinen lause tosin olisi riittänyt tiivistämään kaiken mitä halusin sanoa, mutta sanoin nyt sitten paljon muutakin. Haha. Todellisuudessa oli ihan hurjan mukava ratsastusreissu vaikka tuolla sataa jotain märkää lunta mikä kastelee hevosen ja jäätyy sitten. Vääntelin karvapalloa tuossa pellolla ja olin taas kauhean ylpeä siitä, miten se tekee aina parhaansa vaikkei välillä oikein ymmärräkään heti mitä siltä pyydän ja yrittää vielä senkin jälkeen kun väsy alkaa painaa. Urhea ja niin hurjan hyvä ja hieno. (Niin, se on edelleen se ravuriksi liian rikkinäinen roska, joka on todellisuudessa maailman kultaisin ja toimivin harrastehevonen. Mukava ratsastaa nytkin, mutta oppii hurjaa vauhtia ratsun temppuja kunhan vain opettaa.) Olisiko teidän mielestänne oikein lopettaa nämä kaikki helmet?  
   
 
-[![](images/IMG_0301y.JPG)](http://2.bp.blogspot.com/-MoCISJgz1Qo/UMIUgd-1i6I/AAAAAAAADKw/Wp3YpAoJoYc/s1600/IMG_0301y.JPG)
+[![](/images/IMG_0301y.JPG)](http://2.bp.blogspot.com/-MoCISJgz1Qo/UMIUgd-1i6I/AAAAAAAADKw/Wp3YpAoJoYc/s1600/IMG_0301y.JPG)
 
 Äiti puuhaili Sotilaalle oman jouluvalon. Sisäpuolelta se näyttää vielä paremmalta!
 
@@ -100,4 +100,4 @@ Jokaisesta rodusta löytyy lemppariyksilöitä, mutta lämminverinen varmaankin.
 
   
 
-[![](images/ak.png)](http://1.bp.blogspot.com/-gjkmCJL69L4/UMG0V0KvRWI/AAAAAAAADJE/AV6t4FVH6Z4/s1600/ak.png)
+[![](/images/ak.png)](http://1.bp.blogspot.com/-gjkmCJL69L4/UMG0V0KvRWI/AAAAAAAADJE/AV6t4FVH6Z4/s1600/ak.png)

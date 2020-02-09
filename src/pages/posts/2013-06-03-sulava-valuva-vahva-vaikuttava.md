@@ -14,7 +14,7 @@ Klikatkaa itselle kilpailuun [TÄSTÄ](http://words-of-love-vw.blogspot.fi/2013/
 
   
 
-[![](images/Kiira+ja+Ojanrinteen+Pokemon.JPG)](http://2.bp.blogspot.com/-S6uzLslPIVg/UayQ_K2ii6I/AAAAAAAAF8E/7QPP10GxzEA/s1600/Kiira+ja+Ojanrinteen+Pokemon.JPG)
+[![](/images/Kiira+ja+Ojanrinteen+Pokemon.JPG)](http://2.bp.blogspot.com/-S6uzLslPIVg/UayQ_K2ii6I/AAAAAAAAF8E/7QPP10GxzEA/s1600/Kiira+ja+Ojanrinteen+Pokemon.JPG)
 
   
 
@@ -22,11 +22,11 @@ Ainakin saan kuvata tänä kesänä tarpeeksi uivia hevosia! Olen päässyt uima
 
   
 
-[![](images/Ojanrinteen+Pokemon+%25281%2529.JPG)](http://1.bp.blogspot.com/-oWcyQR43K5s/UayRASJYBZI/AAAAAAAAF8Y/v9uENI1BZhY/s1600/Ojanrinteen+Pokemon+%25281%2529.JPG)[![](images/Kiira+%25281%2529.JPG)](http://2.bp.blogspot.com/-rSMNW2JxO-E/UayQ-4JApQI/AAAAAAAAF8A/DP01-WX4CcA/s1600/Kiira+%25281%2529.JPG)
+[![](/images/Ojanrinteen+Pokemon+%25281%2529.JPG)](http://1.bp.blogspot.com/-oWcyQR43K5s/UayRASJYBZI/AAAAAAAAF8Y/v9uENI1BZhY/s1600/Ojanrinteen+Pokemon+%25281%2529.JPG)[![](/images/Kiira+%25281%2529.JPG)](http://2.bp.blogspot.com/-rSMNW2JxO-E/UayQ-4JApQI/AAAAAAAAF8A/DP01-WX4CcA/s1600/Kiira+%25281%2529.JPG)
 
   
 
-[![](images/Kiira+%25288%2529.JPG)](http://4.bp.blogspot.com/-f_WTCvz7Tzk/UayQ_KJ4uWI/AAAAAAAAF8I/BCrXOjejuWw/s1600/Kiira+%25288%2529.JPG)[![](images/Tevinski+%25283%2529.JPG)](http://3.bp.blogspot.com/-Wk-67PYglgc/UayRAk_5ITI/AAAAAAAAF8c/GRb6LpKCGFs/s1600/Tevinski+%25283%2529.JPG)
+[![](/images/Kiira+%25288%2529.JPG)](http://4.bp.blogspot.com/-f_WTCvz7Tzk/UayQ_KJ4uWI/AAAAAAAAF8I/BCrXOjejuWw/s1600/Kiira+%25288%2529.JPG)[![](/images/Tevinski+%25283%2529.JPG)](http://3.bp.blogspot.com/-Wk-67PYglgc/UayRAk_5ITI/AAAAAAAAF8c/GRb6LpKCGFs/s1600/Tevinski+%25283%2529.JPG)
 
   
 
@@ -35,4 +35,4 @@ Selvisin ensimmäisestä työpäivästäkin! Tämän vuoden ensimmäinen 20km py
 
   
 
-[![](images/ak.png)](http://2.bp.blogspot.com/-apVg3BEHAog/UayVP8RFg5I/AAAAAAAAF8w/w-b907LJu1U/s1600/ak.png)
+[![](/images/ak.png)](http://2.bp.blogspot.com/-apVg3BEHAog/UayVP8RFg5I/AAAAAAAAF8w/w-b907LJu1U/s1600/ak.png)

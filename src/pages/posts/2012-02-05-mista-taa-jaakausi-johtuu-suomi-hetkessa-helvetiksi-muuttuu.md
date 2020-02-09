@@ -11,7 +11,7 @@ post_button_label: "Lue lisää"
 Jep. Täällä on kylmä. Myös sisällä. Onneks kotona pysyy ympäri vuoden lämpö turvallisesti 25 asteen yläpuolella. Omassa kämpässä (tai huoneessa tai mökissä tai mikä nyt sitte onkaan) tosin on hikisesti 15 lämmintä joten siellä ei hetkeen tarvi ainakaan nukkua. Mut voinhan mä aina lohduttautua sillä et jos täällä kerran on -28 ni jossain muualla on vielä kymmenen astetta kylmempää. Ei manittavasti kyllä lämmitä.  
   
 
-[![](images/IMG_4489.png)](http://2.bp.blogspot.com/-2skqpIPRdgk/Ty6neLe9HiI/AAAAAAAAAS0/Zgmcur_lSPE/s1600/IMG_4489.png)[![](images/IMG_4490.png)](http://4.bp.blogspot.com/-JOzLMaCyCl0/Ty6nibvhK9I/AAAAAAAAAS8/cdElz_TW4pY/s1600/IMG_4490.png)
+[![](/images/IMG_4489.png)](http://2.bp.blogspot.com/-2skqpIPRdgk/Ty6neLe9HiI/AAAAAAAAAS0/Zgmcur_lSPE/s1600/IMG_4489.png)[![](/images/IMG_4490.png)](http://4.bp.blogspot.com/-JOzLMaCyCl0/Ty6nibvhK9I/AAAAAAAAAS8/cdElz_TW4pY/s1600/IMG_4490.png)
 
   
 
@@ -19,11 +19,11 @@ Sotilaasta ei tältä viikonlopulta oo mitään kerrottavaa. Se seisoo sisällä
 
   
 
-[![](images/IMG_4102.png)](http://1.bp.blogspot.com/-Ite5xjvzNt0/Ty6tvEtkfgI/AAAAAAAAATE/6eBkqEut2-E/s1600/IMG_4102.png)
+[![](/images/IMG_4102.png)](http://1.bp.blogspot.com/-Ite5xjvzNt0/Ty6tvEtkfgI/AAAAAAAAATE/6eBkqEut2-E/s1600/IMG_4102.png)
 
   
 
-[![](images/IMG_4055.png)](http://3.bp.blogspot.com/-7755LhZPgxI/Ty6t1ra93kI/AAAAAAAAATM/VJ_Yin5_68M/s1600/IMG_4055.png)[![](images/IMG_4210.png)](http://2.bp.blogspot.com/-0xrYVOnOdck/Ty6t5AxksyI/AAAAAAAAATU/2miuR-j5Gr8/s1600/IMG_4210.png)
+[![](/images/IMG_4055.png)](http://3.bp.blogspot.com/-7755LhZPgxI/Ty6t1ra93kI/AAAAAAAAATM/VJ_Yin5_68M/s1600/IMG_4055.png)[![](/images/IMG_4210.png)](http://2.bp.blogspot.com/-0xrYVOnOdck/Ty6t5AxksyI/AAAAAAAAATU/2miuR-j5Gr8/s1600/IMG_4210.png)
 
   
 
@@ -35,4 +35,4 @@ Tuossa vielä pari jokunen tunti sitten napattua laidunkuvaa. Ulkona viihtyvät 
 
   
 
-[![](images/IMG_4541.png)](http://2.bp.blogspot.com/-7rVdCsBQqCg/Ty6vllnUlsI/AAAAAAAAATc/luQthg1zGvI/s1600/IMG_4541.png)[![](images/IMG_4641.png)](http://1.bp.blogspot.com/-fKIpgF-aUUI/Ty6vrOaxM9I/AAAAAAAAATk/gH66JHDBvXg/s1600/IMG_4641.png)
+[![](/images/IMG_4541.png)](http://2.bp.blogspot.com/-7rVdCsBQqCg/Ty6vllnUlsI/AAAAAAAAATc/luQthg1zGvI/s1600/IMG_4541.png)[![](/images/IMG_4641.png)](http://1.bp.blogspot.com/-fKIpgF-aUUI/Ty6vrOaxM9I/AAAAAAAAATk/gH66JHDBvXg/s1600/IMG_4641.png)

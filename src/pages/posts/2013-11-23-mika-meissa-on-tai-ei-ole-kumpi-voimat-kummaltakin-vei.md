@@ -8,7 +8,7 @@ template: "page"
 post_button_label: "Lue lisää"
 ---
 
-[![](images/koivet_.png)](http://4.bp.blogspot.com/-cHJOykEaLKM/UpEXmdjopiI/AAAAAAAAHZk/3I0R-Ef_sfc/s1600/koivet_.png)
+[![](/images/koivet_.png)](http://4.bp.blogspot.com/-cHJOykEaLKM/UpEXmdjopiI/AAAAAAAAHZk/3I0R-Ef_sfc/s1600/koivet_.png)
 
 > _"Kiipesin tänään ensimmäistä kertaa kuukauteen Sotilaan selkään. Viimeinen muistikuva Sotilaasta satulan alla oli hätäinen ja raivostuttava, mutta tänään siitä päätä nyhtävästä pikakävelijästä ei ollut tietoakaan. Ehkä se on taas ottanut henkisen askeleen eteenpäin? Sivuohjien kanssa juoksuttaminen on ilmeisesti vaikuttanut johonkin - tänään ohjat sai ottaa reilusti tuntumalle. Aikaisemmin Sotilas on joko tipauttanut koko päänsä käsieni varaan tai sylkäissyt ohjat takaisin kokonaan heittämällä pään ylös ja turvan ryntäisiin. Mahtavaa! _
 
@@ -28,4 +28,4 @@ MARTIN GARRIX - ANIMALS
 
   
 
-[![](images/ak_uusi.png)](http://1.bp.blogspot.com/-nu9BbQgqkY0/UpEgRyEZdEI/AAAAAAAAHZw/_8kwCOeAnwU/s1600/ak_uusi.png)
+[![](/images/ak_uusi.png)](http://1.bp.blogspot.com/-nu9BbQgqkY0/UpEgRyEZdEI/AAAAAAAAHZw/_8kwCOeAnwU/s1600/ak_uusi.png)

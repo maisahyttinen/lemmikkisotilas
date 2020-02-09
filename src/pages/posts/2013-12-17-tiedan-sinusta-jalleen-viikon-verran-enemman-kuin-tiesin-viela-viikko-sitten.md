@@ -8,7 +8,7 @@ template: "page"
 post_button_label: "Lue lisää"
 ---
 
-[![](images/s%C3%B6p%C3%B6%C3%B6%C3%B6.png)](http://4.bp.blogspot.com/-Yt-U-WlwbIU/Uq9QupDJyyI/AAAAAAAAHm8/DUMr0pbp4zQ/s1600/s%C3%B6p%C3%B6%C3%B6%C3%B6.png)
+[![](/images/s%C3%B6p%C3%B6%C3%B6%C3%B6.png)](http://4.bp.blogspot.com/-Yt-U-WlwbIU/Uq9QupDJyyI/AAAAAAAAHm8/DUMr0pbp4zQ/s1600/s%C3%B6p%C3%B6%C3%B6%C3%B6.png)
 
   
 
@@ -17,7 +17,7 @@ post_button_label: "Lue lisää"
 **[Valokuvaus Hehku](http://valokuvaushehku.fi/)** kävi viikonloppuna ottamassa ihan älyttömän ihania kuvia! Varsinainen tarkoitus oli ottaa kuvia meistä, mutta tottakai kameran edessä poikkesivat Sotilas ja Libbykin. Sotilas oli eri mieltä söpöistä perhepotreteista, mutta Libbyllä ei ollut mitään jouluponeilua vastaan. Miten ihmeessä siihenkin kamalaan pikku rääpäleeseen on kiintynyt, haha! Nykyään se on ihan metka tyyppi, iloinen ja sosiaalinen. Laihtunutkin se on, mokoma lihava vanhus.  
   
 
-[![](images/Ilove-my-pony-maisa-notext.png)](http://1.bp.blogspot.com/-2eL10B0Nlxs/UrClt8muIPI/AAAAAAAAHnU/HA7keSJMptM/s1600/Ilove-my-pony-maisa-notext.png)
+[![](/images/Ilove-my-pony-maisa-notext.png)](http://1.bp.blogspot.com/-2eL10B0Nlxs/UrClt8muIPI/AAAAAAAAHnU/HA7keSJMptM/s1600/Ilove-my-pony-maisa-notext.png)
 
   
 PS. Käykää kurkkaamassa [Hehkun facebook-sivulta](https://www.facebook.com/pages/Valokuvaus-Hehku/1410696549159479?fref=ts) tykkääjille suunnattu erikoistarjous koskien kuvauksia miljöössä! Lahti, Kouvola ja lähialueet erityisesti! :) Nyt edullisesti hevosen kanssa kameran eteen! Toivottavasti lunta tulee taas pian, sitten Sotilaastakin kehtaa taas ottaa kuvasia.  
@@ -26,4 +26,4 @@ PPS. Mitä olette suunitelleet hevosillenne joululahjaksi? Entä huolettaako uus
   
   
 
-[![](images/ak_uusi.png)](http://3.bp.blogspot.com/-6_uFKHrfvyA/UrCrhPdVeHI/AAAAAAAAHnk/BokOoHBr6oE/s1600/ak_uusi.png)
+[![](/images/ak_uusi.png)](http://3.bp.blogspot.com/-6_uFKHrfvyA/UrCrhPdVeHI/AAAAAAAAHnk/BokOoHBr6oE/s1600/ak_uusi.png)

@@ -14,7 +14,7 @@ Kuinka joku kehtaa rinnastaa kilpahevosen orjaan?
 
 "_Hulluja ovat_." - "_Kaiken maailman hörhöjä liikkeellä._" - "_Eivätkö ne ymmärrä._"
 
-![](images/Näyttökuva-2019-8-27-kello-14.15.18-1000x674-1.png)
+![](/images/Näyttökuva-2019-8-27-kello-14.15.18-1000x674-1.png)
 
 ### Eivät. Ne eivät oikeasti ymmärrä. Miksi?
 

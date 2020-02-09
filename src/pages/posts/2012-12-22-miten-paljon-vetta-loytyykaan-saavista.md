@@ -37,7 +37,7 @@ En ole erityisen lahjakas fysiikassa, mutta sen verran tiedän, että pakkaslumi
 
   
 
-[![](images/IMG_0400.JPG)](http://4.bp.blogspot.com/-FkQXsLaq1i4/UNUK3vmzEZI/AAAAAAAAD5k/BqIDg88nO4g/s1600/IMG_0400.JPG)
+[![](/images/IMG_0400.JPG)](http://4.bp.blogspot.com/-FkQXsLaq1i4/UNUK3vmzEZI/AAAAAAAAD5k/BqIDg88nO4g/s1600/IMG_0400.JPG)
 
 PS. Antakaa anteeksi epäaktiivisuuteni. Tämä tietokone kohtaa vähitellen loppunsa ja niin kohtaan minäkin jos muutosta arkeeni ei tule - en yksinkertaisesti selviä kuuden tunnin yöunilla. Niimpä, mitä minä sitten teen täällä tähän aikaan! Tämä postaus piti julkaista 21.12. 
   
@@ -45,4 +45,4 @@ PS. Antakaa anteeksi epäaktiivisuuteni. Tämä tietokone kohtaa vähitellen lop
   
 Miksi, oi miksi tätä maailman suurinta musiikkirakkautta ei ole enempää akustisina versioina?  
 
-[![](images/ak.png)](http://1.bp.blogspot.com/-9qeHAwB0x_E/UNUMFPrIFvI/AAAAAAAAD5w/BKZRkCdtQVE/s1600/ak.png)
+[![](/images/ak.png)](http://1.bp.blogspot.com/-9qeHAwB0x_E/UNUMFPrIFvI/AAAAAAAAD5w/BKZRkCdtQVE/s1600/ak.png)

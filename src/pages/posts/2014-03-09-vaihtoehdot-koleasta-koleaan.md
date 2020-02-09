@@ -16,4 +16,4 @@ Hyvää yötä! Ihan kohta teitä on jo 400, kiitos <3
 
   
 
-[![](images/blendior.png)](http://1.bp.blogspot.com/-WOxbTaOrflg/UxzLnUUHLBI/AAAAAAAAIDQ/mmy9H6b9xNM/s1600/blendior.png)[![](images/tupsut.png)](http://3.bp.blogspot.com/-jHUGnIiGXmQ/UxzLnnoOuLI/AAAAAAAAIDU/LXidBJGe1ZE/s1600/tupsut.png)
+[![](/images/blendior.png)](http://1.bp.blogspot.com/-WOxbTaOrflg/UxzLnUUHLBI/AAAAAAAAIDQ/mmy9H6b9xNM/s1600/blendior.png)[![](/images/tupsut.png)](http://3.bp.blogspot.com/-jHUGnIiGXmQ/UxzLnnoOuLI/AAAAAAAAIDU/LXidBJGe1ZE/s1600/tupsut.png)

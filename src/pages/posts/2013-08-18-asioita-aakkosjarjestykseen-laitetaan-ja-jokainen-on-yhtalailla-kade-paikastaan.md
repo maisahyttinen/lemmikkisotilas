@@ -18,7 +18,7 @@ Rallittelun jälkeen kierroksia löytyi vieläkin, mutta kotiinpäästessä ilme
 
   
 
-[![](images/_MG_18161.png)](http://3.bp.blogspot.com/-4m7upzmdf3k/UhBijtd8BcI/AAAAAAAAGrM/TM2cuJisotA/s1600/_MG_18161.png)
+[![](/images/_MG_18161.png)](http://3.bp.blogspot.com/-4m7upzmdf3k/UhBijtd8BcI/AAAAAAAAGrM/TM2cuJisotA/s1600/_MG_18161.png)
 
   
 
@@ -28,4 +28,4 @@ PPS. Jo illalla saatan saada _ihan kamalan pitkästä aikaa_ oman ja minun käyt
 
   
 
-[![](images/ak.png)](http://3.bp.blogspot.com/-Zf3ksfy8wEY/UhBldtZ7l3I/AAAAAAAAGrg/K9V2N0OYaFk/s1600/ak.png)
+[![](/images/ak.png)](http://3.bp.blogspot.com/-Zf3ksfy8wEY/UhBldtZ7l3I/AAAAAAAAGrg/K9V2N0OYaFk/s1600/ak.png)

@@ -12,7 +12,7 @@ Pari ihan oikeaa postausta on tekeillä, mutta ettei tauko venyisi liian pitkäk
 
   
 
-[![](images/IMG_0893.JPG)](http://1.bp.blogspot.com/-ARlmGNNFad8/UXgvg5uw5bI/AAAAAAAAFps/LCCVQnxc9Tc/s1600/IMG_0893.JPG)
+[![](/images/IMG_0893.JPG)](http://1.bp.blogspot.com/-ARlmGNNFad8/UXgvg5uw5bI/AAAAAAAAFps/LCCVQnxc9Tc/s1600/IMG_0893.JPG)
 
 _Viime sunnuntain hurjan lämmin aamupäivä. Oma tallialue! (Hehe, edustan..) c. Toinen täydellinen mies <3_
 
@@ -22,7 +22,7 @@ Tänään yritin uudelleen ja paremmin ei olisi voinut mennä. Pelto oli mukavas
 
   
 
-[![](images/IMG_0898.JPG)](http://2.bp.blogspot.com/-Z_zi0RFGlmk/UXgvhagw_RI/AAAAAAAAFp4/FbPigBAZKjg/s1600/IMG_0898.JPG)[![](images/IMG_0902.JPG)](http://2.bp.blogspot.com/-r6AgyhwkcGE/UXgvh2brJwI/AAAAAAAAFp8/pjCmTy1p7a4/s1600/IMG_0902.JPG)
+[![](/images/IMG_0898.JPG)](http://2.bp.blogspot.com/-Z_zi0RFGlmk/UXgvhagw_RI/AAAAAAAAFp4/FbPigBAZKjg/s1600/IMG_0898.JPG)[![](/images/IMG_0902.JPG)](http://2.bp.blogspot.com/-r6AgyhwkcGE/UXgvh2brJwI/AAAAAAAAFp8/pjCmTy1p7a4/s1600/IMG_0902.JPG)
 
 _Parturoin hieman. c. Toinen täydellinen mies_
 
@@ -32,7 +32,7 @@ Jees-mies -hevonen tuntuu huomattavasti haastavammalta kuin rajattoman suora Pen
 
   
 
-[![](images/IMG_0065.JPG)](http://2.bp.blogspot.com/-kWBHTk_KY1I/UXg2hHYqapI/AAAAAAAAFqQ/C4ArnQhqKbo/s1600/IMG_0065.JPG)[![](images/IMG_0903.JPG)](http://4.bp.blogspot.com/-yGv_paE87uY/UXgviZo0CzI/AAAAAAAAFqE/_sNiNZiTCZc/s1600/IMG_0903.JPG)[![](images/IMG_0074.JPG)](http://2.bp.blogspot.com/-c2bHxz3A8Tk/UXg2hZy3j0I/AAAAAAAAFqU/7Wgi9SL-KRo/s1600/IMG_0074.JPG)
+[![](/images/IMG_0065.JPG)](http://2.bp.blogspot.com/-kWBHTk_KY1I/UXg2hHYqapI/AAAAAAAAFqQ/C4ArnQhqKbo/s1600/IMG_0065.JPG)[![](/images/IMG_0903.JPG)](http://4.bp.blogspot.com/-yGv_paE87uY/UXgviZo0CzI/AAAAAAAAFqE/_sNiNZiTCZc/s1600/IMG_0903.JPG)[![](/images/IMG_0074.JPG)](http://2.bp.blogspot.com/-c2bHxz3A8Tk/UXg2hZy3j0I/AAAAAAAAFqU/7Wgi9SL-KRo/s1600/IMG_0074.JPG)
 
   
 
@@ -40,8 +40,8 @@ PS. Minun uusi suuri rakkauteni ja jalkojeni (ainakin väliaikainen) kuolema. Et
 
   
 
-[![](images/IMG_0896.png)](http://3.bp.blogspot.com/-2ySEBrLza0I/UXgvhgUZeRI/AAAAAAAAFqA/myqU3N0V1VA/s1600/IMG_0896.png)
+[![](/images/IMG_0896.png)](http://3.bp.blogspot.com/-2ySEBrLza0I/UXgvhgUZeRI/AAAAAAAAFqA/myqU3N0V1VA/s1600/IMG_0896.png)
 
   
 
-[![](images/ak.png)](http://1.bp.blogspot.com/-Ou8wXZPWMjA/UXg3-wH04TI/AAAAAAAAFqk/cIyik5IwKKE/s1600/ak.png)
+[![](/images/ak.png)](http://1.bp.blogspot.com/-Ou8wXZPWMjA/UXg3-wH04TI/AAAAAAAAFqk/cIyik5IwKKE/s1600/ak.png)

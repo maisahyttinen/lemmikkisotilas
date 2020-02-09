@@ -8,9 +8,9 @@ template: "page"
 post_button_label: "Lue lisää"
 ---
 
-[![](images/pentu.png)](http://1.bp.blogspot.com/-9Sg9M4UxYGA/UfVlFdOjOMI/AAAAAAAAGWA/hW1JjS9cRJo/s1600/pentu.png)
+[![](/images/pentu.png)](http://1.bp.blogspot.com/-9Sg9M4UxYGA/UfVlFdOjOMI/AAAAAAAAGWA/hW1JjS9cRJo/s1600/pentu.png)
 
-[![](images/IMG_0089.png)](http://3.bp.blogspot.com/-cgGmOwQgpfg/UfVnKyl8lPI/AAAAAAAAGWo/w2LZHL1NOaI/s1600/IMG_0089.png)[![](images/IMG_6405.png)](http://4.bp.blogspot.com/-5buMzMd5HzE/UfVnLOv7lSI/AAAAAAAAGWs/kB1L2ysYoSE/s1600/IMG_6405.png)
+[![](/images/IMG_0089.png)](http://3.bp.blogspot.com/-cgGmOwQgpfg/UfVnKyl8lPI/AAAAAAAAGWo/w2LZHL1NOaI/s1600/IMG_0089.png)[![](/images/IMG_6405.png)](http://4.bp.blogspot.com/-5buMzMd5HzE/UfVnLOv7lSI/AAAAAAAAGWs/kB1L2ysYoSE/s1600/IMG_6405.png)
 
   
 
@@ -26,9 +26,9 @@ _oi enkeli vieläkö matkalla oot?_
 
   
 
-[![](images/sotilas.png)](http://1.bp.blogspot.com/-TrGHw_bPUS0/UfVlFQuIjhI/AAAAAAAAGWE/0ZsswU4Gk_k/s1600/sotilas.png)
+[![](/images/sotilas.png)](http://1.bp.blogspot.com/-TrGHw_bPUS0/UfVlFQuIjhI/AAAAAAAAGWE/0ZsswU4Gk_k/s1600/sotilas.png)
 
-[![](images/IMG_1804.png)](http://2.bp.blogspot.com/-DhNlwvksSBQ/UfVob7GjZFI/AAAAAAAAGXA/yst96eNlKoY/s1600/IMG_1804.png)
+[![](/images/IMG_1804.png)](http://2.bp.blogspot.com/-DhNlwvksSBQ/UfVob7GjZFI/AAAAAAAAGXA/yst96eNlKoY/s1600/IMG_1804.png)
 
   
 
@@ -40,4 +40,4 @@ Eilen oli ahdistava hautajaisaamu. Tänään kiva päivä Kotkassa Toisen täyde
 
   
 
-[![](images/ak.png)](http://1.bp.blogspot.com/-ot67i8mZCEI/UfWBFD3spmI/AAAAAAAAGXU/4uz6UIYQw1w/s1600/ak.png)
+[![](/images/ak.png)](http://1.bp.blogspot.com/-ot67i8mZCEI/UfWBFD3spmI/AAAAAAAAGXU/4uz6UIYQw1w/s1600/ak.png)

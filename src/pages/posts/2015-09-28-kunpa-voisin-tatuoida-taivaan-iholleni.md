@@ -8,7 +8,7 @@ template: "page"
 post_button_label: "Lue lisää"
 ---
 
-[![](images/siluetit.png)](http://4.bp.blogspot.com/-zJJQuECvNcw/VglO9_-AqvI/AAAAAAAAKLI/r7abi8Mudhs/s1600/siluetit.png)
+[![](/images/siluetit.png)](http://4.bp.blogspot.com/-zJJQuECvNcw/VglO9_-AqvI/AAAAAAAAKLI/r7abi8Mudhs/s1600/siluetit.png)
 
   
 _Miten voin ottaa omaa aikaa, aika ei oo omaa,_  

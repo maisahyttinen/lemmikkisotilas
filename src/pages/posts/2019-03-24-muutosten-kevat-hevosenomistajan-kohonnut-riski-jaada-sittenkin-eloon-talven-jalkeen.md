@@ -8,7 +8,7 @@ template: "page"
 post_button_label: "Lue lisää"
 ---
 
-![](images/MG_2927_2-1000x667.jpg)
+![](/images/MG_2927_2-1000x667.jpg)
 
 Kuva: Merika Kallio Photography
 
@@ -16,7 +16,7 @@ Kuva: Merika Kallio Photography
 
 Meille tämä kevät on tarkoittanut monenlaista muutosta. Suurimpana ja tärkeimpänä muutto uuteen talliin Ylöjärvelle. Kaipasin pienen tallin rauhaan ja kunnon maastoihin. Nyt ensimmäisen uudessa kodissa vietetyn kuukauden jälkeen olen iloinen ja helpottunut muuttopäätöksestä.
 
-![](images/MG_3392_2-1000x667.jpg)
+![](/images/MG_3392_2-1000x667.jpg)
 
 Harvinaista todistusaineistoa - ratsastan ihan itse! Kuva: Merika Kallio Photography  
 
@@ -30,7 +30,7 @@ Olen ehtinyt jo jonkin verran tutustua Ylöjärven opettaja- ja ratsuttajatarjon
 
 Samalla ovat hiljentyneet blogin lisäksi muutkin somet. Pakko myöntää, että etenkin nyt alkuun mieli (ja niskat) on yleensä niin solmussa työpäivän ja -viikon jälkeen, ettei tietokonetta huvita enää kotona avata. Instagram-kiintiökin tulee hyvin täyteen kun sitä selaa töissä päivät läpeensä. Nautin työstäni valtavasti, mutta vie hetken, että uuteen rytmiin tottuu. Vihdoin säännöllinen kasista neljään -toimistotyörytmi!
 
-![](images/IMG_6090-1000x667.jpg)
+![](/images/IMG_6090-1000x667.jpg)
 
 ### Sosiaalisesti kuormittavien päivien jälkeen nautin hiljaisesta tallista.
 
@@ -46,6 +46,6 @@ Sotilaan muuton jälkeen päätin, että käyn tallilla vain joka toinen päivä
 
 Sitä paljon puhuttua vapaa-aikaa voi kuluttaa esimerkiksi ensi viikonloppuna kansainvälisten Aino Mastersien parissa ja kahden viikon kuluttua Tampereen Hevoset-messuilla!
 
-![](images/MG_2753-2_2-1-1000x667.jpg)
+![](/images/MG_2753-2_2-1-1000x667.jpg)
 
 Kuva: Merika Kallio Photography

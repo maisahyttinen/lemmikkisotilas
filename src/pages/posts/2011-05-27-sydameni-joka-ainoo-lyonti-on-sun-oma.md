@@ -16,7 +16,7 @@ __Mut joka ilta käyn susta joka kuvan läpi__
 
 _
 
-[![](images/IMG_1251.png)](http://3.bp.blogspot.com/-NQo4wpnzx08/Td_c-KVuIgI/AAAAAAAAAGQ/qUb-QI13NrI/s1600/IMG_1251.png)
+[![](/images/IMG_1251.png)](http://3.bp.blogspot.com/-NQo4wpnzx08/Td_c-KVuIgI/AAAAAAAAAGQ/qUb-QI13NrI/s1600/IMG_1251.png)
 
 _Joka ilta, joka aamu ja yö_
 

@@ -18,7 +18,7 @@ _öisen taivaan alla,_
 
 _jonne sytytettiin tähdet rakkaudella valtavalla.._
 
-[![](images/nimet%25C3%25B6n27.png)](http://1.bp.blogspot.com/-qX3L3Bt9ois/Tan9ocnTrpI/AAAAAAAAAE8/3ypwb13n2kY/s1600/nimet%25C3%25B6n27.png)
+[![](/images/nimet%25C3%25B6n27.png)](http://1.bp.blogspot.com/-qX3L3Bt9ois/Tan9ocnTrpI/AAAAAAAAAE8/3ypwb13n2kY/s1600/nimet%25C3%25B6n27.png)
 
   
 
@@ -27,13 +27,13 @@ Viime lauantain Seinäjokimeininkejä. Siistii! Ehottomasti yks mun suosikkirado
   
   
 
-[![](images/nimet%25C3%25B6n28.png)](http://2.bp.blogspot.com/-OU724pjQ8rM/Tan9pmKBOzI/AAAAAAAAAFA/dji4CSodJXE/s1600/nimet%25C3%25B6n28.png)
+[![](/images/nimet%25C3%25B6n28.png)](http://2.bp.blogspot.com/-OU724pjQ8rM/Tan9pmKBOzI/AAAAAAAAAFA/dji4CSodJXE/s1600/nimet%25C3%25B6n28.png)
 
   
 Pikkusella on kevättä rinnassa ihan huolella. Niinki huolella, et maanantaina pääsin kokeilemaa miltä tuntuu pudota kovaa ja korkeelta. Ei sillä nyt kauheesti tee mieli leveillä.. Etenki ku matkaa kotiin oli joka reittiä ihan älyttömästi. Vähän meinas alkaa kiukuttamaan se käveleminen, ku yhtä hyvin ois voinu ratsastaa. Siis jos olis päässy takasin selkään. Järjettömän ison hevosen yks pieni miinus.. Mut kannustaa ainaki pysymää selässä. Perhana. Kiukuttaa vieläki. Ei mulle vaan käy noin. Tulis nyt vaan kunnolla kevät.. Kenttä on ihan järvi ja hetkeen en taida lähtee yksinäni maastoilemaa. Kai se pitäis puuhailla jotain pientä kivaa vaa. Mut hahaa! Pääsen tänää toivottavasti räpeltelemää kavioitten ja kenkien kanssa! Niitä harvoja juttuja, mitä en oo oikein koskaan tehny. Ainii, [toissapäiväsiä kuveja](http://maisaw.otukset.fi/kuvat/2011/Tallit+ja+hevoset/Dedicated+Kemp/15.4.2011/).  
   
 
-[![](images/nimet%25C3%25B6n29.png)](http://4.bp.blogspot.com/-m_o4PAjM6q4/Tan9qvi3E2I/AAAAAAAAAFE/hodNACbh5x4/s1600/nimet%25C3%25B6n29.png)
+[![](/images/nimet%25C3%25B6n29.png)](http://4.bp.blogspot.com/-m_o4PAjM6q4/Tan9qvi3E2I/AAAAAAAAAFE/hodNACbh5x4/s1600/nimet%25C3%25B6n29.png)
 
   
 Eilisiä Jokimaakuvia en kommentoi.. Uskaltasin väittää, et menee ihan hyvä hetki ennenku viittin edes avata tota kuvakansiota. Ei kyl taas tullu yhtään mistään yhtään mitään. Alanvaihto tuntuu nyt taas harvinaisen ajankohtaselta mut jos vaikka kattelis taas vaan Seinäjokikuvia..  
@@ -44,4 +44,4 @@ _Kynttilät leikkivät,_
 _niin kuin sydän tunteillaan.  
 _  
 
-[![](images/IMG_9677.png)](http://4.bp.blogspot.com/-FD0HsM5SfKI/TaoeCDQ5qVI/AAAAAAAAAFI/qVrkggfb4xI/s1600/IMG_9677.png)
+[![](/images/IMG_9677.png)](http://4.bp.blogspot.com/-FD0HsM5SfKI/TaoeCDQ5qVI/AAAAAAAAAFI/qVrkggfb4xI/s1600/IMG_9677.png)

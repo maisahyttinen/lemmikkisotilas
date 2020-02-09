@@ -8,7 +8,7 @@ template: "page"
 post_button_label: "Lue lisää"
 ---
 
-[![](images/IMG_0176.JPG)](http://1.bp.blogspot.com/-0U2XVIpXYC4/UcPxA8Vmi8I/AAAAAAAAGEM/geOSF58yk9g/s1600/IMG_0176.JPG)
+[![](/images/IMG_0176.JPG)](http://1.bp.blogspot.com/-0U2XVIpXYC4/UcPxA8Vmi8I/AAAAAAAAGEM/geOSF58yk9g/s1600/IMG_0176.JPG)
 
   
 
@@ -20,7 +20,7 @@ post_button_label: "Lue lisää"
 
   
 
-[![](images/tupsu14.JPG)](http://2.bp.blogspot.com/-lnSeUByGUkU/UcPxIk6uViI/AAAAAAAAGEY/0RsXcNMSc2g/s1600/tupsu14.JPG)[![](images/tupsu11.JPG)](http://3.bp.blogspot.com/-lDLh672xIO4/UcPxI3Hn-NI/AAAAAAAAGEc/dUEs_uGpOHI/s1600/tupsu11.JPG)[![](images/tupsu13.JPG)](http://4.bp.blogspot.com/-z2jKsE-GNhI/UcPxI4FXbOI/AAAAAAAAGEg/ycKhUjLQCNk/s1600/tupsu13.JPG)
+[![](/images/tupsu14.JPG)](http://2.bp.blogspot.com/-lnSeUByGUkU/UcPxIk6uViI/AAAAAAAAGEY/0RsXcNMSc2g/s1600/tupsu14.JPG)[![](/images/tupsu11.JPG)](http://3.bp.blogspot.com/-lDLh672xIO4/UcPxI3Hn-NI/AAAAAAAAGEc/dUEs_uGpOHI/s1600/tupsu11.JPG)[![](/images/tupsu13.JPG)](http://4.bp.blogspot.com/-z2jKsE-GNhI/UcPxI4FXbOI/AAAAAAAAGEg/ycKhUjLQCNk/s1600/tupsu13.JPG)
 
   
 
@@ -32,7 +32,7 @@ PS. Lentokoneen leikkiminen silmät kiinni tuntui ihan yhtä siistiltä kuin ain
 
   
 
-[![](images/IMG_0179.JPG)](http://2.bp.blogspot.com/-c73HYsWFCUE/UcPxA7vgj2I/AAAAAAAAGEI/QlpAooJmOgo/s1600/IMG_0179.JPG)
+[![](/images/IMG_0179.JPG)](http://2.bp.blogspot.com/-c73HYsWFCUE/UcPxA7vgj2I/AAAAAAAAGEI/QlpAooJmOgo/s1600/IMG_0179.JPG)
 
   
 
@@ -40,4 +40,4 @@ Sotilas viettää rauhallisen kotijuhannuksen - lähden mökkeilemään Toisen t
 
   
 
-[![](images/ak.png)](http://1.bp.blogspot.com/-6NLXGDRlQug/UcP6zDOHB2I/AAAAAAAAGFA/GAHHTh_WIlA/s1600/ak.png)
+[![](/images/ak.png)](http://1.bp.blogspot.com/-6NLXGDRlQug/UcP6zDOHB2I/AAAAAAAAGFA/GAHHTh_WIlA/s1600/ak.png)

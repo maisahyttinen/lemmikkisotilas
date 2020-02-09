@@ -12,11 +12,11 @@ Olkaa hyvä! Jouduin valitettavasti karsimaan kysymyksiä hieman, koska niistä 
 
   
 
-[![](images/IMG_0414.JPG)](http://3.bp.blogspot.com/-f3dfHbodX1w/UIVsixEYVcI/AAAAAAAAB48/JymzR8Yge-o/s1600/IMG_0414.JPG)
+[![](/images/IMG_0414.JPG)](http://3.bp.blogspot.com/-f3dfHbodX1w/UIVsixEYVcI/AAAAAAAAB48/JymzR8Yge-o/s1600/IMG_0414.JPG)
 
   
 
-[![](images/1.png)](http://4.bp.blogspot.com/-rCiXmWXMSfM/UIVtJuu64kI/AAAAAAAAB5c/bTi33DIx6Ko/s1600/1.png)
+[![](/images/1.png)](http://4.bp.blogspot.com/-rCiXmWXMSfM/UIVtJuu64kI/AAAAAAAAB5c/bTi33DIx6Ko/s1600/1.png)
 
 **Millainen olisi täydellinen päivä?**
 
@@ -42,11 +42,11 @@ TV-sarjoista ehdottomasti Greyn Anatomia ja House. Elokuvien suhteen olen yhtä 
 \- Olin jo jonkin aikaa katsellut muiden blogeja ja ajattelin, että olisi mukavaa kirjoitella tekemisistä ylläpitohevosen (Kempsun) kanssa. Kuvailin silloin paljon enemmän kuin nykyään ja blogi tuntui luontevalta paikalta julkaista niitä kuvasivujen lisäksi. Minua kannustettiin aloittamaan blogin kirjoittaminen ja tällainen syntyi. Tästä on ollut paljon iloa, vaikka välillä motivaatio onkin ollut aika heikoilla.  
   
 
-[![](images/IMG_0043.JPG)](http://2.bp.blogspot.com/-Exwl4mLrHzw/UIVsm2tmABI/AAAAAAAAB5E/Gsp-NsTcc38/s1600/IMG_0043.JPG)
+[![](/images/IMG_0043.JPG)](http://2.bp.blogspot.com/-Exwl4mLrHzw/UIVsm2tmABI/AAAAAAAAB5E/Gsp-NsTcc38/s1600/IMG_0043.JPG)
 
   
 
-[![](images/2.png)](http://2.bp.blogspot.com/-86ynxQRVzno/UIRbn6zQoMI/AAAAAAAAB0A/rt0vwG51Nwc/s1600/2.png)
+[![](/images/2.png)](http://2.bp.blogspot.com/-86ynxQRVzno/UIRbn6zQoMI/AAAAAAAAB0A/rt0vwG51Nwc/s1600/2.png)
 
   
 
@@ -101,11 +101,11 @@ TV-sarjoista ehdottomasti Greyn Anatomia ja House. Elokuvien suhteen olen yhtä 
 \- Tällä hetkellä maastakäsittely. Motivaatio ratsastukseen on juuri nyt hukassa. Eniten tykkään maastoilusta, koska hyppäämiseen ei oma uskallukseni riitä ja kouluratsastuksen kurinalaisuus ei välttämättä ole sitä, mitä tältä harrastukselta haluan. Rentona vaihteluna esteet ja kouluilukin on mukavaa.  
   
 
-[![](images/IMG_0008.JPG)](http://1.bp.blogspot.com/-sJj2Tbo7dWI/UIVsqepbGQI/AAAAAAAAB5U/QjlvPSgrpi4/s1600/IMG_0008.JPG)
+[![](/images/IMG_0008.JPG)](http://1.bp.blogspot.com/-sJj2Tbo7dWI/UIVsqepbGQI/AAAAAAAAB5U/QjlvPSgrpi4/s1600/IMG_0008.JPG)
 
   
 
-[![](images/3.png)](http://1.bp.blogspot.com/-ge4P5dicQp4/UIRbo6msVtI/AAAAAAAAB0E/4-bGihCheUA/s1600/3.png)
+[![](/images/3.png)](http://1.bp.blogspot.com/-ge4P5dicQp4/UIRbo6msVtI/AAAAAAAAB0E/4-bGihCheUA/s1600/3.png)
 
   
   
@@ -154,11 +154,11 @@ TV-sarjoista ehdottomasti Greyn Anatomia ja House. Elokuvien suhteen olen yhtä 
 \- Sotilas on onneksi fiksu ja rauhallinen eikä se yleensä järjestä mitään omaa ohjelmaa, ei ainakaan mitään vaarallista. Mitään vaarallista ei ole sattunut ja putoaminenkin on käynyt lähellä vain pari viikkoa sitten, kun ohikävellessämme punainen postilaatikko meinasi käydä raukan päälle niin, että ainoa keino pelastautua oli syöksypako ratsastajan haaveillessa omiaan.  
   
 
-[![](images/IMG_0073.JPG)](http://4.bp.blogspot.com/-3vKMyaKMSYw/UIVtcq-COjI/AAAAAAAAB5k/6TXz-J34y8E/s1600/IMG_0073.JPG)
+[![](/images/IMG_0073.JPG)](http://4.bp.blogspot.com/-3vKMyaKMSYw/UIVtcq-COjI/AAAAAAAAB5k/6TXz-J34y8E/s1600/IMG_0073.JPG)
 
   
 
-[![](images/4_.png)](http://1.bp.blogspot.com/-AdWNjnQujF4/UIRc37WA_5I/AAAAAAAAB0Y/H2CbmG1pBPE/s1600/4_.png)
+[![](/images/4_.png)](http://1.bp.blogspot.com/-AdWNjnQujF4/UIRc37WA_5I/AAAAAAAAB0Y/H2CbmG1pBPE/s1600/4_.png)
 
   
   

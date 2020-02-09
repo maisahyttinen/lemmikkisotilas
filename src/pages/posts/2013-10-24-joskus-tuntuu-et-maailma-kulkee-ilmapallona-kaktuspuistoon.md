@@ -12,11 +12,11 @@ Kaikista tämän postauksen kuvista isoiso kiitos [**Valokuvaus Hehkulle**](http
 
   
 
-[![](images/maisajasotilas-32.jpg)](http://3.bp.blogspot.com/-9ytQazUe048/UmlraHRW61I/AAAAAAAAHKo/2-2WNRs6z6k/s1600/maisajasotilas-32.jpg)
+[![](/images/maisajasotilas-32.jpg)](http://3.bp.blogspot.com/-9ytQazUe048/UmlraHRW61I/AAAAAAAAHKo/2-2WNRs6z6k/s1600/maisajasotilas-32.jpg)
 
   
 
-[![](images/maisajasotilas-27.jpg)](http://2.bp.blogspot.com/-RJh7S21gJhU/Umlrt5Qy_LI/AAAAAAAAHLU/65e7PxWJUKk/s1600/maisajasotilas-27.jpg)[![](images/maisajasotilas-16.jpg)](http://2.bp.blogspot.com/-JGtZAnRhNug/UmlrtXMQ4ZI/AAAAAAAAHK4/JK1S5A35--s/s1600/maisajasotilas-16.jpg)
+[![](/images/maisajasotilas-27.jpg)](http://2.bp.blogspot.com/-RJh7S21gJhU/Umlrt5Qy_LI/AAAAAAAAHLU/65e7PxWJUKk/s1600/maisajasotilas-27.jpg)[![](/images/maisajasotilas-16.jpg)](http://2.bp.blogspot.com/-JGtZAnRhNug/UmlrtXMQ4ZI/AAAAAAAAHK4/JK1S5A35--s/s1600/maisajasotilas-16.jpg)
 
   
 
@@ -24,11 +24,11 @@ Tässä muutama lemppareista (olipa vaikeaa valita!) ja loppuihin tulette törm�
 
   
 
-[![](images/maisajasotilas-11.jpg)](http://2.bp.blogspot.com/-bVcLMtPugnc/UmlrtDI2lqI/AAAAAAAAHLA/CHTPuMWseNQ/s1600/maisajasotilas-11.jpg)
+[![](/images/maisajasotilas-11.jpg)](http://2.bp.blogspot.com/-bVcLMtPugnc/UmlrtDI2lqI/AAAAAAAAHLA/CHTPuMWseNQ/s1600/maisajasotilas-11.jpg)
 
   
 
-[![](images/maisajasotilas-22.jpg)](http://3.bp.blogspot.com/-e-K3qPic5kU/UmlrszLWpTI/AAAAAAAAHK8/lwMy_JuJlls/s1600/maisajasotilas-22.jpg)
+[![](/images/maisajasotilas-22.jpg)](http://3.bp.blogspot.com/-e-K3qPic5kU/UmlrszLWpTI/AAAAAAAAHK8/lwMy_JuJlls/s1600/maisajasotilas-22.jpg)
 
   
 
@@ -36,4 +36,4 @@ Tottakai Sarakin piti saada mukaan muutamaan kuvaan (Sotilas toivoo, että käyt
 
   
 
-[![](images/ak.png)](http://1.bp.blogspot.com/-b68htMta9sA/UmmQ5WZWSCI/AAAAAAAAHLo/qYrwmO1FL9U/s1600/ak.png)
+[![](/images/ak.png)](http://1.bp.blogspot.com/-b68htMta9sA/UmmQ5WZWSCI/AAAAAAAAHLo/qYrwmO1FL9U/s1600/ak.png)

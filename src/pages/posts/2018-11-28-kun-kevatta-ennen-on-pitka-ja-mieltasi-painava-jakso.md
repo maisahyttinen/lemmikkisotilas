@@ -8,7 +8,7 @@ template: "page"
 post_button_label: "Lue lisää"
 ---
 
-![](images/46262677_2457200384321045_1484200136102903808_n.jpg)
+![](/images/46262677_2457200384321045_1484200136102903808_n.jpg)
 
 Terveisiä sängyn pohjalta. Haluaisin julkaista muutaman tämän hetken tunnelmaan sopivan kuvan. Seuranani on influenssa tai todella kiukkuinen nielutulehdus, mahdollisesti molemmat. Toki seuranani on myös kissa. Mies lähti osuvasti Kiinaan pari päivää ennen sairastumistani.
 
@@ -18,7 +18,7 @@ Joskus ideat odottavat aikaansa, osa kauankin. Ajatus _sotahevosesta_ ehti kypsy
 
 Pieni, tanakka ja lyhytjalkainen Sotilas putoaa täydellisesti käytännöllisen sotahevosen saappaisiin. Se on tyypiltään ehkä enemmän Keski-Eurooppalainen, mutta myös Suomessa käytettiin "vierasrotuisia" sotasaalishevosia. Venäjän armeijalla oli paljon esimerkiksi orloveja.
 
-![](images/unknown-soldier-21.jpg)
+![](/images/unknown-soldier-21.jpg)
 
 ### Tarvittiin vain pari valkoista puuvillapinteliä, juuttinarua, vanha armeijan villaviltti, tekoverta ja kuraa.
 
@@ -26,7 +26,7 @@ Pieni, tanakka ja lyhytjalkainen Sotilas putosi täydellisesti myös kynnöspelt
 
 Tekoveri oli päivän pettymys. Sellaisenaan "veri" oli lähinnä paksua sokerisiirappia ja laimeni tympeän vaaleanpunaiseksi, vaikka paketti lupasi intensiivisen värin laimennettunakin.
 
-![](images/unknown-soldier-36-Edit.jpg)
+![](/images/unknown-soldier-36-Edit.jpg)
 
 Sotilas ei sotkemisesta, säästä tai ympäristöstä piitannut. Poseeraamisen kanssa oli hieman haasteita - normaalisti kun iloinen ilme tietää namia, ja nyt homma toimikin aivan päin vastoin.
 
@@ -36,4 +36,4 @@ Täytyy julkaista yksi tällainenkin kuva, ihan vain osoitukseksi siitä ettei k
 
 #### Säästin tottakai parhaan viimeiseksi:
 
-![](images/unknown-soldier-103-Edit-5-2.jpg)
+![](/images/unknown-soldier-103-Edit-5-2.jpg)

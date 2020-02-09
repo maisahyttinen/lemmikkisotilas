@@ -8,7 +8,7 @@ template: "page"
 post_button_label: "Lue lisää"
 ---
 
-[![](images/IMG_0027_.png)](http://4.bp.blogspot.com/-jUqarMbRlNs/VgFYFbrIovI/AAAAAAAAKHA/siZtA-r660E/s1600/IMG_0027_.png)
+[![](/images/IMG_0027_.png)](http://4.bp.blogspot.com/-jUqarMbRlNs/VgFYFbrIovI/AAAAAAAAKHA/siZtA-r660E/s1600/IMG_0027_.png)
 
   
 
@@ -16,7 +16,7 @@ Satula selässä ensimmäistä kertaa seitsemään viikkoon. Edellisestä ratsas
 
   
 
-[![](images/IMG_0116_.png)](http://1.bp.blogspot.com/-6Zj_48Bc8wY/VgFYFdhxJXI/AAAAAAAAKHI/vJHbKS5nVjM/s1600/IMG_0116_.png)
+[![](/images/IMG_0116_.png)](http://1.bp.blogspot.com/-6Zj_48Bc8wY/VgFYFdhxJXI/AAAAAAAAKHI/vJHbKS5nVjM/s1600/IMG_0116_.png)
 
   
 
@@ -24,7 +24,7 @@ Olemme molemmat sen verran väsyneitä ja ruosteessa, että hölköttelin kaikes
 
   
 
-[![](images/IMG_0150_.png)](http://1.bp.blogspot.com/-RM7MpGQqJ3w/VgFYFRkO0AI/AAAAAAAAKHM/z1wqljw0qcI/s1600/IMG_0150_.png)
+[![](/images/IMG_0150_.png)](http://1.bp.blogspot.com/-RM7MpGQqJ3w/VgFYFRkO0AI/AAAAAAAAKHM/z1wqljw0qcI/s1600/IMG_0150_.png)
 
   
 
@@ -40,4 +40,4 @@ Kuvista taas kiitos Vilpulle! :)
 
   
 
-[![](images/IMG_0175_.png)](http://4.bp.blogspot.com/-9Q2XDwsw5Lc/VgFYF8o7rQI/AAAAAAAAKHU/LyCUDW3XGeU/s1600/IMG_0175_.png)
+[![](/images/IMG_0175_.png)](http://4.bp.blogspot.com/-9Q2XDwsw5Lc/VgFYF8o7rQI/AAAAAAAAKHU/LyCUDW3XGeU/s1600/IMG_0175_.png)

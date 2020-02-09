@@ -12,7 +12,7 @@ Bloggaaja ei saa valittaa, kertoa epäonnistumisista tai sanoa olevansa epätoiv
 
   
 
-[![](images/solttu2.png)](http://1.bp.blogspot.com/-noCDvdBCNbA/UkMh1rBc6OI/AAAAAAAAG7k/UCsmdBYyKdE/s1600/solttu2.png)
+[![](/images/solttu2.png)](http://1.bp.blogspot.com/-noCDvdBCNbA/UkMh1rBc6OI/AAAAAAAAG7k/UCsmdBYyKdE/s1600/solttu2.png)
 
   
 
@@ -39,7 +39,7 @@ Mielialahevosessa on puolensa, ne huonotkin. Joskus kaikki kiukuttaa! Vaelletaan
 
   
 
-[![](images/solttu1.png)](http://3.bp.blogspot.com/-yPcH7Uyq1wk/UkMh2wqHKLI/AAAAAAAAG7s/F2kQ_UO_ko8/s1600/solttu1.png)
+[![](/images/solttu1.png)](http://3.bp.blogspot.com/-yPcH7Uyq1wk/UkMh2wqHKLI/AAAAAAAAG7s/F2kQ_UO_ko8/s1600/solttu1.png)
 
   
 
@@ -53,7 +53,7 @@ Sotilaan kanssa ei ole vielä tähän mennessä tuntunut siltä, että koko touh
 
   
 
-[![](images/ak.png)](http://4.bp.blogspot.com/-TgLhnhJ45P4/UkMmQiYugXI/AAAAAAAAG74/hrx-Zz0dM40/s1600/ak.png)
+[![](/images/ak.png)](http://4.bp.blogspot.com/-TgLhnhJ45P4/UkMmQiYugXI/AAAAAAAAG74/hrx-Zz0dM40/s1600/ak.png)
 
   
 

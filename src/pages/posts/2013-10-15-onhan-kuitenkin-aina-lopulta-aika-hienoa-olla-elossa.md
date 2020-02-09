@@ -8,7 +8,7 @@ template: "page"
 post_button_label: "Lue lisää"
 ---
 
-[![](images/rakenteet2.png)](http://4.bp.blogspot.com/-L3to829W4Yk/Ul1WN2LDWrI/AAAAAAAAHBk/pEUoHw_ZIjA/s1600/rakenteet2.png)
+[![](/images/rakenteet2.png)](http://4.bp.blogspot.com/-L3to829W4Yk/Ul1WN2LDWrI/AAAAAAAAHBk/pEUoHw_ZIjA/s1600/rakenteet2.png)
 
   
 
@@ -24,10 +24,10 @@ Todellisuudessa meille kuuluu ihan hyvää. Koulujutut vähenevät yksi kerralla
 
   
 
-[![](images/IMG_4578.png)](http://2.bp.blogspot.com/-cJueX8j-gbk/Ul1cq_25I6I/AAAAAAAAHB8/zVRPLsop_0k/s1600/IMG_4578.png)[![](images/IMG_4594.png)](http://4.bp.blogspot.com/-OyAyk8NUxtc/Ul1cqa68I5I/AAAAAAAAHB0/4L6DNXDCz6U/s1600/IMG_4594.png)
+[![](/images/IMG_4578.png)](http://2.bp.blogspot.com/-cJueX8j-gbk/Ul1cq_25I6I/AAAAAAAAHB8/zVRPLsop_0k/s1600/IMG_4578.png)[![](/images/IMG_4594.png)](http://4.bp.blogspot.com/-OyAyk8NUxtc/Ul1cqa68I5I/AAAAAAAAHB0/4L6DNXDCz6U/s1600/IMG_4594.png)
 
  Terveisin ravihevonen, haha. c. Anniina Suojanen
 
   
 
-[![](images/ak.png)](http://1.bp.blogspot.com/-KvMBkGuTHvQ/Ul1dKZwMsRI/AAAAAAAAHCE/xCM7IXsETVc/s1600/ak.png)
+[![](/images/ak.png)](http://1.bp.blogspot.com/-KvMBkGuTHvQ/Ul1dKZwMsRI/AAAAAAAAHCE/xCM7IXsETVc/s1600/ak.png)

@@ -12,7 +12,7 @@ post_button_label: "Lue lisää"
 
   
 
-[![](images/2016-01-04-2B01.44.04-2B2.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/01/2016-01-04-2B01.44.04-2B2.png)
+[![](/images/2016-01-04-2B01.44.04-2B2.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/01/2016-01-04-2B01.44.04-2B2.png)
 
   
 
@@ -24,7 +24,7 @@ Parin ensimmäisen viikon ohjelma oli älyttömän kevyt. Fyysisesti kaikkein ra
 
   
 
-[![](images/2016-01-18-2B04.46.56-2B1-1-200x300.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/01/2016-01-18-2B04.46.56-2B1-1.png)[![](images/2016-01-21-2B04.46.52-2B1-200x300.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/01/2016-01-21-2B04.46.52-2B1.png)
+[![](/images/2016-01-18-2B04.46.56-2B1-1-200x300.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/01/2016-01-18-2B04.46.56-2B1-1.png)[![](/images/2016-01-21-2B04.46.52-2B1-200x300.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/01/2016-01-21-2B04.46.52-2B1.png)
 
   
 
@@ -40,4 +40,4 @@ Jos tuon leirin lisäksi pitäisi joitain kohokohtia mainita, niin ainakin ampum
 
   
 
-[![](images/2016-01-04-2B08.10.41-2B1.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/01/2016-01-04-2B08.10.41-2B1.png)
+[![](/images/2016-01-04-2B08.10.41-2B1.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/01/2016-01-04-2B08.10.41-2B1.png)

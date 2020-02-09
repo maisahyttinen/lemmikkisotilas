@@ -8,7 +8,7 @@ template: "page"
 post_button_label: "Lue lisää"
 ---
 
-[![](images/fb.png)](http://3.bp.blogspot.com/-D1c3JhPXs1w/UQbAKNprH2I/AAAAAAAAFFA/fU63gTSw03A/s1600/fb.png)
+[![](/images/fb.png)](http://3.bp.blogspot.com/-D1c3JhPXs1w/UQbAKNprH2I/AAAAAAAAFFA/fU63gTSw03A/s1600/fb.png)
 
   
 
@@ -16,7 +16,7 @@ Haha, yhteenkuuluvuudentunne on aina vahva kun tapaamme Sotilaan kanssa muita ti
 
   
 
-[![](images/2013.01.25_1.JPG)](http://4.bp.blogspot.com/-ruKg18FBiq0/UQa_JbYR88I/AAAAAAAAFEU/F9-_R-860TM/s1600/2013.01.25_1.JPG)
+[![](/images/2013.01.25_1.JPG)](http://4.bp.blogspot.com/-ruKg18FBiq0/UQa_JbYR88I/AAAAAAAAFEU/F9-_R-860TM/s1600/2013.01.25_1.JPG)
 
   
 
@@ -24,4 +24,4 @@ Viikonlopulta ei juurikaan kuvia ole, mutta lauantaina (ties missä mielenhäiri
 
   
 
-[![](images/ak.png)](http://4.bp.blogspot.com/-m1A6RzdYevk/UQbHKgRhB4I/AAAAAAAAFFU/2elVFse5Q4I/s1600/ak.png)
+[![](/images/ak.png)](http://4.bp.blogspot.com/-m1A6RzdYevk/UQbHKgRhB4I/AAAAAAAAFFU/2elVFse5Q4I/s1600/ak.png)

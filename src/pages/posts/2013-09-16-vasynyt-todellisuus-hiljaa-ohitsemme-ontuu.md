@@ -8,7 +8,7 @@ template: "page"
 post_button_label: "Lue lisää"
 ---
 
-[![](images/jalat.png)](http://2.bp.blogspot.com/-fosS_n_ZWB4/UjdXO6NAOPI/AAAAAAAAG0k/Be7IG9r0S9w/s1600/jalat.png)
+[![](/images/jalat.png)](http://2.bp.blogspot.com/-fosS_n_ZWB4/UjdXO6NAOPI/AAAAAAAAG0k/Be7IG9r0S9w/s1600/jalat.png)
 
   
 
@@ -26,10 +26,10 @@ Sotilas on hinkannut melkein kokonaan pois upean harjansa. Pitkästä ja tuuheas
 
   
 
-[![](images/ak.png)](http://2.bp.blogspot.com/-H7VlmKABJME/UjdqqgaWPdI/AAAAAAAAG1A/y1cm9cyIJoU/s1600/ak.png)
+[![](/images/ak.png)](http://2.bp.blogspot.com/-H7VlmKABJME/UjdqqgaWPdI/AAAAAAAAG1A/y1cm9cyIJoU/s1600/ak.png)
 
   
 
   
 
-[![](images/naama.png)](http://1.bp.blogspot.com/-zlrM9F7Yih4/UjdXPYrqf7I/AAAAAAAAG00/3yr-qhrXIwc/s1600/naama.png)
+[![](/images/naama.png)](http://1.bp.blogspot.com/-zlrM9F7Yih4/UjdXPYrqf7I/AAAAAAAAG00/3yr-qhrXIwc/s1600/naama.png)

@@ -8,7 +8,7 @@ template: "page"
 post_button_label: "Lue lisää"
 ---
 
-[![](images/IMG_0146.JPG)](http://2.bp.blogspot.com/-RT5Wzkiah2w/UycSEbzXuUI/AAAAAAAAIGg/nGThq71YL0U/s1600/IMG_0146.JPG)
+[![](/images/IMG_0146.JPG)](http://2.bp.blogspot.com/-RT5Wzkiah2w/UycSEbzXuUI/AAAAAAAAIGg/nGThq71YL0U/s1600/IMG_0146.JPG)
 
   
 
@@ -20,7 +20,7 @@ Huomenna postailen ison kasan lumikuvia, siihen saakka viihdyttäkää itseänne
 
   
 
-[![](images/ruokaa.png)](http://2.bp.blogspot.com/-B-ZnJRiq8KI/UyNoZ-wjH5I/AAAAAAAAIFU/CS6hMP8tiNI/s1600/ruokaa.png)
+[![](/images/ruokaa.png)](http://2.bp.blogspot.com/-B-ZnJRiq8KI/UyNoZ-wjH5I/AAAAAAAAIFU/CS6hMP8tiNI/s1600/ruokaa.png)
 
   
 
@@ -31,4 +31,4 @@ Builder Mix on itsessään aika näppärästi vitaminoitu ja valtaosa tarpeellis
 Sotilas on luonnostaankin lihaksikas ja sitä kautta aika haastava liikutettava. Se juoksee 20 kilometriä juuri hengästymättä, mutta keskittyminen sileällä työskentelyyn (josta tulee ihan oikea hikikin) riittää toistaiseksi parikymmentä minuuttia. Liikuttamalla se pysyy sopivassa lihavuuskunnossa, mutta etenkin suurten lihasten rasittaminen on ihan toivotonta hommaa. Viime kesänä huomasin, että säännöllinen monipuolinen liikunta yhdistettynä muutamaan litraan mysliä piti sen ainakin ulkonäöllisesti näyttävässä lihaskunnossa. Lihasten käyttöominaisuuksista en tiedä, niiden kestävyyskunnon testaaminen on aina ollut toivoton homma. Liikkuu mielellään ja helposti, se riittänee? (Toivottavasti liikunta ja riittävä valkuainen alkavat vähitellen tuntua ja näkyä ratsupuuhissakin!)  
   
 
-[![](images/rehut.png)](http://2.bp.blogspot.com/-E3UmOXZuNw4/UyceesVdopI/AAAAAAAAIIQ/qUBd6p64o-M/s1600/rehut.png)
+[![](/images/rehut.png)](http://2.bp.blogspot.com/-E3UmOXZuNw4/UyceesVdopI/AAAAAAAAIIQ/qUBd6p64o-M/s1600/rehut.png)

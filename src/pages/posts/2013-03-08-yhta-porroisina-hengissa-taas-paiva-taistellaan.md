@@ -8,7 +8,7 @@ template: "page"
 post_button_label: "Lue lisää"
 ---
 
-[![](images/2013.3.8_5.JPG)](http://1.bp.blogspot.com/-iqT3Z-lDD5Q/UTn49uP6XsI/AAAAAAAAFb8/NsvdIcTXmpE/s1600/2013.3.8_5.JPG)
+[![](/images/2013.3.8_5.JPG)](http://1.bp.blogspot.com/-iqT3Z-lDD5Q/UTn49uP6XsI/AAAAAAAAFb8/NsvdIcTXmpE/s1600/2013.3.8_5.JPG)
 
   
 
@@ -16,4 +16,4 @@ Melkein kevätaurinko paistaa, mutta herätessäni oli -18 ja vielä iltapäivä
 
   
 
-[![](images/ak.png)](http://1.bp.blogspot.com/-mefXPhwqIH4/UToLBva99pI/AAAAAAAAFcI/waG1SmYYCpk/s1600/ak.png)
+[![](/images/ak.png)](http://1.bp.blogspot.com/-mefXPhwqIH4/UToLBva99pI/AAAAAAAAFcI/waG1SmYYCpk/s1600/ak.png)

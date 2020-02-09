@@ -8,11 +8,11 @@ template: "page"
 post_button_label: "Lue lisää"
 ---
 
-[![](images/monte4_.png)](http://4.bp.blogspot.com/-wo164qR8YfQ/Uh5X_QxyyCI/AAAAAAAAGsc/QlwloN2lqlM/s1600/monte4_.png)
+[![](/images/monte4_.png)](http://4.bp.blogspot.com/-wo164qR8YfQ/Uh5X_QxyyCI/AAAAAAAAGsc/QlwloN2lqlM/s1600/monte4_.png)
 
   
 
-[![](images/monte3_.png)](http://1.bp.blogspot.com/-3IISrdrjMTw/Uh5eiI3MoKI/AAAAAAAAGs8/mAoSZOh0I_0/s1600/monte3_.png)[![](images/monte2_.png)](http://3.bp.blogspot.com/-I5IbShnRhC0/Uh5X_rDRfcI/AAAAAAAAGsY/ORwp1ukIH-E/s1600/monte2_.png)
+[![](/images/monte3_.png)](http://1.bp.blogspot.com/-3IISrdrjMTw/Uh5eiI3MoKI/AAAAAAAAGs8/mAoSZOh0I_0/s1600/monte3_.png)[![](/images/monte2_.png)](http://3.bp.blogspot.com/-I5IbShnRhC0/Uh5X_rDRfcI/AAAAAAAAGsY/ORwp1ukIH-E/s1600/monte2_.png)
 
   
 
@@ -22,4 +22,4 @@ PS. Lähiaikoina saatte _paljon_ lisää tätä. Kuntoilulaite Zilco on meillä 
 
   
 
-[![](images/ak.png)](http://4.bp.blogspot.com/-BxfAbDgGaMk/Uh5bgCJR-QI/AAAAAAAAGsw/ce0BzsNcc6w/s1600/ak.png)
+[![](/images/ak.png)](http://4.bp.blogspot.com/-BxfAbDgGaMk/Uh5bgCJR-QI/AAAAAAAAGsw/ce0BzsNcc6w/s1600/ak.png)

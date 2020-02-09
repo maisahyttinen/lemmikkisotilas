@@ -26,7 +26,7 @@ Hevoset! En ole ponityttö. Pienenä minut työnnettiin isojen hevosten selkää
 Eiköhän se ollut Lena, maailman paras pieni satuponi. Olin aika tuore hevosenomistaja (ehkä 12-vuotias) kun tutustuin täplä-ällään. Se muistutti Pentua, joten tykkäsin siitä. Siinä oli se tietty kipinä, jemmattuna hassun näköiseen tupsujalkatyyppiin. Edelleen Lena muistuttaa Pentua ja on ehdottomasti lempparini heti Sotilaan jälkeen. Täplis on kulkenut mukana kaikki nämä vuodet ja lapsuuden unelmaponi on vieläkin yksi työkavereista. Tunnustan, unelmaponi edelleen..  
   
 
-[![](images/IMG_2302.png)](http://2.bp.blogspot.com/-S-vAb5zwV48/UqSixB2xIQI/AAAAAAAAHi8/sI2AbUTH6GA/s1600/IMG_2302.png)[![](images/IMG_2997_.png)](http://2.bp.blogspot.com/-yMtSejsIrJQ/UqSisPA8KOI/AAAAAAAAHi0/kXKihsR7eV0/s1600/IMG_2997_.png)
+[![](/images/IMG_2302.png)](http://2.bp.blogspot.com/-S-vAb5zwV48/UqSixB2xIQI/AAAAAAAAHi8/sI2AbUTH6GA/s1600/IMG_2302.png)[![](/images/IMG_2997_.png)](http://2.bp.blogspot.com/-yMtSejsIrJQ/UqSisPA8KOI/AAAAAAAAHi0/kXKihsR7eV0/s1600/IMG_2997_.png)
 
   
 **Kumpi parempi, kengätön vai kengällinen? Hevosesi kenkien koko? (Jos se on kengässä)**  
@@ -37,14 +37,14 @@ Mitä edellisistä postauksista voi päätellä? Haha. Libbyn mahtavaa mammuttik
   
   
 
-[![](images/uijuijui.png)](http://3.bp.blogspot.com/-BjFR-t65ntU/UqSkYhbaxXI/AAAAAAAAHjY/VkrK79ao944/s1600/uijuijui.png)[![](images/2705_3.JPG)](http://4.bp.blogspot.com/-lQ4XXWApCwc/UqSkYNyK0-I/AAAAAAAAHjU/zb_UvalUWUM/s1600/2705_3.JPG)
+[![](/images/uijuijui.png)](http://3.bp.blogspot.com/-BjFR-t65ntU/UqSkYhbaxXI/AAAAAAAAHjY/VkrK79ao944/s1600/uijuijui.png)[![](/images/2705_3.JPG)](http://4.bp.blogspot.com/-lQ4XXWApCwc/UqSkYNyK0-I/AAAAAAAAHjU/zb_UvalUWUM/s1600/2705_3.JPG)
 
   
 **Tarhaavatko hevosesi yksin vai laumassa? Miksi?**  
 Kahdestaan nuo tarhaavat. Libby on niin pieni (ja toisaalta elopainoltaan sen verran suuri), ettei se pysty Sotilasta vahingoittamaan (jos vaikka haluaisikin) eikä Sotilastakaan voi erityisen hyökkääväksi sanoa. Ponin ilmestymisen myötä Sotilas on aktivoitunut tarhassa jonkin verran ja pää polvissa seisoskelun sijaan se liikkuu ruoka-aikojen välilläkin. Pentu oli välillä niin monsteri, että tarhakavereiden turvallisuuden vuoksi se tarhasi yksin (ei sillä, että se olisi tarhakavereista kamalasti välittänytkään muuten kuin maalitauluina), mutta loppuaikoina sekin pehmeni sen verran, että yhteistarhaus oli varteenotettava vaihtoehto.  
   
 
-[![](images/IMG_1676.png)](http://2.bp.blogspot.com/-Q9gkwKkU9a8/UqSjuyLn7JI/AAAAAAAAHjE/H4Yv4hDN45s/s1600/IMG_1676.png)[![](images/IMG_1652.png)](http://2.bp.blogspot.com/-rBTYw5DDXQk/UqSjvXXDd9I/AAAAAAAAHjI/Pk3VCwPqZzc/s1600/IMG_1652.png)
+[![](/images/IMG_1676.png)](http://2.bp.blogspot.com/-Q9gkwKkU9a8/UqSjuyLn7JI/AAAAAAAAHjE/H4Yv4hDN45s/s1600/IMG_1676.png)[![](/images/IMG_1652.png)](http://2.bp.blogspot.com/-rBTYw5DDXQk/UqSjvXXDd9I/AAAAAAAAHjI/Pk3VCwPqZzc/s1600/IMG_1652.png)
 
   
 **Ratkaiseeko hevosessa enemmän sen luonne vaiko ulkonäkö (kuten väri)?**  
@@ -58,7 +58,7 @@ Olen tipahdellut aika vähän. Kaikki putoamiseni taitaa edelleen pystyä laskem
   
   
 
-[![](images/Dedicated+Kemp+(2).png)](http://2.bp.blogspot.com/-j9B_AVCXWME/UqSAOn6Hi9I/AAAAAAAAHiM/fMdgWlFgp-o/s1600/Dedicated+Kemp+(2).png)[![](images/050311+(7).png)](http://4.bp.blogspot.com/-lSsrNX-quls/UqSAOnvSX4I/AAAAAAAAHiI/ZP3XCyIErII/s1600/050311+(7).png)
+[![](/images/Dedicated+Kemp+(2).png)](http://2.bp.blogspot.com/-j9B_AVCXWME/UqSAOn6Hi9I/AAAAAAAAHiM/fMdgWlFgp-o/s1600/Dedicated+Kemp+(2).png)[![](/images/050311+(7).png)](http://4.bp.blogspot.com/-lSsrNX-quls/UqSAOnvSX4I/AAAAAAAAHiI/ZP3XCyIErII/s1600/050311+(7).png)
 
   
 **Kuinka monta loimea hevosesi omistaa?**  
@@ -76,4 +76,4 @@ Haasteen saavat blogit: [**Taaviterapiaa**](http://taaviterapiaa.blogspot.fi/), 
 
   
 
-[![](images/ak_uusi.png)](http://4.bp.blogspot.com/-FfBGfoPfatk/UqS4i_Z0rYI/AAAAAAAAHjs/GrBV8K_q48g/s1600/ak_uusi.png)
+[![](/images/ak_uusi.png)](http://4.bp.blogspot.com/-FfBGfoPfatk/UqS4i_Z0rYI/AAAAAAAAHjs/GrBV8K_q48g/s1600/ak_uusi.png)

@@ -8,7 +8,7 @@ template: "page"
 post_button_label: "Lue lisää"
 ---
 
-[![](images/2013-09-13-581.png)](http://3.bp.blogspot.com/-ikcIxV_XJtg/UjOBqjji1hI/AAAAAAAAGz8/xhfs8n-_Hq8/s1600/2013-09-13-581.png)
+[![](/images/2013-09-13-581.png)](http://3.bp.blogspot.com/-ikcIxV_XJtg/UjOBqjji1hI/AAAAAAAAGz8/xhfs8n-_Hq8/s1600/2013-09-13-581.png)
 
 Piiitkästä aikaa iihan rauhallisella iltalenkillä maailman parhaan pikkuruunan kanssa! Viimeksi taisimme käydä pitkällä kävelyllä ilman satulaa ja kaverin kanssa joskus alkukesästä. Keväällä harrastimme sitä melkein joka päivä ja tapa pitää herätellä henkiin taas uudelleen! Montesatulan jälkeen paljaassa selässä tuntui ihan hurjan tukevalta, Sotilas oli hyvällä tuulella eikä säässä, seurasta puhumattakaan, ollut valittamista. Kilometritolkulla laatuaikaa perjantai-illalle!
 
@@ -33,4 +33,4 @@ PS. Jos elätte siinä uskossa, ettei ravihevosen hölkässä (etenkään siinä
 PPS. Olen tästä päivästä alkaen Sotilaan omistaja myös Hippoksen mukaan! Ja Pentu on vihdoin ilmoitettu kuolleeksi..  
   
 
-[![](images/ak.png)](http://2.bp.blogspot.com/-6wx0IzVJgR0/UjOObXlgMCI/AAAAAAAAG0M/hObSxLYGnDE/s1600/ak.png)
+[![](/images/ak.png)](http://2.bp.blogspot.com/-6wx0IzVJgR0/UjOObXlgMCI/AAAAAAAAG0M/hObSxLYGnDE/s1600/ak.png)

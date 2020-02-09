@@ -12,7 +12,7 @@ Perkasin vähän puhelinkuvia esille tännekin. Tiivistävät viime päivät ja 
 
   
 
-[![](images/201506181123198353.png)](http://4.bp.blogspot.com/-KzSmem559Q0/VYKC6IHAayI/AAAAAAAAJ1Y/mMQQ8iUeaxQ/s1600/201506181123198353.png)
+[![](/images/201506181123198353.png)](http://4.bp.blogspot.com/-KzSmem559Q0/VYKC6IHAayI/AAAAAAAAJ1Y/mMQQ8iUeaxQ/s1600/201506181123198353.png)
 
   
 
@@ -22,7 +22,7 @@ Kesän suurkilpailut alkavat heinäkuun alussa, sitten ajellaan ympäri Suomea r
 
   
 
-[![](images/201506181117054901.png)](http://1.bp.blogspot.com/-kg6Kawikpdw/VYKDbAMV7eI/AAAAAAAAJ1k/79ZqBVd9KOk/s1600/201506181117054901.png)[![](images/201506181121298684.png)](http://1.bp.blogspot.com/-4Ypbfl6OHhg/VYKDuKkUHFI/AAAAAAAAJ1s/_tuxXsQD1sI/s1600/201506181121298684.png)
+[![](/images/201506181117054901.png)](http://1.bp.blogspot.com/-kg6Kawikpdw/VYKDbAMV7eI/AAAAAAAAJ1k/79ZqBVd9KOk/s1600/201506181117054901.png)[![](/images/201506181121298684.png)](http://1.bp.blogspot.com/-4Ypbfl6OHhg/VYKDuKkUHFI/AAAAAAAAJ1s/_tuxXsQD1sI/s1600/201506181121298684.png)
 
   
 
@@ -32,7 +32,7 @@ Wahlsténin puuvillaohjat ja Lami-Cellin quick dry -satulahuopa ovat olleet ihan
 
   
 
-[![](images/201506181122469805.png)](http://3.bp.blogspot.com/-jvN07dNz9nw/VYKC5MTz_rI/AAAAAAAAJ1I/BFbEpnVt_6Y/s1600/201506181122469805.png)
+[![](/images/201506181122469805.png)](http://3.bp.blogspot.com/-jvN07dNz9nw/VYKC5MTz_rI/AAAAAAAAJ1I/BFbEpnVt_6Y/s1600/201506181122469805.png)
 
   
 
@@ -42,7 +42,7 @@ Sotilaan Back on Track -selänlämmitin on hassusti muuttanut sänkyyni asumaan.
 
   
 
-[![](images/201506181122236832.png)](http://4.bp.blogspot.com/-dsN2E5PUDfM/VYKC5PIaxcI/AAAAAAAAJ1M/XFIQimNxuB8/s1600/201506181122236832.png)
+[![](/images/201506181122236832.png)](http://4.bp.blogspot.com/-dsN2E5PUDfM/VYKC5PIaxcI/AAAAAAAAJ1M/XFIQimNxuB8/s1600/201506181122236832.png)
 
   
 
@@ -52,7 +52,7 @@ Aloitan työt juhannuksen jälkeen, joten olen saanut nauttia rauhassa harvoista
 
   
 
-[![](images/201506181118436613.png)](http://2.bp.blogspot.com/-saoVHbIjT_o/VYKC3YGUJgI/AAAAAAAAJ00/Tiq0DGVcwr4/s1600/201506181118436613.png)
+[![](/images/201506181118436613.png)](http://2.bp.blogspot.com/-saoVHbIjT_o/VYKC3YGUJgI/AAAAAAAAJ00/Tiq0DGVcwr4/s1600/201506181118436613.png)
 
   
 
@@ -62,4 +62,4 @@ Aloitan työt juhannuksen jälkeen, joten olen saanut nauttia rauhassa harvoista
 
   
 
-[![](images/201506181117349906.png)](http://2.bp.blogspot.com/--6NcSNg9bGQ/VYKC3OBkYyI/AAAAAAAAJ0s/W2EIKS3XlGY/s1600/201506181117349906.png)
+[![](/images/201506181117349906.png)](http://2.bp.blogspot.com/--6NcSNg9bGQ/VYKC3OBkYyI/AAAAAAAAJ0s/W2EIKS3XlGY/s1600/201506181117349906.png)

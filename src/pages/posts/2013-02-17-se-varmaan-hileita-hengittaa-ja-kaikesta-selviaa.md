@@ -8,7 +8,7 @@ template: "page"
 post_button_label: "Lue lisää"
 ---
 
-[![](images/hohooo.png)](http://3.bp.blogspot.com/-f3YnHA6T60Q/USEn5v9EqPI/AAAAAAAAFOo/WiZt2hpjwYk/s1600/hohooo.png)
+[![](/images/hohooo.png)](http://3.bp.blogspot.com/-f3YnHA6T60Q/USEn5v9EqPI/AAAAAAAAFOo/WiZt2hpjwYk/s1600/hohooo.png)
 
 _Tässä mä seison_
 
@@ -42,8 +42,8 @@ PPS. Sotilaalle kuuluu ihan hyvää. Ensi viikon jälkeen meilläkin alkaa hiiht
 
   
 
-[![](images/IMG_5164.png)](http://4.bp.blogspot.com/-gZgOXEWL0jo/USEoT2LNheI/AAAAAAAAFOw/vwkUY6lrhIE/s1600/IMG_5164.png)
+[![](/images/IMG_5164.png)](http://4.bp.blogspot.com/-gZgOXEWL0jo/USEoT2LNheI/AAAAAAAAFOw/vwkUY6lrhIE/s1600/IMG_5164.png)
 
   
 
-[![](images/ak.png)](http://3.bp.blogspot.com/-N7k9Mm9OLQY/USE106kIEdI/AAAAAAAAFO4/8criNb1xuug/s1600/ak.png)
+[![](/images/ak.png)](http://3.bp.blogspot.com/-N7k9Mm9OLQY/USE106kIEdI/AAAAAAAAFO4/8criNb1xuug/s1600/ak.png)

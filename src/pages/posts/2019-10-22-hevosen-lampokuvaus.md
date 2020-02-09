@@ -14,7 +14,7 @@ Olen ehtinyt höpöttää aiheesta Instagramissa ja Facebookissa jo niin paljon,
 
 ### Sotilasta on kuvattu, tutkittu ja ronkittu niin paljon, että kaikki uudet mahdollisuudet kiinnostavat!
 
-![](images/kuva8-1000x536.jpg)
+![](/images/kuva8-1000x536.jpg)
 
 Näkymä [TherMidas VET](http://thermidasvet.fi)in ohjelmistosta, jolla lämpökuvia analysoidaan.
 
@@ -24,7 +24,7 @@ Sotilasta on lämpökuvattu aiemmin ontumatutkimuksen yhteydessä vuonna 2015. L
 
 Neljässä vuodessa on tapahtunut paljon ja nyt lämpökuvaus tarjoaa vielä enemmän mahdollisuuksia eläintenkin tutkimiseen. Ihmisillä lämpökuvausta käytetään mm. tuki- ja liikuntaelinsairauksien ja diabeetikoiden jalkaongelmien hoidon seurannassa ja diagnostiikassa.
 
-![](images/IMG_0011-1000x667.jpg)
+![](/images/IMG_0011-1000x667.jpg)
 
 Hevosen lämpökuvauksesta on valtavasti iloa etenkin niissä tilanteissa, joissa ongelmaa etsitään "jostain". Perinteisten anatomisten tutkimusmenetelmien sijaan lämpökuvauksella voidaan tutkia lihaksiston, hermoston ja verenkiertoelimistön toimintaa.
 
@@ -34,7 +34,7 @@ Lämpökamera mittaa ihon pintalämpötilaa. Vammat, tulehdukset ja jopa lihaski
 
 Sotilaasta otetut kuvat osoittavat hyvin miksi lämpökuvaus on niin siisti juttu! Kesän haavereiden ja oikean takajalan ontuman jälkeen Sotilas on lepuutellut takajalkojaan paljon. Olin lähes varma, että ongelma on yhä oikeassa takajalassa - se on reagoinut jo kolmesti ja rujo ulkonäkö piilottaa sisäänsä nestekierto-ongelman poikineen. Varasin jo ajan ultraankin, mutta kuinka väärässä olinkaan.
 
-![](images/Nimetön-suunn.malli-8-1000x565.png)
+![](/images/Nimetön-suunn.malli-8-1000x565.png)
 
 Yllä olevista kuvista näkee hyvin, miten vasen takajalka on kintereestä alaspäin huomattavasti oikeaa lämpimämpi. Lämpö jakautuu onneksi melko tasaisesti koko jalkaan, eikä keskity esimerkiksi nivelalueelle. Mitään selvää vammaa lämpökuvissa ei siis näy. Mahdollisuus on kyllä silti olemassa.
 
@@ -42,7 +42,7 @@ Yllä olevista kuvista näkee hyvin, miten vasen takajalka on kintereestä alasp
 
 Niin pientä eroa on lähes mahdotonta havaita käsin. Erityisen kiinnostavaa on, että jalkaparin lämmin yksilö saattaakin olla täysin terve ja ongelma löytyy viileästä jalasta. Esimerkiksi hermopinteet saattavat häiritä koko jalan verenkiertoa, jolloin yksi jalka näkyy kuvissa poikkeuksellisen viileänä kolmeen muuhun verrattuna. Sotilaalla keskenään yhtä viileitä jalkoja on kolme, kuumia yksi.
 
-![](images/IMG_0042-1000x667.jpg)
+![](/images/IMG_0042-1000x667.jpg)
 
 Sotilaan jalkoja tutkitaan vielä eläinlääkärin kanssa, mutta lottoaisin mielelläni sen vaihtoehdon puolesta, että oikea takajalka on jäänyt ontuman jälkeen vähemmälle käytölle ja vasen on sen rinnalla ylirasittunut. Tosin, se ongelma olisi ihan liian helposti korjattavissa osuakseen Sotilaalle.
 
@@ -50,4 +50,4 @@ Meidän jännevammarallimme lisäksi lämpökuvausta voi hyödyntää esimerkiks
 
 Tällä hetkellä lämpökameroita on lähinnä yksittäisillä eläinlääkäreillä, mutta toivottavasti lämpökuvaus on tulevaisuudessa mahdollista ainakin klinikkakäyntien yhteydessä. Jos lämpökuvaus kiinnostaa, kannattaa napata TherMidas VET seurantaan Facebookissa.
 
-![](images/IMG_0032-1000x667.jpg)
+![](/images/IMG_0032-1000x667.jpg)

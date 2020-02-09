@@ -22,4 +22,4 @@ PS. Huomenna ollaan vietelty Sotilaan kanssa pari vuotta yhdessä. Ei ole käyny
 
   
 
-[![](images/ak.png)](http://2.bp.blogspot.com/-JTTQKPhqrKE/UmWKNhjFBtI/AAAAAAAAHJc/SWe7_4Fvo5U/s1600/ak.png)
+[![](/images/ak.png)](http://2.bp.blogspot.com/-JTTQKPhqrKE/UmWKNhjFBtI/AAAAAAAAHJc/SWe7_4Fvo5U/s1600/ak.png)

@@ -8,7 +8,7 @@ template: "page"
 post_button_label: "Lue lisää"
 ---
 
-[![](images/201511051538537126.png)](http://2.bp.blogspot.com/-CavFdc8vpik/VjtgvO3lwRI/AAAAAAAAKWY/DqH-fy5KyWA/s1600/201511051538537126.png)
+[![](/images/201511051538537126.png)](http://2.bp.blogspot.com/-CavFdc8vpik/VjtgvO3lwRI/AAAAAAAAKWY/DqH-fy5KyWA/s1600/201511051538537126.png)
 
   
 

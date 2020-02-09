@@ -16,7 +16,7 @@ En ole suunnitellut kesäämme vielä tarkemmin, mutta oletettavasti se sisält�
 
   
 
-[![](images/IMG_3375_2.png)](http://2.bp.blogspot.com/-X-AaolDM-mw/VVr8wpZgjJI/AAAAAAAAJm0/tahTDXZLY9o/s1600/IMG_3375_2.png)
+[![](/images/IMG_3375_2.png)](http://2.bp.blogspot.com/-X-AaolDM-mw/VVr8wpZgjJI/AAAAAAAAJm0/tahTDXZLY9o/s1600/IMG_3375_2.png)
 
   
 
@@ -24,11 +24,11 @@ Asumme tosiaan tällä hetkellä jälleen vanhempieni luona. Hevonen kotipihassa
 
   
 
-[![](images/IMG_3402_.png)](http://2.bp.blogspot.com/-uj6YYtrDNnQ/VVr7NCp6-NI/AAAAAAAAJmA/7L-oSIv9Rzs/s1600/IMG_3402_.png)
+[![](/images/IMG_3402_.png)](http://2.bp.blogspot.com/-uj6YYtrDNnQ/VVr7NCp6-NI/AAAAAAAAJmA/7L-oSIv9Rzs/s1600/IMG_3402_.png)
 
   
 
-[![](images/IMG_3454_2.png)](http://2.bp.blogspot.com/-r4GCdyJNHVY/VVr-ZpCC1WI/AAAAAAAAJnA/5aoKzwVkoEA/s1600/IMG_3454_2.png)
+[![](/images/IMG_3454_2.png)](http://2.bp.blogspot.com/-r4GCdyJNHVY/VVr-ZpCC1WI/AAAAAAAAJnA/5aoKzwVkoEA/s1600/IMG_3454_2.png)
 
   
 
@@ -40,7 +40,7 @@ Roosalla oli mukanaan [**All these ups and downs**](http://all-these-ups-and-dow
 
   
 
-[![](images/IMG_4210_.png)](http://4.bp.blogspot.com/-WTmTdkQAFSs/VVr7YA2YLPI/AAAAAAAAJmU/MG5ePPvKF9E/s1600/IMG_4210_.png)
+[![](/images/IMG_4210_.png)](http://4.bp.blogspot.com/-WTmTdkQAFSs/VVr7YA2YLPI/AAAAAAAAJmU/MG5ePPvKF9E/s1600/IMG_4210_.png)
 
   
 
@@ -52,11 +52,11 @@ Muutaman viikon löysäilyn jäljiltä nykykunto on .. hmm .. pyöreähkö. Ei t
 
 **joten olisiko jotain mitä haluatte ehdottomasti tietää/kuulla jännevamman parantumisesta tai kuntoutuksesta?**
 
-[![](images/IMG_3715_.png)](http://2.bp.blogspot.com/-QSnZrxyKXws/VVsFygIwg_I/AAAAAAAAJnY/SCXIDB98keY/s1600/IMG_3715_.png)[![](images/IMG_3774_.png)](http://1.bp.blogspot.com/-NBpYBDbKkYw/VVsFyeOlZmI/AAAAAAAAJnQ/uKqbwR5HYN0/s1600/IMG_3774_.png)
+[![](/images/IMG_3715_.png)](http://2.bp.blogspot.com/-QSnZrxyKXws/VVsFygIwg_I/AAAAAAAAJnY/SCXIDB98keY/s1600/IMG_3715_.png)[![](/images/IMG_3774_.png)](http://1.bp.blogspot.com/-NBpYBDbKkYw/VVsFyeOlZmI/AAAAAAAAJnQ/uKqbwR5HYN0/s1600/IMG_3774_.png)
 
   
 
-[![](images/IMG_3890_.png)](http://3.bp.blogspot.com/-x4PjuoVfT4Q/VVsFyg8HhbI/AAAAAAAAJnU/ugcYY1s430A/s1600/IMG_3890_.png)[![](images/IMG_3972_.png)](http://3.bp.blogspot.com/-vBEzMOKZ_tY/VVsF0Txka1I/AAAAAAAAJno/WsH-hNiiR74/s1600/IMG_3972_.png)
+[![](/images/IMG_3890_.png)](http://3.bp.blogspot.com/-x4PjuoVfT4Q/VVsFyg8HhbI/AAAAAAAAJnU/ugcYY1s430A/s1600/IMG_3890_.png)[![](/images/IMG_3972_.png)](http://3.bp.blogspot.com/-vBEzMOKZ_tY/VVsF0Txka1I/AAAAAAAAJno/WsH-hNiiR74/s1600/IMG_3972_.png)
 
   
 

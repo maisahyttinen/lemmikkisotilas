@@ -8,7 +8,7 @@ template: "page"
 post_button_label: "Lue lisää"
 ---
 
-[![](images/IMG_0288_.png)](http://1.bp.blogspot.com/-dNV6KP6_nfI/Uwy2FfnpAQI/AAAAAAAAH84/q8r1v9UWXro/s1600/IMG_0288_.png)
+[![](/images/IMG_0288_.png)](http://1.bp.blogspot.com/-dNV6KP6_nfI/Uwy2FfnpAQI/AAAAAAAAH84/q8r1v9UWXro/s1600/IMG_0288_.png)
 
 Lämminveri_ratsu!_
 
@@ -20,11 +20,11 @@ Olen kipeillyt monta päivää ja Sotilas on liikkunut pelkästään liinassa. E
 
   
 
-[![](images/IMG_0292_.png)](http://1.bp.blogspot.com/-ARJCqUfRMKY/Uwy2FrkkjOI/AAAAAAAAH88/dNqAYhddDBI/s1600/IMG_0292_.png)
+[![](/images/IMG_0292_.png)](http://1.bp.blogspot.com/-ARJCqUfRMKY/Uwy2FrkkjOI/AAAAAAAAH88/dNqAYhddDBI/s1600/IMG_0292_.png)
 
   
 
-[![](images/IMG_0032_.png)](http://1.bp.blogspot.com/-3d8hMmt8nVM/UwzAxKaAPaI/AAAAAAAAH-Y/An9NtIDyAc8/s1600/IMG_0032_.png)[![](images/IMG_0049_.png)](http://1.bp.blogspot.com/-MlmyUx1RyWs/UwzAxcpKKJI/AAAAAAAAH-g/QrHDYnTOZLo/s1600/IMG_0049_.png)
+[![](/images/IMG_0032_.png)](http://1.bp.blogspot.com/-3d8hMmt8nVM/UwzAxKaAPaI/AAAAAAAAH-Y/An9NtIDyAc8/s1600/IMG_0032_.png)[![](/images/IMG_0049_.png)](http://1.bp.blogspot.com/-MlmyUx1RyWs/UwzAxcpKKJI/AAAAAAAAH-g/QrHDYnTOZLo/s1600/IMG_0049_.png)
 
   
 
@@ -32,11 +32,11 @@ Myös pienempi porsas on joutunut/päässyt harrastamaan liikuntaa. Edelleen se 
 
   
 
-[![](images/IMG_0214_.png)](http://3.bp.blogspot.com/-aldY9cVbJUM/UwzAy8ryJMI/AAAAAAAAH-0/2MK7WYg16v0/s1600/IMG_0214_.png)[![](images/IMG_0318.JPG)](http://3.bp.blogspot.com/-IhT6UIs3Sb4/UwzGDFAERxI/AAAAAAAAH_I/doRtWR2t8oQ/s1600/IMG_0318.JPG)
+[![](/images/IMG_0214_.png)](http://3.bp.blogspot.com/-aldY9cVbJUM/UwzAy8ryJMI/AAAAAAAAH-0/2MK7WYg16v0/s1600/IMG_0214_.png)[![](/images/IMG_0318.JPG)](http://3.bp.blogspot.com/-IhT6UIs3Sb4/UwzGDFAERxI/AAAAAAAAH_I/doRtWR2t8oQ/s1600/IMG_0318.JPG)
 
   
 
-[![](images/IMG_0338_.png)](http://3.bp.blogspot.com/-_EZDqcdgRic/UwzGDvwD75I/AAAAAAAAH_Q/jIaWY_00vLM/s1600/IMG_0338_.png)
+[![](/images/IMG_0338_.png)](http://3.bp.blogspot.com/-_EZDqcdgRic/UwzGDvwD75I/AAAAAAAAH_Q/jIaWY_00vLM/s1600/IMG_0338_.png)
 
   
 

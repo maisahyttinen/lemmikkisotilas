@@ -16,7 +16,7 @@ Hehe, olen laiskotellut blogin kanssa ihan luvattoman paljon parin viime kuukaud
 
   
 
-[![](images/kettu.png)](http://1.bp.blogspot.com/-t6XLyFsG3ZE/UwJ3NJA4iBI/AAAAAAAAH6Y/4QliGuKDpj0/s1600/kettu.png)[![](images/lettusii.png)](http://1.bp.blogspot.com/-YAi0poLgKHg/UwJ3OkjHvPI/AAAAAAAAH60/N3bUi8rdVyM/s1600/lettusii.png)  
+[![](/images/kettu.png)](http://1.bp.blogspot.com/-t6XLyFsG3ZE/UwJ3NJA4iBI/AAAAAAAAH6Y/4QliGuKDpj0/s1600/kettu.png)[![](/images/lettusii.png)](http://1.bp.blogspot.com/-YAi0poLgKHg/UwJ3OkjHvPI/AAAAAAAAH60/N3bUi8rdVyM/s1600/lettusii.png)  
 
 **Katsokaa video tietenkin HD:na!**
 
@@ -33,4 +33,4 @@ _o-o-ooooo ..._
 
   
 
-[![](images/kenkuu.png)](http://2.bp.blogspot.com/-MXuAIq7KQrM/UwJ3N-Xmy0I/AAAAAAAAH6w/U6YcxZJ1Fyc/s1600/kenkuu.png)[![](images/helyi.png)](http://3.bp.blogspot.com/-UsVsuaQ6EAg/UwJ3N1Mh4VI/AAAAAAAAH6o/yArkQI6Xipo/s1600/helyi.png)
+[![](/images/kenkuu.png)](http://2.bp.blogspot.com/-MXuAIq7KQrM/UwJ3N-Xmy0I/AAAAAAAAH6w/U6YcxZJ1Fyc/s1600/kenkuu.png)[![](/images/helyi.png)](http://3.bp.blogspot.com/-UsVsuaQ6EAg/UwJ3N1Mh4VI/AAAAAAAAH6o/yArkQI6Xipo/s1600/helyi.png)

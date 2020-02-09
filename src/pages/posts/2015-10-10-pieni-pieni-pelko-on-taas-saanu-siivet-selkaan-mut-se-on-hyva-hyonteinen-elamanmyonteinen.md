@@ -20,7 +20,7 @@ Tallipaikka on ehdottomasti tärkein. Kaikkea ei mitenkään pysty tekemään ja
 
   
 
-[![](images/IMG_8820_.png)](http://1.bp.blogspot.com/-fwx2Jx7afig/VhmMYOnid4I/AAAAAAAAKOU/NcsO38bYQ6Y/s1600/IMG_8820_.png)[![](images/IMG_8821_.png)](http://3.bp.blogspot.com/-37MCK-4EE7c/VhmMYHAaikI/AAAAAAAAKOQ/e-4AbUI6G34/s1600/IMG_8821_.png)
+[![](/images/IMG_8820_.png)](http://1.bp.blogspot.com/-fwx2Jx7afig/VhmMYOnid4I/AAAAAAAAKOU/NcsO38bYQ6Y/s1600/IMG_8820_.png)[![](/images/IMG_8821_.png)](http://3.bp.blogspot.com/-37MCK-4EE7c/VhmMYHAaikI/AAAAAAAAKOQ/e-4AbUI6G34/s1600/IMG_8821_.png)
 
  IHANA ILMASTOITU PUUTALLI JA SUURI KUITUPOHJAINEN MANEESI, JOKA ON VAPAA 22 TUNTIA VUOROKAUDESSA.
 
@@ -30,7 +30,7 @@ Viime talvena tallimatka oli 4 kilometriä. Nyt se on 40. Hassua on, että talli
 
   
 
-[![](images/201510091701326838_.png)](http://3.bp.blogspot.com/-OuCUihzlFGU/VhmNZt0i0GI/AAAAAAAAKO0/5eCYtpRl6Zs/s1600/201510091701326838_.png)
+[![](/images/201510091701326838_.png)](http://3.bp.blogspot.com/-OuCUihzlFGU/VhmNZt0i0GI/AAAAAAAAKO0/5eCYtpRl6Zs/s1600/201510091701326838_.png)
 
   
 
@@ -42,7 +42,7 @@ Hevosen vuokraaminen on minulle omistajan näkökulmasta ihan uutta, mutta viime
 
   
 
-[![](images/jalka2.png)](http://4.bp.blogspot.com/-K1kSge4KkVw/VhmVFUMYv9I/AAAAAAAAKPI/h32zbbQVeYQ/s1600/jalka2.png)[![](images/jalka1.png)](http://3.bp.blogspot.com/-CtdcBm__heY/VhmVHJcZ3MI/AAAAAAAAKPQ/gKmeAro-O7A/s1600/jalka1.png)
+[![](/images/jalka2.png)](http://4.bp.blogspot.com/-K1kSge4KkVw/VhmVFUMYv9I/AAAAAAAAKPI/h32zbbQVeYQ/s1600/jalka2.png)[![](/images/jalka1.png)](http://3.bp.blogspot.com/-CtdcBm__heY/VhmVHJcZ3MI/AAAAAAAAKPQ/gKmeAro-O7A/s1600/jalka1.png)
 
   
 

@@ -80,7 +80,7 @@ Sotilas muuttaa nyt kuun vaihteessa lähemmäs kotia ja kesäkuun jälkeen kotii
 
 **6\. Paras ottamasi kuva?**
 
-[![](images/IMG_0307.png)](http://4.bp.blogspot.com/-mceEq6OkSH8/T8Cvcav62KI/AAAAAAAAAqA/vny6TupC5N4/s1600/IMG_0307.png)
+[![](/images/IMG_0307.png)](http://4.bp.blogspot.com/-mceEq6OkSH8/T8Cvcav62KI/AAAAAAAAAqA/vny6TupC5N4/s1600/IMG_0307.png)
 
 Tangen Scott/Pekka Korpi. Tähtisprintterissä Vermossa 2010. Taitaa olla Canon EOS 30D:llä otettu. Jostain syystä jäänyt mieleen ehdottomana suosikkiotoksena. [Tämä](http://maisaw.otukset.fi/kuvat/2011/Tallit+ja+hevoset/Unknown+Soldier/28.12.2011/S2+%2815%29.png/full) ja [tämä](http://maisaw.otukset.fi/kuvat/2011/Tallit+ja+hevoset/Unknown+Soldier/27.12.2011/S+%289%29.png/full) kuuluvat myös lemppareihin.
 

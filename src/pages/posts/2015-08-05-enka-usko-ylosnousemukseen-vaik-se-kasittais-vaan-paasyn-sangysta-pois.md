@@ -24,7 +24,7 @@ Siksi tätä jaksaa.
 
   
 
-[![](images/IMG_8063_.png)](http://2.bp.blogspot.com/-qbxbLZ_-EnE/VcKLBXsAaSI/AAAAAAAAJ4w/7iFQOG8trhc/s1600/IMG_8063_.png)
+[![](/images/IMG_8063_.png)](http://2.bp.blogspot.com/-qbxbLZ_-EnE/VcKLBXsAaSI/AAAAAAAAJ4w/7iFQOG8trhc/s1600/IMG_8063_.png)
 
   
 
@@ -32,7 +32,7 @@ Ihan vain itseäni kerta toisensa jälkeen toistaakseni - viime viikot ovat olle
 
   
 
-[![](images/IMG_8142_.png)](http://4.bp.blogspot.com/-2xHXQCHv9Rw/VcKLBw4bhWI/AAAAAAAAJ5E/Yf3xvjc8gCk/s1600/IMG_8142_.png)
+[![](/images/IMG_8142_.png)](http://4.bp.blogspot.com/-2xHXQCHv9Rw/VcKLBw4bhWI/AAAAAAAAJ5E/Yf3xvjc8gCk/s1600/IMG_8142_.png)
 
   
 
@@ -42,7 +42,7 @@ Sen jälkeen onkin lähinnä satanut ja aika mennyt kylmätessä ja kävelyttäe
 
   
 
-[![](images/IMG_8269_.png)](http://1.bp.blogspot.com/-fwARZs4l99E/VcKLBxmU5qI/AAAAAAAAJ5A/NXaHXkREwK0/s1600/IMG_8269_.png)
+[![](/images/IMG_8269_.png)](http://1.bp.blogspot.com/-fwARZs4l99E/VcKLBxmU5qI/AAAAAAAAJ5A/NXaHXkREwK0/s1600/IMG_8269_.png)
 
   
 
@@ -52,7 +52,7 @@ Klinikalle mennään perjantaiaamuna. Huomenna. Jännevamma se on, muuta en viel
 
   
 
-[![](images/IMG_8374_.png)](http://1.bp.blogspot.com/-TQxG_9fORWI/VcKLFoIY8oI/AAAAAAAAJ5o/CzySE5tWzu4/s1600/IMG_8374_.png)
+[![](/images/IMG_8374_.png)](http://1.bp.blogspot.com/-TQxG_9fORWI/VcKLFoIY8oI/AAAAAAAAJ5o/CzySE5tWzu4/s1600/IMG_8374_.png)
 
   
 
@@ -62,7 +62,7 @@ Ainoa kerta vuodessa, kun voin täysin rehellisesti sanoa ihailevani suomenhevos
 
   
 
-[![](images/IMG_8365_.png)](http://2.bp.blogspot.com/-Yk2a44vsufM/VcKLEfLbl3I/AAAAAAAAJ5Y/gI7xk1dX-I0/s1600/IMG_8365_.png)
+[![](/images/IMG_8365_.png)](http://2.bp.blogspot.com/-Yk2a44vsufM/VcKLEfLbl3I/AAAAAAAAJ5Y/gI7xk1dX-I0/s1600/IMG_8365_.png)
 
   
 
@@ -72,7 +72,7 @@ Suomalainen ravikansa on raastavan pidättyväistä, mutta Kuninkuusravit tuntuv
 
   
 
-[![](images/IMG_8353_.png)](http://4.bp.blogspot.com/-pB3vjonJ3A8/VcKLDy186JI/AAAAAAAAJ5U/dZ5vfFx3cHs/s1600/IMG_8353_.png)
+[![](/images/IMG_8353_.png)](http://4.bp.blogspot.com/-pB3vjonJ3A8/VcKLDy186JI/AAAAAAAAJ5U/dZ5vfFx3cHs/s1600/IMG_8353_.png)
 
   
 

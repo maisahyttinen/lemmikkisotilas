@@ -13,7 +13,7 @@ Ne himoitut blogiesittelyt! Noin 30 blogista oli vaikeaa valita kymmentä, joten
 Meillä on tällä hetkellä niin liukasta, että tänään yrittämäni lenkki Sotilaan kanssa ihan vain talutellen jäi vain muutaman sadan metrin mittaiseksi. Kesäkengillä ei ole toivoakaan pysyä pystyssä, mutta en haluaisi laitattaa hokkeja ja tilsakumeja ihan vielä, koska säätiedotuksen mukaan kurakelit saadaan vielä hetkeksi takaisin.. Ehkä tämä vielä tästä.  
   
 
-[![](images/IMG_0032.JPG)](http://2.bp.blogspot.com/-x7M2lKd7qo8/UJGGtjzInhI/AAAAAAAACCQ/BtphPSrNn1s/s1600/IMG_0032.JPG)
+[![](/images/IMG_0032.JPG)](http://2.bp.blogspot.com/-x7M2lKd7qo8/UJGGtjzInhI/AAAAAAAACCQ/BtphPSrNn1s/s1600/IMG_0032.JPG)
 
   
 [RONYA NADINE](http://ronyanadine.blogspot.fi/)  
@@ -32,4 +32,4 @@ Pennun menettämisen jälkeen tämä blogi kirjoittajineen on ollut tervetullutt
 Joidenkin blogien kanssa käy niin, että tapahtumien seuraamiseen koukuttuu täysin. Tämän kanssa on käynyt juuri niin. Arvostan todella paljon sellaisia ihmisiä, jotka eivät luovuta hevosystävänsä terveysongelmien edessä ja jaksavat nähdä muutakin vaivaa kuin raahata hevostaan klinikalle, jotta joku muu hoitaa. Tätä ei ole kovin kevyt lukea ja eikä se ainakaan paranna jo ennaltaan huonoa päivää, mutta se saa uskomaan, että vielä jossakin on olemassa hyviä koteja niillekin hevosille, jotka eivät ole terveydellisesti virheettömiä, mutta ansaitsevat mahdollisuuden.  
   
 
-[![](images/ak.png)](http://1.bp.blogspot.com/-yb9Dw9e1r_c/UJGGubMvumI/AAAAAAAACCY/IUQ8ZIlOeMU/s1600/ak.png)
+[![](/images/ak.png)](http://1.bp.blogspot.com/-yb9Dw9e1r_c/UJGGubMvumI/AAAAAAAACCY/IUQ8ZIlOeMU/s1600/ak.png)

@@ -34,7 +34,7 @@ Tämä säästä valittaminen saa luvan riittää. (Vaikkakin tuolla on tälläk
 **10.** Sotilas on mukavin ja rennoin harrastelukaveri jonka tiedän. Sen kanssa voi tehdä mitä tahansa ja se on aina innolla mukana kaikessa. Täydellisemmin käyttäytyvä hevonen ei enää voisi olla (no joo, on sillä joitakin pahoja tapoja jotka olen itse aiheuttanut) ja on älyttömän rentoa (ja minulle ehkä jopa vähän vierasta), ettei hevosen omista näppäristä tempuista tarvitse huolehtia jos se on jonkun muun hoidettavana.  
   
 
-[![](images/IMG_0142x.JPG)](http://3.bp.blogspot.com/-VP56tqDQ3N4/UM90OhF45BI/AAAAAAAADyY/dBOhz234IZk/s1600/IMG_0142x.JPG)
+[![](/images/IMG_0142x.JPG)](http://3.bp.blogspot.com/-VP56tqDQ3N4/UM90OhF45BI/AAAAAAAADyY/dBOhz234IZk/s1600/IMG_0142x.JPG)
 
   
 **MINÄ**  
@@ -54,4 +54,4 @@ Tämä säästä valittaminen saa luvan riittää. (Vaikkakin tuolla on tälläk
 **17.** Pelkään pimeää ja vilkkaan mielikuvituksen kanssa on joskus ihan kamalaa. Asuminen eri rakennuksessa kuin muut tuotti aluksi vähän vaikeuksia ja vielä nykyäänkin nukun kaikkein parhaiten silloin kun vieressäni nukkuu joku.  
   
 
-[![](images/ak.png)](http://4.bp.blogspot.com/-NOafBuNFIZQ/UM90E8Oz3lI/AAAAAAAADyQ/7fTIqkFLyPY/s1600/ak.png)
+[![](/images/ak.png)](http://4.bp.blogspot.com/-NOafBuNFIZQ/UM90E8Oz3lI/AAAAAAAADyQ/7fTIqkFLyPY/s1600/ak.png)

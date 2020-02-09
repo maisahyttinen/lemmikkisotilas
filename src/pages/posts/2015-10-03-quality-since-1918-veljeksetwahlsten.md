@@ -12,11 +12,11 @@ Jatkoa syksyn bloggaajatapaamisille! Kävimme viikko sitten tutustumassa Lahden 
 
   
 
-[![](images/IMG_1417_.png)](http://3.bp.blogspot.com/-LvmJKCxDb70/Vge9aMI7fMI/AAAAAAAAKI4/JrTnS4PSKsM/s1600/IMG_1417_.png)[![](images/IMG_1420_.png)](http://4.bp.blogspot.com/-_Tr94AqsqB4/Vge9aESLpKI/AAAAAAAAKIw/sHX9JVaRwcg/s1600/IMG_1420_.png)
+[![](/images/IMG_1417_.png)](http://3.bp.blogspot.com/-LvmJKCxDb70/Vge9aMI7fMI/AAAAAAAAKI4/JrTnS4PSKsM/s1600/IMG_1417_.png)[![](/images/IMG_1420_.png)](http://4.bp.blogspot.com/-_Tr94AqsqB4/Vge9aESLpKI/AAAAAAAAKIw/sHX9JVaRwcg/s1600/IMG_1420_.png)
 
   
 
-[![](images/IMG_1430_.png)](http://3.bp.blogspot.com/-SKbx-KZ1drE/Vge9aMzv0cI/AAAAAAAAKI0/d9Rgn9KEZRk/s1600/IMG_1430_.png)
+[![](/images/IMG_1430_.png)](http://3.bp.blogspot.com/-SKbx-KZ1drE/Vge9aMzv0cI/AAAAAAAAKI0/d9Rgn9KEZRk/s1600/IMG_1430_.png)
 
   
 
@@ -28,11 +28,11 @@ Pidän Wahlsténissa erityisesti siitä, että kaikki nahkavarusteet ovat laadul
 
   
 
-[![](images/IMG_1591_.png)](http://2.bp.blogspot.com/-Tpb-0Bn9tMc/Vge9dT-OT-I/AAAAAAAAKK4/tUxRzDnXmvw/s1600/IMG_1591_.png)
+[![](/images/IMG_1591_.png)](http://2.bp.blogspot.com/-Tpb-0Bn9tMc/Vge9dT-OT-I/AAAAAAAAKK4/tUxRzDnXmvw/s1600/IMG_1591_.png)
 
   
 
-[![](images/IMG_1495_.png)](http://4.bp.blogspot.com/-G9dNhTMdMdI/Vge9bf8jUuI/AAAAAAAAKJA/mJTN_XtOjNo/s1600/IMG_1495_.png)
+[![](/images/IMG_1495_.png)](http://4.bp.blogspot.com/-G9dNhTMdMdI/Vge9bf8jUuI/AAAAAAAAKJA/mJTN_XtOjNo/s1600/IMG_1495_.png)
 
   
 
@@ -43,25 +43,25 @@ Wahlsténilla on kattava _**[kuvasto](http://epaper.fi/read/1946/s9K78o86)**_ es
 
   
 
-[![](images/IMG_1593_.png)](http://1.bp.blogspot.com/-OARWRy0faYY/Vge9dsJ0wkI/AAAAAAAAKJs/NpV4EJ7GZyw/s1600/IMG_1593_.png)
+[![](/images/IMG_1593_.png)](http://1.bp.blogspot.com/-OARWRy0faYY/Vge9dsJ0wkI/AAAAAAAAKJs/NpV4EJ7GZyw/s1600/IMG_1593_.png)
 
   
 
-[![](images/IMG_1594_.png)](http://1.bp.blogspot.com/-zIrq9M8eSAY/Vge9eCNqFpI/AAAAAAAAKKw/LLI5LH-fG7A/s1600/IMG_1594_.png)[![](images/IMG_1596_.png)](http://2.bp.blogspot.com/-rz81OiDvazk/Vge9fLCXilI/AAAAAAAAKKs/qruXHCCk4Gk/s1600/IMG_1596_.png)
+[![](/images/IMG_1594_.png)](http://1.bp.blogspot.com/-zIrq9M8eSAY/Vge9eCNqFpI/AAAAAAAAKKw/LLI5LH-fG7A/s1600/IMG_1594_.png)[![](/images/IMG_1596_.png)](http://2.bp.blogspot.com/-rz81OiDvazk/Vge9fLCXilI/AAAAAAAAKKs/qruXHCCk4Gk/s1600/IMG_1596_.png)
 
   
 
 Jalkoja (tai ylipäätään koko hevosta) ei ole ilman kavioita. Kavionhoito ja kengitys ovat ehdottomasti yksi niistä arkipäiväisistä asioista, joilla jalkaterveyttä voidaan varjella ja parantaa. Wahlstén on aina ollut se liike, josta löytyy ihan kaikki mitä kengityksessä voi ikinä keksiä tarvita. Ihan älyttömän suuri valikoima "tavallisia kenkiä", ehdottomasti Suomen laajin hyllyvalikoima erikoiskenkiä, laadukkaat työkalut ja kavionhoitoaineet sekä harrastajalle että ammattilaiselle. Yhdestä paikasta saa kerralla kaiken. Meillä on ollut jo jonkin aikaa **Carr & Day & Martinin Hoof oil -kavioöljy**. (Oranssi purkki oikeanpuolimmaisessa pikkukuvassa.) En ole kovin suuri kavioöljyjen ystävä, käytän mieluummin rypsiöljyä, mutta tämä on ollut positiivinen yllätys. Moni kaviöljy jättää kavioon pitkäksi aikaa vettä hylkivän pinnan (mikä joskus on toki tarkoituskin), mutta tätä on voinut käyttää ihan pelkästään ulkonäköä huolitellessa. Vedenkestävä kerros kuluu pois päivässä parissa. Kiiltävät tummat kaviot pysyvät kuitenkin siistinä esimerkiksi koko kilpailu- tai klinikkapäivän.  
   
 
-[![](images/IMG_1581_.png)](http://4.bp.blogspot.com/-7fVYD3sZe-g/Vge9b56xMYI/AAAAAAAAKJU/DuA0V9NkLC0/s1600/IMG_1581_.png)[![](images/IMG_1612_.png)](http://4.bp.blogspot.com/-ILIQbzg4SME/Vge9fy7lNmI/AAAAAAAAKKk/VqqgQFb61Og/s1600/IMG_1612_.png)
+[![](/images/IMG_1581_.png)](http://4.bp.blogspot.com/-7fVYD3sZe-g/Vge9b56xMYI/AAAAAAAAKJU/DuA0V9NkLC0/s1600/IMG_1581_.png)[![](/images/IMG_1612_.png)](http://4.bp.blogspot.com/-ILIQbzg4SME/Vge9fy7lNmI/AAAAAAAAKKk/VqqgQFb61Og/s1600/IMG_1612_.png)
 
   
 
 Hyvinvointi perustuu tottakai sille, että hevonen on kehittynyt ja kasvanut hyvin. Wahlstén myy TRM:n lisäravinteita, joista löytyy terveyttä tukevia tuotteita varsasta aina vanhuuteen saakka. Varsan kehitykseen voidaan vaikuttaa paljon jo kantoaikana. Lähtökohtaisesti terveestä ja hyvinvoivasta tammasta syntyy hyvin kehittynyt ja terve varsa, mutta kaikki puutteet eivät näy päällepäin. Kehittyvä varsa tarvitsee esimerkiksi paljon tiettyjä mineraaleja, hivenaineita ja aminohappoja, joita myös tamma itse kuluttaa koko ajan. Puutos syntyy helposti. **TRM Calphormin** sisältää mm. suuret pitoisuudet kalsiumia, fosforia, sinkkiä ja magnesiumia. Tammalle sitä voidaan syöttää kolme viimeistä kantokuukautta sekä imetysaikana, ja varsalle aina vieroituksesta 2-vuotiaaksi. Se tukee etenkin luuston kehitystä ja vähentää tutkitusti mm. irtopalojen määrää. **TRM Hoofmaker** on suunniteltu tukemaan tervettä kavion kasvua.  
   
 
-[![](images/IMG_1588_.png)](http://2.bp.blogspot.com/-215-Sp8aTho/Vge9cnXOnoI/AAAAAAAAKJg/HQYJIi4TzZM/s1600/IMG_1588_.png)[![](images/IMG_1604_.png)](http://3.bp.blogspot.com/-wLVCcJfe9yQ/Vge9fbMxydI/AAAAAAAAKKE/dZCIzsd3tl8/s1600/IMG_1604_.png)
+[![](/images/IMG_1588_.png)](http://2.bp.blogspot.com/-215-Sp8aTho/Vge9cnXOnoI/AAAAAAAAKJg/HQYJIi4TzZM/s1600/IMG_1588_.png)[![](/images/IMG_1604_.png)](http://3.bp.blogspot.com/-wLVCcJfe9yQ/Vge9fbMxydI/AAAAAAAAKKE/dZCIzsd3tl8/s1600/IMG_1604_.png)
 
   
 
@@ -69,11 +69,11 @@ Välipohjien käyttö on lisääntynyt huomattavasti viime vuosina. Ja tottakai 
 
   
 
-[![](images/IMG_1617_.png)](http://3.bp.blogspot.com/--LcQ3rZafg8/Vge9gGLAXbI/AAAAAAAAKKY/iorMBPwZj9Q/s1600/IMG_1617_.png)
+[![](/images/IMG_1617_.png)](http://3.bp.blogspot.com/--LcQ3rZafg8/Vge9gGLAXbI/AAAAAAAAKKY/iorMBPwZj9Q/s1600/IMG_1617_.png)
 
   
 
-[![](images/IMG_1564_.png)](http://1.bp.blogspot.com/-3cXFcH7otFk/Vge9jCR-2jI/AAAAAAAAKK0/fKVhC8HfLDs/s1600/IMG_1564_.png)[![](images/IMG_1676_.png)](http://1.bp.blogspot.com/-vXMejx_2eoE/VhBDSL0nNtI/AAAAAAAAKLs/vpNIDCPCeTU/s1600/IMG_1676_.png)
+[![](/images/IMG_1564_.png)](http://1.bp.blogspot.com/-3cXFcH7otFk/Vge9jCR-2jI/AAAAAAAAKK0/fKVhC8HfLDs/s1600/IMG_1564_.png)[![](/images/IMG_1676_.png)](http://1.bp.blogspot.com/-vXMejx_2eoE/VhBDSL0nNtI/AAAAAAAAKLs/vpNIDCPCeTU/s1600/IMG_1676_.png)
 
   
 
@@ -85,7 +85,7 @@ Jalanhoidossa ei ole mitään ihmeitä tekevää tuotetta tai varustetta. Kaikke
 
   
 
-[![](images/IMG_1643_.png)](http://1.bp.blogspot.com/-NBvnUXFYTbA/Vge9hnCASDI/AAAAAAAAKKc/_RL15OfqO1U/s1600/IMG_1643_.png)
+[![](/images/IMG_1643_.png)](http://1.bp.blogspot.com/-NBvnUXFYTbA/Vge9hnCASDI/AAAAAAAAKKc/_RL15OfqO1U/s1600/IMG_1643_.png)
 
   
 

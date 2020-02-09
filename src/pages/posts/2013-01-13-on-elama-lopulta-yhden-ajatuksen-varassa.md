@@ -8,7 +8,7 @@ template: "page"
 post_button_label: "Lue lisää"
 ---
 
-[![](images/IMG_0561.png)](http://2.bp.blogspot.com/-6IL5ks8qwTs/UPMaT6KKQCI/AAAAAAAAE6g/gtqWkgZWlj0/s1600/IMG_0561.png)
+[![](/images/IMG_0561.png)](http://2.bp.blogspot.com/-6IL5ks8qwTs/UPMaT6KKQCI/AAAAAAAAE6g/gtqWkgZWlj0/s1600/IMG_0561.png)
 
   
 
@@ -16,13 +16,13 @@ Tällä kertaa muistin lähtiessä vaihtaa kuolaimet, joten reilun 10 kilometrin
 
   
 
-[![](images/2013.01.png)](http://4.bp.blogspot.com/-LOLtXmvmP1w/UPMekhE9YUI/AAAAAAAAE60/HNgbMnrcT_o/s1600/2013.01.png)
+[![](/images/2013.01.png)](http://4.bp.blogspot.com/-LOLtXmvmP1w/UPMekhE9YUI/AAAAAAAAE60/HNgbMnrcT_o/s1600/2013.01.png)
 
   
 
   
 
-[![](images/2013.01.12_11.JPG)](http://3.bp.blogspot.com/-Jbt_owiTeiQ/UPMfAF-IKVI/AAAAAAAAE7A/pmQQ5p1iBrM/s1600/2013.01.12_11.JPG)[![](images/2013.01.12_12.JPG)](http://4.bp.blogspot.com/-KpbxZeZOJuo/UPMeka5d3bI/AAAAAAAAE6w/NvY7CjSU-rU/s1600/2013.01.12_12.JPG)
+[![](/images/2013.01.12_11.JPG)](http://3.bp.blogspot.com/-Jbt_owiTeiQ/UPMfAF-IKVI/AAAAAAAAE7A/pmQQ5p1iBrM/s1600/2013.01.12_11.JPG)[![](/images/2013.01.12_12.JPG)](http://4.bp.blogspot.com/-KpbxZeZOJuo/UPMeka5d3bI/AAAAAAAAE6w/NvY7CjSU-rU/s1600/2013.01.12_12.JPG)
 
   
 
@@ -32,4 +32,4 @@ PPS. Toinen täydellinen mies on kovasti pieni ghost photokrapher vaan, mutta ki
 
   
 
-[![](images/ak.png)](http://2.bp.blogspot.com/-DMMIImpHhZg/UPMfc-D6KJI/AAAAAAAAE7I/J-_sXng8dmc/s1600/ak.png)
+[![](/images/ak.png)](http://2.bp.blogspot.com/-DMMIImpHhZg/UPMfc-D6KJI/AAAAAAAAE7I/J-_sXng8dmc/s1600/ak.png)

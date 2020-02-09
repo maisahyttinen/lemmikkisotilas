@@ -8,7 +8,7 @@ template: "page"
 post_button_label: "Lue lisää"
 ---
 
-[![](images/kaviot3.png)](http://4.bp.blogspot.com/-Bb1OXtpIIo4/VeXOW2y_6eI/AAAAAAAAJ94/BozK4odsxRY/s1600/kaviot3.png)  
+[![](/images/kaviot3.png)](http://4.bp.blogspot.com/-Bb1OXtpIIo4/VeXOW2y_6eI/AAAAAAAAJ94/BozK4odsxRY/s1600/kaviot3.png)  
 
   
 
@@ -28,7 +28,7 @@ Tullessaan Sotilaalla ei ollut kantoja käytännössä ollenkaan. Yleensä kavio
 
   
 
-[![](images/IMG_9761_.png)](http://3.bp.blogspot.com/-WFiQZgo-S-8/VeXOUXi3C6I/AAAAAAAAJ9k/Vhg_l4VPn2E/s1600/IMG_9761_.png)
+[![](/images/IMG_9761_.png)](http://3.bp.blogspot.com/-WFiQZgo-S-8/VeXOUXi3C6I/AAAAAAAAJ9k/Vhg_l4VPn2E/s1600/IMG_9761_.png)
 
   
 
@@ -40,8 +40,8 @@ Jännevammojen kanssa ei ole varaa liukastella, joten tilsakumit ovat talvella i
 
   
 
-[![](images/Image1.png)](http://4.bp.blogspot.com/-PvJY2WKK1bY/VeXQDssIgnI/AAAAAAAAJ-k/YnI6MdeuakY/s1600/Image1.png)[![](images/propad.png)](http://1.bp.blogspot.com/-iTAd-AMmFSU/VeXQDmzVtnI/AAAAAAAAJ-g/OvXJQnTn2yc/s1600/propad.png)[![](images/images.jpg)](http://1.bp.blogspot.com/--UOYjwJFRCs/VeXQDi5OsHI/AAAAAAAAJ-Y/kQ6LaghU2Ro/s1600/images.jpg)
+[![](/images/Image1.png)](http://4.bp.blogspot.com/-PvJY2WKK1bY/VeXQDssIgnI/AAAAAAAAJ-k/YnI6MdeuakY/s1600/Image1.png)[![](/images/propad.png)](http://1.bp.blogspot.com/-iTAd-AMmFSU/VeXQDmzVtnI/AAAAAAAAJ-g/OvXJQnTn2yc/s1600/propad.png)[![](/images/images.jpg)](http://1.bp.blogspot.com/--UOYjwJFRCs/VeXQDi5OsHI/AAAAAAAAJ-Y/kQ6LaghU2Ro/s1600/images.jpg)
 
   
 
-[![](images/IMG_9712_.png)](http://3.bp.blogspot.com/-PkYvabOnbWg/VeXOUR-jeTI/AAAAAAAAJ9s/1pyXTyfzDjk/s1600/IMG_9712_.png)
+[![](/images/IMG_9712_.png)](http://3.bp.blogspot.com/-PkYvabOnbWg/VeXOUR-jeTI/AAAAAAAAJ9s/1pyXTyfzDjk/s1600/IMG_9712_.png)

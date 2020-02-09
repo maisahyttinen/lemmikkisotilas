@@ -15,7 +15,7 @@ Kymmenes vuosi hevosenomistajana. Tasan puolet elämästäni olen ollut sidottun
 Pari päivää sitten ratsastin Sotilaalla autiossa maneesissa. Väkisin tuli ajateltua, että matka siihen hetkeen on ollut aika pitkä. Kuinka monta vuotta, tuntia ja kilometriä olenkaan ryöminyt loskassa, kurassa, vesisateessa ja hyvä ihme ties missä päästäkseni siihen missä olen nyt. Ihan kunnioitettava suoritus, etenkin siihen nähden ettei tämä ole koskaan ollut tavoitteeni. Tottakai nautin hienoista ja arkeani helpottavista puitteista joissa voin mukavan hevoseni kanssa asua, mutta tavallaan ne tuntuvat vain väliaikaiselta pysäkiltä. Yksi vaihe, monien muiden vaiheiden jälkeen ja vähintään yhtä monien edellä. Minun päämääräni ei ole tässä, ei henkilökohtaisesti eikä Sotilaan kanssa. Ehkä se on se juttu mikä pitää niin tiukasti kiinni koko touhussa - vielä on niin paljon näkemättä. Melkein viidentoista vuoden kiire ja hämmennys, eikä vieläkään riitä. Ei tämä ihan järkevän ihmisen hommaa ole.  
   
 
-[![](images/IMG_1192_22_.png)](http://2.bp.blogspot.com/-z2wEarXX9Zw/VNSosqPKlsI/AAAAAAAAJN0/Wdetn5VLa08/s1600/IMG_1192_22_.png)
+[![](/images/IMG_1192_22_.png)](http://2.bp.blogspot.com/-z2wEarXX9Zw/VNSosqPKlsI/AAAAAAAAJN0/Wdetn5VLa08/s1600/IMG_1192_22_.png)
 
 Kuvituskuvat Sotilaan kerran viikossa -tositreeneistä. Ihanaa pitkästä aikaa nähdä joku muu sen selässä!
 
@@ -31,7 +31,7 @@ Aina joskus tulee vastaan sellaisia asioita, joissa on onnistuttava ensimmäisel
 
   
 
-[![](images/b5.png)](http://4.bp.blogspot.com/-oS_LSuYRG8Q/VNSowYChLEI/AAAAAAAAJN8/u__s-7GqfXU/s1600/b5.png)
+[![](/images/b5.png)](http://4.bp.blogspot.com/-oS_LSuYRG8Q/VNSowYChLEI/AAAAAAAAJN8/u__s-7GqfXU/s1600/b5.png)
 
   
 
@@ -42,7 +42,7 @@ Ratsastuksellisesti kaikkein tärkein oppimani asia taitaa olla, että _**täyty
 Toisaalta vähintään yhtä perustavanlaatuinen asia on, että _**jotta voi rakentaa uutta, täytyy ymmärtää millaiselle pohjalle rakennetaan**_. Jossei ymmärrä miten ja miksi hevonen on alun perin koulutettu (tai itse oppinut toimimaan niin kuin toimii), ei voi yrittää korvata vanhoja asioita uusilla. "Oikealle" ratsulle minulla ei olisi mitään annettavaa, ei taitojeni eikä etenkään ymmärrykseni puolesta. Sotilas sen sijaan on vähän vähemmän mysteeri. Aika simppeli oikeastaan - uusia asioita aloittaessa täytyy vain ensin miettiä "miten saisin houkuteltua ravurin tekemään näin?". Jossei keksi siihen vastausta, voi kysymystä vaihtaa; "Miten voin pyytää ravurilta tätä pyytämättä vahingossa jotakin minkä se jo osaa?". Jo ennaltaan tutut ravuriasiat ovat monessa tapauksessa käteviä kiertoteitä ratsuasioihin. Ja joskus on pakko kiertää, jotkut vanhat opit ovat sellaisia ettei niiden yli voi järkevästi suoraan kiivetä. Ainakin Sotilaan tapauksessa uuden ja vanhan yhdisteleminen varovasti on vienyt ihan mielyttävään lopputulokseen; ei olla koskaan ajauduttu taistelemaan, uutta on voinut opetella aina hyvässä hengessä.  
   
 
-[![](images/IMG_1173_22.png)](http://2.bp.blogspot.com/-ho26UQnbrk8/VNSqoAZzMQI/AAAAAAAAJOI/inxywbzlSyo/s1600/IMG_1173_22.png)
+[![](/images/IMG_1173_22.png)](http://2.bp.blogspot.com/-ho26UQnbrk8/VNSqoAZzMQI/AAAAAAAAJOI/inxywbzlSyo/s1600/IMG_1173_22.png)
 
   
 Ja loppujen lopuksi _**sillä ei kuitenkaan ole väliä mitä on jo tajunnut, ellei tiedosta, ettei tajua vielä läheskään tarpeeksi**_. Tottakai osaamiaan asioita on helppo ja kiva listata, mutta paljon rakentavampaa on listata asioita mitä ei osaa tai ymmärrä. Jos jokin ei onnistu, löytyy syy lähes poikkeuksetta ihan ihmisestä itsestään. Asenteesta, taidoista, näkökulmasta.. Välillä siitä ettei näe tai edes halua nähdä, ettei hevosella ole kaikki hyvin. Joskus pitää katsoa uudelleen, ja vielä uudelleen, ensin itseään ja sitten hevosta. _**Mitä minussa itsessäni on vikana niin, että olemme vaikeuksissa yhdessä?**_ Joka kerta ongelmaa pitäisi lähtökohtaisesti lähteä ratkaisemaan itsensä kautta. Siinäkin tapauksessa, että uskoo ongelman ytimen löytyvän hevosesta, varusteita tai ympäristöstä. Katsonko asiaa sellaisesta näkökulmasta, joka estää katsomasta oikeaan suuntaan? Kokemukseni mukaan kaikki selittämättömät ongelmat lähtevät ihmisestä; Hevosesta, varusteista tai ympäristöstä syy yleensä löytyy jos on siellä ollakseen. Ongelma pitäisi löytää ennen kuin sen voi ratkaista, sokea kokeileminen ja elävä eläin eivät sovi yhteen, joten oma puutteellisuutensa pitäisi voida tunnustaa. Ulkoiset olosuhteet harvoin muuttuvat nopeasti, ainakaan huomaamatta, mutta itse saattaa olla luisunut väärään suuntaan vauhdilla. Omia ratkaisuitaan on pakko kyseenalaistaa jatkuvasti; Miksi teen juuri näin? Jos ei enää osaakaan sanoa miksi, ollaan jo melko lailla metsässä. Helposti tulee lähes läpivalaistua hevosensa löytääkseen mikä vaivaa, mutta itseään on paljon vaikeampaa katsoa samalla tavalla. Vaikka _**olisi hyvä tiedostaa millaisen kädenjäljen sitä hevoseen jättääkään, ja onko se mieluinen**_.  

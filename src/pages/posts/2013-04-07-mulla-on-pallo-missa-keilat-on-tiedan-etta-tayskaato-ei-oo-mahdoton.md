@@ -14,7 +14,7 @@ Sain vihdoin ja viimein täytettyä kiukkupyllyn jumppapallon. Viikolla Sotilas 
 
   
 
-[![](images/2013.4.7_4.JPG)](http://4.bp.blogspot.com/-7PdMI5lHxV8/UWFlugyRMuI/AAAAAAAAFls/NfW4h7blYhk/s1600/2013.4.7_4.JPG)[![](images/2013.4.7_6.JPG)](http://3.bp.blogspot.com/-3S7mJhNLgPk/UWFluVtHbhI/AAAAAAAAFl0/Mg66vN5u6tQ/s1600/2013.4.7_6.JPG)
+[![](/images/2013.4.7_4.JPG)](http://4.bp.blogspot.com/-7PdMI5lHxV8/UWFlugyRMuI/AAAAAAAAFls/NfW4h7blYhk/s1600/2013.4.7_4.JPG)[![](/images/2013.4.7_6.JPG)](http://3.bp.blogspot.com/-3S7mJhNLgPk/UWFluVtHbhI/AAAAAAAAFl0/Mg66vN5u6tQ/s1600/2013.4.7_6.JPG)
 
   
 
@@ -22,11 +22,11 @@ Pallo oli tarhan ulkopuolella huomattavasti jännittävämpi kuin kosketusetäis
 
   
 
-[![](images/2013.4.7_3.JPG)](http://2.bp.blogspot.com/-2trm5B01Yu4/UWFluPE4d_I/AAAAAAAAFlo/LZGTVqv5POU/s1600/2013.4.7_3.JPG)
+[![](/images/2013.4.7_3.JPG)](http://2.bp.blogspot.com/-2trm5B01Yu4/UWFluPE4d_I/AAAAAAAAFlo/LZGTVqv5POU/s1600/2013.4.7_3.JPG)
 
   
 
-[![](images/2013.4.7_7.JPG)](http://1.bp.blogspot.com/-qaCkOfSIFVw/UWFlvK2Fv2I/AAAAAAAAFmA/sgJotQ3gcQM/s1600/2013.4.7_7.JPG)[![](images/2013.4.7_8.JPG)](http://2.bp.blogspot.com/-x-3GnOAUzy8/UWFlvk_vvyI/AAAAAAAAFmI/o_NIr73amlc/s1600/2013.4.7_8.JPG)
+[![](/images/2013.4.7_7.JPG)](http://1.bp.blogspot.com/-qaCkOfSIFVw/UWFlvK2Fv2I/AAAAAAAAFmA/sgJotQ3gcQM/s1600/2013.4.7_7.JPG)[![](/images/2013.4.7_8.JPG)](http://2.bp.blogspot.com/-x-3GnOAUzy8/UWFlvk_vvyI/AAAAAAAAFmI/o_NIr73amlc/s1600/2013.4.7_8.JPG)
 
   
 
@@ -34,4 +34,4 @@ Yrmy pikkuinen. Viime tiistaina alkoi taas koeviikko, joten voin hyvin samaistua
 
   
 
-[![](images/ak.png)](http://2.bp.blogspot.com/-AI6kRRZcclk/UWGTWaoNgLI/AAAAAAAAFmU/xsWTt_obYrE/s1600/ak.png)
+[![](/images/ak.png)](http://2.bp.blogspot.com/-AI6kRRZcclk/UWGTWaoNgLI/AAAAAAAAFmU/xsWTt_obYrE/s1600/ak.png)

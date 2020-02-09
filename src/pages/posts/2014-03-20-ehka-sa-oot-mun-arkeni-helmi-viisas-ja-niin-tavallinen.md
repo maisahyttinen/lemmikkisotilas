@@ -8,11 +8,11 @@ template: "page"
 post_button_label: "Lue lisää"
 ---
 
-[![](images/IMG_0114_.png)](http://4.bp.blogspot.com/-dnEJaR2pCq0/UyrpRI0JKEI/AAAAAAAAIKM/0kRanrycIFk/s1600/IMG_0114_.png)
+[![](/images/IMG_0114_.png)](http://4.bp.blogspot.com/-dnEJaR2pCq0/UyrpRI0JKEI/AAAAAAAAIKM/0kRanrycIFk/s1600/IMG_0114_.png)
 
   
 
-[![](images/IMG_0159_.png)](http://1.bp.blogspot.com/-6rU-PnfieqQ/UyrpPg1VTZI/AAAAAAAAIKA/GP2DZ3ATozg/s1600/IMG_0159_.png)[![](images/IMG_0037_.png)](http://4.bp.blogspot.com/-fp2P5i2ykDk/UyrpM6bSJGI/AAAAAAAAIJg/_EeZHxAk0xA/s1600/IMG_0037_.png)
+[![](/images/IMG_0159_.png)](http://1.bp.blogspot.com/-6rU-PnfieqQ/UyrpPg1VTZI/AAAAAAAAIKA/GP2DZ3ATozg/s1600/IMG_0159_.png)[![](/images/IMG_0037_.png)](http://4.bp.blogspot.com/-fp2P5i2ykDk/UyrpM6bSJGI/AAAAAAAAIJg/_EeZHxAk0xA/s1600/IMG_0037_.png)
 
   
 
@@ -24,11 +24,11 @@ Kaksi tänään otettua rakennekuvaa. Ensimmäisessä pitkä- ja notkoselkäinen
 
   
 
-[![](images/IMG_0020_.png)](http://4.bp.blogspot.com/-i0QWpopg44Q/UyrpNZrf1cI/AAAAAAAAIJo/-_OjS_v64aw/s1600/IMG_0020_.png)
+[![](/images/IMG_0020_.png)](http://4.bp.blogspot.com/-i0QWpopg44Q/UyrpNZrf1cI/AAAAAAAAIJo/-_OjS_v64aw/s1600/IMG_0020_.png)
 
   
 
-[![](images/IMG_0295i_.png)](http://4.bp.blogspot.com/-vDDanA_c-9A/UyrqABAcb-I/AAAAAAAAILI/pkPOQwNCUwM/s1600/IMG_0295i_.png)[![](images/IMG_0296_.png)](http://4.bp.blogspot.com/-hSduCTzw7gc/Uyrp_6W8FKI/AAAAAAAAILE/sRvKg3QzTOY/s1600/IMG_0296_.png)
+[![](/images/IMG_0295i_.png)](http://4.bp.blogspot.com/-vDDanA_c-9A/UyrqABAcb-I/AAAAAAAAILI/pkPOQwNCUwM/s1600/IMG_0295i_.png)[![](/images/IMG_0296_.png)](http://4.bp.blogspot.com/-hSduCTzw7gc/Uyrp_6W8FKI/AAAAAAAAILE/sRvKg3QzTOY/s1600/IMG_0296_.png)
 
   
 
@@ -36,11 +36,11 @@ Spämmään teitä talvikuvilla ihan urakalla, haha! Yllä pari kuvaa Sotilaasta
 
   
 
-[![](images/IMG_0030_.png)](http://3.bp.blogspot.com/-ScGlPUpQA0Y/Uyrpr9BQlZI/AAAAAAAAIKk/GUhaj9cJkOE/s1600/IMG_0030_.png)
+[![](/images/IMG_0030_.png)](http://3.bp.blogspot.com/-ScGlPUpQA0Y/Uyrpr9BQlZI/AAAAAAAAIKk/GUhaj9cJkOE/s1600/IMG_0030_.png)
 
   
 
-[![](images/IMG_0292_.png)](http://4.bp.blogspot.com/-QbfcnPmQkv0/Uyrp_8ZCcHI/AAAAAAAAILA/j9rcFx3G4q8/s1600/IMG_0292_.png)
+[![](/images/IMG_0292_.png)](http://4.bp.blogspot.com/-QbfcnPmQkv0/Uyrp_8ZCcHI/AAAAAAAAILA/j9rcFx3G4q8/s1600/IMG_0292_.png)
 
   
 
@@ -48,4 +48,4 @@ Piehtarointikuvia on kertynyt viimeiseltä viikolta riittämiin! Molemmat kieris
 
   
 
-[![](images/IMG_0156.JPG)](http://4.bp.blogspot.com/-Iz2_u81yLlE/Uyrptyf3NRI/AAAAAAAAIK0/RAsY9YAKIv4/s1600/IMG_0156.JPG)
+[![](/images/IMG_0156.JPG)](http://4.bp.blogspot.com/-Iz2_u81yLlE/Uyrptyf3NRI/AAAAAAAAIK0/RAsY9YAKIv4/s1600/IMG_0156.JPG)
