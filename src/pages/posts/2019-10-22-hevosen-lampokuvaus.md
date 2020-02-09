@@ -1,11 +1,17 @@
 ---
-title: "Moderni kristallipallo: hevosen lämpökuvassa näkyvät sekä nykyiset että tulevat vaivat"
-date: "2019-10-22"
-id: "4067"
-slug: "hevosen-lampokuvaus"
-coverImageId: "4153"
-template: "page"
-post_button_label: "Lue lisää"
+title: >-
+  Moderni kristallipallo: hevosen lämpökuvassa näkyvät sekä nykyiset että
+  tulevat vaivat
+excerpt: >-
+  Hevosen lämpökuvauksesta on valtavasti iloa tilanteissa, joissa ongelmaa
+  etsitään "jostain". Perinteisten anatomisten tutkimusmenetelmien sijaan
+  lämpökuvauksella voidaan tutkia lihaksiston, hermoston ja verenkiertoelimistön
+  toimintaa. Lämpökamera mittaa ihon pintalämpötilaa. Vammat, tulehdukset ja
+  jopa lihaskireys ja hermopinteet muuttavat sitä jo varhaisessa vaiheessa.
+img_path: /images/IMG_0011-1000x667.jpg
+post_button_label: Lue lisää
+date: '2019-10-22'
+template: page
 ---
 
 Toisinaan lehtijuttuja tehdessään törmää ihan valtavan mielenkiintoisiin yrityksiin ja aiheisiin. Viime viikolla haastattelin [TherMidas VET](http://thermidasvet.fi/)in kehitysjohtaja Susanna Laajavaa hevosten diagnostisesta lämpökuvantamisesta. Sotilas lämpökuvattiin demohevosena artikkelin kuvitusta varten ja sain viikonloppuna raportin löydöksistä.
