@@ -3,11 +3,10 @@ title: >-
   Moderni kristallipallo: hevosen lämpökuvassa näkyvät sekä nykyiset että
   tulevat vaivat
 excerpt: >-
-  Hevosen lämpökuvauksesta on valtavasti iloa tilanteissa, joissa ongelmaa
-  etsitään "jostain". Perinteisten anatomisten tutkimusmenetelmien sijaan
-  lämpökuvauksella voidaan tutkia lihaksiston, hermoston ja verenkiertoelimistön
-  toimintaa. Lämpökamera mittaa ihon pintalämpötilaa. Vammat, tulehdukset ja
-  jopa lihaskireys ja hermopinteet muuttavat sitä jo varhaisessa vaiheessa.
+  Perinteisten anatomisten tutkimusmenetelmien sijaan lämpökuvauksella voidaan
+  tutkia lihaksiston, hermoston ja verenkiertoelimistön toimintaa. Lämpökamera
+  mittaa ihon pintalämpötilaa. Vammat, tulehdukset ja jopa lihaskireys ja
+  hermopinteet muuttavat sitä jo varhaisessa vaiheessa.
 img_path: /images/IMG_0011-1000x667.jpg
 post_button_label: Lue lisää
 date: '2019-10-22'
