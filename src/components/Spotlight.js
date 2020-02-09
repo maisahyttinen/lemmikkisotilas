@@ -36,9 +36,7 @@ export default class Spotlight extends React.Component {
                   </span>
                   <div className="content">
                     <header>
-                      <h3 style={{ marginBottom: "0px" }}>
-                        {_.get(post, "frontmatter.title")}
-                      </h3>
+                      <h3>{_.get(post, "frontmatter.title")}</h3>
                     </header>
                     {markdownify(_.get(post, "frontmatter.excerpt"))}
                     <footer>
