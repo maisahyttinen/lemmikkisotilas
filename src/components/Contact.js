@@ -1,10 +1,10 @@
-import React from 'react';
+import React from "react";
 
 export default class Contact extends React.Component {
-    render() {
-        return (
-            <section>
-                <form id="contactForm" name="contactForm" method="post" action="#" netlifyHoneypot="bot-field" data-netlify="true">
+  render() {
+    return (
+      <section>
+        {/* <form id="contactForm" name="contactForm" method="post" action="#" netlifyHoneypot="bot-field" data-netlify="true">
                     <div className="screen-reader-text">
                         <label>Don't fill this out if you're human: <input name="bot-field" /></label>
                     </div>
@@ -17,8 +17,9 @@ export default class Contact extends React.Component {
                     <ul className="actions">
                         <li><input type="submit" value="Send Message" /></li>
                     </ul>
-                </form>
-            </section>
-        );
-    }
+                </form> */}
+        <div className="elfsight-app-c2477060-2e11-41a4-85f7-6add9739db59"></div>
+      </section>
+    );
+  }
 }

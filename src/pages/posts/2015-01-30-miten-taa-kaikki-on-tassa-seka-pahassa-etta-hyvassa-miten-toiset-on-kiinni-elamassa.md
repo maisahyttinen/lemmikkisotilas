@@ -1,0 +1,55 @@
+---
+title: "Miten tää kaikki on tässä, sekä pahassa että hyvässä? Miten toiset on kiinni elämässä."
+date: "2015-01-30"
+id: "894"
+slug: "miten-taa-kaikki-on-tassa-seka-pahassa-etta-hyvassa-miten-toiset-on-kiinni-elamassa"
+coverImageId: ""
+template: "page"
+post_button_label: "Lue lisää"
+---
+
+Ei oikein ota bloggaaminen onnistuakseen. Alun perin oli tarkoitus pitää teidät mukana ja ajan tasalla sairasloman etenemisestä, muutosta ja kaikesta siitä mitä tänä syksynä on tapahtunut. Vähän jäi ajatuksen tasolle, anteeksi! Joka tapauksessa sekä minä että Sotilas muutimme molemmat Lappeenrantaan. Minä syyskuun alussa, Sotilas kolme kuukautta myöhemmin. Asun Vilpun kanssa kivassa "pikku" kaksiossa melkein Saimaan rannalla, alle puolen kilometrin päässä koulusta. Mies tosin lähti vuoden alussa armeijaan, joten tällä hetkellä asun valtaosan ajasta yksin. Sotilaan oli tarkoitus muuttaa raviradalle ratatalliin, mutta muutaman mutkan kautta päädyimme Hubertusseuran yksityistalliin raviradan naapuriin. Arki on aika kiireistä - opiskelen päätoimisesti yritysjuridiikkaa, olen samaan aikaan töissä raviradalla ja vapaa-ajalla pitäisi ehtiä nähdä sekä Sotilasta että Vilppua. Sotilas on toipunut hyvin ja viime viikot se on tehnyt töitä ratsastuksenopettajani (jep, olen nykyään tuntiratsastaja) kanssa. Toistaiseksi kaikki on sujunut hyvin. **Vaikuttaisi siltä, että me selvittiin!**
+
+  
+
+[![](images/b6.png)](http://4.bp.blogspot.com/-mTk63V6qbB8/VMunvR1L3EI/AAAAAAAAJM4/m-F_9KVfVmY/s1600/b6.png)
+
+  
+
+Toinen kontrolliultra oli tammikuun alussa. Se tehtiin kotitallilla nuoren eläinlääkärin toimesta enkä varsinaisesti vakuuttunut. Jos kyse olisi ollut tuoreesta vammasta, olisi klinikkareissu tarvittu joka tapauksessa. Sotilaan tapauksessa sain kuitenkin kaiken olennaisen tiedon - ihmeparantuminen jatkuu. Repeämä oli kasvanut koko matkalta umpeen ja uutta kudosta oli älyttömästi. Harvaahan se vielä tottakai on, mutta asia paranee onneksi liikkumalla. Liikuntaohjeet olivat melko lailla samat kuin kaksi kuukautta aiemmin (ja ihan eri näköisillä ultratuloksilla) saadut, joten liikunnan osalta olemme pitkälti oman näkemykseni varassa. Sairaslomaa on nyt takana kuusi kuukautta ja palailemme vähitellen normaaliin treeniin, joskin kaikkea holtitonta liikkumista vältellen. Tällä hetkellä Sotilas liikkuu kerran viikossa ratsuttajansa kanssa ja ratsastan itse pari kertaa. Sen verran on taukoa alla, että jo perusratsastuksessa on paljon tekemistä. Pari kertaa viikossa tehdään juttuja liinassa tai käydään ihan vaan kävelyllä. Maaliskuussa ultrataan uudelleen ja katsotaan mikä on tilanne. Varovasti olen jo vähän suunnitellut juttuja tulevan kevään/kesän varalle, jos nyt kävisi niin että kaikki sujuisi yhtä hyvin kuin tähänkin mennessä.
+
+  
+
+Ultran yhteydessä Sotilas lämpökuvattiin läpi. Monesti käy niin, että yhden kohdan takia kun lomaillaan niin vähitellen alkaa sata ja yksi muuta kohtaa vaivaamaan. Koko hevosen tutkiminen on yleensä hirmu kallista ja oikeastaan mahdotontakin, joten ihan mielenkiinnosta halusin kokeilla mitä 65e maksavalla lämpökuvauksella saadaan esiin. Olen aika tyytyväinen kokeiluuni, tuloksetkin ovat helpon yksiselitteisiä ja tavallisenkin ihmisen nähtävissä. Odotin, että vähintään takapolvet loistavat kuvissa kirkkaan punaisina, mutta loppujen lopuksi löydöksiä on tosivähän siihen nähden kuinka pitkällä sairaslomalla Sotilas on ollut. Eikä mikään kohta tullut varsinaisena yllätyksenäkään.
+
+  
+
+[![](images/2.png)](http://2.bp.blogspot.com/-MCwxH3qYclo/VMuzlHe4rLI/AAAAAAAAJNg/6YNS9bZfRAU/s1600/2.png)
+
+  
+
+Takapolvet, reidet ja takajalat edestä kuvattuna. Oikea takapolvi on vähän vasenta lämpimämpi, samoin oikea takareisi. Sotilaalla on vähän "huonot" takapolvet (sellaiset kuin valtaosalla kilometrejä nähneistä lämminverisistä) - rasittuvat aika helposti ja vaativat vähän hoitamista aina välillä. Massiivinen rakenne ja matala askel lisää meidän tapauksessamme rasitusta entisestään, etenkin hokkikenkäaikaan. Hyvä lihaskunto tottakai auttaa asiaa ja siksikin tämänhetkinen tilanne mietitytti - Sotilas oli kuukausi sitten aika kurjassa lihaksessa ja ollut jo hyvän aikaa kengitetty pitkin hokein. Vasemman takajalan kanta on jostain syystä lämmin. Mitään näkyvää siinä ei ole eikä ole ollut, mutta voi olla, että se on vähän kolhiintunut johonkin. Jopa Sotilas loikkii tarhassa niin villisti etten ihmettelisi jos se olisi potkaissut aitaa/itseään.
+
+  
+
+[![](images/1.png)](http://4.bp.blogspot.com/-v0ERdItnSug/VMuzlPIF4tI/AAAAAAAAJNI/THxG8Rrg8Ys/s1600/1.png)
+
+  
+
+Persus takaa ja ristiselän alue yläviistosta. Molemmat takareidet ovat vähän kireät, samoin ristiselkä ja oikea lautanen. Odotin, että selkä olisi reagoinut pääasiassa sään molemmin puolin (satulan etukaari on jäänyt vähän napakaksi, mutta seuraava leveys on vielä ihan liian leveä), mutta näemmä selkä on siltä osin hyvässä kunnossa. Ristiselän ja takareisien jäykkyys johtuu todennäköisesti jännittyneenä liikkumisesta. Sotilas liikkuu _onneksi_ todella varovasti liukkaalla pihalla ja epävarmana reagoi ratsastaessakin ennemmin jämähtämällä lukkoon kuin ryntäilemällä. Jossain vaiheessa pitäisi varmaan kutsua joku käymään lihaspuoli läpi laserin kanssa. Ainakin aiemmin Sotilas on reagoinut siihen huomattavasti hierontaa paremmin ja selvemmin. Liikunnan luulisi auttavan kyllä tähänkin, taivuttelu kun on aika isossa roolissa.
+
+  
+
+Siinä lämpökuvista mielenkiintoisimmat. Lisäksi etujalat kuvattiin sekä etu- että takapuolelta ja koko hevonen molemmilta kyljiltä. Vasemmassa kyljessä oli aavistuksen lihaskireyttä, vammakohta näkyi etujalan takaosassa erittäin selvästi ja oikea etujalka oli sisäreunalle kallellaan. Kannat kasvavat epätasaisesti. Kengitystarve alkaisi vähitellen olla, mutta en ole vielä miettinyt ketä tämän alueen kengittäjistä uskaltaisin kokeilla. Todennäköisesti yritän saada jonkun "omista" kengittäjistä käymään, vielä en haluaisi ottaa riskiä. Pitää osua kerralla kohdalleen.
+
+  
+
+[![](images/b1.png)](http://4.bp.blogspot.com/-QKTfypFtWjE/VMum4PAfzXI/AAAAAAAAJMg/SWve0IewBcM/s1600/b1.png)
+
+  
+
+Tosiaan, klipattuja ollaan. Sotilas kasvatti taas älyttömän pitkän karvan, joka hikoilutti lämpimässä tallissa muttei riittänyt ulkona kymmenenkään asteen pakkasella. Oli hyvä idea ajella se pois. Hahah, sain syyn hankkia uuden ulkotoppiksenkin. Sotilas pärjää aika hillityllä loimituksella - sisällä aina 150g tallitoppaloimi ja ulos lisäksi 150g tai 350g fullneck-toppis sään mukaan. Toisaalta karvattomuus on piristänyt sitä huomattavasti, kuten aikaisempinakin talvina, enkä tiedä onko se juuri nyt kovin hyvä asia. Kunto kasvaa älytöntä vauhtia eikä psyyke oikein meinaa kestää rajoitettua liikkumista. Juoksemaan pitäisi päästä. Tämä kuva on otettu kuukausi sitten kun Sotilas oli ehkä huonoimmassa lihaksessa. Onhan tuo aika surullisen "tyhjä", vaikka muuten ihan edustava onkin. Pitää ottaa vaikka nyt viikonloppuna tuoreempi rakennekuva niin voi laittaa vierekkäin. Sen verran hävytöntä proteiinilisää tuo on  nyt pari kuukautta syönyt, että tarttunut ihan mukavasti sopiviinkin kohtiin. Vähän on päässyt lihavaksi, mutta ihan vielä en ole "vapaasta" heinästä valmis luopumaan. Pysyy edes vähän rauhallisempana kun saa syödä mielensä mukaan. Nyt olisi iso sääli jos viimeisen puolen vuoden työ ja odottelu menisi riehumalla hukkaan.
+
+  
+
+Olisi ihan hurjasti kirjoitettavaa! Ratsastamisesta, siitä millaista on asua ravi-ihmisenä ja ravihevosen kanssa ratsastuskoululla, mitä tälle vuodelle on suunnitelmissa.. Paljon juttua tulossa. Joka tapauksessa tällä hetkellä menee hyvin. Onneksi, ja kiitos siitä.
