@@ -1,0 +1,26 @@
+---
+title: "se on ihan liian nopee pikkujaloistaan."
+date: "2014-01-30"
+id: "919"
+slug: "se-on-ihan-liian-nopee-pikkujaloistaan"
+coverImageId: ""
+template: "page"
+post_button_label: "Lue lisää"
+---
+
+Jos olisin tehnyt uudenvuodenlupauksen koskien vain ja ainoastaan itseäni, olisin luvannut opiskella, opiskella, opiskella ja vielä hieman opiskella. Tälläkin hetkellä pitäisi tehdä juuri sitä, mutta tapani mukaan keksin 105 mukavampaa ja tärkeämpää juttua. Ilmeisesti opiskelen siis vain juuri sen verran, että saan 75 kurssia täyteen seuraavan kahden viikon aikana ja selviän suunilleen tavoitteideni mukaan äidinkielen, psykologian ja pitkän matikan yo-kokeista. Sotilaan kanssa sen sijaan on pakko luvata jotain! Jo ihan vain senkin takia, että on oltava jotain jonka vuoksi potkia itseäni eteenpäin. Tänä vuonna se jokin on _ratsasta, ratsasta, ratsasta_. Sillä ei ole väliä mitä harjoittelemme kunhan kiipeän selkään, pysyn siellä vähintään puoli tuntia ja voimme lopettaa hyvillä mielin. Sotilas hyötyy ja oppii jokaisesta hetkestä satulan alla. Lupaan pitää ihan oikeita vapaapäiviä koulusta ja töistä, heti selvittyäni koulutyövuoresta ja parin viikon päässä odottavista muista abikiireistä. Ei tekosyitä, ylös sängystä.
+
+  
+
+Kaikkein hyödyllisintähän olisi jumppailla liinassa vartti sivuohjien kanssa, ratsastaa mahdollisimman tehokkaasti max parikymmentä minuuttia ja lopettaa ennen minun kuntoni tai Sotilaan hermojen hyytymistä. Oikeasti kaikkein vaikeinta on nousta sängystä. Tai olla palaamatta sinne aamutallin ja puolenpäivän jälkeen nautitun aamupalan jälkeen.. Seuraavaksi vaikeinta on vaatia sotilaalta oikeasti ihan totista työskentelyä. Se automaattisesti miellyttää ja antaa juuri sen verran, ettei painostaminen tunnu reilulta. Toisaalta tiedän, ettei se koskaan anna ihan kaikkea ja oikoo etenkin tutuissa tehtävissä surutta heti kun keskityn täsmällisen pyytämisen sijaan omaan ratsastamiseeni. Olemme siinä vaiheessa, että ympyrä on oikeasti pyöreä eikä sitä juosta lapa edellä vähän sinne päin. Sisäpohje on auktoriteetti ja koulupiiskan käyttötavat, muinakin kuin eteenpäin käskevinä apuina, alkavat vähitellen valjeta. Sotilaalla nyt ei koskaan ole ollut mikään kiire pois altani,  mutta se sellainen ratsukko-fiilis ja vuorovaikutustouhu siirtyy yllättävän hitaasti maastolenkeiltä sileälle. Toisaalta maastossa, ja muutenkin vauhdissa, olemme molemmat turavallisesti omalla mukavuusalueellamme. Ratsujutut vaativat molemmilta ihan älyttömästi enemmän. Rutiini puuttuu ja sitä tarvitaan ehdottomasti lisää, lisää ja lisää. Tottakai ratsastan töissä ratsuilla kentällä, mutta itseltään on niin kovin vaikeaa vaatia ilman ehdotonta tarvetta.. Muutenkin matka tupsujalan selästä Sotilaan selkään on _pitkä_. Molemmat selät ovat tuttuja ja tukevia, mutta kaikenlaisiin tyyppeihin tottuneen opetushevosen kiinnostus ratsastajaansa on auttamatta aivan erilainen kuin oma-aloitteisella ja vireällä Sotilaalla. Tupsujalka vastaa pehmeästi ja tasapainoisesti, Sotilas vastaa hätäisesti varsan innokkuudella. Sotilas vaatii kaiken tauotta kaiken huomioni, mikä on tavallaan aika raskasta.
+
+  
+
+Selitellä osaan kyllä. Sotilaan selkään ehdin vasta lauantaina (kiitos huomisen pitkän työpäivän) ja toivon todella, että saamme jotain oikeasti rakentavaa aikaan. Tämä sää ja ratsastuspohjat houkuttelisivat pysymään sängyssä, mutta kuten totesin - ei tekosyitä, ylös sängystä. _Millä ihmeellä te kaikki muut tsemppaatte itsenne ylös sängystä_, hevosen selkään ja ulos mukavuusalueelta? Hevosessa ei ole vikaa, ratsastaja vain on hävyttömän laiska..  
+  
+
+[![](images/IMG_0336.png)](http://1.bp.blogspot.com/-itFS49Orqzo/Uuq0o-tIp6I/AAAAAAAAH5A/_-UOVIhGeW8/s1600/IMG_0336.png)
+
+  
+
+Ensimmäisiä ratsastuksia "sileällä" puolitoista vuotta sitten. Ainoa järkevä muistikuvani näistä ratsastuksista on, että miten kamalan jäykkä se olikaan..

@@ -1,14 +1,13 @@
-import React from "react"
-import PropTypes from "prop-types"
+import React from "react";
+import PropTypes from "prop-types";
 
 export default function HTML(props) {
   return (
     <html {...props.htmlAttributes}>
-      <head>
-        {props.headComponents}
-      </head>
+      <head>{props.headComponents}</head>
       <body {...props.bodyAttributes}>
         {props.preBodyComponents}
+        <script src="https://apps.elfsight.com/p/platform.js" defer></script>
         <noscript key="noscript" id="gatsby-noscript">
           This app works best with JavaScript enabled.
         </noscript>
@@ -20,7 +19,7 @@ export default function HTML(props) {
         {props.postBodyComponents}
       </body>
     </html>
-  )
+  );
 }
 
 HTML.propTypes = {
@@ -29,5 +28,5 @@ HTML.propTypes = {
   bodyAttributes: PropTypes.object,
   preBodyComponents: PropTypes.array,
   body: PropTypes.string,
-  postBodyComponents: PropTypes.array,
-}
+  postBodyComponents: PropTypes.array
+};
