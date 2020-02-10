@@ -8,9 +8,11 @@ sections:
         url: /generic
     component: Intro
     content: |-
-      Lorem ipsum dolor sit magna consectetur  
-      adipiscing elit. Duis dapibus rutrum facilisis.  
-      Class aptent taciti sociosqu torquent.
+      Introteksti
+
+      Kolmelle riville
+
+      Kolmelle riville
     img_path: images/pic01.jpg
     title: Reflex
     type: intro
@@ -20,13 +22,14 @@ sections:
         label: Details
         url: /generic
     component: Features
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus
-      rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per
-      conubia nostra, per inceptos himenaeos malesuada fames ac turpis egestas.
-      In non lorem amet. Duis dapibus rutrum facilisis. Class aptent taciti
-      sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
-      Etiam tristique eu nibh.
+    content: |-
+      Features section
+
+      Neljälle riville
+
+      Neljälle riville
+
+      Neljälle riville
     subtitle: |-
       Rutrum facilisis. Class aptent taciti sociosqu  
       litora torquent et conubia etiam nostra.
@@ -46,24 +49,26 @@ sections:
   - actions:
       - is_primary: false
         is_scrolly: false
-        label: Details
+        label: Linkki tähän
         url: /generic
     component: Spotlight
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus
-      rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per
-      conubia nostra, per inceptos himenaeos malesuada fames ac turpis egestas.
-      In non lorem amet. Duis dapibus rutrum facilisis. Class aptent taciti
-      sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
-      Etiam tristique eu nibh.
+    content: |-
+      Spotligh kohta
+
+      Neljä riviä
+
+      Neljä riviä
+
+      Neljä riviä
     subtitle: |-
-      Rutrum facilisis. Class aptent taciti sociosqu  
-      litora torquent et conubia etiam nostra.
-    title: Duis torquent
+      Infoa siitä mitä blogi sisältää
+
+      Vähintään kahdelle riville
+    title: Blogiartikkelit
     type: spotlight
 menus:
   main:
-    title: Home
+    title: Etusivu
     weight: 1
 template: home
 ---
