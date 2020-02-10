@@ -26,12 +26,12 @@ sections:
       Viestinnän alan päivätyöni lisäksi olen vapaa toimittaja ja valokuvaaja.\
 
       Päätoimitan hevosalan printtijulkaisu [Hevoslehti
-      Ride!](https://www.123ride.fi):ä ja kierrän valokuvaamassa ratsastus- ja
+      Ride!](https://www.123ride.fi):ä ja valokuvaan ratsastus- ja
       ravitapahtumia.
     symbol_display:
       - icon: fa-camera
         title: Lorem
-      - icon: fa-quote-right
+      - icon: fas fa-horse
         title: Dolor
       - icon: fa-quote-right
         title: Horse
