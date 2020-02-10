@@ -31,7 +31,7 @@ sections:
     symbol_display:
       - icon: fa-camera
         title: Lorem
-      - icon: fas fa-horse
+      - icon: fa-unicorn
         title: Dolor
       - icon: fa-quote-right
         title: Horse
