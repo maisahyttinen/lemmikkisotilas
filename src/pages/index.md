@@ -44,9 +44,11 @@ sections:
         label: Siirry arkistoon
         url: /generic
     component: Spotlight
-    content: |-
+    content: >-
       Kirjoitin ensimmäisen blogipostaukseni 15-vuotiaana helmikuussa 2011.\
-      Kaikki blogissa koskaan julkaisut artikkelit on koottu arkistoon.
+
+      Kaikki blogissa koskaan julkaistut artikkelit on koottu arkistoon.
+      Arkistossa on yli 320 artikkelia.
     subtitle: >-
       Infoa siitä mitä blogi sisältää hassusti sijoitettu editorissa tänne
       alas.\
