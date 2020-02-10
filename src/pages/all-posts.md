@@ -1,5 +1,5 @@
 ---
-title: All posts
+title: Arkisto
 img_path: images/pic05.jpg
 menus:
   main:
@@ -7,5 +7,3 @@ menus:
     weight: 3
 template: allposts
 ---
-
-All posts!

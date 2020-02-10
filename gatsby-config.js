@@ -4,11 +4,19 @@ module.exports = {
   plugins: [
     `gatsby-plugin-react-helmet`,
     `gatsby-source-data`,
+    `gatsby-plugin-sharp`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `pages`,
         path: `${__dirname}/src/pages`
+      }
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: "images",
+        path: `${__dirname}/static/images`
       }
     },
     {
@@ -22,7 +30,9 @@ module.exports = {
       resolve: `gatsby-transformer-remark`,
       options: {
         plugins: [
-          `gatsby-remark-component`,
+          {
+            resolve: "gatsby-remark-relative-images"
+          },
           {
             resolve: `gatsby-remark-images`,
             options: {
@@ -32,8 +42,15 @@ module.exports = {
               maxWidth: 900
             }
           },
-          `gatsby-remark-lazy-load`
+          `gatsby-remark-lazy-load`,
+          `gatsby-remark-component`
         ]
+      }
+    },
+    {
+      resolve: `gatsby-transformer-remark`,
+      options: {
+        plugins: [`gatsby-remark-component`]
       }
     },
     {
@@ -46,12 +63,6 @@ module.exports = {
         sourceUrlPath: `fields.url`,
         pageContextProperty: `menus`,
         menus: require("./src/data/menus.json")
-      }
-    },
-    {
-      resolve: `gatsby-transformer-remark`,
-      options: {
-        plugins: []
       }
     }
   ]
