@@ -7,7 +7,7 @@ export default function HTML(props) {
       <head>{props.headComponents}</head>
       <body {...props.bodyAttributes}>
         {props.preBodyComponents}
-        <script src="https://apps.elfsight.com/p/platform.js" defer></script>
+
         <noscript key="noscript" id="gatsby-noscript">
           This app works best with JavaScript enabled.
         </noscript>
@@ -18,6 +18,7 @@ export default function HTML(props) {
         />
         {props.postBodyComponents}
       </body>
+      <script src="https://apps.elfsight.com/p/platform.js" defer></script>
     </html>
   );
 }

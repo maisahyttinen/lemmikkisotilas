@@ -22,7 +22,7 @@ export default class Page extends React.Component {
               {markdownify(
                 _.get(this.props, "pageContext.frontmatter.subtitle")
               )}
-              <p>{`${day}.${month}.${year} - Maisa Hyttinen`}</p>
+              {date && <p>{`${day}.${month}.${year} - Maisa Hyttinen`}</p>}
             </header>
             {_.get(this.props, "pageContext.frontmatter.img_path") && (
               <span className="image main">
