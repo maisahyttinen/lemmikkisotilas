@@ -41,15 +41,12 @@ sections:
   - actions:
       - is_primary: false
         is_scrolly: false
-        label: Linkki arkistoon
+        label: Siirry arkistoon
         url: /generic
     component: Spotlight
-    content: >-
-      Spotligh kohta arkistosta löytyy sitä ja tätä ja tuota ja arkistoon pääsee
-      tuosta alhaalta.\
-
-      Vielä ehkä jotain muuta täytetekstiä. Täytyy rivittää kahdelle riville
-      tämäkin.
+    content: |-
+      Kirjoitin ensimmäisen blogipostaukseni 15-vuotiaana helmikuussa 2011.\
+      Kaikki blogissa koskaan julkaisut artikkelit on koottu arkistoon.
     subtitle: >-
       Infoa siitä mitä blogi sisältää hassusti sijoitettu editorissa tänne
       alas.\
