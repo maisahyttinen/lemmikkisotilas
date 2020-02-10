@@ -1,6 +1,9 @@
 enabled: true
 title: Seuraa somessa & ota yhteyttä
-social_content: Seuraa someissa x x x ja ota yhteyttä tavoilla x x x x.
+social_content: |-
+  Seuraa someissa x x x
+
+  Ota yhteyttä tavoilla x x x x
 social_links:
   - icon: fa-instagram
     link_url: 'https://www.instagram.com/maisahyttinen/'
