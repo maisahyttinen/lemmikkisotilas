@@ -1,6 +1,5 @@
 enable_contact_section: true
-copyright: '&copy; Reflex. All rights reserved. Lorem ipsum dolor sit amet nullam.'
-links:
-  - text: Made with Stackbit
-    url: 'https://www.stackbit.com'
-    new_window: true
+copyright: >-
+  &copy; Maisa Hyttinen 2020. Kaikki materiaali on suojattu Suomen
+  tekijänoikeuden nojalla. Luvaton kopiointi on rikos.
+links: []
