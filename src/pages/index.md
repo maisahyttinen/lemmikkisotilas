@@ -22,11 +22,11 @@ sections:
       En tiedä mitä tekstiä tähän satunnaista juttua parin rivin verran ja ehkä
       buttoni alle
     subtitle: >-
-      Valokuvaaja ja bloggaaja ja freelancer journalisti ja viestinnän
-      ammattikin on ja kaikkea sitä.\
+      Viestinnän alan päivätyöni lisäksi olen vapaa toimittaja ja valokuvaaja.\
 
-      Alle ikoneihin kuvia kaikesta mitä teen. Ehkä ikoneihin linkitkin.
-      Rivitetty kahdele riville.
+      Päätoimitan hevosalan printtijulkaisu [Hevoslehti
+      Ride!](https://www.123ride.fi):ä ja kierrän valokuvaamassa ratsastus- ja
+      ravitapahtumia.
     symbol_display:
       - icon: fa-camera
         title: Lorem
