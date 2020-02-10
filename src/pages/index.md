@@ -18,21 +18,18 @@ sections:
     content: >-
       Features section jotain tekstiä tähän jotain tekstiä tähän en tiedä mitä
       tekstiä tähän satunnaista juttua parin rivin verran ja ehkä buttoni alle
-    subtitle: |-
-      Rutrum facilisis. Class aptent taciti sociosqu  
-      litora torquent et conubia etiam nostra.
+    subtitle: >-
+      Valokuvaaja ja bloggaaja ja freelancer journalisti ja viestinnän
+      ammattikin on ja kaikkea sitä. Alle ikoneihin kuvia kaikesta mitä teen.
+      Ehkä ikoneihin linkitkin.
     symbol_display:
-      - icon: fa-code
+      - icon: fa-camera
         title: Lorem
-      - icon: fa-cog
+      - icon: fa-horse
         title: Ipsum
-      - icon: fa-diamond
+      - icon: fa-quote-right
         title: Dolor
-      - icon: fa-camera-retro
-        title: Feugiat
-      - icon: fa-briefcase
-        title: Tempus
-    title: Ipsum malesuada
+    title: Palveluesittely
     type: features
   - actions:
       - is_primary: false
