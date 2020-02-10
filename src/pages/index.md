@@ -4,10 +4,8 @@ sections:
   - actions: []
     component: Intro
     content: |-
-      Blogin esittelyä kirjoittajan esittelyä ja\
-      Sotilaan esittelyä kaikenlaista esittelyä,\
-      muutaman rivin verran satunnaista tekstiä.\
-      Ei buttonia alle.
+      Nuori viestinnän ammattilainen, hevosenomistaja\
+      ja valokuvaaja. Bloggaaja vuodesta 2011.
     img_path: /images/IMG_1440_.png
     title: Maisa Hyttinen
     type: intro
