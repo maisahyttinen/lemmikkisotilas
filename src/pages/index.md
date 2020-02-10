@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Etusivu
 sections:
   - actions:
       - is_primary: false
