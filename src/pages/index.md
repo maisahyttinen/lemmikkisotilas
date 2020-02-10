@@ -8,7 +8,7 @@ sections:
       Sotilaan esittelyä kaikenlaista esittelyä,\
       muutaman rivin verran satunnaista tekstiä.\
       Ei buttonia alle.
-    img_path: images/pic01.jpg
+    img_path: /images/maisajasotilas-16.jpg
     title: Maisa Hyttinen
     type: intro
   - actions:
