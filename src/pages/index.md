@@ -32,10 +32,10 @@ sections:
     symbol_display:
       - icon: fa-camera
         title: Lorem
-      - icon: fa-cat
-        title: Ipsum
       - icon: fa-quote-right
         title: Dolor
+      - icon: fa-horse
+        title: Horse
     title: Palveluesittely
     type: features
   - actions:
