@@ -34,7 +34,7 @@ sections:
         title: Lorem
       - icon: fa-quote-right
         title: Dolor
-      - icon: fa-horse
+      - icon: fa-quote-right
         title: Horse
     title: Palveluesittely
     type: features
