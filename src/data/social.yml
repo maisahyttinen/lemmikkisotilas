@@ -5,15 +5,12 @@ social_content: >-
   facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra,
   per inceptos himenaeos magna fames ac turpis egestas amet non lorem amet.
 social_links:
-  - title: Twitter
-    icon: fa-twitter
-    link_url: '#'
-  - title: Instagram
-    icon: fa-instagram
-    link_url: '#'
-  - title: Snapchat
-    icon: fa-snapchat-ghost
-    link_url: '#'
-  - title: GitHub
-    icon: fa-github
-    link_url: '#'
+  - icon: fa-instagram
+    link_url: 'https://www.instagram.com/maisahyttinen/'
+    title: Instagram
+  - icon: fa-facebook
+    link_url: 'https://www.facebook.com/lemmikkisotilas/'
+    title: Facebook
+  - icon: fa-linkedin
+    link_url: 'https://www.linkedin.com/in/maisa-hyttinen-a7b761152/'
+    title: LinkedIn
