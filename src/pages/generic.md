@@ -1,10 +1,10 @@
 ---
-title: Ipsum Veroeros
-subtitle: Lorem ipsum dolor sit magna consectetur
-img_path: images/pic05.jpg
+title: Esittely & yleisinfoa
+subtitle: Tähän tulee esittelyä ja yleisinfoa blogista ja kirjoittajasta
+img_path: /images/IMG_1440_.png
 menus:
   main:
-    title: Ipsum veroeros
+    title: Esittely & yleisinfoa
     weight: 2
 template: page
 ---
