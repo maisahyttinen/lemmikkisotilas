@@ -2,9 +2,8 @@
 title: Hevosalan SomeGaala 2020 - "Samaa paskaa joka vuosi!"
 excerpt: >-
   Hevosalan SomeGaala 2020 tarjoaa historiansa monipuolisimman ja tähän mennessä
-  myös rohkeasti positiivisimman kattauksen erilaisia somevaikuttajia! Tänä
-  vuonna sanotaan koko porukan voimin *EI* vastakkainasettelulle ja
-  roskapalautteelle. #positiivisempihevosala.
+  myös rohkeasti positiivisimman kattauksen erilaisia somevaikuttajia!
+  #positiivisempihevosala.
 img_path: /images/Kopio_ INFOSTAGE.jpg
 post_button_label: Lue lisää
 date: '2020-02-06'
