@@ -4,10 +4,10 @@ sections:
   - actions: []
     component: Intro
     content: |-
-      Nuori ja intohimoinen viestinnän ammattilainen,\
-      toimittaja, valokuvaaja ja hevosenomistaja.\
+      Nuori viestinnän ammattilainen, someaktiivi,\
+      valokuvaaja, toimittaja ja hevosenomistaja.\
       Bloggaaja vuodesta 2011.
-    img_path: /images/IMG_1440_.png
+    img_path: /images/unknown soldier (5546)-Edit.jpg
     title: Maisa Hyttinen
     type: intro
   - actions:
@@ -48,12 +48,10 @@ sections:
 
       Kaikki blogissa koskaan julkaistut artikkelit on koottu arkistoon.
       Arkistossa on yli 320 artikkelia.
-    subtitle: >-
-      Infoa siitä mitä blogi sisältää hassusti sijoitettu editorissa tänne
-      alas.\
-
+    subtitle: |-
+      Ajatuksia hevosurheilusta, hevosenomistamisesta ja viestinnän vierestä.\
       Tekstiä pitää olla varmaankin kahden rivin verran että näyttää fiksulta.
-    title: Uudet artikkelit
+    title: Uusimmat artikkelit
     type: spotlight
 menus:
   main:
