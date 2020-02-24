@@ -6,9 +6,10 @@ excerpt: >-
   Lämpökuvauksella voidaan tutkia lihaksiston, hermoston ja verenkiertoelimistön
   toimintaa. Vammat, tulehdukset ja jopa lihaskireys ja hermopinteet näkyvät
   lämpökuvissa jo varhaisessa vaiheessa.
+slug: hevosen-lampokuvaus
 img_path: /images/IMG_0011-1000x667.jpg
 post_button_label: Lue lisää
-date: '2019-10-22'
+date: "2019-10-22"
 template: page
 ---
 

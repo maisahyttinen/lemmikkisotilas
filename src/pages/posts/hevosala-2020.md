@@ -5,8 +5,9 @@ excerpt: >-
   vaikuttavat alan kehitykseen? On mielenkiintoista spekuloida, mihin suuntaan
   kasvukipujen vaivaama hevosurheilu kehittyy tulevina vuosina.
 img_path: /images/IMG_1262.jpg
+slug: hevosala-2020
 post_button_label: Lue lisää
-date: '2020-01-23'
+date: "2020-01-23"
 template: page
 ---
 

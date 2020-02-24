@@ -1,9 +1,9 @@
+/*
 import React from 'react';
 
 import {Layout} from '../components/index';
 import {Link} from '../utils';
 
-/* eslint-disable */
 
 export default class Elements extends React.Component {
     render() {
@@ -301,3 +301,4 @@ export default class Elements extends React.Component {
         );
     }
 }
+*/

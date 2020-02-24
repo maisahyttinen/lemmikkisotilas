@@ -4,6 +4,8 @@ export default function(pages, folderPath, maxPages) {
   // TODO: resolve relative paths relative to current page
   folderPath = folderPath.replace(/^\//, "");
 
+  console.log(pages);
+
   const posts = _.filter(pages, { relativeDir: folderPath }).sort((a, b) => {
     const dateA = a.frontmatter.date.split("-");
     const dateB = b.frontmatter.date.split("-");

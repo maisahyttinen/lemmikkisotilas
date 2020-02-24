@@ -18,7 +18,6 @@ export default function HTML(props) {
         />
         {props.postBodyComponents}
       </body>
-      <script src="https://apps.elfsight.com/p/platform.js" defer></script>
     </html>
   );
 }

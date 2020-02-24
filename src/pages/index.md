@@ -31,7 +31,7 @@ sections:
     symbol_display:
       - icon: fa-camera
         title: Lorem
-      - icon: fa-horse-head
+      - icon: fa-horse
         title: Dolor
       - icon: fa-quote-right
         title: Horse
@@ -59,4 +59,3 @@ menus:
     weight: 1
 template: home
 ---
-

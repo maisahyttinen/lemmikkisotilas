@@ -15,8 +15,6 @@ const Allposts = props => {
 
   const years = getPostYears(pages);
 
-  console.log(years);
-
   const [selectedYear, setSelectedYear] = useState(years[0]);
 
   return (
@@ -48,10 +46,7 @@ const Allposts = props => {
               const { month, day } = getSeparateDate(post.frontmatter.date);
               return (
                 <>
-                  <a
-                    key={i}
-                    href={`../posts/${post.frontmatter.date}-${post.frontmatter.slug}`}
-                  >
+                  <a key={i} href={`../posts/${post.frontmatter.slug}`}>
                     <strong key={i}>{`${day}.${month}.`}</strong>
                     {`  ${post.frontmatter.title}`}
                   </a>

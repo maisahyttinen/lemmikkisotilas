@@ -5,10 +5,12 @@ excerpt: >-
   myös rohkeasti positiivisimman kattauksen erilaisia somevaikuttajia!
   #positiivisempihevosala.
 img_path: /images/Kopio_ INFOSTAGE.jpg
+slug: positiivisempihevosala
 post_button_label: Lue lisää
-date: '2020-02-06'
+date: "2020-02-06"
 template: page
 ---
+
 [Playsson.net](https://www.playsson.net/) (ja Hevoslehti Ride!) palkitsee jo viidettä kertaa vuoden parhaita hevosblogeja ja sosiaalisen median vaikuttajia. Riden päätoimittajana päädyin tänä vuonna tuottamaan SomeGaalaa. Ihan vain koska jonkun sekin epäkiitollinen työ on tehtävä. (Oikeasti kyllä tykkään tällaisista projekteista.)
 
 Vaikka olen kasvattanut paksumpaa nahkaa hevossomen parissa jo 10 vuotta, olen sydän hieman syrjällään seuraavat kolme viikkoa.
@@ -51,7 +53,7 @@ Jos kilpailun sivutuotteena syntyy positiivinen ja rakentava projekti 30 somevai
 
 ## \#positiivisempihevosala
 
-Hevosalan SomeGaala 2020 tarjoaa historiansa monipuolisimman ja tähän mennessä myös rohkeasti positiivisimman kattauksen erilaisia somevaikuttajia! Tänä vuonna sanotaan koko porukan voimin *EI* vastakkainasettelulle ja roskapalautteelle.
+Hevosalan SomeGaala 2020 tarjoaa historiansa monipuolisimman ja tähän mennessä myös rohkeasti positiivisimman kattauksen erilaisia somevaikuttajia! Tänä vuonna sanotaan koko porukan voimin _EI_ vastakkainasettelulle ja roskapalautteelle.
 
 Positiivisuuskamppiksen julkaisuja voi ensi viikon aikana seurata Instagramissa häshtägeillä #positiivisempihevosala ja #positiivisuuttahevosalalle. Keskusteluun saa ottaa myös osaa!
 

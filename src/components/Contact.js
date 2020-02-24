@@ -3,7 +3,7 @@ import React from "react";
 export default class Contact extends React.Component {
   render() {
     return (
-      <section>
+      <section style={{ display: "flex", flexDirection: "column" }}>
         {/* <form id="contactForm" name="contactForm" method="post" action="#" netlifyHoneypot="bot-field" data-netlify="true">
                     <div className="screen-reader-text">
                         <label>Don't fill this out if you're human: <input name="bot-field" /></label>
@@ -18,7 +18,13 @@ export default class Contact extends React.Component {
                         <li><input type="submit" value="Send Message" /></li>
                     </ul>
                 </form> */}
-        <div className="elfsight-app-c2477060-2e11-41a4-85f7-6add9739db59"></div>
+        <iframe
+          title="instagram"
+          src="https://snapwidget.com/embed/794243"
+          className="snapwidget-widget"
+          allowtransparency="true"
+          style={{ border: "none", width: "100%", height: "100%" }}
+        ></iframe>
       </section>
     );
   }

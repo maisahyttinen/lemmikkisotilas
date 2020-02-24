@@ -1,14 +1,7 @@
 import React from "react";
 import _ from "lodash";
 
-import {
-  markdownify,
-  getPages,
-  safePrefix,
-  Link,
-  classNames,
-  getSeparateDate
-} from "../utils";
+import { markdownify, getPages, safePrefix, Link, classNames } from "../utils";
 
 export default class Spotlight extends React.Component {
   render() {
