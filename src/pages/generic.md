@@ -1,16 +1,15 @@
 ---
-title: Esittely & yleisinfoa
-subtitle: Tähän tulee esittelyä ja yleisinfoa blogista ja kirjoittajasta
+title: 'Hän pakastaan, sai Sotilaan.'
+subtitle: >-
+  Eli kymmenen vuoden kertomus siitä, miten erään teinin hevosblogiharrastus
+  karkasi käsistä.
 img_path: /images/IMG_1440_.png
 menus:
   main:
-    title: Esittely & yleisinfoa
+    title: Tutustu tekijään
     weight: 2
 template: page
 ---
+Vuonna 2011 elettiin harrasteblogien orastavaa kulta-aikaa. Pari vuotta myöhemmin lähes jokaisella teinillä oli blogi. Trendi saavutti myös hevosharrastajat ja pahaa aavistamattomana 15-vuotiaana hyppäsin siihen kelkkaan. Olin juuri joutunut luopumaan ensimmäisestä omasta hevosestani ja menetyksen jälkimainingeissa tuntui mukavalta jäsennellä ajatuksiaan tekstimuotoon. Blogi kulki aluksi nimellä *wayward*, eli oikukas tai itsepäinen.
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel venenatis mauris vehicula hendrerit.
-
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+Puoli vuotta myöhemmin perheeseemme liittyi Sotilas, joka muutti monen muun asian lisäksi myös blogin suuntaa. Raviradan aidalla kasvaneelle teinille kyseisen hevosyksilön valinta tuntui luontevalta. Sotilas oli leppoisa ruuna parhaassa iässä, nähnyt elämässään jo lähes kaiken ja historiakin oli hyvin tiedossa. Elettiin kuitenkin aikaa, jolloin uransa päättäneet ravihevoset olivat somen kuumimpia kiistakapuloita.
