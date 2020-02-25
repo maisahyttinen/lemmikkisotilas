@@ -13,21 +13,24 @@ sections:
   - actions:
       - is_primary: false
         is_scrolly: false
-        label: Tutustu tarkemmin
+        label: Tutustu tekijään
         url: /generic
+      - is_primary: false
+        is_scrolly: false
+        label: Hevosvalokuvaus
+        url: 'https://hevosvalokuvaus.maisahyttinen.fi/'
     component: Features
     content: >-
-      Features section jotain tekstiä tähän jotain tekstiä tähän kahdelle
-      riville\
-
-      En tiedä mitä tekstiä tähän satunnaista juttua parin rivin verran ja ehkä
-      buttoni alle
+      Huvin vuoksi kirjoiteltu tallipäiväkirja on kymmenessä vuodessa rönsyillyt
+      päivätyöksi markkinoinnin parissa ja erilaisiksi rooleiksi kirjoittajana,
+      valokuvaajana ja sosiaalisen median vaikuttajana. Millainen on ollut matka
+      harrastebloggaajasta viestinnän ammattilaiseksi?
     subtitle: >-
-      Viestinnän alan päivätyöni lisäksi olen vapaa toimittaja ja valokuvaaja.\
-
-      Päätoimitan hevosalan printtijulkaisu [Hevoslehti
-      Ride!](https://www.123ride.fi):ä ja valokuvaan ratsastus- ja
-      ravitapahtumia.
+      Valokuvaan hevostapahtumia ympäri Suomen ja askartelen hevosalan
+      printtijulkaisu [Hevoslehti RIDE!](https://www.123ride.fi):n
+      päätoimittajana. Autan mielelläni eläinten ja lemmikkituotteiden kanssa
+      työskenteleviä pienyrittäjiä sosiaalisen median sisältö- ja
+      näkyvyyshaasteissa.
     symbol_display:
       - icon: fa-camera
         title: Lorem
@@ -35,7 +38,7 @@ sections:
         title: Dolor
       - icon: fa-quote-right
         title: Horse
-    title: Palveluesittely
+    title: 'Kuvaa, tekstiä & sosiaalista mediaa'
     type: features
   - actions:
       - is_primary: false
@@ -43,11 +46,9 @@ sections:
         label: Siirry arkistoon
         url: /generic
     component: Spotlight
-    content: >-
-      Kirjoitin ensimmäisen blogipostaukseni 15-vuotiaana helmikuussa 2011.\
-
-      Kaikki blogissa koskaan julkaistut artikkelit on koottu arkistoon.
-      Arkistossa on yli 320 artikkelia.
+    content: |-
+      Kirjoitin ensimmäisen blogipostaukseni 15-vuotiaana helmikuussa 2011. \
+      Kaikki yli 320 blogissa koskaan julkaistua artikkelia on koottu arkistoon.
     subtitle: |-
       Ajatuksia hevosurheilusta, hevosenomistamisesta ja viestinnän vierestä.\
       Tekstiä pitää olla varmaankin kahden rivin verran että näyttää fiksulta.
@@ -59,3 +60,4 @@ menus:
     weight: 1
 template: home
 ---
+
