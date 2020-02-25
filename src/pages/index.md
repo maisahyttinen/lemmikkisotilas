@@ -50,7 +50,7 @@ sections:
       - is_primary: true
         is_scrolly: false
         label: Siirry arkistoon
-        url: /generic
+        url: /all-posts
     component: Spotlight
     content: >-
       Kaikki yli 320 blogissa koskaan julkaistua artikkelia on koottu arkistoon.
