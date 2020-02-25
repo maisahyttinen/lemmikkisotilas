@@ -4,7 +4,7 @@ sections:
   - actions: []
     component: Intro
     content: |-
-      Nuori viestinnän ammattilainen, someaktiivi,\
+      Nuori viestinnän ammattilainen, someaktiivi, \
       valokuvaaja, toimittaja ja hevosenomistaja. \
       Bloggaaja vuodesta 2011.
     img_path: /images/unknown soldier (5546)-Edit.jpg
