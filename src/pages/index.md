@@ -26,15 +26,17 @@ sections:
       valokuvaajana ja sosiaalisen median vaikuttajana.
 
 
-
-
       Millainen on ollut matka harrastebloggaajasta viestinnän ammattilaiseksi?
     subtitle: >-
       Valokuvaan hevostapahtumia ympäri Suomen ja puuhaan hevosalan
       printtijulkaisu [Hevoslehti RIDE!](https://www.123ride.fi):n
-      päätoimittajana. Autan mielelläni eläinten ja lemmikkituotteiden kanssa
-      työskenteleviä pienyrittäjiä sosiaalisen median sisältö- ja
-      näkyvyyshaasteissa.
+      päätoimittajana.
+
+
+
+
+      Autan mielelläni eläinten ja lemmikkituotteiden kanssa työskenteleviä
+      pienyrittäjiä sosiaalisen median sisältö- ja näkyvyyshaasteissa.
     symbol_display:
       - icon: fa-camera
         title: Lorem
