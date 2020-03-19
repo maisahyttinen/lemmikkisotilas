@@ -1,9 +1,20 @@
 enabled: true
-title: Seuraa somessa & ota yhteyttä
-social_content: |-
-  Seuraa someissa x x x
+title: Törmäillään somessa!
+social_content: >-
+  Voit seurata kirjoittajaa lemmikeineen Instagramissa ja Facebookissa.
+  Instagramia sopii käyttää myös yhteydenottokanavana esimerkiksi
+  kisakuvatilauksissa.
 
-  Ota yhteyttä tavoilla x x x x
+
+  Ammatillisesti relevantimpaa sisältöä kannattaa etsiä LinkedInistä.
+  Verkostoidun mielelläni!
+
+
+  Vakavista ja virallisista aikuisten ihmisten aiheista voi laittaa sähköpostia
+  osoitteeseen maisa.hyttinen@123ride.fi. 
+
+
+  Muista myös [Hevoslehti RIDE!](www.123ride.fi)
 social_links:
   - icon: fa-instagram
     link_url: 'https://www.instagram.com/maisahyttinen/'
@@ -14,3 +25,6 @@ social_links:
   - icon: fa-linkedin
     link_url: 'https://www.linkedin.com/in/maisa-hyttinen-a7b761152/'
     title: LinkedIn
+  - icon: fa-camera
+    link_url: 'https://hevosvalokuvaus.maisahyttinen.fi'
+    title: valokuvaus
