@@ -18,7 +18,7 @@ sections:
       - is_primary: true
         is_scrolly: false
         label: Hevosvalokuvaus
-        url: 'https://hevosvalokuvaus.maisahyttinen.fi/'
+        url: "https://hevosvalokuvaus.maisahyttinen.fi/"
     component: Features
     content: >-
       Huvin vuoksi kirjoiteltu tallipäiväkirja on kymmenessä vuodessa rönsyillyt
@@ -44,7 +44,7 @@ sections:
         title: Dolor
       - icon: fa-quote-right
         title: Horse
-    title: 'Kuvaa, tekstiä & sosiaalista mediaa'
+    title: "Kuvaa, tekstiä & sosiaalista mediaa"
     type: features
   - actions:
       - is_primary: true
@@ -67,4 +67,3 @@ menus:
     weight: 1
 template: home
 ---
-

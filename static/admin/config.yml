@@ -16,6 +16,10 @@ collections:
             label: Title
             required: true
             hint: Site title
+          - widget: text
+            name: description
+            label: Description
+            required: true
           - widget: hidden
             name: none
             label: None
@@ -147,6 +151,14 @@ collections:
         label: Home
         file: src/pages/index.md
         fields:
+          - widget: string
+            name: header-title
+            label: Header / SEO title
+            required: false
+          - widget: text
+            name: header-description
+            label: Header / SEO description
+            required: false
           - widget: string
             name: title
             label: Page Title
@@ -451,8 +463,16 @@ collections:
     folder: src/pages/
     create: true
     extension: md
-    slug: '{{slug}}'
+    slug: "{{slug}}"
     fields:
+      - widget: string
+        name: header-title
+        label: Header / SEO title
+        required: false
+      - widget: text
+        name: header-description
+        label: Header / SEO description
+        required: false
       - widget: string
         name: title
         label: Page Title
@@ -515,8 +535,16 @@ collections:
     folder: src/pages/posts
     create: true
     extension: md
-    slug: '{{slug}}'
+    slug: "{{slug}}"
     fields:
+      - widget: string
+        name: header-title
+        label: Header / SEO title
+        required: false
+      - widget: text
+        name: header-description
+        label: Header / SEO description
+        required: false
       - widget: string
         name: title
         label: Page Title
