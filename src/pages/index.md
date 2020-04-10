@@ -3,10 +3,8 @@ title: Etusivu
 sections:
   - actions: []
     component: Intro
-    content: |-
-      Nuori viestinnän ammattilainen, someaktiivi, \
-      valokuvaaja, toimittaja ja hevosenomistaja. \
-      Bloggaaja vuodesta 2011.
+    content: Nuori viestinnän ammattilainen, someaktiivi, valokuvaaja, toimittaja ja
+      hevosenomistaja. Bloggaaja vuodesta 2011.
     img_path: /images/kopio_-kopio_-brown-rectangle-photography-logo-3.png
     title: Maisa Hyttinen
     type: intro
