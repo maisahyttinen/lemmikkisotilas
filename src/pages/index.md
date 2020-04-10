@@ -7,7 +7,7 @@ sections:
       Nuori viestinnän ammattilainen, someaktiivi, \
       valokuvaaja, toimittaja ja hevosenomistaja. \
       Bloggaaja vuodesta 2011.
-    img_path: /images/unknown soldier (5546)-Edit.jpg
+    img_path: /images/kopio_-kopio_-brown-rectangle-photography-logo-3.png
     title: Maisa Hyttinen
     type: intro
   - actions:
@@ -18,7 +18,7 @@ sections:
       - is_primary: true
         is_scrolly: false
         label: Hevosvalokuvaus
-        url: "https://hevosvalokuvaus.maisahyttinen.fi/"
+        url: https://hevosvalokuvaus.maisahyttinen.fi/
     component: Features
     content: >-
       Huvin vuoksi kirjoiteltu tallipäiväkirja on kymmenessä vuodessa rönsyillyt
@@ -35,8 +35,7 @@ sections:
 
 
 
-      Autan mielelläni eläinten ja lemmikkituotteiden kanssa työskenteleviä
-      pienyrittäjiä sosiaalisen median sisältö- ja näkyvyyshaasteissa.
+      Autan mielelläni eläinten ja lemmikkituotteiden kanssa työskenteleviä pienyrittäjiä sosiaalisen median sisältö- ja näkyvyyshaasteissa.
     symbol_display:
       - icon: fa-camera
         title: Lorem
@@ -44,7 +43,7 @@ sections:
         title: Dolor
       - icon: fa-quote-right
         title: Horse
-    title: "Kuvaa, tekstiä & sosiaalista mediaa"
+    title: Kuvaa, tekstiä & sosiaalista mediaa
     type: features
   - actions:
       - is_primary: true
@@ -52,12 +51,10 @@ sections:
         label: Siirry arkistoon
         url: /all-posts
     component: Spotlight
-    content: >-
-      Kaikki yli 320 blogissa koskaan julkaistua artikkelia on koottu arkistoon.
-      Vanhimmat artikkelit ovat helmikuulta 2011. Kirjoittaja oli tuolloin
-      15-vuotias.
-    subtitle: >-
-      Ajatuksia hevosurheilusta, hevosen omistamisesta ja ajankohtaisista
+    content: Kaikki yli 320 blogissa koskaan julkaistua artikkelia on koottu
+      arkistoon. Vanhimmat artikkelit ovat helmikuulta 2011. Kirjoittaja oli
+      tuolloin 15-vuotias.
+    subtitle: Ajatuksia hevosurheilusta, hevosen omistamisesta ja ajankohtaisista
       ilmiöistä.
     title: Uudet artikkelit
     type: spotlight
