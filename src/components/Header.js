@@ -9,7 +9,7 @@ export default class Header extends React.Component {
         <nav className="nav">
           <ul>
             <li>
-              <Link to="#menu">Menu</Link>
+              <Link to="#menu">Navi</Link>
             </li>
           </ul>
         </nav>
