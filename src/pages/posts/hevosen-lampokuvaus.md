@@ -1,27 +1,24 @@
 ---
-title: >-
-  Moderni kristallipallo: hevosen lämpökuvassa näkyvät sekä nykyiset että
-  tulevat vaivat
-excerpt: >-
-  Lämpökuvauksella voidaan tutkia lihaksiston, hermoston ja verenkiertoelimistön
-  toimintaa. Vammat, tulehdukset ja jopa lihaskireys ja hermopinteet näkyvät
-  lämpökuvissa jo varhaisessa vaiheessa.
+title: "Moderni kristallipallo: hevosen lämpökuvassa näkyvät sekä nykyiset että
+  tulevat vaivat"
+excerpt: Lämpökuvauksella voidaan tutkia lihaksiston, hermoston ja
+  verenkiertoelimistön toimintaa. Vammat, tulehdukset ja jopa lihaskireys ja
+  hermopinteet näkyvät lämpökuvissa jo varhaisessa vaiheessa.
 slug: hevosen-lampokuvaus
 img_path: /images/IMG_0011-1000x667.jpg
 post_button_label: Lue lisää
-date: "2019-10-22"
+date: 2019-10-22
 template: page
 ---
+Toisinaan lehtijuttuja tehdessään törmää ihan valtavan mielenkiintoisiin yrityksiin ja aiheisiin. Viime viikolla haastattelin [TherMidas VET](https://www.thermidasvet.fi)in kehitysjohtaja Susanna Laajavaa hevosten diagnostisesta lämpökuvantamisesta. Sotilas lämpökuvattiin demohevosena artikkelin kuvitusta varten ja sain viikonloppuna raportin löydöksistä.
 
-Toisinaan lehtijuttuja tehdessään törmää ihan valtavan mielenkiintoisiin yrityksiin ja aiheisiin. Viime viikolla haastattelin [TherMidas VET](http://thermidasvet.fi/)in kehitysjohtaja Susanna Laajavaa hevosten diagnostisesta lämpökuvantamisesta. Sotilas lämpökuvattiin demohevosena artikkelin kuvitusta varten ja sain viikonloppuna raportin löydöksistä.
-
-Olen ehtinyt höpöttää aiheesta Instagramissa ja Facebookissa jo niin paljon, että osa seuraajistani todennäköisesti miettii, että tässähän tehdään kaupallista yhteistyötä ilman asianmukaisia merkintöjä. Ehkä korkeintaan [Hevoslehti Riden](http://www.123ride.fi) kanssa, jonka kautta demokuvaus mahdollistui.
+Olen ehtinyt höpöttää aiheesta Instagramissa ja Facebookissa jo niin paljon, että osa seuraajistani todennäköisesti miettii, että tässähän tehdään kaupallista yhteistyötä ilman asianmukaisia merkintöjä. Ehkä korkeintaan [Hevoslehti Riden](https://www.123ride.fi) kanssa, jonka kautta demokuvaus mahdollistui.
 
 ### Sotilasta on kuvattu, tutkittu ja ronkittu niin paljon, että kaikki uudet mahdollisuudet kiinnostavat!
 
 ![](/images/kuva8-1000x536.jpg)
 
-Näkymä [TherMidas VET](http://thermidasvet.fi)in ohjelmistosta, jolla lämpökuvia analysoidaan.
+Näkymä [TherMidas VET](https://www.thermidasvet.fi)in ohjelmistosta, jolla lämpökuvia analysoidaan.
 
 Sotilasta on lämpökuvattu aiemmin ontumatutkimuksen yhteydessä vuonna 2015. Laajoilla, hitaasti parantuvilla jännevammoilla on tapana kuormittaa viereistä tai ristikkäistä jalkaa. Jos (tai kun) jalat vaivaantuvat yksi kerrallaan, ei akuutin ongelmakohdan löytäminen ole aivan yksinkertaista.
 

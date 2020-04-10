@@ -1,9 +1,13 @@
 actions:
+  - is_scrolly: false
+    is_primary: true
+    label: Portfolio
+    url: https://portfolio.maisahyttinen.fi
   - is_primary: true
     is_scrolly: false
     label: Hevosvalokuvaus
-    url: 'https://hevosvalokuvaus.maisahyttinen.fi'
+    url: https://hevosvalokuvaus.maisahyttinen.fi
   - is_primary: true
     is_scrolly: false
     label: Hevoslehti RIDE!
-    url: 'https://www.123ride.fi'
+    url: https://www.123ride.fi
