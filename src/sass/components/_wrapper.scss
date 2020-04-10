@@ -10,12 +10,12 @@
   @include padding(7.5em, 0);
 
   > .inner {
-    width: 44em;
+    width: 52em;
     max-width: 100%;
     margin: 0 auto;
 
     @include breakpoint("<=xlarge") {
-      width: 44em;
+      width: 52em;
     }
   }
 
@@ -212,7 +212,7 @@
 
     > .inner {
       width: 100%;
-      max-width: 44em;
+      max-width: 52em;
     }
   }
 
