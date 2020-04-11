@@ -1,4 +1,5 @@
 import React from "react";
+import { Instagram } from "./Ig";
 
 export default class Contact extends React.Component {
   render() {
@@ -18,13 +19,14 @@ export default class Contact extends React.Component {
                         <li><input type="submit" value="Send Message" /></li>
                     </ul>
                 </form> */}
-        <iframe
+        {/* <iframe
           title="instagram"
           src="https://snapwidget.com/embed/794243"
           className="snapwidget-widget"
           allowtransparency="true"
           style={{ border: "none", width: "100%", height: "100%" }}
-        ></iframe>
+        ></iframe> */}
+        <Instagram />
       </section>
     );
   }
