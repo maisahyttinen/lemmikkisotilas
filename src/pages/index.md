@@ -3,7 +3,8 @@ title: Etusivu
 sections:
   - actions: []
     component: Intro
-    content: Nuori viestinnän ammattilainen, someaktiivi, valokuvaaja, toimittaja ja
+    content:
+      Nuori viestinnän ammattilainen, someaktiivi, valokuvaaja, toimittaja ja
       hevosenomistaja. Bloggaaja vuodesta 2011.
     img_path: /images/kopio_-kopio_-brown-rectangle-photography-logo-3.png
     title: Maisa Hyttinen
@@ -52,7 +53,8 @@ sections:
     content: Kaikki yli 320 blogissa koskaan julkaistua artikkelia on koottu
       arkistoon. Vanhimmat artikkelit ovat helmikuulta 2011. Kirjoittaja oli
       tuolloin 15-vuotias.
-    subtitle: Ajatuksia hevosurheilusta, hevosen omistamisesta ja ajankohtaisista
+    subtitle:
+      Ajatuksia hevosurheilusta, hevosen omistamisesta ja ajankohtaisista
       ilmiöistä.
     title: Uudet artikkelit
     type: spotlight
