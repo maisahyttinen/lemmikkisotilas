@@ -2582,14 +2582,14 @@ table.alt tbody tr td {
   padding: 7.5em 0 5.5em 0;
 }
 .wrapper > .inner {
-  width: 44em;
+  width: 52em;
   max-width: 100%;
   margin: 0 auto;
 }
 @media screen and (max-width: 1680px) {
   .wrapper > .inner {
-    width: 44em;
-    max-width: 44em;
+    width: 52em;
+    max-width: 52em;
   }
 }
 .wrapper.style2 {
@@ -2880,7 +2880,7 @@ table.alt tbody tr td {
   }
   .wrapper > .inner {
     width: 100%;
-    max-width: 44em;
+    max-width: 52em;
   }
 }
 @media screen and (max-width: 736px) {
