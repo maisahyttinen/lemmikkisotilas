@@ -1,8 +1,7 @@
 ---
-title: "Hän pakastaan, sai Sotilaan."
-header-title: "Tutustu tekijään"
-subtitle: >-
-  Eli kymmenen vuoden kertomus siitä, miten erään teinin hevosblogiharrastus
+header-title: Tutustu tekijään
+title: Hän pakastaan, sai Sotilaan.
+subtitle: Eli kymmenen vuoden kertomus siitä, miten teinin hevosblogiharrastus
   karkasi käsistä.
 img_path: /images/IMG_1440_.png
 menus:
@@ -11,7 +10,24 @@ menus:
     weight: 2
 template: page
 ---
+Vuonna 2011 elettiin harrasteblogien orastavaa kulta-aikaa. Trendi saavutti myös hevosharrastajat ja 15-vuotiaalle innokkaalle kirjoittajalle bloggaaminen tuntui varsin luontevalta. Valokuvausharrastus ja kokemus virtuaalitallien ja muiden nettisivujen rakentelusta antoivat hyvän pohjan kiinnostavan ja visuaalisen blogin rakentamiselle.
 
-Vuonna 2011 elettiin harrasteblogien orastavaa kulta-aikaa. Pari vuotta myöhemmin lähes jokaisella teinillä oli blogi. Trendi saavutti myös hevosharrastajat ja pahaa aavistamattomana 15-vuotiaana hyppäsin siihen kelkkaan. Olin juuri joutunut luopumaan ensimmäisestä omasta hevosestani ja menetyksen jälkimainingeissa tuntui mukavalta jäsennellä ajatuksiaan tekstimuotoon. Blogi kulki aluksi nimellä _wayward_, eli oikukas tai itsepäinen.
+Vanhat virtuaalitalliaktiivit saattavat muistaa nimimerkin *wayward*. Samalla nimellä tunnettiin myös blogi, jossa jaoin enimmäkseen ottamiani kuvia ja fiiliksiä kuvausreissuilta. Syksyllä perheeseemme liittyi Sotilas, joka muutti monen muun asian lisäksi myös blogin nimeä ja suuntaa.
 
-Puoli vuotta myöhemmin perheeseemme liittyi Sotilas, joka muutti monen muun asian lisäksi myös blogin suuntaa. Raviradan aidalla kasvaneelle teinille kyseisen hevosyksilön valinta tuntui luontevalta. Sotilas oli leppoisa ruuna parhaassa iässä, nähnyt elämässään jo lähes kaiken ja historiakin oli hyvin tiedossa. Elettiin kuitenkin aikaa, jolloin uransa päättäneet ravihevoset olivat somen kuumimpia kiistakapuloita.
+Blogista tuli *Hän pakastaan, sai Sotilaan*.
+
+Raviradan aidalla kasvaneelle teinille kyseisen hevosyksilön valinta tuntui luontevalta. Sotilas oli leppoisa ruuna parhaassa iässä, nähnyt elämässään jo lähes kaiken ja sen historiakin oli hyvin tiedossa. Elettiin kuitenkin aikaa, jolloin uransa päättäneet ravihevoset olivat somen kuumimpia kiistakapuloita. Osaltaan sen ilmiön voimin tuore blogi nousi pinnalle vauhdikkaasti.
+
+Ja varsin hämmentävästi nousikin!
+
+Odotan yhä sitä someraivoa, jonka piti olla väistämätön jo kymmenen vuotta sitten. Meidät otettiin Sotilaan kanssa vastaan häkellyttävän lämpimästi sekä bloggaajayhteisössä että suuremman yleisön joukossa. Olemme vältelleet myrskyn silmää melko menestyksekkäästi koko bloggaajaurani ajan, vaikka aktiivisimpina vuosina nousimme säännöllisesti esiin vihreälläkin palstalla.
+
+Kriittinen yleisö kuitenkin piti sisällöntuottajan varpaillaan ja haastoi katsomaan sekä sisältöjä että hevosenomistajuutta uusista kulmista. Sain monta arvokasta oppituntia molemmista.
+
+Hevosblogit ehtivät olla suurimmassa suosiossaan viitisen vuotta. Meidänkin puuhiamme seurasi parhaina kuukausina yli 10 000 lukijaa. Oli miittiä bloggaajien kesken, meet & greetiä lukijoiden kanssa, erilaisia yritysyhteistöitä ja monen monta hauskaa projektia. Uusien ystävien lisäksi keräsin tietämättäni sellaista kokemusta, jolle nykyinen työurani perustuu.
+
+Oman median tuottamiseen jäi koukkuun.
+
+Päädyin opiskelemaan liiketaloutta ja markkinointia, työskentelemään viestinnän ja markkinoinnin pariin sekä tarjoamaan valokuvauspalveluita hevosenomistajille, tapahtumanjärjestäjille ja yrittäjille. Joka käänteessä blogin kautta hankituista taidoista, kokemuksesta, työnäytöistä ja kontakteista on ollut valtavasti hyötyä.
+
+Ja yhä edelleen kohtaan hevostapahtumissa ihmisiä, jotka kysyvät, että mitä sille Sotilaalle kuuluu, jonka arkea he tiiviisti seurasivat monta vuotta.
