@@ -3,10 +3,9 @@ title: Etusivu
 sections:
   - actions: []
     component: Intro
-    content:
-      Nuori viestinnän ammattilainen, someaktiivi, valokuvaaja, toimittaja ja
+    content: Nuori viestinnän ammattilainen, someaktiivi, valokuvaaja, toimittaja ja
       hevosenomistaja. Bloggaaja vuodesta 2011.
-    img_path: /images/kopio_-kopio_-brown-rectangle-photography-logo-3.png
+    img_path: /images/kotisivulogo.png
     title: Maisa Hyttinen
     type: intro
   - actions:
@@ -26,22 +25,10 @@ sections:
 
 
       Millainen on ollut matka harrastebloggaajasta viestinnän ammattilaiseksi?
-    subtitle: >-
-      Valokuvaan hevostapahtumia ympäri Suomen ja puuhaan hevosalan
-      printtijulkaisu [Hevoslehti RIDE!](https://www.123ride.fi):n
-      päätoimittajana.
-
-
-
-
-      Autan mielelläni eläinten ja lemmikkituotteiden kanssa työskenteleviä pienyrittäjiä sosiaalisen median sisältö- ja näkyvyyshaasteissa.
-    symbol_display:
-      - icon: fa-camera
-        title: Lorem
-      - icon: fa-horse
-        title: Dolor
-      - icon: fa-quote-right
-        title: Horse
+    subtitle: Useimmille olen tuttu suurista ratsastus- ja ravitapahtumista ympäri
+      Suomen. Olen toiminut vuodesta 2019 hevosalan printtijulkaisu [Hevoslehti
+      RIDE!](https://www.123ride.fi):n päätoimittajana.
+    symbol_display: []
     title: Kuvaa, tekstiä & sosiaalista mediaa
     type: features
   - actions:
@@ -53,8 +40,7 @@ sections:
     content: Kaikki yli 320 blogissa koskaan julkaistua artikkelia on koottu
       arkistoon. Vanhimmat artikkelit ovat helmikuulta 2011. Kirjoittaja oli
       tuolloin 15-vuotias.
-    subtitle:
-      Ajatuksia hevosurheilusta, hevosen omistamisesta ja ajankohtaisista
+    subtitle: Ajatuksia hevosurheilusta, hevosen omistamisesta ja ajankohtaisista
       ilmiöistä.
     title: Uudet artikkelit
     type: spotlight
