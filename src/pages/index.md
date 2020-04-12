@@ -47,8 +47,8 @@ sections:
         url: /all-posts
     component: Spotlight
     content: Mitä tapahtui vuonna 2011? Mitä ajatteli tuolloin 15-vuotias
-      hevosenomistaja? Kaikki yli 300 blogissa koskaan julkaistua artikkelia on
-      koottu arkistoon.
+      hevosenomistaja? Arkistoon on koottu kaikki vuosien varrella julkaistut
+      artikkelit. Vuosina 2011-2020 on julkaistu yli 300 artikkelia.
     subtitle: Ajatuksia hevosurheilusta, hevosen omistamisesta ja ajankohtaisista
       ilmiöistä.
     title: Uudet artikkelit
