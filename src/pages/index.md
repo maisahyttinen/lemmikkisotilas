@@ -22,13 +22,11 @@ sections:
         label: Hevosvalokuvaus
         url: https://hevosvalokuvaus.maisahyttinen.fi/
     component: Features
-    content: >-
-      Huvin vuoksi kirjoiteltu tallipäiväkirja on kymmenessä vuodessa rönsyillyt
-      päivätyöksi markkinoinnin parissa ja erilaisiksi rooleiksi kirjoittajana,
-      valokuvaajana ja sosiaalisen median vaikuttajana.
-
-
-      Millainen on ollut matka harrastebloggaajasta viestinnän ammattilaiseksi?
+    content: Huvin vuoksi kirjoiteltu tallipäiväkirja on kymmenessä vuodessa
+      rönsyillyt päivätyöksi markkinoinnin parissa ja erilaisiksi rooleiksi
+      kirjoittajana, valokuvaajana ja sosiaalisen median vaikuttajana. Millainen
+      on ollut matka harrastebloggaajasta viestinnän ammattilaiseksi? Tutustu
+      tekijään!
     subtitle: >-
       Voi olla, että olemme jo tavanneet! Useimmille olen tuttu
       hevostapahtumista ympäri Suomen - valokuvaajana, toimittajana tai jossakin
