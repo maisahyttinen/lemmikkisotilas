@@ -16,7 +16,11 @@ export default class Intro extends React.Component {
           </span>
           <div
             className="content"
-            style={{ display: "flex", justifyContent: "center" }}
+            style={{
+              display: "flex",
+              justifyContent: "center",
+              flexDirection: "column",
+            }}
           >
             <header style={{ maxWidth: "33em" }}>
               <h1>{_.get(this.props, "section.title")}</h1>
