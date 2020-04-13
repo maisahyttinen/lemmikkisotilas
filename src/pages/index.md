@@ -16,7 +16,7 @@ sections:
       - is_primary: true
         is_scrolly: false
         label: Tutustu tekijään
-        url: /generic
+        url: /tekija
       - is_primary: true
         is_scrolly: false
         label: Hevosvalokuvaus
@@ -44,7 +44,7 @@ sections:
       - is_primary: true
         is_scrolly: false
         label: Siirry arkistoon
-        url: /all-posts
+        url: /arkisto
     component: Spotlight
     content: Mitä tapahtui vuonna 2011? Mitä ajatteli tuolloin 15-vuotias
       hevosenomistaja? Arkistoon on koottu kaikki vuosien varrella julkaistut

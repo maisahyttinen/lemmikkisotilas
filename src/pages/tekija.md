@@ -10,15 +10,16 @@ menus:
     weight: 2
 template: page
 ---
+
 **Olen 24-vuotias tamperelainen, nuori viestinnän ammattilainen, valokuvaaja, toimittaja, bloggaaja, hevosenomistaja... Ja aika paljon muuta! Aina kun yksi lusikka jää vapaaksi, löytyy sille nopeasti uusi soppa.**
 
 Aloitin bloggaamisen helmikuussa 2011 ja tälle sivustolle upotettu blogi on yksi Suomen vanhimmista hevosblogeista. Omaksi iloksi kirjoiteltu tallipäiväkirja muuttui vuosien varrella haaveiluksi ammatista, koulutukseksi ja uraksi viestinnän parissa.
 
 Vuonna 2011 elettiin harrasteblogien orastavaa kulta-aikaa. Trendi saavutti myös hevosharrastajat ja 15-vuotiaalle innokkaalle kirjoittajalle bloggaaminen tuntui varsin luontevalta. Valokuvausharrastus ja kokemus virtuaalitallien ja muiden nettisivujen rakentelusta antoivat hyvän pohjan kiinnostavan ja visuaalisen blogin rakentamiselle.
 
-Vanhat virtuaalitalliaktiivit saattavat muistaa nimimerkin *wayward*. Samalla nimellä tunnettiin myös blogi, jossa jaoin enimmäkseen ottamiani kuvia ja fiiliksiä kuvausreissuilta. Syksyllä perheeseemme liittyi Sotilas, joka muutti monen muun asian lisäksi myös blogin nimeä ja suuntaa.
+Vanhat virtuaalitalliaktiivit saattavat muistaa nimimerkin _wayward_. Samalla nimellä tunnettiin myös blogi, jossa jaoin enimmäkseen ottamiani kuvia ja fiiliksiä kuvausreissuilta. Syksyllä perheeseemme liittyi Sotilas, joka muutti monen muun asian lisäksi myös blogin nimeä ja suuntaa.
 
-Blogista tuli *Hän pakastaan, sai Sotilaan*.
+Blogista tuli _Hän pakastaan, sai Sotilaan_.
 
 Raviradan aidalla kasvaneelle teinille kyseisen hevosyksilön valinta tuntui luontevalta. Sotilas oli leppoisa ruuna parhaassa iässä, nähnyt elämässään jo lähes kaiken ja sen historiakin oli hyvin tiedossa. Elettiin kuitenkin aikaa, jolloin uransa päättäneet ravihevoset olivat somen kuumimpia kiistakapuloita. Osaltaan sen ilmiön voimin tuore blogi nousi pinnalle vauhdikkaasti.
 
