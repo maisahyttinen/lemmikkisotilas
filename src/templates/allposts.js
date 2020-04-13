@@ -7,10 +7,10 @@ import {
   getPostYears,
   htmlToReact,
   getPostsByYear,
-  getSeparateDate
+  getSeparateDate,
 } from "../utils";
 
-const Allposts = props => {
+const Allposts = (props) => {
   const pages = _.get(props, "pageContext.pages");
 
   const years = getPostYears(pages);
@@ -29,7 +29,7 @@ const Allposts = props => {
           <div>
             {years.map((year, i) => (
               <button
-                className={year === selectedYear && "primary"}
+                className={year === selectedYear ? "primary" : ""}
                 style={{ margin: "3px" }}
                 key={i}
                 onClick={() => setSelectedYear(year)}
@@ -45,14 +45,14 @@ const Allposts = props => {
             {getPostsByYear(pages, selectedYear).map((post, i) => {
               const { month, day } = getSeparateDate(post.frontmatter.date);
               return (
-                <>
-                  <a key={i} href={`../posts/${post.frontmatter.slug}`}>
-                    <strong key={i}>{`${day}.${month}.`}</strong>
+                <React.Fragment key={i}>
+                  <a href={`../posts/${post.frontmatter.slug}`}>
+                    <strong>{`${day}.${month}.`}</strong>
                     {`  ${post.frontmatter.title}`}
                   </a>
                   <br />
                   <br />
-                </>
+                </React.Fragment>
               );
             })}
           </div>

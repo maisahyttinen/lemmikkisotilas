@@ -20,6 +20,7 @@ export default class Intro extends React.Component {
               display: "flex",
               justifyContent: "center",
               flexDirection: "column",
+              alignItems: "center",
             }}
           >
             <header style={{ maxWidth: "33em" }}>
@@ -27,7 +28,13 @@ export default class Intro extends React.Component {
               {markdownify(_.get(this.props, "section.content"))}
             </header>
             {_.get(this.props, "section.actions") && (
-              <footer>
+              <footer
+                style={{
+                  display: "flex",
+                  alignItems: "flex-start",
+                  width: "100%",
+                }}
+              >
                 <ul className="actions">
                   {_.map(
                     _.get(this.props, "section.actions"),

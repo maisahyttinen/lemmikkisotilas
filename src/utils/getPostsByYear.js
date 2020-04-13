@@ -1,7 +1,7 @@
-export default function(pages, year) {
+export default function (pages, year) {
   return pages
     .filter(
-      page =>
+      (page) =>
         page.relativeDir === "posts" &&
         page.frontmatter.date.split("-")[0] === year
     )

@@ -1,7 +1,5 @@
 ---
-title: >-
-  Moderni kristallipallo: hevosen lämpökuvassa näkyvät sekä nykyiset että
-  tulevat vaivat
+title: "Moderni kristallipallo: hevosen lämpökuvassa näkyvät sekä nykyiset että tulevat vaivat"
 excerpt: >-
   Lämpökuvauksella voidaan tutkia lihaksiston, hermoston ja
   verenkiertoelimistön toimintaa. Vammat, tulehdukset ja jopa lihaskireys ja
