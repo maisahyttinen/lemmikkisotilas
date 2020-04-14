@@ -535,7 +535,7 @@ collections:
     folder: src/pages/posts
     create: true
     extension: md
-    slug: "{{slug}}"
+    slug: "{{fields.path}}"
     fields:
       - widget: string
         name: header-title
@@ -548,6 +548,11 @@ collections:
       - widget: string
         name: title
         label: Page Title
+        required: true
+      - widget: string
+        name: path
+        label: Path / Slug / Filename (no äåö characters or spaces, e.g. alamoloa-takaapain)
+        hint: Needed for the system to work
         required: true
       - widget: markdown
         name: subtitle
@@ -567,11 +572,14 @@ collections:
       - widget: string
         name: post_button_label
         label: Spotlights Button label
+        default: Lue lisää
         required: false
         hint: The text displayed in the home spotligh button
-      - widget: date
+      - widget: datetime
         name: date
         label: Post Date
+        dateFormat: "YYYY-MM-DD"
+        timeFormat: false
         required: true
       - widget: object
         name: menus

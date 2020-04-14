@@ -7,7 +7,7 @@
 const React = require("react");
 const safePrefix = require("./src/utils/safePrefix").default;
 
-exports.onRenderBody = function({ setHeadComponents, setPostBodyComponents }) {
+exports.onRenderBody = function ({ setHeadComponents, setPostBodyComponents }) {
   setHeadComponents([]);
 
   setPostBodyComponents([
@@ -17,7 +17,6 @@ exports.onRenderBody = function({ setHeadComponents, setPostBodyComponents }) {
       <script src={safePrefix("assets/js/breakpoints.min.js")} />
       <script src={safePrefix("assets/js/util.js")} />
       <script src={safePrefix("assets/js/main.js")} />
-      <script src="https://snapwidget.com/js/snapwidget.js"></script>
-    </React.Fragment>
+    </React.Fragment>,
   ]);
 };
