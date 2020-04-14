@@ -1,10 +1,11 @@
 enabled: true
 title: Törmäillään somessa!
 social_content: >-
-  Voit seurata kirjoittajaa lemmikeineen Instagramissa @maisahyttinen.
-  Facebookissa palvelee sivu Hevosvalokuvaaja Maisa Hyttinen. Näitä someja sopii
-  käyttää myös yhteydenottokanavana esimerkiksi kisakuvatilauksissa ja muissa
-  rennoissa yhteydenotoissa.
+  Voit seurata kirjoittajaa hevosineen Instagramissa **@maisahyttinen**.
+  Facebookissa palvelee sivu **Hevosvalokuvaaja Maisa Hyttinen**.
+
+
+  Someja sopii käyttää myös yhteydenottokanavana esimerkiksi kisakuvatilauksissa ja muissa rennoissa yhteydenotoissa.
 
 
   Ammatillisesti relevantimpaa sisältöä kannattaa etsiä LinkedInistä. Verkostoidun mielelläni!
@@ -13,13 +14,13 @@ social_content: >-
   Virallisemmissa asioissa voi laittaa sähköpostia osoitteeseen maisa.hyttinen@123ride.fi. 
 
 
-  Muista myös [Hevoslehti RIDE!](www.123ride.fi)
+  Muista myös **[Hevoslehti RIDE!](www.123ride.fi)**
 social_links:
   - icon: fa-instagram
     link_url: https://www.instagram.com/maisahyttinen/
     title: Instagram
   - icon: fa-facebook
-    link_url: https://www.facebook.com/lemmikkisotilas/
+    link_url: https://www.facebook.com/eqphoto.maisahyttinen/
     title: Facebook
   - icon: fa-linkedin
     link_url: https://www.linkedin.com/in/maisa-hyttinen-a7b761152/
