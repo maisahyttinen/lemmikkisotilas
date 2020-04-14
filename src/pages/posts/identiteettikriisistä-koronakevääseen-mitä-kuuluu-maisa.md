@@ -1,22 +1,19 @@
 ---
-header-title: Identiteettikriisistä koronakevääseen - mitä kuuluu Maisa?
+header-title: Identiteettikriisistä koronakevääseen - vuoteni pikakelauksella
 header-description: Tiedättekö sen tunteen, kun asioita tapahtuu niin valtavalla
   vauhdilla, ettei oma identiteetti oikein pysy perässä? Minulle kävi viime
   vuonna niin.
-title: Identiteettikriisistä koronakevääseen - mitä kuuluu Maisa?
+title: Identiteettikriisistä koronakevääseen - vuoteni pikakelauksella
 subtitle: Tiedättekö sen tunteen, kun asioita tapahtuu niin valtavalla
   vauhdilla, ettei oma identiteetti oikein pysy perässä? Minulle kävi viime
   vuonna niin.
 excerpt: Tiedättekö sen tunteen, kun asioita tapahtuu niin valtavalla vauhdilla,
-  ettei oma identiteetti oikein pysy perässä?
+  ettei oma identiteetti oikein pysy perässä? Minulle kävi viime vuonna niin.
 img_path: /images/img_3172_.jpg
-path: identiteettikriisista-koronakevaaseen-mitä-kuuluu-maisa
-post_button_label: Lue lisää
-date: "2020-04-14"
+date: 2020-04-14T13:35:53.130Z
 template: page
 ---
-
-Minulle kävi viime vuonna niin. Astuin uudessa työpaikassa kokoani suurempiin saappaisiin, bloggaaminen vaihtui yht’äkkiä päätoimittajan tehtävään ja valokuvaaminen alkoi tuntua entistä vahvemmin työltä. Monta kertaa tuntui siltä, että elän jonkun toisen elämää.
+Astuin uudessa työpaikassa kokoani suurempiin saappaisiin, bloggaaminen vaihtui yht’äkkiä päätoimittajan tehtävään ja valokuvaaminen alkoi tuntua entistä vahvemmin työltä. Monta kertaa tuntui siltä, että elän jonkun toisen elämää.
 
 Identiteettini oli yhtä levällään viimeksi neljä vuotta sitten. Silloin ratkaisin tilanteen jättämällä opintoni kesken ja lähdin armeijaan.
 
@@ -28,7 +25,7 @@ Osaan tarvittaessa työntää introverttiset piirteeni ja tarpeeni sivuun, mutta
 
 ### Talvella olimme Sotilaan jalkapulmien kanssa siinä tilanteessa, että hiljaa mielessäni valitsin jo lopetuspäivän.
 
-Sotilas jäi viime kesänä naapurilaitumesta karanneen hevosen potkimaksi ja loukkasi siinä rytäkässä itseään sieltä täältä. Akuuttien ruhjeiden parannuttua ehdimme elää hetken kevyttä harrastehevosen arkea, mutta ongelmat palasivat.
+Sotilas tuli viime kesänä naapurilaitumesta karanneen hevosen potkimaksi ja loukkasi siinä rytäkässä itseään sieltä täältä. Akuuttien ruhjeiden parannuttua ehdimme elää hetken kevyttä harrastehevosen arkea, mutta ongelmat palasivat.
 
 Joulukuussa [lämpökuvat](https://www.maisahyttinen.fi/posts/hevosen-lampokuvaus/) ohjasivat tutkimukset toiseen takavuohiseen, jota olemme siitä saakka tutkineet ja hoitaneet. Tulehdusta on piikitetty nyt kahdesti ja maaliskuussa nivel röntgenkuvattiin tavanomaisin pienin löydöksin. Eläinlääkäri arvioi, että jos tilanne ei piikityksen jälkeen lainkaan parane, on ennuste käyttöhevoseksi huono. Viime viikolla Sotilas ravasi kuitenkin vihdoin puhtaasti. Voisimmeko saada vielä ensi kesän?
 
@@ -42,8 +39,8 @@ Ennen kaikkea ehdin olla hetken aloillani. Vauhdissa helposti unohtuu, kuinka t�
 
 Ja mitä Sotilaaseen tulee, niin elämme päivä kerrallaan. Tein luopumiseen liittyvää surutyötä pitkään jo talvella ja olen aika rauhallisin mielin tulevaisuuden suhteen. Olemme saaneet yhdeksän hienoa vuotta ja jokainen päivä on tähänkin saakka ollut jatkoajan jatkoaikaa.
 
+##### [Kurkkaa portfolioni täältä!](https://www.portfolio.maisahyttinen.fi)
+
+##### [Uudet kuvasivut löydät täältä!](https://hevosvalokuvaus.maisahyttinen.fi)
+
 ![](/images/sotilas-10.jpg)
-
-### [Kurkkaa portfolioni täältä!](https://www.portfolio.maisahyttinen.fi)
-
-### [Uudet kuvasivut löydät täältä!](https://hevosvalokuvaus.maisahyttinen.fi)
