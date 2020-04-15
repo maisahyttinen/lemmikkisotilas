@@ -10,9 +10,10 @@ subtitle: Tiedättekö sen tunteen, kun asioita tapahtuu niin valtavalla
 excerpt: Tiedättekö sen tunteen, kun asioita tapahtuu niin valtavalla vauhdilla,
   ettei oma identiteetti oikein pysy perässä? Minulle kävi viime vuonna niin.
 img_path: /images/img_3172_.jpg
-date: 2020-04-14
+date: "2020-04-14"
 template: page
 ---
+
 Astuin uudessa työpaikassa kokoani suurempiin saappaisiin, bloggaaminen vaihtui yht’äkkiä päätoimittajan tehtävään ja valokuvaaminen alkoi tuntua entistä vahvemmin työltä. Monta kertaa tuntui siltä, että elän jonkun toisen elämää.
 
 Identiteettini oli yhtä levällään viimeksi neljä vuotta sitten. Silloin ratkaisin tilanteen jättämällä opintoni kesken ja lähdin armeijaan.
