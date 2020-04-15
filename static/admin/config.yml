@@ -575,13 +575,13 @@ collections:
         default: Lue lisää
         required: false
         hint: The text displayed in the home spotligh button
-      - widget: datetime
+      - widget: string
         name: date
         label: Post Date
-        dateFormat: "YYYY-MM-DD"
-        timeFormat: false
+        pattern:
+          - ^\d{4}\-(0[1-9]|1[012])\-(0[1-9]|[12][0-9]|3[01])$
+          - Correct format is YYYY-MM-DD
         required: true
-        format: LL
       - widget: object
         name: menus
         label: Post Menus
