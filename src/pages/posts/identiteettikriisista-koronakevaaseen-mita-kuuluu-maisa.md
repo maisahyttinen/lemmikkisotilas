@@ -4,13 +4,15 @@ header-description: Tiedättekö sen tunteen, kun asioita tapahtuu niin valtaval
   vauhdilla, ettei oma identiteetti oikein pysy perässä? Minulle kävi viime
   vuonna niin.
 title: Identiteettikriisistä koronakevääseen - vuoteni pikakelauksella
+path: identiteettikriisista-koronakevaaseen
 subtitle: Tiedättekö sen tunteen, kun asioita tapahtuu niin valtavalla
   vauhdilla, ettei oma identiteetti oikein pysy perässä? Minulle kävi viime
   vuonna niin.
 excerpt: Tiedättekö sen tunteen, kun asioita tapahtuu niin valtavalla vauhdilla,
   ettei oma identiteetti oikein pysy perässä? Minulle kävi viime vuonna niin.
 img_path: /images/img_3172_.jpg
-date: "2020-04-14"
+post_button_label: Lue lisää
+date: 2020-04-13
 template: page
 ---
 
