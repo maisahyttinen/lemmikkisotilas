@@ -581,6 +581,7 @@ collections:
         dateFormat: "YYYY-MM-DD"
         timeFormat: false
         required: true
+        format: LL
       - widget: object
         name: menus
         label: Post Menus
