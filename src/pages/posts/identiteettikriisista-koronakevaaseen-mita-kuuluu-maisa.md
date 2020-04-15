@@ -12,7 +12,7 @@ excerpt: Tiedättekö sen tunteen, kun asioita tapahtuu niin valtavalla vauhdill
   ettei oma identiteetti oikein pysy perässä? Minulle kävi viime vuonna niin.
 img_path: /images/img_3172_.jpg
 post_button_label: Lue lisää
-date: 2020-04-13
+date: "2020-04-13"
 template: page
 ---
 
