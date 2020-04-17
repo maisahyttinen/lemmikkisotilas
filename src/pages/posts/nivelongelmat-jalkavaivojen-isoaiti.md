@@ -13,7 +13,7 @@ excerpt: Elimme vuosia jokseenkin sopuisasti lukuisten jännevammojen kanssa.
   Nivelongelmat.
 img_path: /images/nimetön-suunn.malli.jpg
 post_button_label: Lue lisää
-date: 2020-04-17
+date: "2020-04-17"
 template: page
 ---
 Jännevamman hoito on melko yksoikoista - lopulta aika ja rauhallinen liikunta ovat kaikkein tärkeintä. 80-prosenttisesti revenneen koukistajajänteen jälkeen olen osannut suhtautua haavereihin ylipäätään hieman rauhallisemmin - kyllä näistä aina selvitään.
