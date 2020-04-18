@@ -1,6 +1,6 @@
 ---
 title: "Eletään täällä tulevaisuudessa, ja vielä mitä. Kiitos todellisuudesta, ja keinoista paeta sitä."
-date: "2016-08-26"
+date: 2016-08-26
 id: "831"
 slug: "eletaan-taalla-tulevaisuudessa-ja-viela-mita-kiitos-todellisuudesta-ja-keinoista-paeta-sita"
 coverImageId: ""
@@ -16,19 +16,13 @@ Olin alkukuusta melkein kaksi viikkoa lomalla ja pöhöttynyt lomailija sai enem
 
 [![](/images/IMG_8359_-300x200.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/08/IMG_8359_.png)[![](/images/IMG_8442_-300x200.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/08/IMG_8442_.png)
 
- 
-
 [![](/images/IMG_8431_-300x200.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/08/IMG_8431_.png)[![](/images/IMG_8725_2_-300x200.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/08/IMG_8725_2_.png)
-
- 
 
 (Uteliaimmat klikkailevat kuvat suuremmiksi.) Monessakin mielessä olemme palanneet takaisin siihen, mistä edellisen sairasloman jälkeen, ehkä reilu vuosi sitten, lähdettiin. Olen silti oikeastaan yllättynyt kuinka hyvässä kunnossa Sotilas on ulkoisesti säilynyt. Tottakai koko ylälinja on vähitellen kuihtunut, mutta jos unohdetaan mielikuva ratsusta niin peruslihaksistoltaan se on oikeinkin hyvällä mallilla. Liikakilojakin on hyvin vähän siihen nähden kuinka tunnollisesti äiti pitää huolta riittävän lyhyistä ruokintaväleistä.
 
 Vaikka Sotilas onkin fysiikaltaan joka osa-alueelta keskivertoa hieman parempi hevonen, on sen peruskunto auttamatta onneton. Edelleen se hölkkäisi kärryjen edessä vaikka maailman ympäri juuri hengästymättä, mutta vartti "oikeaa työskentelyä" ratsastajan kanssa on tällä hetkellä enintä mihin se pystyy. Intoa on onneksi senkin edestä. Kun tehdään, niin tehdään sitten tosisssaan. Tasaisesta muodosta ei ole tietoakaan, mutta yllättävän mielellään Sotilas käyttää täysin olematonta ylälinjaansa. Hyvät hetket eivät ole pitkiä, mutta parhaansa se tekee ja hakee omia rajojaan yhtä rohkeasti kuin aina ennenkin. Kai se juuri tämän takia on tullut uudelleen kerta toisensa jälkeen.
 
 [![](/images/13-image-200x300.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/08/13-image.png)[![](/images/3-image-2B-25281-2529-200x300.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/08/3-image-2B-25281-2529.png)
-
- 
 
 Terveyspuolelta kaiken pitäisi olla taas vihdoin hyvin. Olen älyttömän onnekas, että voin aina tarpeen tullen tuoda Sotilaan vanhempieni luo. Parempaa huolta ei hevosesta voisi enää pitää. Ei tarvitse miettiä onko kaviot, hampaat, perushoito ja kaikki ylimääräinen hemmottelu hoidettu. Tottakai on, vielä useammin ja paljon tarkemmalla suurennuslasilla kuin itse tekisin. Ja olen itsekin tarkka.
 

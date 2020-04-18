@@ -1,6 +1,6 @@
 ---
 title: "Teemakuvaus: sotahevonen"
-date: "2018-11-28"
+date: 2018-11-28
 id: "2946"
 slug: "kun-kevatta-ennen-on-pitka-ja-mieltasi-painava-jakso"
 coverImageId: "2950"

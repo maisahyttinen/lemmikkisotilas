@@ -1,6 +1,6 @@
 ---
 title: "ne polkee paikallaan, suorittaa ja murehtii, ja aina sitä samaa saa."
-date: "2014-02-19"
+date: 2014-02-19
 id: "917"
 slug: "ne-polkee-paikallaan-suorittaa-ja-murehtii-ja-aina-sita-samaa-saa"
 coverImageId: ""

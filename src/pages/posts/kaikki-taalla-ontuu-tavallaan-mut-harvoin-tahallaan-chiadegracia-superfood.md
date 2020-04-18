@@ -1,6 +1,6 @@
 ---
 title: "Kaikki täällä ontuu tavallaan, mut harvoin tahallaan. #chiadegracia #superfood"
-date: "2016-09-02"
+date: 2016-09-02
 id: "828"
 slug: "kaikki-taalla-ontuu-tavallaan-mut-harvoin-tahallaan-chiadegracia-superfood"
 coverImageId: "2086"

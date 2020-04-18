@@ -1,6 +1,6 @@
 ---
 title: "Nostetta someen - näin käytät Instagramia oikein"
-date: "2018-11-22"
+date: 2018-11-22
 id: "2830"
 slug: "ma-luulen-et-meille-ei-kerrottu-koko-totuutta"
 coverImageId: "2944"

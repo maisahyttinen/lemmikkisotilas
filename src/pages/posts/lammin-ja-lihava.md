@@ -1,6 +1,6 @@
 ---
 title: "lämmin ja lihava."
-date: "2012-06-04"
+date: 2012-06-04
 id: "1122"
 slug: "lammin-ja-lihava"
 coverImageId: ""

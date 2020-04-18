@@ -1,6 +1,6 @@
 ---
 title: "Millainen on hyvä tavoite? Tavoitteiden asettamisen ABC & kiiltokuvaharrastajan haaveet kevät-kesä 2019"
-date: "2019-04-03"
+date: 2019-04-03
 id: "3796"
 slug: "millainen-on-hyva-tavoite-tavoitteiden-asettamisen-abc-kiiltokuvaharrastajan-haaveet-kevat-kesa-2019"
 coverImageId: "4180"
@@ -56,7 +56,7 @@ Kuva: Mirella Ruotsalainen / [hertjekker.net](http://www.hertjekker.net)
 
 Tämä koskee sekä hevosta että ratsastajaa. Olemme molemmat enemmän syömisen kuin liikunnan ystäviä ja etenkin hiljainen lopputalvi näkyy itse kunkin vyötäröllä. Kilojen sijaan otan mittaan Sotilaan laihtumista satulavyön rei'illä ja omaani vaatekoolla. Sotilaan satulavyön täytyy jo mieluiten hyvissä ajoin ennen elokuuta mennä kaksi reikää kireämmälle (samoihin reikiin kuin viime kesänä) ja minä haluan pukeutua Kuninkuusravien iltajuhlaan samaan asuun kuin viime vuonna.
 
-Sotilaalle riittää rauhallinen paluu normaaliin arkirytmiin (liikuntaa 5 kertaa viikossa). Se aloittaa kevään treenit ratsuttajan kanssa ensi perjantaina. Minä opettelen syömään viidesti päivässä, vähennän pastaa ja muita turvottavia lisukkeita, suosin kasviksia, juon enemmän vettä ja herkuttelen vain kerran viikossa. Kävin pari viikkoa sitten kehonkoostumusmittauksessa ja teen sen uudelleen viimeistään elokuussa.  
+Sotilaalle riittää rauhallinen paluu normaaliin arkirytmiin (liikuntaa 5 kertaa viikossa). Se aloittaa kevään treenit ratsuttajan kanssa ensi perjantaina. Minä opettelen syömään viidesti päivässä, vähennän pastaa ja muita turvottavia lisukkeita, suosin kasviksia, juon enemmän vettä ja herkuttelen vain kerran viikossa. Kävin pari viikkoa sitten kehonkoostumusmittauksessa ja teen sen uudelleen viimeistään elokuussa.
 
 ![](/images/unknown-soldier-87-Edit-1000x667.jpg)
 
@@ -94,7 +94,7 @@ Rauhallisuus ja rentous kattavat tällä hetkellä laukkaa lukuun ottamatta kaik
 
 Kuva: [Marle Muuronen﻿](https://marlemuuronen.kuvat.fi)
 
-#### 
+####
 
 5\. Maastakäsittely hyötykäyttöön
 
@@ -119,5 +119,4 @@ Savuheitekuvaukset
 Someton päivä (tai vaikka koko viikko)
 
 - ![](/images/unknown-soldier-60-Edit-667x1000.jpg)
-    
 - ![](/images/unknown-soldier-54-Edit-667x1000.jpg)

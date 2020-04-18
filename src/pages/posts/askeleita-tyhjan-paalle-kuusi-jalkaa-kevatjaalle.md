@@ -1,6 +1,6 @@
 ---
 title: "Askeleita tyhjän päälle, kuusi jalkaa kevätjäälle."
-date: "2015-03-05"
+date: 2015-03-05
 id: "890"
 slug: "askeleita-tyhjan-paalle-kuusi-jalkaa-kevatjaalle"
 coverImageId: ""

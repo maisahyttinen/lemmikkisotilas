@@ -1,6 +1,6 @@
 ---
 title: "ja kolmen minuutin kuluttua olin edelleenkin saamaton."
-date: "2013-01-21"
+date: 2013-01-21
 id: "1043"
 slug: "ja-kolmen-minuutin-kuluttua-olin-edelleenkin-saamaton"
 coverImageId: ""
@@ -8,18 +8,13 @@ template: "page"
 post_button_label: "Lue lisää"
 ---
 
-Antakaa anteeksi tämä pieni tauko. Ei ole ollut mitään kerrottavaa eikä sen puoleen mitään mielenkiintoakaan kirjoitella. Täälläkin kärsittiin pari päivää 30 asteen pakkasessa ja jopa Sotilas keräsi melkoisesti pakkaskierroksia. Purimme ne eilen parin tunnin maastoilulla ja ilta meni Forssassa raveissa ja minun entisellä kotitallillani (joka tosin tuntuu edelleen kotitallilta, vaikka paikkakunta ja hevoset ovat vaihtuneet). Oli kivaa nähdä uusia varsoja ja pari vanhaakin tuttua. Puhumattakaan siitä, että ilta alkoi aika söötin vauvvelin ylivoimavoitolla ensimmäiseen starttiinsa! Vau!  
-  
-  
+Antakaa anteeksi tämä pieni tauko. Ei ole ollut mitään kerrottavaa eikä sen puoleen mitään mielenkiintoakaan kirjoitella. Täälläkin kärsittiin pari päivää 30 asteen pakkasessa ja jopa Sotilas keräsi melkoisesti pakkaskierroksia. Purimme ne eilen parin tunnin maastoilulla ja ilta meni Forssassa raveissa ja minun entisellä kotitallillani (joka tosin tuntuu edelleen kotitallilta, vaikka paikkakunta ja hevoset ovat vaihtuneet). Oli kivaa nähdä uusia varsoja ja pari vanhaakin tuttua. Puhumattakaan siitä, että ilta alkoi aika söötin vauvvelin ylivoimavoitolla ensimmäiseen starttiinsa! Vau!
 
 [![](/images/rock.png)](http://4.bp.blogspot.com/-ZYVRASRJhLQ/UP1WebO7pSI/AAAAAAAAE7o/9ulwITJp8Ew/s1600/rock.png)
 
-  
 HAASTE!
 
 Sain tämän blogilta [You Only Live Once](http://erika-only-live-once.blogspot.fi/)! Tack!
-
-  
 
 \- Kerro 11 faktaa itsestäsi
 
@@ -27,25 +22,21 @@ Sain tämän blogilta [You Only Live Once](http://erika-only-live-once.blogspot.
 
 \- Keksi 11 uutta kysymystä
 
-\- Haasta 11 blogia  
-  
-FAKTAT  
-  
+\- Haasta 11 blogia
+
+FAKTAT
 
 **1.** Mulla on ihan älyttömän huono suuntavaisto. Eksyn minne tahansa. **2.** Inhosin ja vältin koululiikuntaa ala-asteelta asti, vaikken ollut erityisen huono missään. **3.** Nukun mielelläni tosi lämpimässä. **4.** Yläastematikka oli tyhmää (koska olin huono), mutta viihdyn lukiossa pitkällä matikalla. **5.** Olisin mieluummin valokuvaaja kuin heppatyttö. **6.** Viihdyn yleensä uusien ihmisten seurassa, mutta vanhat naamat ärsyttää. **7.** Kadotan oikeastaan kaiken, minkä lasken käsistäni. Etenkin puhelimeni. **8.** Tanssin Wanhat ystävänpäivänä Toisen täydellisen miehen kanssa. **9.** En ole varma mitä haluan tehdä isona, mutta se jokin ei ole hevosalalla. **10.** Tykkään vuoristoradoista. **11.** Asun kotona, mutta minulla on oma pieni mökki kotipihalla.
-
-  
 
 [![](/images/hoo.png)](http://3.bp.blogspot.com/-PsBRrnAQm1w/UP2Usg48uJI/AAAAAAAAE8E/JBPZEq6Ui6Q/s1600/hoo.png)
 
 Toisen täydellisen miehen salakuvauksen tulos. Aika taiteellista.
 
-VASTAUKSET  
+VASTAUKSET
 
-  
 _1\. Miksi harrastat tätä lajia (ratsastusta)?_  
-_\-_ Koska jossain vaiheessa jokainen pikkutyttö haluaa harrastaa ratsastusta? Ja joillekin käy niin, että yht'äkkiä löytääkin nimensä ihan oman hevosen papereista eikä pakoreittiä enää ole. Sitten omaan hevoseen tottuu ja siitä luopuminen tarkoittaisi luopumista kaikesta mihin arkensa käyttää.  
-  
+_\-_ Koska jossain vaiheessa jokainen pikkutyttö haluaa harrastaa ratsastusta? Ja joillekin käy niin, että yht'äkkiä löytääkin nimensä ihan oman hevosen papereista eikä pakoreittiä enää ole. Sitten omaan hevoseen tottuu ja siitä luopuminen tarkoittaisi luopumista kaikesta mihin arkensa käyttää.
+
 _2\. Mitkä on tavoitteesi?_  
 _\-_ Selvitä hengissä ja pitää hauskaa. Mennä Sotilaan kanssa ratsastustunneille ja oppia uusia tapoja pitää hauskaa.  
 _3\. Kauanko olet harrastanut ja mistä kaikki lähti?_  
@@ -59,17 +50,17 @@ _\-_ Kyllähän tuo oma on. Hyvänä puolena se, että on kaveri jonka kanssa ha
 _7\. Missä olet parhaimmillasi hevosen kanssa?_  
 _\-_ En tiedä. Kärryillä on ainakin kaikkein varmin olo ja valjaat puen edelleen huomattavasti varmemmin kuin satuloin.  
 _8\. Entä missä huono?_  
-_\-_ Hmm, en osaa sanoa mitään tiettyä juttua, mutta ainakin pinnani on aivan liian lyhyt puuhailemaan sellaisten hevosten kanssa, joille kaiken saa taivuttaa kymmeneen kertaa rautalangasta. Olen paljon parempi siinä suhteessa nopeampien hevosten kanssa.  
-  
+_\-_ Hmm, en osaa sanoa mitään tiettyä juttua, mutta ainakin pinnani on aivan liian lyhyt puuhailemaan sellaisten hevosten kanssa, joille kaiken saa taivuttaa kymmeneen kertaa rautalangasta. Olen paljon parempi siinä suhteessa nopeampien hevosten kanssa.
+
 _9\. Mikä on kivoin ratsastuslaji?_  
 _\-_ Maastoilu. Kouluun en ole tarpeeksi perfektionisti ja hypätä en uskalla.  
 _10\. Missä haluat vielä kehittyä?_  
 _\-_ Perusratsastuksessa. Apujen käytössä ja istunnassa on huomattavia puutteita.  
 _11\. Mitä toivot tulevaisuudelta tässä lajissa?_  
-_\-_ En kai mitään erityistä. Sotilaan pidän sen loppuelämän, mutta sen jälkeen uutta hevosta tuskin tulee.  
-  
-KYSYMYKSET  
-  
+_\-_ En kai mitään erityistä. Sotilaan pidän sen loppuelämän, mutta sen jälkeen uutta hevosta tuskin tulee.
+
+KYSYMYKSET
+
 1\. Mitä harrastaisit jos et harrastaisi hevosia?  
 2\. Oletko koskaan turhautunut täysin hevosharrastukseen? Milloin?  
 3\. Miten harrastuksesi ehkä muuttuu tulevaisuudessa?  
@@ -80,9 +71,8 @@ KYSYMYKSET
 8\. Miten käsitys unelmahevosestasi on muuttunut?  
 9\. Oletko aloittanut ponityttönä? Onko siitä ollut hyötyä/haittaa?  
 10\. Haluatko töihin hevosalalle?  
-11\. Miten selviät pimeästä talvesta hevosen kanssa?  
-  
-Ihan yhtätoista blogia en taida keksiä haastettavaksi, mutta haasteen saavat [Christa & Dandy](http://kilpasilakka.blogspot.fi/), [S. Kaskinen](http://skaskinen.blogspot.fi/), [The Best Of F(all)](http://kouluponi.blogspot.fi/) ja [Amazig horses](http://lookatmyhorsemyhorseisamazing.blogspot.fi/).  
-  
+11\. Miten selviät pimeästä talvesta hevosen kanssa?
+
+Ihan yhtätoista blogia en taida keksiä haastettavaksi, mutta haasteen saavat [Christa & Dandy](http://kilpasilakka.blogspot.fi/), [S. Kaskinen](http://skaskinen.blogspot.fi/), [The Best Of F(all)](http://kouluponi.blogspot.fi/) ja [Amazig horses](http://lookatmyhorsemyhorseisamazing.blogspot.fi/).
 
 [![](/images/ak.png)](http://4.bp.blogspot.com/-o6SxX_etlJE/UP2WewsflnI/AAAAAAAAE8U/DFGAH4CfOS8/s1600/ak.png)

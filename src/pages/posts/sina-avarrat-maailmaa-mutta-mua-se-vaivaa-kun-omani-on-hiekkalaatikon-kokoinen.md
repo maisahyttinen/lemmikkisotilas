@@ -1,6 +1,6 @@
 ---
 title: "Sinä avarrat maailmaa, mutta mua se vaivaa kun omani on hiekkalaatikon kokoinen."
-date: "2016-06-10"
+date: 2016-06-10
 id: "832"
 slug: "sina-avarrat-maailmaa-mutta-mua-se-vaivaa-kun-omani-on-hiekkalaatikon-kokoinen"
 coverImageId: "415"
@@ -32,15 +32,13 @@ Metsässä spoltouhu on kaukana rakennetun alueen elokuvameiningistä - tämän 
 
 [![](/images/17-300x200.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/06/17.png)[![](/images/3-300x200.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/06/3.png)
 
- 
-
 Omalla aika sairaalla tavallaan maastoviikot ovat yksi parhaista jutuista intissä. Etenkin nyt kesällä on ihan hauskaa nukkua taivasalla, valoisina öinä metsässä on helppo liikkua ja tilanteet kehittyvät yllättävästi, kun molemmat osapuolet tekevät ratkaisuja täysin omillaan. Jännitys on parhaimmillaan melkoinen! Metsässä höntyilystä seuraa kuitenkin joka kerta niin päättymätön nääntymys, että ilman koulutus- ja vartioviikkojen kevyttä ohjelmaa voisi puhua jo ihan oikeasta armeijatouhusta.
 
 Olen aina viihtynyt hyvin Netflixin ääressä, mutta menneiden 150 päivän aikana olen katsellut kaikkea mahdollista turhaa enemmän kuin ikinä. Etenkin vartiossa on aikaa. Tai voisi sanoa paremminkin niin, että meillä ei mitään muuta olekaan kuin aikaa. Meidän ryhmämme lähtee yleensä maastoviikolta suoraan vartioon, joten lepoviikko osuu parhaaseen mahdolliseen kohtaan. Aina täynnä oleva jääkaappi, parhaimmillaan 20 tuntia vapaa-aikaa päivässä eikä oikeastaan tietoakaan armeijan muodollisuuksista. Vartioviikot tekevät ehkä kaikkein suurimman eron meidän ja kaikkien muiden koulutushaarojen välille. Kaikkein rankimmat, tylsimmät ja vaikeimmatkin koulutusjaksot päättyvät lopulta vartioon. Me tiedämme aina milloin lepoviikko on tulossa, muut eivät etukäteen tiedä milloin kurjuus loppuu.
 
 [![](/images/27-image-200x300.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/06/27-image.png)[![](/images/9-200x300.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/06/9.png)
 
- VARTIOSSA ON HYVIN AIKAA GRILLATA ESIM JOKA ILTA. KASARMILLA ILTA VIETETÄÄN SEN SIJAAN PÄIVÄPEITTOA TAITELLEN..
+VARTIOSSA ON HYVIN AIKAA GRILLATA ESIM JOKA ILTA. KASARMILLA ILTA VIETETÄÄN SEN SIJAAN PÄIVÄPEITTOA TAITELLEN..
 
 Koulutusviikkoja on ihan laidasta laitaan. Pahimmillaan viikkotolkulla täysin turhia, koulutukseen mitenkään liittymättömiä nakkihommia; liikenteen- ja järjestyksenvalvontaa, tapahtumien rakentamista, ylimääräisiä apukäsiä sinne tai tänne.. Parhaimmillaan esimerkiksi asutuskeskustaistelua ja suojaustehtäviä, suoraan toimintaelokuvista! Viime viikonloppuna valtasimme rakennuksia, busseja ja pääsimme räiskimään junaankin. Sitä on vaikea selittää miltä tuntuu, kun 20 taistelijaa syöksyy rakennukseen ja lähes silmänräpäyksessä tarkistaa, kiinniottaa ja/tai tuhoaa kaiken vastaantulevan. Koskaan ei tarkalleen tiedä mitä on vastassa. Toimintaleffafiilikseen pääsee viimeistään siinä vaiheessa kun kymmenkunta rynnäkkökivääriä nakuttaa sisätiloissa samaan aikaan! Toisaalta paljon rauhallisempi siviilialueella harjoitteleminen on melkein yhtä siistiä - esim. sotilassaattue lentokentän terminaalin edessä herättää aika isosti huomiota.
 
@@ -51,8 +49,6 @@ TUNTUU HASSULTA AJATELLA, ETTÄ VASTA IHAN VÄHÄN AIKAA SITTEN OLI NÄIN KYLMÄ
 TÄMÄN VIIKON LEIRIEVÄÄT, KUUDELLE PÄIVÄLLE. JA SAMAN LEIRIN MUSTELMASALDO, LISÄNÄ VIELÄ YKSI AINA YHTÄ HYVÄ KUUME.
 
 [![](/images/15-200x300.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/06/15.png)[![](/images/16-200x300.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/06/16.png)
-
- 
 
 Ei siitä silti mihinkään pääse, että onhan tämä edelleen parasta ikinä. Viimeaikoina pistänyt ihan kirjaimellisestikin polvilleen (kuten ehkä kuvastakin näkee, heh) ja yhtä suurta henkistä työmaata tuskin tulen koskaan kohtaamaan, mutta jokainen aamu on vieläkin yhtä hyvä. Kunhan tästä univelasta ja kipeilystä taas selviää! Niin vähän enää jäljellä, että pitäisi valittamisen sijaan muistaa pitää hauskaa.
 

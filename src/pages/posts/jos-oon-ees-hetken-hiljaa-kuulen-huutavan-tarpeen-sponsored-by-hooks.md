@@ -1,6 +1,6 @@
 ---
 title: "Jos oon ees hetken hiljaa, kuulen huutavan tarpeen. Sponsored by Hööks."
-date: "2015-09-25"
+date: 2015-09-25
 id: "857"
 slug: "jos-oon-ees-hetken-hiljaa-kuulen-huutavan-tarpeen-sponsored-by-hooks"
 coverImageId: ""

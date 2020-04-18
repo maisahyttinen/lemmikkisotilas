@@ -1,6 +1,6 @@
 ---
 title: "Ennen maailman rauhaa sun pitää ite olla rauhassa. Rauhotu. Mikä muu tänne rauhan tois?"
-date: "2015-11-27"
+date: 2015-11-27
 id: "842"
 slug: "ennen-maailman-rauhaa-sun-pitaa-ite-olla-rauhassa-rauhotu-mika-muu-tanne-rauhan-tois"
 coverImageId: "1237"
@@ -12,8 +12,6 @@ post_button_label: "Lue lisää"
 
 Talvi käväisi parin päivän vierailulla täälläkin. Auton ratissa vähän hirvitti, mutta muuten pieni kerros lunta ja muutama aste pakkasta oli toivottua vaihtelua vesisateelle. Enää lumista ei ole tietoakaan. Nyt maan jäätyessä olen taas erittäin kiitollinen maneesista. Ei hyistä tuulta, ei jäisiä pohjia eikä tilsoja. Eikä haittaa sekään, että aurinko laskee jo kolmelta iltapäivällä. Koko internet on täynnä tuoreita toinen toistaan ihanampia talvikuvia. En oikeastaan pidä talvesta lainkaan, mutta kauniita maisemia ja aurinkoa on kyllä jo ikävä.
 
- 
-
 [![](/images/201511202316268318.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2015/11/201511202316268318.png)
 
 Olen ratsastanut Sotilaalla nelisen kertaa viikossa. Edelleen ihan perusratsastusta vain. Pitkään edistys oli jopa erittäin lupaavaa, mutta ensimmäiseet pakkaset toivat taas mukanaan omat lieveilmiönsä. Sotilas on aina reagoinut säiden viilenemiseen selvästi ja etenkin pakkaset laittavat sen aika sekaisin. Muutama päivä sitten sain pitkästä aikaa muistutuksen siitä, miksi on syytä pitää kypärä päässä ja ohjat kädessä vaikka tarkoitus olisi vain kävellä oman tossukan kanssa neljän seinän sisällä.
@@ -23,8 +21,6 @@ Olemme höntsäilleet ilman satulaa, Sotilas vähän lämmittävään cooleriin 
 Edellisten vuosien tapaan klippaaminen (kolmas kerta tänä syksynä..) tönäisi kupin lopullisesti nurin. Eilen lähdettiinkin sitten töihin satuloituna, ensimmäistä kertaa pariin kuukauteen. Perjantaina Sotilaan lääkäristä on kulunut 6 viikkoa ja takajalka tuntuu oikeinkin hyvältä. Alan olla jo itsekin niin täynnä päivästä toiseen kävelemistä, etten voinut vastustaa kiusausta vähän hölkätä tyhjässä maneesissa. En olisi uskonut kuinka hyvältä neljä kierrosta ravia voikaan tuntua! Hyvien pohjatöiden jälkeen iloisesti yllättynyt Sotilas antoi aivan parastaan. Seuraavat kaksi viikkoa taitavat kulua aika hitaasti..
 
 [![](/images/201511202316303278.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2015/11/201511202316303278.png)
-
- 
 
 Joulu lähestyy niin kovalla vauhdilla, että joululahjat alkavat olla ajankohtainen juttu. Ainakin minun tapauksessani ehkä jopa ongelma. Aloitin lahjaostokset poikkeamalla **[Veljekset Wahlsténilla](http://veljwahlsten.com/)**. Lahti ei ole aivan Lappeenrannan naapurissa, mutta reissaaminen kannattaa! Wahlsténilla on aina yhtä mukavaa käydä ja tälläkin kertaa mukaan tarttui kaiken tarvitsemani lisäksi lämmin joulufiilis.
 

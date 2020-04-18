@@ -1,6 +1,6 @@
 ---
 title: "elämä sivuvaikutuksista vakavin, en muista enää mitää mut jotain nää kesät opettaa."
-date: "2013-07-08"
+date: 2013-07-08
 id: "985"
 slug: "elama-sivuvaikutuksista-vakavin-en-muista-enaa-mitaa-mut-jotain-naa-kesat-opettaa"
 coverImageId: ""

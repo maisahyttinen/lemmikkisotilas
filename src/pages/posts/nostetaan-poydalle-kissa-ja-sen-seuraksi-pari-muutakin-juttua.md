@@ -1,6 +1,6 @@
 ---
 title: "Nostetaan pöydälle kissa ja sen seuraksi pari muutakin juttua."
-date: "2016-08-31"
+date: 2016-08-31
 id: "829"
 slug: "nostetaan-poydalle-kissa-ja-sen-seuraksi-pari-muutakin-juttua"
 coverImageId: ""
@@ -24,8 +24,6 @@ Sen kunniaksi **elokuun 8 hyvää**!
 
 NOPEASTI VANHAN ASUNNON POHJALTA SISUSTETTU, MUTTA TUNTUU SILTI JO NYT KODILTA.
 
- 
-
 \- _Uusi asunto_. Erosimme Vilpun kanssa alkukeväästä ja elokuun puolivälissä muutimme erilleen. Harmittaa kovasti, mutta olemme edelleen naapureita ja ystäviä. Ja oikeasti olen aika innoissani ihan omasta pikku yksiöstä. Etenkin kun se on aivan uusi!
 
 \- _Kissa_. Olen haaveillut kissasta jo pitkään ja nyt sen hankkiminen on vihdoin mahdollista. Valitsin itselleni Lappeenrannan eläinsuojeluyhdistykseltä uutta kotia etsivän 9-vuotiaan kisuherran. Haen sen kotiin muutama päivä kotiutumiseni jälkeen.
@@ -41,8 +39,6 @@ SAANKO ESITELLÄ, UUSI JA TOIVOTTAVASTI PITKÄAIKAINEN KISSAYSTÄVÄNI ISMO.
 [![](/images/5-200x300.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/08/5.png)[![](/images/6-200x300.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/08/6.png)
 
 YKSI PARHAISTA YSTÄVISTÄNI ALOITTAA INTIN TAMMIKUUSSA. AIKA JÄNNÄÄ!
-
- 
 
 \- _Koulu_, joka jatkuu tammikuussa. Ehdin opiskella yritysjuridiikkaa puolitoista vuotta ennen inttiinlähtöä. Koko sen ajan taistelin ihan jaksamisen äärirajoilla työn, tallin ja koulun yhteensovittamisen kanssa. Tammikuussa jatkan monimuoto-opiskelijana, joten ajankäytöllinen katastrofi on siitä eteenpäin vältettävissä. Motivaatiotakin riittää taas.
 

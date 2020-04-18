@@ -1,6 +1,6 @@
 ---
 title: "Tää on ku heroiinii, ei kovin puhdasta. En erota kipua enää aistien juhlasta."
-date: "2015-11-14"
+date: 2015-11-14
 id: "846"
 slug: "taa-on-ku-heroiinii-ei-kovin-puhdasta-en-erota-kipua-enaa-aistien-juhlasta"
 coverImageId: "1249"

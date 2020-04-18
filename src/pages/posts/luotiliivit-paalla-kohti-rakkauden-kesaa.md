@@ -1,6 +1,6 @@
 ---
 title: "Luotiliivit päällä kohti rakkauden kesää."
-date: "2018-07-13"
+date: 2018-07-13
 id: "1979"
 slug: "luotiliivit-paalla-kohti-rakkauden-kesaa"
 coverImageId: "2134"

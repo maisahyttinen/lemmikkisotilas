@@ -1,6 +1,6 @@
 ---
 title: "Talvi kääntyy muutosten kevääseen - parhaana päätöksenä muutto uuteen talliin"
-date: "2019-03-24"
+date: 2019-03-24
 id: "3710"
 slug: "muutosten-kevat-hevosenomistajan-kohonnut-riski-jaada-sittenkin-eloon-talven-jalkeen"
 coverImageId: "4178"
@@ -18,7 +18,7 @@ Meille tämä kevät on tarkoittanut monenlaista muutosta. Suurimpana ja tärkei
 
 ![](/images/MG_3392_2-1000x667.jpg)
 
-Harvinaista todistusaineistoa - ratsastan ihan itse! Kuva: Merika Kallio Photography  
+Harvinaista todistusaineistoa - ratsastan ihan itse! Kuva: Merika Kallio Photography
 
 ### Selkeät rutiinit ja mieluisat hevoskaverit ovat tehneet Sotilaalle hyvää.
 

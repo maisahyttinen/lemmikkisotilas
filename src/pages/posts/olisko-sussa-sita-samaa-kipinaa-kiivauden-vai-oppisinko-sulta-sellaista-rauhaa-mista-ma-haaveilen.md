@@ -1,6 +1,6 @@
 ---
 title: "Olisko sussa sitä samaa kipinää kiivauden? Vai oppisinko sulta sellaista rauhaa, mistä mä haaveilen?"
-date: "2018-10-14"
+date: 2018-10-14
 id: "2612"
 slug: "olisko-sussa-sita-samaa-kipinaa-kiivauden-vai-oppisinko-sulta-sellaista-rauhaa-mista-ma-haaveilen"
 coverImageId: "2663"
@@ -10,7 +10,7 @@ post_button_label: "Lue lisää"
 
 Ratsastuskoulu Kaviohovilla oli erittäin hyvä maastakäsittelyä käsittelevä Facebook-postaus aiemmin tällä viikolla. Maastakäsittely aiheuttaa terminä ristiriitaisia tunteita, mutta tämä tiivistää omat ajatukseni todella hyvin.
 
-> _"Lieneekö sillä niin väliä miten hevosta taluttaa? __Taluttaminen on mm juurikin sitä jokapäiväistä "maastakäsittelyä" jota jokainen hevosten kanssa touhuava tekee. Hevonen oppii jokaisesta näistä tilanteesta jotain, joko - meidän ihmisten kannalta - hyviä tai huonoja asioita."_ \- Kaviohovi
+> _"Lieneekö sillä niin väliä miten hevosta taluttaa? \_\_Taluttaminen on mm juurikin sitä jokapäiväistä "maastakäsittelyä" jota jokainen hevosten kanssa touhuava tekee. Hevonen oppii jokaisesta näistä tilanteesta jotain, joko - meidän ihmisten kannalta - hyviä tai huonoja asioita."_ \- Kaviohovi
 
 ![](/images/IMG_2779.jpg)
 
@@ -27,9 +27,9 @@ Hyvinkin tehtynä se puolituntinen kentällä kahdesti viikossa opettaa hevosell
 Monen hevosen käytösongelmien juuret ovat epäjohdonmukaisessa peruskäsittelyssä. Lähes yhtä monen hevosen kanssa ratkaisuakin kannattaisi etsiä ensimmäisenä juuri sieltä.
 
 > "Hevosen kommunikointi on pääosin kehonkieltä. Pieniä eleitä ja liikkeitä silmissä, sieraimissa, suupielissä... Asentomuutoksia korvissa, niskassa, kaulassa... Painonsiirtoja ja liikkeen suuntaamisia jaloissa, lavoissa... Vain pieni osa hevosenkielestä on äänimaailmaa, hirnumista tai hörinää.
-> 
+>
 > Luontaisesti se yrittää ymmärtää myös ihmisten kehonkieltä siitä huolimatta että ollaan hyvin erilaisia kehoiltamme. Pienetkään muutokset ilmeissä, katseen suunnassa, hartioitten asennossa, hengityksessä, energiatasossa jne ei jää hevoselta huomaamatta.
-> 
+>
 > Eikö olisikin mahtavaa jos oppisi tiedostamaan mitä kehomme liike, painopiste, energia ja suuntaus hevoselle viestittää?" - Kaviohovi
 
 Kuinka tietoisesti ja hyvin luet hevostasi esimerkiksi satuloidessasi sitä? Kuinka pieniin muutoksiin reagoit? Muutatko omaa toimintaasi hevosen eleiden perusteella? Moni havahtuu vasta sitten kun hevonen jo luimii, irvistelee tai käyttäytyy ratsastaessa arvaamattomasti, vaikka se olisi jo viikkoja yrittänyt viestiä epämukavuudestaan esimerkiksi siirtelemällä painoaan puolelta toiselle.

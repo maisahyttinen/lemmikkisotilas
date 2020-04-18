@@ -1,6 +1,6 @@
 ---
 title: "Mulla varmaan tarina on kaikken katkerin..."
-date: "2013-01-27"
+date: 2013-01-27
 id: "1042"
 slug: "mulla-varmaan-tarina-on-kaikken-katkerin"
 coverImageId: "2068"
@@ -24,7 +24,7 @@ Mikään kummoinen ravihevonen se ei ollut. Juoksi vain omaa tappavan tasaista t
 
 [![](/images/mmm2.png)](http://3.bp.blogspot.com/-y0-v66oUAXA/UP-6A-QXIYI/AAAAAAAAE9U/BVGtNuCX-rc/s1600/mmm2.png)[![](/images/mmm1.png)](http://4.bp.blogspot.com/-j1cd5Fs3MW8/UP-6AwRZaEI/AAAAAAAAE9Q/H1i-HowZhqw/s1600/mmm1.png)
 
- _Prinsessa entiseltä omistajaltaan Joensuussa 27.7.2004 ja 10.4.2005. Molemmat c. Jutta Ikonen._
+_Prinsessa entiseltä omistajaltaan Joensuussa 27.7.2004 ja 10.4.2005. Molemmat c. Jutta Ikonen._
 
 Armottoman kestävää pitkänmatkansankariani oli treenattu kuulemani mukaan aikaisemmin aika rajusti, joten jo ennen meille tuloaan se oli nähnyt todennäköisesti enemmän kilometrejä kuin moni hevonen näkee koko elinaikanaan. Mitenkään erityisen sulavaliikkeinen olento se ei ollut ja oikeastaan on pieni ihme, että se oli jaloistaan täysin terve. Koskaan en ole nähnyt yhtä siroja ja kuivia jalkoja. Muuten se ei sitten ollutkaan aivan ongelmaton. Kilpailutilanne oli aina stressaava ja jo valmiiksi hoikalle hevoselle oli aika raskasta reagoida siihen mahallaan. Vähitellen ravurin ura kuivui kasaan. Viimeisen starttinsa se juoksi 23.5.2012 Kausalassa, oman kylän pikkuradalla. Ei se nuorikaan enää ollut.
 
@@ -33,8 +33,6 @@ Armottoman kestävää pitkänmatkansankariani oli treenattu kuulemani mukaan ai
 _Kouvolassa 27.8.2009 ja 11.4.2010. Hieno muttei kovin nopea._
 
 1.8.2010 prinsessani muutti yksityistallille Artjärvelle ja siirtyi kokonaan minun omistukseeni. Siitä alkoi siihenastisen elämäni parhaat puoli vuotta. Ratsun alkeet Pentu oli oppinut jo aikaisemmin - laukka nousi ja perusavut olivat tuttuja. Kentällä ratsastaminen toi touhuun kuitenkin paljon uutta, joten yhteinen aikamme kentän aitojen sisäpuolella kului lähes kokonaan uusia asioita opetellessa. Alku oli haparoiva, mutta nopeasti huomasin istuvani hevosen selässä, joka antoi itsestään aina juuri yhtä paljon kuin minäkin annoin. Sen jälkeen en enää koskaan tuntenut oloani turvattomaksi omani kanssa. En ole varma kumpi meistä oppi enemmän. Olin ensimmäistä kertaa omillani hevoseni kanssa.
-
- 
 
 [![](/images/mmm4.png)](http://4.bp.blogspot.com/-AUELzVyaCi0/UP_BXqTbt_I/AAAAAAAAE-Q/aQKekd1or7Q/s1600/mmm4.png)[![](/images/IMG_1699.png)](http://4.bp.blogspot.com/-BVm3USgz9bk/UP_BTy2E0II/AAAAAAAAE-I/VjL5Rn0qoFk/s1600/IMG_1699.png)
 
@@ -56,7 +54,7 @@ Laukkaamaan Pentu oppi silloisen valmentajansa kanssa jo vuosia aikaisemmin, mut
 
 [![](/images/IMG_0104.png)](http://4.bp.blogspot.com/-Djgw_Y-tVtw/UP_JxOEmyNI/AAAAAAAAE_c/lUV90VGZeRo/s1600/IMG_0104.png)[![](/images/IMG_0397.png)](http://3.bp.blogspot.com/-X4wjiZaD5ZM/UP_KjsG4WmI/AAAAAAAAE_s/xDnqQjj9P0g/s1600/IMG_0397.png)
 
- _Irrallaan juokseminen kentällä oli parhautta ja Tortolan peltoradalla otteet olivat kuin laukkahevosella._
+_Irrallaan juokseminen kentällä oli parhautta ja Tortolan peltoradalla otteet olivat kuin laukkahevosella._
 
 Vietimme viidennen yhteisen joulumme ja uusi vuosi alkoi lupaavasti, vaikka talvi alkoi tökkiä etenkin lyhytkarvaista vilukissaani. Lupaava alku päättyi kuitenkin seinään: 27.1.2011 sain kesken koulupäivän tekstiviestin, jossa kerrottiin ettei Pentu suostu liikkumaan. Se ei varannut painoa toiselle etujalalle ja tärisi paksun toppaloimen alla. Tallilla odotti kolmijalkainen ja väsynyt hevonen, joka ensin kieltäytyi täysin liikkumasta, mutta horjui lopulta urheasti kolmella terveellä jalallaan sisälle. Kaikki tuntui romahtavan sekunnissa kun eläinlääkäri ei ollut edes varovaisen toiveikas ja veikkasi jalan olevan murtunut. Emme suostuneet luovuttamaan ihan vielä ja Hyvinkään hevosklinikalle ilmoitettiin mahdollisimman pikaisesta tulostamme.
 

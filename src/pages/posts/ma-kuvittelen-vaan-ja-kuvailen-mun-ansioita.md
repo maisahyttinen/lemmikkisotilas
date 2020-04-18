@@ -1,6 +1,6 @@
 ---
 title: "Valokuvauspäivä M&M"
-date: "2018-09-06"
+date: 2018-09-06
 id: "2272"
 slug: "ma-kuvittelen-vaan-ja-kuvailen-mun-ansioita"
 coverImageId: "2292"
@@ -12,7 +12,7 @@ Elokuu on ohi - aika hyvästellä kesä, vetää villasukat jalkaan ja sytytell�
 
 Instagram-seuraajat ovatkin jo saaneet jonkin verran maistiaisia 6.8. järjestetystä kuvauspäivästä - kutsuimme Mirella Ruotsalaisen (www.hertjekker.net) kanssa pari vierasta valokuvaajaa yhden illan teemakuvauksiin. Arvoimme osallistujat Instagram-kilpailun osallistujista. Mukaan pääsivät Jaana Vuola (Photos by Jaana) ja Ella Tikkanen (Ella T. Photography).
 
-\[caption id="attachment\_2287" align="alignnone" width="2048"\]![](/images/38537724_2155690241383665_7069699817722609664_o.jpg) Kuva: Jaana Vuola\[/caption\]
+\[caption id="attachment_2287" align="alignnone" width="2048"\]![](/images/38537724_2155690241383665_7069699817722609664_o.jpg) Kuva: Jaana Vuola\[/caption\]
 
 Pitkään näytti, että saamme maanantai-iltapäivälle kauniin auringonpaisteen, mutta lopulta kuvasimme vuoron perään sateessa, myrskytuulessa ja illan viimeisissä varovaisissa auringonsäteissä. Oli ihana nähdä, että porukalla riitti intoa ja iloa siitä huolimatta.
 
@@ -20,7 +20,7 @@ Suunnittelimme etukäteen pari valmista teemaa - poseerauskuvia lähes kirjaimel
 
 Sotilaan poseerauskuvat otettiin ohuen "kuvausriimun" kanssa, joka on helppo editoida pois jälkikäteen. Tässä postauksessa on valitettavasti esillä kuvia vain Sotilaasta (editointityö vie aikansa), mutta lupaan jakaa myöhemmin kuvia myös muista malleista.
 
-\[caption id="attachment\_2292" align="alignnone" width="800"\]![](/images/unknown-soldier-112-Edit-3.jpg) Kaikki vaaleanpunaiset kuvat: Mirella Ruotsalainen / herjekker.net\[/caption\]
+\[caption id="attachment_2292" align="alignnone" width="800"\]![](/images/unknown-soldier-112-Edit-3.jpg) Kaikki vaaleanpunaiset kuvat: Mirella Ruotsalainen / herjekker.net\[/caption\]
 
 Tähän yhteen kuvaan kiteytyy oikeastaan koko iltapäivän idea. Olimme Mirellan kanssa jo hetken halunneet kokeilla kevyttä värillistä jauhoa, joka leviää tuulen mukana pölynä ilmaan.
 
@@ -54,10 +54,10 @@ Jauhe irtosi hevosen selästä odotettua raskaammin ja sitä olisi pitänyt levi
 
 Kaiken kaikkiaan opettavainen kokemus. Jauheita kului yhteensä kaksi kiloa - kilo pinkkiä ja kilo violettia. Määrä riitti kahteen epäonnistuneeseen yritykseen (joihin ei onneksi tuhlattu jauhetta kovin paljon) ja yhteen reilumpaan vetoon. Näin jälkeenpäin ajateltuna värivalinta oli aavistuksen mauton, mutta ainakin huomiota herättävä. Ehkä seuraavaksi kuitenkin valkoista.
 
-\[caption id="attachment\_2299" align="alignnone" width="800"\]![](/images/unknown-soldier-derp.jpg) Aika lailla juuri tätä tarkoitan sillä, ettei Sotilas ole aina edustavimmillaan kirmaillessaan laitumella...\[/caption\]
+\[caption id="attachment_2299" align="alignnone" width="800"\]![](/images/unknown-soldier-derp.jpg) Aika lailla juuri tätä tarkoitan sillä, ettei Sotilas ole aina edustavimmillaan kirmaillessaan laitumella...\[/caption\]
 
 Viikko näiden kuvausten jälkeen pakkasimme hevoset autoon ja hurautimme Mirellan ja Marle Muurosen kanssa Yyterin ilta-aurinkoon. Senkin reissun kuvat ovat pian kokonaan julkaistavissa.
 
 Syksyn ruskaa ja harmaita säitä odotellessa kävin ostamassa ProAirsoftista savuheitteitä. Haluaisin tänä syksynä toteuttaa jonkinlaisen säässä kuin säässä -projektin. Sateisen harmaaseen syyssäähän täytyy löytyä jokin säväyttävä näkökulma. Jos nyt ensin tulisi sitä sadetta!
 
-\[caption id="attachment\_2288" align="aligncenter" width="667"\]![](/images/39453750_1188178427987637_9017220517249155072_n-667x1000.jpg) Suosikkikuvani koko päivältä. Luonto ja hevonen rehellisimmillään. Kuva: Jaana Vuola\[/caption\]
+\[caption id="attachment_2288" align="aligncenter" width="667"\]![](/images/39453750_1188178427987637_9017220517249155072_n-667x1000.jpg) Suosikkikuvani koko päivältä. Luonto ja hevonen rehellisimmillään. Kuva: Jaana Vuola\[/caption\]

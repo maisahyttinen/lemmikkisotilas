@@ -1,6 +1,6 @@
 ---
 title: "osa sust kulkee mun mukana"
-date: "2011-03-28"
+date: 2011-03-28
 id: "1180"
 slug: "osa-sust-kulkee-mun-mukana"
 coverImageId: ""
@@ -14,15 +14,9 @@ _Mitäpä jos se työ on tehty hartaasti ja yksinoikeudella?_
 
 _Yksinoikeudella._
 
-  
-
 [![](/images/IMG_0194.png)](http://3.bp.blogspot.com/-L34Uh1pVQGA/TZDMWVeSs4I/AAAAAAAAAEg/oVOnj2BGOsQ/s1600/IMG_0194.png)
 
-  
-
 Prinsessa lähti kaks kuukautta sitte.. Tuntuu et ikävä ei helpota yhtää, päinvaston. Mut kyl tää kai joskus. Pakko. Vieläkää ei lohduta yhtään, et mitään muuta mahista ei ollu. Mut miks just me? Ei todella mee nallekarkit tasan. Voi rakas kultapieni..
-
-  
 
 _Ja vaikka hetki on raskas ja vaikea  
 Se on elettävä huolella_  

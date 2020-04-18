@@ -1,6 +1,6 @@
 ---
 title: "pehmopylly nyt hurjaks vähän yltyny"
-date: "2012-02-27"
+date: 2012-02-27
 id: "1144"
 slug: "pehmopylly-nyt-hurjaks-vahan-yltyny"
 coverImageId: ""

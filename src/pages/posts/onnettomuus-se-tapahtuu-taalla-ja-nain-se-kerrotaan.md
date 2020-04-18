@@ -1,6 +1,6 @@
 ---
 title: "onnettomuus - se tapahtuu täällä. ja näin se kerrotaan."
-date: "2012-04-25"
+date: 2012-04-25
 id: "1132"
 slug: "onnettomuus-se-tapahtuu-taalla-ja-nain-se-kerrotaan"
 coverImageId: ""

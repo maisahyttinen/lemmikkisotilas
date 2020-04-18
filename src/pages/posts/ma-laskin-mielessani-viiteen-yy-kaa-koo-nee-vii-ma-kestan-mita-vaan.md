@@ -1,6 +1,6 @@
 ---
 title: "Mä laskin mielessäni viiteen. Yy kaa koo nee vii, mä kestän mitä vaan!"
-date: "2014-11-13"
+date: 2014-11-13
 id: "896"
 slug: "ma-laskin-mielessani-viiteen-yy-kaa-koo-nee-vii-ma-kestan-mita-vaan"
 coverImageId: ""

@@ -1,6 +1,6 @@
 ---
 title: "Hevosen kehonhuolto: faskiakäsittely & kinesioteippaus"
-date: "2018-08-07"
+date: 2018-08-07
 id: "2149"
 slug: "en-tieda-mita-tapahtuu-kun-kaikenlaista-tapahtuu"
 coverImageId: "2175"
@@ -10,7 +10,7 @@ post_button_label: "Lue lisää"
 
 Uskon hevosten kehonhuollon suhteen ensisijaisesti tuloksiin. Konkreettisiin, näkyviin muutoksiin.
 
-\[caption id="attachment\_2175" align="alignnone" width="1000"\]![](/images/IMG_0411-1.jpg) Kuvassa on lihaskalvojen käsittelyyn tarkoitettu faskiarauta. - " Lihaskalvotekniikoilla pyritään vaikuttamaan hermostoon rauhoittavasti, ei niinkään mekaanisesti "avata" kalvoja. "\[/caption\]
+\[caption id="attachment_2175" align="alignnone" width="1000"\]![](/images/IMG_0411-1.jpg) Kuvassa on lihaskalvojen käsittelyyn tarkoitettu faskiarauta. - " Lihaskalvotekniikoilla pyritään vaikuttamaan hermostoon rauhoittavasti, ei niinkään mekaanisesti "avata" kalvoja. "\[/caption\]
 
 Hevonen on valtavan kokoinen ja monimutkainen kokonaisuus, josta on helppo puhua niin suurin sanoin, ettei omistaja lopulta oikein edes tiedä mistä juuri puhuttiin. Pelkälle juttelullekin kertyy hintaa helposti 100 euroa tunnilta ja usein ihminen näkee sitä mitä haluaa nähdä, jolloin hevosessakin näkyy ehkä muutosta.
 

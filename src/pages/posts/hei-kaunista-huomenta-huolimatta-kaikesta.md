@@ -1,6 +1,6 @@
 ---
 title: "Hei, kaunista huomenta! Huolimatta kaikesta."
-date: "2018-03-04"
+date: 2018-03-04
 id: "1516"
 slug: "hei-kaunista-huomenta-huolimatta-kaikesta"
 coverImageId: "1550"
@@ -22,7 +22,7 @@ Vaihdamme mahdollisimman kapeaan/ohueen turpahihnaan tai kokonaan turpahihnattom
 
 Raspauksen jälkeen Sotilaan ratsastettavuus muuttui huomattavasti. Enää ei ratsastella pelkästään parilla sormella... Se on kuitenkin lähes pelkästään positiivista. Nyt Sotilas tulee rohkeasti kuolaimelle - toisinaan turhankin rohkeasti - ja tuntuma on aiempaa parempi ja tasaisempi.
 
-\[caption id="attachment\_1550" align="aligncenter" width="800"\]![](/images/unknown-soldier-30.jpg) Pakko myöntää, että tällä hetkellä Sotilas näyttää paremmalta liikkeessä. Ja klippaamisessakin olisi näköjään parantamisen varaa...\[/caption\]
+\[caption id="attachment_1550" align="aligncenter" width="800"\]![](/images/unknown-soldier-30.jpg) Pakko myöntää, että tällä hetkellä Sotilas näyttää paremmalta liikkeessä. Ja klippaamisessakin olisi näköjään parantamisen varaa...\[/caption\]
 
 Sunnuntain (18.2.) ratsastustunti antoi onneksi uskomattoman määrän uutta intoa ja motivaatiota!
 

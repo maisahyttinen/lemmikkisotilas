@@ -1,6 +1,6 @@
 ---
 title: "kaikki ilo irti siit, mut mil tapaa? villi ja vapaa!"
-date: "2011-06-05"
+date: 2011-06-05
 id: "1167"
 slug: "kaikki-ilo-irti-siit-mut-mil-tapaa-villi-ja-vapaa"
 coverImageId: ""

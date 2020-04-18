@@ -1,6 +1,6 @@
 ---
 title: "Takkuinen, tahmea ja tuottamaton tammikuu - 5 hyvää & 3 huonoa"
-date: "2019-01-26"
+date: 2019-01-26
 id: "3597"
 slug: "takkuinen-tahmea-ja-tuottamaton-tammikuu-5-hyvaa-3-huonoa"
 coverImageId: "4184"

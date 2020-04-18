@@ -1,6 +1,6 @@
 ---
 title: "Teemakuvaus: savuheitteet"
-date: "2018-11-19"
+date: 2018-11-19
 id: "2721"
 slug: "ala-ravistele-puuta-en-halua-tietaa-mita-putoaa"
 coverImageId: "2722"
@@ -23,7 +23,7 @@ Siksi mekin kokeilimme savuheitteitä ensimmäistä kertaa tasaisella, aidatulla
 Tovin Googlailun perusteella kävin paikallisessa airsoft-liikkeessä ostamassa eri kokoisia Enola Gaye -savuheitteitä. Kahdelle pienelle ja kahdelle suuremmalle heitteelle tuli hintaa noin 30 euroa.
 
 > " Uusi Enola Gaye -savuheite on kehittynein siviilimarkkinoilla oleva savukranaatti tällä hetkellä. Uusimmassa versiossa on ammattitasoinen vetosytytin, jota on helppo ja turvallinen käyttää. Savuheitteitä on saatavilla 7 eri väriä. Väristä riippuen heite tuottaa 90-120 sekuntia erittäin paksua ja värikylläistä savuverhoa.
-> 
+>
 > Airsoft- ja paintball-harrastajien lisäksi Enola Gaye -savuheitteitä käytetään maailmalla laajalti ammattimaisessa valokuvauksessa, elokuvissa sekä palo- ja taisteluharjoituksissa. "
 
 Eri nettisivujen, aina yhtä luotettavan YouTuben ja airsoft-kaupan myyjän mukaan tuote on paloturvallinen eikä juuri kuumene. Nyt kokeiltuani rohkenen olla eri mieltä. Laukaistessa kipinäsuihku on melkoinen ja heitteeseen ei kärsi paljain käsin koskea heti sen tyhjennyttyä. YouTube-videoista saa hieman toisen käsityksen - osa polttaa näitä jopa kädessään.
@@ -38,7 +38,7 @@ Käy kurkkaamassa pieni videonpätkä Instagramista [**@maisahyttinen**](https:/
 
 Sotilas on tottunut ohueen kuvaushalteriin (nylonnaru, joka kulkee turvan ympäri ja niskan takaa) ja oli ihan hyvin hallittavissa vaikka innostui vähän tanssahtelemaankin. Jos siro halter ei ole tuttu, kannattaa ennemmin valita siisti ja tukeva riimu. Ohut naru painuu päähän terävästi jos sen kanssa reuhtoo - taluttajan täytyy pitää huolta, ettei halter kiristy liikaa, vaikka hevonen lähtisikin lentoon.
 
-\[caption id="attachment\_2727" align="alignnone" width="1000"\]![](/images/unknown-soldier-111-Edit-2.jpg) Yleensä näissä projekteissa syntyy yksi täydellinen kuva, jota varten koko homma tehtiin. Tällä kertaa se taitaa olla tämä.\[/caption\]
+\[caption id="attachment_2727" align="alignnone" width="1000"\]![](/images/unknown-soldier-111-Edit-2.jpg) Yleensä näissä projekteissa syntyy yksi täydellinen kuva, jota varten koko homma tehtiin. Tällä kertaa se taitaa olla tämä.\[/caption\]
 
 Tämän projektin yhteydessä tuli mietittyä aiempaa enemmän sitä miten hevonen kokee tällaiset tilanteet. Sotilaan kanssa on tehty paljon ja se on perusluonteeltaan luottavainen, mutta pohjimmiltaan sekin on "vain" eläin. Kaikkein älykkäimmänkin hevosen ymmärrys on rajallinen.
 

@@ -1,6 +1,6 @@
 ---
 title: "Vaikka säät kylmenee, on ilmas jotain hyvää."
-date: "2018-09-21"
+date: 2018-09-21
 id: "2373"
 slug: "vaikka-saat-kylmenee-on-ilmas-jotain-hyvaa"
 coverImageId: "2364"
@@ -30,7 +30,7 @@ Jonkin verran valveutuneena kuluttajana arvostan sitä, että Wahlstén valmista
 
 Ruotsin eläinsuojelulainsäädäntö on monin kohdin Suomeakin edellä, eikä nahantuotantoon käytettyjen eläinten elämää erikseen rajoiteta. Yleensä nahka on lihantuotannon sivutuote, jolloin naudasta tullaan hyödyntäneeksi kaikki käyttökelpoiset osat. Se on minusta tärkeää.
 
-\[caption id="attachment\_2366" align="alignnone" width="1000"\]![](/images/IMG_0902-2.jpg) Uudet tuotteet piirretään pahville käsin. Kaavojen perusteella tilataan metallinen muotti, jonka avulla nahkaa voidaan leikata.\[/caption\]
+\[caption id="attachment_2366" align="alignnone" width="1000"\]![](/images/IMG_0902-2.jpg) Uudet tuotteet piirretään pahville käsin. Kaavojen perusteella tilataan metallinen muotti, jonka avulla nahkaa voidaan leikata.\[/caption\]
 
 Sanotaan, että viileissä oloissa kasvanut pohjoismainen nahka on paksua, tasalaatuista ja kestävää. Etenkin halvempiin keinomateriaaleihin verrattuna laadukas nahka on pitkäikäinen, korjattava ja lopulta maatuvakin vaihtoehto.
 

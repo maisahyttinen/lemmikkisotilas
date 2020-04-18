@@ -1,6 +1,6 @@
 ---
 title: "2x joulukorttikuvat & DIY-tallistudio"
-date: "2018-12-24"
+date: 2018-12-24
 id: "3063"
 slug: "2x-joulukorttikuvat-diy-tallistudio"
 coverImageId: "3092"
@@ -36,16 +36,14 @@ Kuvattavana kävi hevosten lisäksi kaksi koiraa ja kani! Kuvia voi ihastella [t
 
 ![](/images/545A6451-1000x667.jpg)
 
-Sotilaan kanssa joulukorttikuvaukset aloitettiin ulkoilmassa yhteiskuvilla tallikaveri Alman kanssa. Päästään karvaisen mutta jalolta vartaloltaan kaljuksi ajellun hevosen tuunaaminen säädylliseen kuvauskuntoon ei aivan onnistunut. Kovista odotuksista huolimatta lumettomalla sänkipellolla otetuista kuvista ei tehty tämän talven joulukortteja... (Katso karvainen yhteiskuva [täältä](http://hertjekker.net/leimattomat/sotilas/2018-12-joulustudio/unknown%20soldier%20ja%20augustina%20pomelina%20(13)-Edit-3.jpg).)
+Sotilaan kanssa joulukorttikuvaukset aloitettiin ulkoilmassa yhteiskuvilla tallikaveri Alman kanssa. Päästään karvaisen mutta jalolta vartaloltaan kaljuksi ajellun hevosen tuunaaminen säädylliseen kuvauskuntoon ei aivan onnistunut. Kovista odotuksista huolimatta lumettomalla sänkipellolla otetuista kuvista ei tehty tämän talven joulukortteja... (Katso karvainen yhteiskuva [täältä](<http://hertjekker.net/leimattomat/sotilas/2018-12-joulustudio/unknown%20soldier%20ja%20augustina%20pomelina%20(13)-Edit-3.jpg>).)
 
 ### Jännitystä ja vaarallisia tilanteita sen sijaan oli tarjolla.
 
 Peurat ovat jo pitkään pyörineet tallin pihapiirissä ja pelotelleet hevosia etenkin iltahämärissä. Nyt ne (tai jokin muu oletettu villieläin horisontissa) antoivat sätkyt päiväsaikaankin ja jopa Sotilas pelästyi tosissaan sydänjuuriaan myöten. Järkyttyneet hevoset vietiin enemmän tai vähemmän hallitusti talliin rauhoittumaan, mutta iltapäivän "studiokuvausten" tunnelma kärsi väistämättä.
 
 - ![](/images/unknown-soldier-89-Edit-1-667x1000.jpg)
-    
 - ![](/images/unknown-soldier-151-Edit-1-667x1000.jpg)
-    
 
 ### Tampere sai lunta vasta viime hetkillä.
 

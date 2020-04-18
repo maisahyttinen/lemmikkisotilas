@@ -1,6 +1,6 @@
 ---
 title: "siellä pienet tytöt lentää, kiipeilee pilvien selkään."
-date: "2012-12-01"
+date: 2012-12-01
 id: "1068"
 slug: "siella-pienet-tytot-lentaa-kiipeilee-pilvien-selkaan"
 coverImageId: ""

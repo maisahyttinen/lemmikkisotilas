@@ -1,6 +1,6 @@
 ---
 title: "otat vastaan kaikki ne haasteet, joka suuntaan aina sä halkeet. hyvä jos syömään kerkeet."
-date: "2012-05-26"
+date: 2012-05-26
 id: "1126"
 slug: "otat-vastaan-kaikki-ne-haasteet-joka-suuntaan-aina-sa-halkeet-hyva-jos-syomaan-kerkeet"
 coverImageId: ""
@@ -13,8 +13,6 @@ post_button_label: "Lue lisää"
 Vastaa haastajan esittämään 11 kysymykseen ja haasta seuraavat 6 blogia, joille keksit uudet kysymykset.
 
 (Ja minähän sain tämän [Unissakävelijä](http://m-pikkujuttuja.blogspot.com/)\-blogin kirjoittajalta. Hehe kiitokset! Saatte ehkäpä tänään vielä toisen postauksen tämän viikon tekosista. Kuvia nyt ainakin jos ehdin vielä tänään ulkoiluttamaan kameraa.)
-
-  
 
 **Kysymykset seuraaville:**
 
@@ -40,8 +38,6 @@ Vastaa haastajan esittämään 11 kysymykseen ja haasta seuraavat 6 blogia, joil
 
 11\. Pidätkö kissoista?
 
-  
-
 Haastetut:
 
 1. [Life is little moments](http://lifeislittlemoments-jek-ki.blogspot.com/)
@@ -55,8 +51,6 @@ Haastetut:
 5\. [Ponipoika & "Neidit"](http://resuella.blogspot.com/)
 
 6\. [Follow your Dreams Wherever they'll take You](http://giantcondis.blogspot.com/)
-
-  
 
 **1\. Millainen on/oli elämäsi hevonen?**
 

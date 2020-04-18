@@ -1,6 +1,6 @@
 ---
 title: "temppu lienee siinä kuinka tuntee mistä tuulee"
-date: "2011-03-04"
+date: 2011-03-04
 id: "1188"
 slug: "temppu-lienee-siina-kuinka-tuntee-mista-tuulee"
 coverImageId: ""

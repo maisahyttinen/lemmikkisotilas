@@ -1,6 +1,6 @@
 ---
 title: "Hälyn hiljaiset huoneet. Sanojen mittaiset etäisyydet. Rivien välissä kokonainen maailma."
-date: "2018-05-29"
+date: 2018-05-29
 id: "1877"
 slug: "halyn-hiljaiset-huoneet-sanojen-mittaiset-etaisyydet-rivien-valissa-kokonainen-maailma"
 coverImageId: "1886"

@@ -1,6 +1,6 @@
 ---
 title: "Me puhutaan et tunne ei saa hukkuu taitoon"
-date: "2018-02-18"
+date: 2018-02-18
 id: "1480"
 slug: "me-puhutaan-et-tunne-ei-saa-hukkuu-taitoon"
 coverImageId: "1504"

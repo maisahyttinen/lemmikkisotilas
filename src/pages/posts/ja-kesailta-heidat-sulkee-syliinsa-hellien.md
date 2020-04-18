@@ -1,6 +1,6 @@
 ---
 title: "ja kesäilta heidät sulkee syliinsä hellien."
-date: "2012-07-31"
+date: 2012-07-31
 id: "1108"
 slug: "ja-kesailta-heidat-sulkee-syliinsa-hellien"
 coverImageId: ""

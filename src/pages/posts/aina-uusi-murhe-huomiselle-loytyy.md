@@ -1,6 +1,6 @@
 ---
 title: "Aina uusi murhe huomiselle löytyy..."
-date: "2013-01-05"
+date: 2013-01-05
 id: "1047"
 slug: "aina-uusi-murhe-huomiselle-loytyy"
 coverImageId: "2070"

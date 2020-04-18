@@ -1,6 +1,6 @@
 ---
 title: "Ota kantaa, hallitse somekokonaisuus & kokeile uutta - Hevosblogitrendit 2019"
-date: "2019-01-07"
+date: 2019-01-07
 id: "3205"
 slug: "ota-kantaa-hallitse-somekokonaisuus-kokeile-uutta-hevosblogitrendit-2019"
 coverImageId: "4187"
@@ -75,5 +75,4 @@ Tässäkin kärjistyksessä on kuitenkin puolikas totuus - siloitellun todellisu
 Live on läpinäkyvintä realismia mitä bloggaaja voi yleisölleen tarjota. IG-live, Facebook-live ja YouTube-live tarjoavat alustan ja työkalut lähes jokaisen tarpeisiin. Ota haaste vastaan ja kokeile!
 
 - ![](/images/IMG_5004-667x1000.jpg)
-    
 - ![](/images/IMG_5016-1-667x1000.jpg)

@@ -1,6 +1,6 @@
 ---
 title: "Sinunkin mielesi liikkuu minulle omituisella tavalla."
-date: "2015-12-28"
+date: 2015-12-28
 id: "840"
 slug: "sinunkin-mielesi-liikkuu-minulle-omituisella-tavalla"
 coverImageId: "2083"
@@ -9,8 +9,6 @@ post_button_label: "Lue lisää"
 ---
 
 [![](/images/IMG_3286_.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2015/12/IMG_3286_.png)
-
- 
 
 Vietin juuri kymmenennen jouluni hevosenomistajana. Täytän huomenna 20. Ensi maanantaina lähden armeijaan. Sotilaskin on kuulunut perheeseen jo yli neljä vuotta. Se muuttaa vanhempieni luo lauantaina, ainakin toistaiseksi. Olen jakanut yhteisen kodin Vilpun kanssa pian puolitoista vuotta. Yhdessä olemme olleet melkein viisi vuotta. Niin paljon kaikkea hyvää!
 

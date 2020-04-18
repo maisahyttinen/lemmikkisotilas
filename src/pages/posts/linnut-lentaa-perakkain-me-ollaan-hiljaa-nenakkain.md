@@ -1,6 +1,6 @@
 ---
 title: "linnut lentää peräkkäin, me ollaan hiljaa nenäkkäin."
-date: "2013-05-10"
+date: 2013-05-10
 id: "1014"
 slug: "linnut-lentaa-perakkain-me-ollaan-hiljaa-nenakkain"
 coverImageId: ""

@@ -1,6 +1,6 @@
 ---
 title: "kymmenen tikkua laudalla."
-date: "2013-08-02"
+date: 2013-08-02
 id: "973"
 slug: "kymmenen-tikkua-laudalla"
 coverImageId: ""
@@ -8,45 +8,11 @@ template: "page"
 post_button_label: "Lue lisää"
 ---
 
-  
-
 [![](/images/sdfsd.png)](http://1.bp.blogspot.com/-LUFhYqAwf1Y/Ufqo1bOb8sI/AAAAAAAAGeQ/lleRxgsWNHE/s1600/sdfsd.png)  
-Kirjoitin tätä jo viimeyönä, mutta valmista ei tullut. Nyt sitten, olkaa hyvät!  
-  
+Kirjoitin tätä jo viimeyönä, mutta valmista ei tullut. Nyt sitten, olkaa hyvät!
+
 Haha, onneksi edes hevonen tietää mitä pitää tehdä. Valitettavasti en saanut säädettyä videon ääniä paremmaksi, joten kääntäkäähän volyymia runsaasti lisää. Ihan viihdyttävää materiaalia.. (Vastaan siis tuli traktori, josta olisimme päässeet helposti ohi, mutta eikai ylireagoinnista ikinä haittaa ole!) Mukana oli tottakai Roosa. Temppupakkomielle, huomaattehan!
 
-  
-
-  
-
 Uusi kengitys tuntui ihan huisin hyvältä! Rautakenkien paino taisi olla liikaa (kuten jo kauan sitten ajattelinkin) - tänään Sotilas innostui heittelemään etujalkoja reilusti ihan hölkkävauhdissakin. Menkööt kevyemmillä kengillä sitten! En koskaan kyllästy hehkuttamaan sitä miten iloinen Sotilas aisojen välissä on. Pentukin tykkäsi käydä lenkillä kärryjen kanssa, mutta sellaista varsamaista ilmettä sillä ei koskaan ollut. Sotilaalla se pieni vinkeä riemu on vielä tallella ja se tarttuu helposti kuskiinkin - iltani on taas pelastettu.
-
-  
-
-  
-  
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
 
 [![](/images/ak.png)](http://3.bp.blogspot.com/-8veSa1cvPlQ/Uftmf70qb5I/AAAAAAAAGeo/UdNIarYKlKw/s1600/ak.png)

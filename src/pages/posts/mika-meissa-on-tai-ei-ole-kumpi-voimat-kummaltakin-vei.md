@@ -1,6 +1,6 @@
 ---
 title: "mikä meissä on tai ei ole, kumpi voimat kummaltakin vei?"
-date: "2013-11-23"
+date: 2013-11-23
 id: "934"
 slug: "mika-meissa-on-tai-ei-ole-kumpi-voimat-kummaltakin-vei"
 coverImageId: ""
@@ -16,16 +16,8 @@ post_button_label: "Lue lisää"
 
 > _PS. Sotilas ei ole meillä ollessaan rikkonut ruokakuppeja lukuunottamatta koskaan mitään. Paitsi tänään. Ripustin sen ovenpieleen odottamaan, käänsin sille selkäni kahdeksi minuutiksi ja tullessani takaisin mokoma seisoi keskellä pihaa rikkinäisen riimun kanssa ja ovenpieli edelleen narun päässä.. Miten lie onnistunut, meillä on sentään aika norsunkestävät paikat."_
 
-  
-
 Taisin tiivistää kaiken olennaisen jo Facebookissa julkaisemaani päivitykseen, joten taidan jakaa saman pätkän täälläkin. Olipahan vaan hassua ratsastaa ihan omalla hevosella. Kuukaudessa oli ehtinyt taas tottua Sotilasta huomattavasti tasaisempiin ja pehmeämmin reagoiviin työkavereihin, mutta niiden jälkeen jopa Sotilas tuntui "oikealta" hevoselta. (Älkää ymmärtäkö väärin. On joka kerta yhtä mahtavaa kiivetä maailman parhaiden satuponien selkään, mutta ne ovat auttamatta _poneja_. Sotilaankin rinnalla. Jos se olisi mahdollista, haluaisin molemmat. Yhden lapsuuteni unelmaponeista ja pikku herrasmiehen valepukuun puetun urheiluhevoseni.) Niin, urheiluhevoselta se tuntui. Pennun kanssa tuntui välillä siltä, että ohjan ja pohkeeni välissä oli kaikki maailman energia ja reaktiivisuus. Kai se on pakko uskoa, että tällä kertaa alla on hevonen, joka tarvitsee ihan mahdottoman määrän virtaa ja kierroksia pystyäkseen samaan. Olemme silti jälleen askeleen lähempänä.
 
-  
-
-  
-
 MARTIN GARRIX - ANIMALS
-
-  
 
 [![](/images/ak_uusi.png)](http://1.bp.blogspot.com/-nu9BbQgqkY0/UpEgRyEZdEI/AAAAAAAAHZw/_8kwCOeAnwU/s1600/ak_uusi.png)

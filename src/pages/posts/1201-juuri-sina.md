@@ -1,6 +1,6 @@
 ---
 title: "1201 juuri sinä."
-date: "2013-01-12"
+date: 2013-01-12
 id: "1045"
 slug: "1201-juuri-sina"
 coverImageId: ""

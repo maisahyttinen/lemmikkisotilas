@@ -1,6 +1,6 @@
 ---
 title: "Juuret tukevasti maas. Ainoastaan oksis, lehdis tunnen vapinaa."
-date: "2015-03-26"
+date: 2015-03-26
 id: "885"
 slug: "juuret-tukevasti-maas-ainoastaan-oksis-lehdis-tunnen-vapinaa"
 coverImageId: "2078"

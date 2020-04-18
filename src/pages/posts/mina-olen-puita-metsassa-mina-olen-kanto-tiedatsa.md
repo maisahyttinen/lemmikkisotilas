@@ -1,6 +1,6 @@
 ---
 title: "Minä olen puita metsässä. Minä olen kanto tiedätsä."
-date: "2018-05-13"
+date: 2018-05-13
 id: "1805"
 slug: "mina-olen-puita-metsassa-mina-olen-kanto-tiedatsa"
 coverImageId: "1811"
@@ -20,7 +20,7 @@ Mistään kovin draamaattisesta ei onneksi ole ollut kyse. Sotilas ei vain oikei
 
 Ratsastukset ovat jääneet pariin kertaan viikossa ja sisältäneet lähinnä maastoilua, hidastempoista venyttelyä ja kevyitä puomitehtäviä. Noin kerran viikossa Sotilas on hölkkäillyt liinassa juoksutusavun kanssa. Muuten se on saanut rauhassa nauttia kevyestä hieronnasta, auringosta ja laitumen ensivihreistä.
 
-\[caption id="attachment\_1814" align="alignnone" width="1000"\]![](/images/FFF2A272-7AEF-4CEA-B0B2-5A623C4BE245.jpeg) Chia de Gracian huhtikuun boksi; tyrnirouhe, nestemäinen E-vitamiini, nokkonen, Super Green -viherjauheseos ja oluthiivapelletti.\[/caption\]
+\[caption id="attachment_1814" align="alignnone" width="1000"\]![](/images/FFF2A272-7AEF-4CEA-B0B2-5A623C4BE245.jpeg) Chia de Gracian huhtikuun boksi; tyrnirouhe, nestemäinen E-vitamiini, nokkonen, Super Green -viherjauheseos ja oluthiivapelletti.\[/caption\]
 
 [Chia de Gracian](https://www.chiadegracia.fi) huhtikuinen yllätysboksi saapui sopivaan hetkeen. B-vitamiinipitoinen **oluthiivapelletti** pääsi käyttöön muutama viikko sitten, heti lihasongelmien ilmestymisen jälkeen. Lihasjäykkyys ja muut lihasten toimintahäiriöt ovat yksi B-vitamiinien puutosoire, eikä pienestä lisäboostistakaan ole haittaa. Myös **E-vitamiinilla** on oma osansa lihasaineenvaihdunnassa ja etenkin kevättä kohti köyhtyvä talviruokintakausi ja raskas liikunta lisäävät sen tarvetta.
 
@@ -34,4 +34,4 @@ Iloisen värinen ja voimakkaan tuoksuinen **tyrnirouhe** sen sijaan on boksin a
 
 Chia de Gracian Mirva Kettunen luennoi hevosten superfoodeista Keravan Horse & Ridersissa keskiviikkona 30.5. Lisätietoja ja ilmoittautumisohjeet löytyvät [täältä](https://www.facebook.com/horseriderfi/photos/a.149623311844542.32477.149028548570685/1113246518815545/). Ajattelin lähteä kuuntelemaan ilmaisluentoa itsekin!
 
-\[caption id="attachment\_1806" align="aligncenter" width="768"\]![](/images/55FCFC16-DEC8-432B-BFEA-26F2A17EE64C.jpeg) Talvella maastoilu jäi vähemmälle, mutta nyt olemme päässeet tutkimaan kovaa vauhtia kuivuvia lähimaastoja. Kilometritolkulla vanhaa mäkistä pururadanpohjaa! / Sotilas on aika suuri arkivenyttelyn ystävä.\[/caption\]
+\[caption id="attachment_1806" align="aligncenter" width="768"\]![](/images/55FCFC16-DEC8-432B-BFEA-26F2A17EE64C.jpeg) Talvella maastoilu jäi vähemmälle, mutta nyt olemme päässeet tutkimaan kovaa vauhtia kuivuvia lähimaastoja. Kilometritolkulla vanhaa mäkistä pururadanpohjaa! / Sotilas on aika suuri arkivenyttelyn ystävä.\[/caption\]

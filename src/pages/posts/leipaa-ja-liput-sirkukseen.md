@@ -1,6 +1,6 @@
 ---
 title: "Leipää ja liput sirkukseen."
-date: "2014-03-02"
+date: 2014-03-02
 id: "914"
 slug: "leipaa-ja-liput-sirkukseen"
 coverImageId: "2061"
@@ -21,7 +21,5 @@ Perjantaina Sotilaalla oli vapaapäivä ja eilen höntsäiltiin rennosti pelloll
 [![](/images/sotilasrakene.png)](http://3.bp.blogspot.com/--YcN2Bdq3a0/UxMPXTYlnXI/AAAAAAAAIAA/w1nq26qOzko/s1600/sotilasrakene.png)
 
 [![](/images/IMG_0009.JPG)](http://4.bp.blogspot.com/-THaYbffdaQM/UxMPXJgL_0I/AAAAAAAAH_8/bGBx5BgP9HY/s1600/IMG_0009.JPG)
-
- 
 
 PS. Saappaanvarret! Vähän ne näyttävät hölmöiltä ruskeiden kenkien kanssa, mutta voi miten ihanat.

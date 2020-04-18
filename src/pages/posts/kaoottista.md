@@ -1,6 +1,6 @@
 ---
 title: "kaoottista."
-date: "2012-11-21"
+date: 2012-11-21
 id: "1074"
 slug: "kaoottista"
 coverImageId: ""

@@ -1,6 +1,6 @@
 ---
 title: "ulkoasun päivittelyä!"
-date: "2012-09-15"
+date: 2012-09-15
 id: "1099"
 slug: "ulkoasun-paivittelya"
 coverImageId: ""

@@ -1,6 +1,6 @@
 ---
 title: "1: tällä kertaa kiinni sen saan. ennenkuin se katoaa."
-date: "2012-12-01"
+date: 2012-12-01
 id: "1069"
 slug: "1-talla-kertaa-kiinni-sen-saan-ennenkuin-se-katoaa"
 coverImageId: ""

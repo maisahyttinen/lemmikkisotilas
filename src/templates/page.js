@@ -13,7 +13,7 @@ import { HelmetSeo } from "../components/HelmetSeo";
 export default class Page extends React.Component {
   render() {
     const date = _.get(this.props, "pageContext.frontmatter.date");
-    const { year, month, day } = getSeparateDate(date);
+    const dateObj = getSeparateDate(date);
 
     const title = _.get(this.props, "pageContext.frontmatter.title");
     const subtitle =
@@ -42,7 +42,9 @@ export default class Page extends React.Component {
               {markdownify(
                 _.get(this.props, "pageContext.frontmatter.subtitle")
               )}
-              {date && <p>{`${day}.${month}.${year} - Maisa Hyttinen`}</p>}
+              {date && dateObj && (
+                <p>{`${dateObj.day}.${dateObj.month}.${dateObj.year} - Maisa Hyttinen`}</p>
+              )}
             </header>
             {_.get(this.props, "pageContext.frontmatter.img_path") && (
               <span className="image main">

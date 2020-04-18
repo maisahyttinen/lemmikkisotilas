@@ -1,6 +1,6 @@
 ---
 title: "Oon koko ikäni seissy vaan päälläni. Jos oisin oikein valinnu, oisin erikoislääkäri."
-date: "2018-06-25"
+date: 2018-06-25
 id: "1931"
 slug: "oon-koko-ikani-seissy-vaan-paallani-jos-oisin-oikein-valinnu-oisin-erikoislaakari"
 coverImageId: "1927"

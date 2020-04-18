@@ -1,6 +1,6 @@
 ---
 title: "Enkä koskaan voi kannoilta karistaa minua. Jättää sielua narikkaan."
-date: "2018-08-14"
+date: 2018-08-14
 id: "2211"
 slug: "enka-koskaan-voi-kannoilta-karistaa-minua-jattaa-sielua-narikkaan"
 coverImageId: "2221"

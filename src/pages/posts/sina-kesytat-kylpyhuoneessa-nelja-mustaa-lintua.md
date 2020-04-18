@@ -1,6 +1,6 @@
 ---
 title: "sinä kesytät kylpyhuoneessa neljä mustaa lintua"
-date: "2012-01-21"
+date: 2012-01-21
 id: "1154"
 slug: "sina-kesytat-kylpyhuoneessa-nelja-mustaa-lintua"
 coverImageId: ""

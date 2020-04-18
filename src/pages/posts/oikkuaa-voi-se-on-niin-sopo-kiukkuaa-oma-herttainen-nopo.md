@@ -1,6 +1,6 @@
 ---
 title: "oikkuaa.. voi se on niin söpö. kiukkuaa.. oma herttainen nöpö."
-date: "2013-03-10"
+date: 2013-03-10
 id: "1029"
 slug: "oikkuaa-voi-se-on-niin-sopo-kiukkuaa-oma-herttainen-nopo"
 coverImageId: ""

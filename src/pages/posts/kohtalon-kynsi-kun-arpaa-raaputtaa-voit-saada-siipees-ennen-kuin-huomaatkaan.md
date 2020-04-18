@@ -1,6 +1,6 @@
 ---
 title: "Kohtalon kynsi kun arpaa raaputtaa, voit saada siipees ennen kuin huomaatkaan."
-date: "2014-08-12"
+date: 2014-08-12
 id: "901"
 slug: "kohtalon-kynsi-kun-arpaa-raaputtaa-voit-saada-siipees-ennen-kuin-huomaatkaan"
 coverImageId: ""

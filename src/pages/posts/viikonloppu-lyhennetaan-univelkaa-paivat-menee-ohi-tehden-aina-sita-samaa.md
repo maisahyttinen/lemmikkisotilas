@@ -1,6 +1,6 @@
 ---
 title: "viikonloppu lyhennetään univelkaa. päivät menee ohi tehden aina sitä samaa.."
-date: "2013-03-05"
+date: 2013-03-05
 id: "1032"
 slug: "viikonloppu-lyhennetaan-univelkaa-paivat-menee-ohi-tehden-aina-sita-samaa"
 coverImageId: ""

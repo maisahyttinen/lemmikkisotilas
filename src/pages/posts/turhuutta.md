@@ -1,6 +1,6 @@
 ---
 title: "turhuutta."
-date: "2013-02-02"
+date: 2013-02-02
 id: "1039"
 slug: "turhuutta"
 coverImageId: ""

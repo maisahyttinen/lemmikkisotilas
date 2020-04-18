@@ -1,6 +1,6 @@
 ---
 title: "5 + 1 selviytymiskeinoa syksyyn"
-date: "2018-10-01"
+date: 2018-10-01
 id: "2356"
 slug: "kevaat-kului-tuosta-vain-ja-kesat-nopein-askelin"
 coverImageId: "2360"
@@ -40,4 +40,4 @@ Näistä suurin osa tuntuu ehkä itsestäänselvyyksiltä, mutta unohtuvat helpo
 
 **+1 Kääriydy hyvällä omallatunnolla viltin sisään.** Kuppi teetä, levy suklaata ja pari jaksoa Netflix-sarjaa lämmittävät kaikkein kurjimmankin päivän, viikon tai koko syksyn päätteeksi. Vilttiburriton sisästä kun katsoo, näyttää huominen aina valoisammalta. Syksy on muutenkin ihan parasta aikaa fiilistellä kotona kynttilänvalossa. Eikä itse paistettu omenapiirakkakaan pahaa ole.
 
-\[caption id="attachment\_2481" align="alignnone" width="1000"\]![](/images/1R3A0051-2.jpg) Kuva: Jenna Reijo / sudenmarja.org\[/caption\]
+\[caption id="attachment_2481" align="alignnone" width="1000"\]![](/images/1R3A0051-2.jpg) Kuva: Jenna Reijo / sudenmarja.org\[/caption\]

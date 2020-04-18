@@ -1,6 +1,6 @@
 ---
 title: "sinua vastaan minun ei tarvitse puolustautua."
-date: "2013-01-06"
+date: 2013-01-06
 id: "1046"
 slug: "sinua-vastaan-minun-ei-tarvitse-puolustautua"
 coverImageId: ""

@@ -1,6 +1,6 @@
 ---
 title: "Mä hymyilen unissani, pois puhallan talven. Ja ku herään en voi uskoo et oon valveil."
-date: "2016-05-01"
+date: 2016-05-01
 id: "833"
 slug: "ma-hymyilen-unissani-pois-puhallan-talven-ja-ku-heraan-en-voi-uskoo-et-oon-valveil"
 coverImageId: ""

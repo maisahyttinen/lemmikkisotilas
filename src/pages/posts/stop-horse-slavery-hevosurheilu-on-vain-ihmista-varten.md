@@ -1,6 +1,6 @@
 ---
 title: "Stop Horse Slavery - Hevosurheilu on vain ihmistä varten"
-date: "2019-08-27"
+date: 2019-08-27
 id: "3978"
 slug: "stop-horse-slavery-hevosurheilu-on-vain-ihmista-varten"
 coverImageId: "4172"
