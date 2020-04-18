@@ -7,7 +7,7 @@ excerpt: >-
 img_path: /images/Kopio_ INFOSTAGE.jpg
 slug: positiivisempihevosala
 post_button_label: Lue lisää
-date: 2020-02-06"
+date: 2020-02-06
 template: page
 ---
 
