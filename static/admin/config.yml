@@ -579,7 +579,8 @@ collections:
         name: date
         label: Post Date
         dateFormat: "YYYY-MM-DD"
-        format: L
+        timeFormat: false
+        format: YYYY-MM-DD
         required: true
       - widget: object
         name: menus
