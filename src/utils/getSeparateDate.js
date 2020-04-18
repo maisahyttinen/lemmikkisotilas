@@ -1,4 +1,7 @@
 export default function (date) {
+  if (!date) {
+    return;
+  }
   if (isFullDate(date)) {
     const dateString = date.split("T")[0];
     const dates = dateString.split("-");
@@ -17,5 +20,8 @@ export default function (date) {
 }
 
 export const isFullDate = (date) => {
+  if (date === undefined) {
+    console.log("Hiphei");
+  }
   return date.includes("T");
 };
