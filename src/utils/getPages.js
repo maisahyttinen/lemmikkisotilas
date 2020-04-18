@@ -1,15 +1,16 @@
 import _ from "lodash";
+import { getSeparateDate } from ".";
 
 export default function (pages, folderPath, maxPages) {
   // TODO: resolve relative paths relative to current page
   folderPath = folderPath.replace(/^\//, "");
 
   const posts = _.filter(pages, { relativeDir: folderPath }).sort((a, b) => {
-    const dateA = a.frontmatter.date.split("-");
-    const dateB = b.frontmatter.date.split("-");
+    const dateA = getSeparateDate(a.frontmatter.date);
+    const dateB = getSeparateDate(b.frontmatter.date);
 
-    const dateAObj = new Date().setFullYear(dateA[0], dateA[1], dateA[2]);
-    const dateBObj = new Date().setFullYear(dateB[0], dateB[1], dateB[2]);
+    const dateAObj = new Date().setFullYear(dateA.year, dateA.month, dateA.day);
+    const dateBObj = new Date().setFullYear(dateB.year, dateB.month, dateB.day);
 
     if (dateAObj < dateBObj) {
       return -1;
