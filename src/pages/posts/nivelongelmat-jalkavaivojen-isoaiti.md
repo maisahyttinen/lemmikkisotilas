@@ -4,19 +4,17 @@ header-description: Olemme saaneet riesaksemme kaikkien jalkavaivojen isoäidin.
 title: Nivelongelmat, tuo kaikkien jalkavaivojen isoäiti
 path: nivelongelmat-jalkavaivojen-isoaiti
 subtitle: Elimme vuosia jokseenkin sopuisasti lukuisten jännevammojen kanssa.
-  Vanhat eivät ole vaivanneet ja pari uuttakin saatiin hoidettua kuntoon. Nyt
-  olemme kuitenkin saaneet riesaksemme kaikkien jalkavaivojen isoäidin.
+  Nyt olemme kuitenkin saaneet riesaksemme kaikkien jalkavaivojen isoäidin.
   Nivelongelmat.
 excerpt: Elimme vuosia jokseenkin sopuisasti lukuisten jännevammojen kanssa.
   Vanhat eivät ole vaivanneet ja pari uuttakin saatiin hoidettua kuntoon. Nyt
   olemme kuitenkin saaneet riesaksemme kaikkien jalkavaivojen isoäidin.
   Nivelongelmat.
-img_path: /images/nimetön-suunn.malli.jpg
+img_path: /images/rontgenkuva1.jpg
 post_button_label: Lue lisää
 date: 2020-04-17
 template: page
 ---
-
 Jännevamman hoito on melko yksoikoista - lopulta aika ja rauhallinen liikunta ovat kaikkein tärkeintä. 80-prosenttisesti revenneen koukistajajänteen jälkeen olen osannut suhtautua haavereihin ylipäätään hieman rauhallisemmin - kyllä näistä aina selvitään.
 
 ### Nyt olemme kuitenkin saaneet riesaksemme kaikkien jalkavaivojen isoäidin. Nivelongelmat.
@@ -27,7 +25,7 @@ Samassa rytäkässä oikean takajalan jo vuosia sitten harventunut hankoside mui
 
 Sotilas sai viettää loppukesän laitumella ja liikkui normaaliakin kevyemmin. Kylmä, lepo ja laidun ovat aina aiemmin riittäneet reagoineen hankkarin rauhoittamiseen. Syksyllä oli tarkoitus palata takaisin ratsastuspuuhiin, mutta kaikki ei ollut kohdallaan. Sotilas lepuutteli takajalkojaan huomattavasti ja oli kesän laidunkilometreistä huolimatta jäykkä etenkin lantiostaan.
 
-![](/images/kuva8-1000x536-2.jpg "Vasen takajalka on selvästi muita jalkoja lämpimämpi. Kuva on TherMidas VETin diagnostiikkaohjelmistosta marraskuulta.")
+![Vasen takajalka on selvästi muita jalkoja lämpimämpi. Kuva on TherMidas VETin diagnostiikkaohjelmistosta marraskuulta.](/images/kuva8-1000x536-2.jpg)
 
 ### Kun selän ja jalkojen hoitaminen ei tuottanut tulosta, lämpökuvasimme koko hevosen TherMidas VETin kanssa marraskuussa ja joulukuussa.
 
@@ -37,7 +35,7 @@ Joulukuussa Sotilaalle tehtiin ontumatutkimus ja vuohinen piikitettiin kortisoni
 
 Nivel ei reagoinut piikitykseen mitenkään. Se oli sekä kolmen että kuuden viikon kohdalla ihan yhtä turvonnut ja taivutusarka kuin ennenkin. Mietin, että mahtoiko piikki mennä oikeaan osoitteeseen ollenkaan… Toinen vaihtoehto oli nivelrikko tai muut peruuttamattomat muutokset nivelessä.
 
-![](/images/nimetön-suunn.malli.jpg)
+![](/images/rontgenkuva1.jpg)
 
 ### Onneksi Tampereen hevosklinikka tekee nykyään myös kotikäyntejä ja vuohinen saatiin maaliskuussa röntgenkuvattua kotitallilla.
 
@@ -49,7 +47,7 @@ Röntgenkuvissa näkyy alkavia nivelrikkomuutoksia. Löydökset ovat melko taval
 
 Todennäköisesti ongelma on nivelrustossa. Rusto voi olla kulunut tai rappeutunut peruuttamattomasti tai vaiva saattaa helpottua nivelen toimintaa ja kudosten uusiutumista tukevilla lisäravinteilla sekä sopivalla liikunnalla. Käytännössä tilanne selviää vain kokeilemalla. Vuohisen turvotus ja taivutusarkuus ovat onneksi helpottaneet piikityksen jälkeen lupaavasti ja pitkänä perjantaina Sotilas liikkui vihdoin puhtaasti.
 
-![](/images/sotilaan-jalat-4_2020.jpg "Ensimmäinen kuva ylävasemmalla on otettu 17.3. ja viimeinen kuva alaoikealla on otettu 6.4. Välissä Sotilas ehti sairastaa jonkin viruksen, joka turvotti molemmat takajalat muutamaksi päiväksi.")
+![Ensimmäinen kuva ylävasemmalla on otettu 17.3. ja viimeinen kuva alaoikealla on otettu 6.4. Välissä Sotilas ehti sairastaa jonkin viruksen, joka turvotti molemmat takajalat muutamaksi päiväksi.](/images/sotilaan-jalat-4_2020.jpg)
 
 ### Elämä jatkuu siis kutakuinkin ennallaan - eletään päivä kerrallaan voinnin mukaan.
 
