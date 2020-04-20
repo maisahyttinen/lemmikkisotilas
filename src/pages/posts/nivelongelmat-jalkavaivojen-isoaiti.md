@@ -4,15 +4,15 @@ header-description: Olemme saaneet riesaksemme kaikkien jalkavaivojen isoäidin.
 title: Nivelongelmat, tuo kaikkien jalkavaivojen isoäiti
 path: nivelongelmat-jalkavaivojen-isoaiti
 subtitle: Elimme vuosia jokseenkin sopuisasti lukuisten jännevammojen kanssa.
-  Nyt olemme kuitenkin saaneet riesaksemme kaikkien jalkavaivojen isoäidin.
-  Nivelongelmat.
-excerpt: Elimme vuosia jokseenkin sopuisasti lukuisten jännevammojen kanssa.
   Vanhat eivät ole vaivanneet ja pari uuttakin saatiin hoidettua kuntoon. Nyt
+  olemme kuitenkin saaneet riesaksemme kaikkien jalkavaivojen isoäidin.
+  Nivelongelmat.
+excerpt: Elimme vuosia jokseenkin sopuisasti lukuisten jännevammojen kanssa. Nyt
   olemme kuitenkin saaneet riesaksemme kaikkien jalkavaivojen isoäidin.
   Nivelongelmat.
 img_path: /images/rontgenkuva1.jpg
 post_button_label: Lue lisää
-date: 2020-04-17
+date: 2020-04-17T00:00:00.000Z
 template: page
 ---
 
