@@ -1,10 +1,26 @@
 import React from "react";
+import { useStaticQuery, graphql } from "gatsby";
+import Img from "gatsby-image";
 import _ from "lodash";
 
 import { markdownify, getPages, safePrefix, Link, classNames } from "../utils";
 
 export default class Spotlight extends React.Component {
   render() {
+    // const data = useStaticQuery(graphql`
+    //   query {
+    //     file(relativePath: { eq: "images/_MG_4565.jpg" }) {
+    //       childImageSharp {
+    //         # Specify a fluid image and fragment
+    //         # The default maxWidth is 800 pixels
+    //         fluid {
+    //           ...GatsbyImageSharpFluid
+    //         }
+    //       }
+    //     }
+    //   }
+    // `);
+
     return (
       <section className="wrapper style1 special">
         <div className="inner">
