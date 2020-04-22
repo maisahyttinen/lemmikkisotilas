@@ -32,6 +32,9 @@ module.exports = {
               // the content container as this plugin uses this as the
               // base for generating different widths of each image.
               maxWidth: 800,
+              quality: 80,
+              backgroundColor: "transparent",
+              withWebp: { quality: 80 },
             },
           },
           //`gatsby-remark-lazy-load`,

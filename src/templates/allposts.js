@@ -46,7 +46,7 @@ const Allposts = (props) => {
               const { month, day } = getSeparateDate(post.frontmatter.date);
               return (
                 <React.Fragment key={i}>
-                  <a href={`../posts/${post.frontmatter.slug}`}>
+                  <a href={`../posts/${post.name}`}>
                     <strong>{`${day}.${month}.`}</strong>
                     {`  ${post.frontmatter.title}`}
                   </a>
