@@ -14,7 +14,7 @@ Olemme aloittaneet varovasti. Viimeisen parin viikon aikana Sotilas on liikkunut
 
 Eilen Sotilasta kävi moikkaamassa vanha tallikaveri Hubertukselta. (Video yllä.) Oli mukavaa katsella omaansa pitkästä aikaa maasta käsin. Sotilas on vieraiden ihmisten kanssa lähinnä pidättyväinen, ratsastaessa etenkin, mutta Jennasta se jostain syystä tykkää älyttömästi. Sotilas selvästi alkaa taas päästä liikunnan makuun, ja on ihan mahtavaa miten mielellään se on tehnyt töitä rentoina ja hyvin vapaamuotoisina palauttelupäivinäkin. Tällä innolla ollaan taas pitkällä ennen seuraavaa loukkaantumista..
 
-[![](/images/IMG_1803_.png)](http://3.bp.blogspot.com/-9sUwA8EdTD0/Vg15xRQ7aBI/AAAAAAAAKLc/-ywWC3j8j1w/s1600/IMG_1803_.png)
+[![](/images/IMG_1803_.jpg)](http://3.bp.blogspot.com/-9sUwA8EdTD0/Vg15xRQ7aBI/AAAAAAAAKLc/-ywWC3j8j1w/s1600/IMG_1803_.jpg)
 
 Uusi kylmäyssavi on osoittautunut erittäin tehokkaaksi. Jopa niin tehokkaaksi, että sen peseminen veden ja harjankin kanssa on lähes mahdotonta.. Aikaisemmat käyttämäni savet ovat irronneet hyvin pelkällä harjalla, karvaisistakin jaloista. Meillä ei eles ole karvoja kintuissa juuri nyt! Se on kyllä ollut tehokasta ihan käyttötarkoituksessaankin - etenkin oikea takajalka kuroutuneine jännetuppeineen on reagoinut siihen aika mukavasti. Käyttö itsessään on kuitenkin aika haastavaa, koska talliin tulee pelkästään kylmää vettä. Puolen tunnin läträäminen kylmällä vedellä aina ennen ratsastusta ei ole ihan sitä mitä hain, hahah.
 

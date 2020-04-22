@@ -22,4 +22,4 @@ _se veti kissaa viiksistä:_
 
 _Vain nopeat elävät!_
 
-[![](/images/ak.png)](http://4.bp.blogspot.com/-1dOpUT1PN9M/UdF5kkq1yGI/AAAAAAAAGHI/iXQdO5s53CI/s200/ak.png)
+[![](/images/ak.jpg)](http://4.bp.blogspot.com/-1dOpUT1PN9M/UdF5kkq1yGI/AAAAAAAAGHI/iXQdO5s53CI/s200/ak.jpg)

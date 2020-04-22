@@ -74,4 +74,4 @@ Jokaisesta rodusta löytyy lemppariyksilöitä, mutta lämminverinen varmaankin.
 
 ~ 80cm. Pelotti.
 
-[![](/images/ak.png)](http://1.bp.blogspot.com/-gjkmCJL69L4/UMG0V0KvRWI/AAAAAAAADJE/AV6t4FVH6Z4/s1600/ak.png)
+[![](/images/ak.jpg)](http://1.bp.blogspot.com/-gjkmCJL69L4/UMG0V0KvRWI/AAAAAAAADJE/AV6t4FVH6Z4/s1600/ak.jpg)

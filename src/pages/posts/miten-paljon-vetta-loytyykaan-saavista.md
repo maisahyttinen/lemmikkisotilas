@@ -40,4 +40,4 @@ PS. Antakaa anteeksi epäaktiivisuuteni. Tämä tietokone kohtaa vähitellen lop
 
 Miksi, oi miksi tätä maailman suurinta musiikkirakkautta ei ole enempää akustisina versioina?
 
-[![](/images/ak.png)](http://1.bp.blogspot.com/-9qeHAwB0x_E/UNUMFPrIFvI/AAAAAAAAD5w/BKZRkCdtQVE/s1600/ak.png)
+[![](/images/ak.jpg)](http://1.bp.blogspot.com/-9qeHAwB0x_E/UNUMFPrIFvI/AAAAAAAAD5w/BKZRkCdtQVE/s1600/ak.jpg)

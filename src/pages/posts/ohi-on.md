@@ -8,7 +8,7 @@ template: "page"
 post_button_label: "Lue lisää"
 ---
 
-[![](/images/IMG_0056.png)](http://2.bp.blogspot.com/-JO_JenVUBMY/TdZnwIlSXfI/AAAAAAAAAGA/3KD5S4Fsp9I/s1600/IMG_0056.png)
+[![](/images/IMG_0056.jpg)](http://2.bp.blogspot.com/-JO_JenVUBMY/TdZnwIlSXfI/AAAAAAAAAGA/3KD5S4Fsp9I/s1600/IMG_0056.jpg)
 
 _Me aivan turhaan täällä säästetään,_  
 _niin harvoin ilo irti päästetään._
@@ -29,4 +29,4 @@ _Kun ei osannut keskittyä_
 
 _Kuin tähän hetkeen nykyiseen_
 
-[![](/images/IMG_0449.png)](http://1.bp.blogspot.com/-aNQPWDKePG4/TdZnx4S1vQI/AAAAAAAAAGE/v---lMW4Yug/s1600/IMG_0449.png)
+[![](/images/IMG_0449.jpg)](http://1.bp.blogspot.com/-aNQPWDKePG4/TdZnx4S1vQI/AAAAAAAAAGE/v---lMW4Yug/s1600/IMG_0449.jpg)

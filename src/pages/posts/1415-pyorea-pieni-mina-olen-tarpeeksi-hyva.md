@@ -8,7 +8,7 @@ template: "page"
 post_button_label: "Lue lisää"
 ---
 
-[![](/images/k14.png)](http://1.bp.blogspot.com/-jMTyWY39VWk/UMytAmMLH4I/AAAAAAAADfw/O9s1tPKwp98/s1600/k14.png)[![](/images/k15.png)](http://4.bp.blogspot.com/-ar8439GsVwg/UMytCHNCWNI/AAAAAAAADf4/aQ3JIxP4KlE/s1600/k15.png)
+[![](/images/k14.jpg)](http://1.bp.blogspot.com/-jMTyWY39VWk/UMytAmMLH4I/AAAAAAAADfw/O9s1tPKwp98/s1600/k14.jpg)[![](/images/k15.jpg)](http://4.bp.blogspot.com/-ar8439GsVwg/UMytCHNCWNI/AAAAAAAADf4/aQ3JIxP4KlE/s1600/k15.jpg)
 
 Eilen tietokone oli jälleen sitä mieltä, ettei käynnistyminen ole vaihtoehto, joten saatte eilisen joulukalenterikuvan vasta tänään. Ravikuvia ei olekaan ollut vielä yhtään. Eilisen kuvassa on siis Victor Neo, Jokimaalla toissatalvena. Aurinkoiset talvipäivät kuuluvat harvoin yhteen siedettävään aikaan alkavien ravien kanssa ja talvisin radan varteen onkin aika työlästä raahautua kameran kanssa. Tämänpäiväisessä kuvassa on söpö poniystävä Apex, joka on Pennun ainoaksi jäänyt varsa. Papereidensa mukaan se on kahden ihan sopivan kokoisen lämminverisen jälkeläinen eikä mikään poni, mutta todellisuudessa sillä taitaa olla matkaa hevoskokoon ihan jonkin verran (vaikka on kasvunsa jo kasvanut).
 
@@ -28,4 +28,4 @@ _Ja kun hampaat irvessä yrittää_
 
 _Niin kehittyyhän sitä vaikka miksi.._
 
-[![](/images/ak.png)](http://4.bp.blogspot.com/-dUGF35h9gVw/UMytDLxBWjI/AAAAAAAADf8/708xpcrSMUY/s1600/ak.png)
+[![](/images/ak.jpg)](http://4.bp.blogspot.com/-dUGF35h9gVw/UMytDLxBWjI/AAAAAAAADf8/708xpcrSMUY/s1600/ak.jpg)

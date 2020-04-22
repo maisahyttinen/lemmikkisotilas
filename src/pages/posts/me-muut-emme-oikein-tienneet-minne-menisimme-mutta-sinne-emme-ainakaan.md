@@ -30,4 +30,4 @@ Ilman satulaa ratsasteleminen tuntuu tasapainossa aika nopeasti. Sotilaan seläs
 
 Kaikki tämän päivän kuvat voitte katsella [täältä](http://maisaw.otukset.fi/kuvat/2013/Unknown+Soldier/14.5./). Muita tämän kuun kuvia löytyy [täältä](http://maisaw.otukset.fi/kuvat/2013/Unknown+Soldier/14.5./) ja [täältä](http://maisaw.otukset.fi/kuvat/2013/Unknown+Soldier/14.5./).
 
-[![](/images/ak.png)](http://1.bp.blogspot.com/-JUMs6RR-C3s/UZJbmxnrf7I/AAAAAAAAFwY/Xm-FAyq3ib0/s1600/ak.png)
+[![](/images/ak.jpg)](http://1.bp.blogspot.com/-JUMs6RR-C3s/UZJbmxnrf7I/AAAAAAAAFwY/Xm-FAyq3ib0/s1600/ak.jpg)

@@ -12,4 +12,4 @@ Hevosjuttuja ei ole kerrottavaksi eikä niiden kertominen oikeastaan huvittaisik
 
 Hevosjuttuja sittenkin - pieni video siitä mitä tänään tehtiin. Sotilas on juossut liinassa viimeksi yli kuukausi sitten (jessus, niin pitkä tauko) ja pienellä ympyrällä juoksemisessa oli yllättävän paljon tekemistä. Puhumattakaan siitä, että homma oli molemmille ihan uusi! Ainakin rauhalliset harrasteet onnistuvat valjaissakin, joten ihan hyvinhän tuo taisi mennä. Jostain syystä ennen heikompi suunta oli tänään parempi, mikä lie muuttunut!
 
-[![](/images/ak.png)](http://2.bp.blogspot.com/-tkHwmWepknw/UebngcrOBMI/AAAAAAAAGT8/WhSmciJlnZ4/s1600/ak.png)
+[![](/images/ak.jpg)](http://2.bp.blogspot.com/-tkHwmWepknw/UebngcrOBMI/AAAAAAAAGT8/WhSmciJlnZ4/s1600/ak.jpg)

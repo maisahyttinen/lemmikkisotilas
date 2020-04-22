@@ -18,7 +18,7 @@ Sotilas söi vuosikaudet samoja rehuja - kauraa ja Racingin Proteinia. Luottoreh
 
 Rehun vaihdon yhteydessä ajattelin luonnonmukaistaa ruokintaa muutenkin. Miksi ei, meiltä kun löytyy tälläkin hetkellä purkkeja ja lisäravinteita vähän joka lähtöön. Laadukaskin perusrehu kaipaa Suomen vaihtelevissa olosuhteissa kausittaista täydennystä, mutta jatkuva erilaisten teollisten ravintolisien syöttely ei tunnu ainakaan harrastehevosen kanssa tarkoituksenmukaiselta. Meillä perusruokaa täydennetään tästä eteenpäin pääasiassa yrteillä. Sen pitäisi oikein hyvin riittää nykyisessä perustreenissä.
 
-\[caption id="attachment*1606" align="alignnone" width="1000"\]![](/images/IMG_9998*.png) Jostain syystä laadunvalvonta oli lopulta kiinnostuneempi rapisevista pakkauksista kuin itse tuotteista...\[/caption\]
+\[caption id="attachment*1606" align="alignnone" width="1000"\]![](/images/IMG_9998*.jpg) Jostain syystä laadunvalvonta oli lopulta kiinnostuneempi rapisevista pakkauksista kuin itse tuotteista...\[/caption\]
 
 Mitä yrttejä sitten pitäisi mihinkin aikaan ja tilanteeseen valita? [Chia de Gracian "yllätysboksi"](https://www.chiadegracia.fi/epages/chia.sf/fi_FI/?ObjectPath=/Shops/2014111704/Products/88) ratkaisi ongelman helposti. Hintaa on toimituksineen 30 euroa, boksi toimitetaan asiakkaan valinnan mukaan yhden tai kahden kuukauden välein ja se sisältää 3-5 ajankohtaisen teeman mukaan valittua tuotetta. Helmikuun boksissa tuli reilun kuukauden annos (yhdelle hevoselle) mustaherukanlehteä, siankärsämöä, voikukanlehteä, punajuurta, kurpitsansiemeniä ja mustaseljanmarjoja.
 

@@ -10,7 +10,7 @@ post_button_label: "Lue lisää"
 
 Bloggaaja ei saa valittaa, kertoa epäonnistumisista tai sanoa olevansa epätoivoinen. Ei saa sanoa olevansa umpikujassa ja luovuttamaisillaan. Todellisuudessa epätoivon skaala on jokaiselle hevosenomistajalle laaja. Se parhainkin toveri on eläin ja joskus mikään ei onnistu, ei hyvällä eikä pahalla. Jokaisen kohdalla se väistämättä käy jossain vaiheessa, miksi ihmeessä siitä ei sitten saisi puhua! Niin, ihme kyllä Sotilaskin on eläin. Se on maailman paras, mutta silläkin on omat temppunsa. Suhteellisen kesyt ja vaarattomat ehkä, mutta välillä en keksi mitään raastavampaa. Täydellisen elämän epätoivonhetkiä, olkaa hyvä.
 
-[![](/images/solttu2.png)](http://1.bp.blogspot.com/-noCDvdBCNbA/UkMh1rBc6OI/AAAAAAAAG7k/UCsmdBYyKdE/s1600/solttu2.png)
+[![](/images/solttu2.jpg)](http://1.bp.blogspot.com/-noCDvdBCNbA/UkMh1rBc6OI/AAAAAAAAG7k/UCsmdBYyKdE/s1600/solttu2.jpg)
 
 30 SECONDS TO MARS - THIS IS WAR
 
@@ -24,13 +24,13 @@ Sanon Sotilasta huolettomasti hevoseksi, joka tuo ratsastajansa aina ehjänä ko
 
 Mielialahevosessa on puolensa, ne huonotkin. Joskus kaikki kiukuttaa! Vaelletaan tarhan kauimmaiseen nurkkaan kun liikuntavälineet ilmestyvät näkyviin ja annetaan ihmisen vaeltaa takanurkkaan myös. Taluttaessa Sotilaskin osaa halutessaan olla melkoinen vetolelu.. Varusteitten laittaminen ei onnistu ilman ympäriinsä vetkuttamista ja kuolaimet voi ottaa suuhun vain jos ne ojennetaan ravityyliin edestä. Muuten kirahvinkaula venyy täyteen pituuteensa, joka on ainakin minun pituudellani ulottumattomissa. Ja tottakai ilme on kestona tolkuttoman myrkyllinen.
 
-[![](/images/solttu1.png)](http://3.bp.blogspot.com/-yPcH7Uyq1wk/UkMh2wqHKLI/AAAAAAAAG7s/F2kQ_UO_ko8/s1600/solttu1.png)
+[![](/images/solttu1.jpg)](http://3.bp.blogspot.com/-yPcH7Uyq1wk/UkMh2wqHKLI/AAAAAAAAG7s/F2kQ_UO_ko8/s1600/solttu1.jpg)
 
 Sotilaan kanssa ei ole vielä tähän mennessä tuntunut siltä, että koko touhu on ihan toivotonta. Tottakai välillä ärsyttää kamalasti ja täytyy jättää kaikki kesken etteivät erimielisyydet kasva ylitsepääsemättömiksi, mutta loppujen lopuksi kaikkeen on löytynyt jokin reitti. Molempien huonot päivät paranevat yhdessä puuhaillessa ja kurjat kaudet ovat onneksi jääneet lyhyiksi. Pennun kanssa alamäet olivat paljon jyrkempiä ja välillä mietin vakavissani, että mitä ihmettä yritän seuraavaksi kun kaikki on jo kokeiltu! Välillä kaikki meni huikeasti, mutta välillä jatkuvaa taistelua kesti viikkoja. Joskus vain alisuoritettiin, joskus emme päässeet kovinkaan kauas kotipihasta kun ratsastajaa jo riepoteltiin tai etujalat irtosivat tiestä. Paljon ehdimme ratkaista, mutta paljon jäi puolitiehen. Harmittaa, ettemme ehtineet enempää. Alku oli lupaava, vaikka joskus tuntuikin siltä, että hakkaame yhteen kahta aivan liian kovaa päätä.
 
 **Mikä teitä ärsyttää kaikkein eniten siinä kaikkein parhaassa ja tärkeimmässä hevostoverissa?**
 
-[![](/images/ak.png)](http://4.bp.blogspot.com/-TgLhnhJ45P4/UkMmQiYugXI/AAAAAAAAG74/hrx-Zz0dM40/s1600/ak.png)
+[![](/images/ak.jpg)](http://4.bp.blogspot.com/-TgLhnhJ45P4/UkMmQiYugXI/AAAAAAAAG74/hrx-Zz0dM40/s1600/ak.jpg)
 
 PS. Tottakai vaikeat päivät ovat niitä paikkoja jolloin pitää miettiä mikä menee väärin. Joskus syy löytyy helposti vain vähän miettimällä, mutta välillä kaikki on kohdallaan eikä mikään onnistu silti. (Ja sinä joka tahdot aivan ehdottomasti takertua kirjoittamattomiin itsestäänselvyyksiin: Sotilaan hammas- ja lihashuollosta pidetään tietysti huolta ja useimmiten syyt ovat hevosesta riippumattomia.) Kaikesta huolimatta - on ihan okei jos ärsyttää!
 

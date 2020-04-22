@@ -8,7 +8,7 @@ template: "page"
 post_button_label: "Lue lisää"
 ---
 
-[![](/images/naama1_.png)](http://2.bp.blogspot.com/-fWQuCab6bf0/UaPAw3gd8SI/AAAAAAAAF3s/6n_ZhNaDYQo/s1600/naama1_.png)
+[![](/images/naama1_.jpg)](http://2.bp.blogspot.com/-fWQuCab6bf0/UaPAw3gd8SI/AAAAAAAAF3s/6n_ZhNaDYQo/s1600/naama1_.jpg)
 
 Eilen oli valokuvauspäivä. Sotilaasta napsittiin muutama poseerauskuva (huomaatte varmaan, että olen rakennekuvafriikki) ja iltapäivällä kävin kuvaamassa erästä vanhaa tuttavuutta. Kuvia voitte käydä vakoilemassa [täältä](http://maisaw.otukset.fi/kuvat/2013/27.5.+Ojanrinteen+Pokemon/). Tänäänkin taidan käyttää vapaapäiväni Sotilaan ja kuvien kanssa - uittospesialisti ystäväni tulee käymään ja tarkoituksena olisi viedä Sotilas käymään järvessä. Saa nähdä mitä siitä tällä kertaa tulee! Illalla näätte ;)
 
@@ -20,4 +20,4 @@ Miten hirvittävässä karvassa hevonen voi olla!? Näköjään ihan tajuttoman 
 
 **Millä te pidätte ötökät poissa hevostenne kimpusta?** Meillä Coopersect auttoi hurjasti ja tervarasva osoittautui edulliseksi ja älyttömän tehokkaaksi mömmöksi korvien ja muiden herkkien aluiden suojaamiseen. Viimekesältä jäänyt suihkutettava Effolin broms blocker on ollut hyvä lisä pahimpina iltoina. (Hurjan hyvää ainetta!) Toivottavasti tämä kesä menisi viime kesää helpommin, ilman verisiä korvia ja paukamille syötyä ahdistunutta hevosta.
 
-[![](/images/ak.png)](http://2.bp.blogspot.com/-ug1Uuo1-t24/UaO42RNUYAI/AAAAAAAAF3c/BFwJe_f1mpc/s1600/ak.png)
+[![](/images/ak.jpg)](http://2.bp.blogspot.com/-ug1Uuo1-t24/UaO42RNUYAI/AAAAAAAAF3c/BFwJe_f1mpc/s1600/ak.jpg)

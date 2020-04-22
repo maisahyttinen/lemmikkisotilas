@@ -12,13 +12,13 @@ Kaikki lähti näistä kahdesta ensimmäisestä kuvasta. Nyt taas muistan miksi 
 
 TÄLTÄ NÄYTIN VUOSIA SITTEN
 
-[![](/images/vanha1.png)](http://1.bp.blogspot.com/-Wa92K6FagOw/UmLlJRpLxlI/AAAAAAAAHFQ/b797qfVUApg/s1600/vanha1.png)[![](/images/vanha2.png)](http://4.bp.blogspot.com/-JR_22Bc_Om4/UmLlJiKvlXI/AAAAAAAAHFM/QAdmcG2mBPc/s1600/vanha2.png)
+[![](/images/vanha1.jpg)](http://1.bp.blogspot.com/-Wa92K6FagOw/UmLlJRpLxlI/AAAAAAAAHFQ/b797qfVUApg/s1600/vanha1.jpg)[![](/images/vanha2.jpg)](http://4.bp.blogspot.com/-JR_22Bc_Om4/UmLlJiKvlXI/AAAAAAAAHFM/QAdmcG2mBPc/s1600/vanha2.jpg)
 
 "Runnoi kärkeen viimeisen takasuoran alussa ja pakeni lopussa ylivoimaiseen voittoon." c. Joensuun ravirata
 
 TOISINAAN OLEN HYVIN EDUSTAVA
 
-[![](/images/_.png)](http://2.bp.blogspot.com/-PnvF1u_vViQ/UmLngHDL-ZI/AAAAAAAAHFk/tIpGQV-Oses/s1600/_.png)[![](</images/S3+(12).png>)](<http://1.bp.blogspot.com/-0S6XQiMiUfI/UmLngEJPscI/AAAAAAAAHFg/uzPMvHAhH3g/s1600/S3+(12).png>)
+[![](/images/_.jpg)](http://2.bp.blogspot.com/-PnvF1u_vViQ/UmLngHDL-ZI/AAAAAAAAHFk/tIpGQV-Oses/s1600/_.jpg)[![](</images/S3+(12).jpg>)](<http://1.bp.blogspot.com/-0S6XQiMiUfI/UmLngEJPscI/AAAAAAAAHFg/uzPMvHAhH3g/s1600/S3+(12).jpg>)
 
 Toisinaan ei ole yhtään helppoa olla nelijalkainen ja aina nälkäinen.
 
@@ -30,7 +30,7 @@ Keskivertohevoseksi Sotilas on viettänyt melkoisesti aikaa kameran edessä. Koh
 
 NÄISTÄ KUVISTA TULEE HYVÄLLE TUULELLE
 
-[![](/images/uinti3.JPG)](http://2.bp.blogspot.com/-iWzFJh9v0Fg/UmLsFPMj5ZI/AAAAAAAAHGI/70RSe_b7Zm4/s1600/uinti3.JPG)[![](</images/S2+(18).png>)](<http://3.bp.blogspot.com/-Ncoh_ZtWv4A/UmLsFg4_DzI/AAAAAAAAHGM/p2jADHMM9t8/s1600/S2+(18).png>)
+[![](/images/uinti3.JPG)](http://2.bp.blogspot.com/-iWzFJh9v0Fg/UmLsFPMj5ZI/AAAAAAAAHGI/70RSe_b7Zm4/s1600/uinti3.JPG)[![](</images/S2+(18).jpg>)](<http://3.bp.blogspot.com/-Ncoh_ZtWv4A/UmLsFg4_DzI/AAAAAAAAHGM/p2jADHMM9t8/s1600/S2+(18).jpg>)
 
 Kesä, järvi ja riehumaan innostunut aikuinen varsa. Piristää aina!
 
@@ -48,7 +48,7 @@ Maailman paras ystävä (+ Libby ja ehta suomalainen valas) ja maailman paras pi
 
 EI PALJOA NAURATTANUT
 
-[![](/images/IMG_0257x.JPG)](http://2.bp.blogspot.com/-0TVf2wv_4ao/UmLulfBBGqI/AAAAAAAAHG8/05uqIhQnLtw/s1600/IMG_0257x.JPG)[![](/images/IMG_8916.png)](http://4.bp.blogspot.com/-XD3rA0sWPx8/UmLulpDcyHI/AAAAAAAAHHA/6Io3QHU_IG0/s1600/IMG_8916.png)
+[![](/images/IMG_0257x.JPG)](http://2.bp.blogspot.com/-0TVf2wv_4ao/UmLulfBBGqI/AAAAAAAAHG8/05uqIhQnLtw/s1600/IMG_0257x.JPG)[![](/images/IMG_8916.jpg)](http://4.bp.blogspot.com/-XD3rA0sWPx8/UmLulpDcyHI/AAAAAAAAHHA/6Io3QHU_IG0/s1600/IMG_8916.jpg)
 
 Joskus hevonen ja ratsastaja ovat erillään hyviä, mutta yhdessä toivottomia. Roosa ja Sotilas on sellainen yhdistelmä.
 
@@ -58,4 +58,4 @@ SÖPÖIN KUVA
 
 Huomaamattaan teihin on kiintynyt. Oikeastaan aika hurjasti <3
 
-[![](/images/ak.png)](http://3.bp.blogspot.com/-9cxKDNFktBg/UmL5v9XIsKI/AAAAAAAAHHc/HmXnwGjT7dw/s1600/ak.png)
+[![](/images/ak.jpg)](http://3.bp.blogspot.com/-9cxKDNFktBg/UmL5v9XIsKI/AAAAAAAAHHc/HmXnwGjT7dw/s1600/ak.jpg)

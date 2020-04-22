@@ -14,4 +14,4 @@ _Elämä on järjestetty juttu, johon moni pettyy,
 jollemme koskaan kohtaa mitään yllätystä, joka pilkkaa järjestystä.  
 Ja toiset eivät järjestystä kaipaakaan, jos toisin sovitaan_.
 
-[![](/images/ak.png)](http://3.bp.blogspot.com/-O_1lfuesATI/UYpmvbAJsQI/AAAAAAAAFtE/eY3OSHBzMb8/s1600/ak.png)
+[![](/images/ak.jpg)](http://3.bp.blogspot.com/-O_1lfuesATI/UYpmvbAJsQI/AAAAAAAAFtE/eY3OSHBzMb8/s1600/ak.jpg)

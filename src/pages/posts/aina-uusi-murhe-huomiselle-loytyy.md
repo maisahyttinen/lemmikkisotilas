@@ -20,4 +20,4 @@ Lenkkeilyseuramme. Kuva viime viikonlopulta.
 
 PS. Note to self: Älä lähde pitkän tauon jälkeen reippaan kaverin seurassa maastoilemaan pehmeimmillä löytämilläsi kuolaimilla. Kyyti saattaa olla kylmää tai ainakin hallitsematonta. (Meinasi epätoivo iskeä..)
 
-[![](/images/ak.png)](http://3.bp.blogspot.com/-iaDvnZnwdOE/UOiiEz23pHI/AAAAAAAAEws/jTxUOEa07Uw/s1600/ak.png)
+[![](/images/ak.jpg)](http://3.bp.blogspot.com/-iaDvnZnwdOE/UOiiEz23pHI/AAAAAAAAEws/jTxUOEa07Uw/s1600/ak.jpg)

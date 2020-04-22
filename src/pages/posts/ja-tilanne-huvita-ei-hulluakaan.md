@@ -8,7 +8,7 @@ template: "page"
 post_button_label: "Lue lisää"
 ---
 
-[![](/images/heitto.png)](http://3.bp.blogspot.com/-1B2Xc_QWRz8/UHmXfpWldSI/AAAAAAAABoA/Nkds8dQPxOc/s1600/heitto.png)
+[![](/images/heitto.jpg)](http://3.bp.blogspot.com/-1B2Xc_QWRz8/UHmXfpWldSI/AAAAAAAABoA/Nkds8dQPxOc/s1600/heitto.jpg)
 
 _Hevonen on kaikesta jalostuksesta ja kesyttämisestä huolimatta vaistojensa varassa toimiva saaliseläin, jonka ensimmäinen, ja kaiken koulutuksen ohittava reaktio on paeta pelästyessään. Sellainen hevonen, joka ei ikinä pelästy mitään, on se joka makaa aamiaisleipäsi päällä, tai työntää horsmaa pellon reunassa. -- Liikennevarminkin hevonen voi säikähtää ohi kiitävää autoa, ja säikähtäessään olla yhtä arvaamaton liikkeissään kuin tuo autoilijoiden suuresti kunnioittama sarvipää._  
 _Satutko tietämään, että keskivertohevonen painaa noin sata kiloa ENEMMÄN kuin hirvi, ja saa täten aikaan vähintään yhtä pahaa jälkeä konepellillä pötkötellessään. Sivuseikkana mainittakoon, että hevosen kyydissä on myös ratsastaja, joka siis useimmiten on ihminen._  
@@ -26,4 +26,4 @@ Huhhuh, anteeksi. Olen viimeaikoina vähitellen kypsynyt tähän meininkiin. Onn
 
 Sotilas tuoksuu pesun jäljiltä epäilyttävästi hunajaiselta ja karamellilta. Huomiseksi on luvattu auringonpaistetta ja oma henkinen tasapainoni palasi mukavasti balanssiin kun kyyti huomiselle varmistui ja sain Sotilaan pestynä karsinaansa. Kyllä tämä tästä. Kysymyksiä kysymyspostausta varten on aikaa laittaa 19. päivään saakka. Vuosipäivämme kunniaksi julkaisen kysymyspostauksen seuraavana päivänä. Hyvää yötä! :)
 
-[![](/images/ak.png)](http://1.bp.blogspot.com/-MTlG8LP6DHI/UHmp3SYeeLI/AAAAAAAABpA/MkvfXDPNG4k/s1600/ak.png)
+[![](/images/ak.jpg)](http://1.bp.blogspot.com/-MTlG8LP6DHI/UHmp3SYeeLI/AAAAAAAABpA/MkvfXDPNG4k/s1600/ak.jpg)

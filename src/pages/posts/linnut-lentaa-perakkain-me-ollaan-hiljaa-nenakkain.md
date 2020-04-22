@@ -22,4 +22,4 @@ Kaunis kultaseni. Näitä kahta kuvaa lukuunottamatta näistä kiitos pikkusyste
 
 [![](/images/IMG_0242.JPG)](http://4.bp.blogspot.com/-AEdY1YqBLuo/UY0AWnnpD5I/AAAAAAAAFuM/-ezI-z7k8W8/s1600/IMG_0242.JPG)
 
-[![](/images/ak.png)](http://4.bp.blogspot.com/-UmyrGfNDrEA/UYz8T7VABnI/AAAAAAAAFtY/t9LdJVLtAWU/s1600/ak.png)
+[![](/images/ak.jpg)](http://4.bp.blogspot.com/-UmyrGfNDrEA/UYz8T7VABnI/AAAAAAAAFtY/t9LdJVLtAWU/s1600/ak.jpg)

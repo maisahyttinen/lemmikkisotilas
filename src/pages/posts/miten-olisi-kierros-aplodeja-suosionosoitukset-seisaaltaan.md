@@ -8,7 +8,7 @@ template: "page"
 post_button_label: "Lue lisää"
 ---
 
-[![](/images/fffuuu2.png)](http://4.bp.blogspot.com/-G4tw5Rtx9bM/TzLBEYd2cJI/AAAAAAAAATs/ldbOnUHEEMU/s1600/fffuuu2.png)[![](/images/ffuuu.png)](http://2.bp.blogspot.com/-_a6C2GCMg8I/TzLBGC3S8VI/AAAAAAAAAT0/uQwtjff4xdc/s1600/ffuuu.png)
+[![](/images/fffuuu2.jpg)](http://4.bp.blogspot.com/-G4tw5Rtx9bM/TzLBEYd2cJI/AAAAAAAAATs/ldbOnUHEEMU/s1600/fffuuu2.jpg)[![](/images/ffuuu.jpg)](http://2.bp.blogspot.com/-_a6C2GCMg8I/TzLBGC3S8VI/AAAAAAAAAT0/uQwtjff4xdc/s1600/ffuuu.jpg)
 
 Taisin saada matikalta aika rumasti turpaan.. Jäin yhen pisteen päähän läpipääsystä. Voi tätä motivaation määrää, turha kysyä että kiukuttaako. Ai että kiukuttaako! Ei mulla muuta. Odotan innolla muita palautuksia. Eikä tällä uudella jaksolla paljon juhlita. Kemia on ehkä englantiaki vaikeempi aine ja seittemän tuntia joka päivä voi olla vähän liikaa tänhetkiselle mielenkiinnolle mut ei se väärin oo.
 

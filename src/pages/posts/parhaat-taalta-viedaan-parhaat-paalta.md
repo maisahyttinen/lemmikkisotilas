@@ -29,4 +29,4 @@ Pennun menettämisen jälkeen tämä blogi kirjoittajineen on ollut tervetullutt
 [UNISSAKÄVELIJÄ](http://m-pikkujuttuja.blogspot.fi/)  
 Joidenkin blogien kanssa käy niin, että tapahtumien seuraamiseen koukuttuu täysin. Tämän kanssa on käynyt juuri niin. Arvostan todella paljon sellaisia ihmisiä, jotka eivät luovuta hevosystävänsä terveysongelmien edessä ja jaksavat nähdä muutakin vaivaa kuin raahata hevostaan klinikalle, jotta joku muu hoitaa. Tätä ei ole kovin kevyt lukea ja eikä se ainakaan paranna jo ennaltaan huonoa päivää, mutta se saa uskomaan, että vielä jossakin on olemassa hyviä koteja niillekin hevosille, jotka eivät ole terveydellisesti virheettömiä, mutta ansaitsevat mahdollisuuden.
 
-[![](/images/ak.png)](http://1.bp.blogspot.com/-yb9Dw9e1r_c/UJGGubMvumI/AAAAAAAACCY/IUQ8ZIlOeMU/s1600/ak.png)
+[![](/images/ak.jpg)](http://1.bp.blogspot.com/-yb9Dw9e1r_c/UJGGubMvumI/AAAAAAAACCY/IUQ8ZIlOeMU/s1600/ak.jpg)

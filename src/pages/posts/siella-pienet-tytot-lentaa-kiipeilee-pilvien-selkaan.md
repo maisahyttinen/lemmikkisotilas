@@ -14,4 +14,4 @@ Paljonpaljon ihanaa pöllyävää puuterilunta! Täydellinen päivä puuhailuun 
 
 [![](/images/IMG_0257x.JPG)](http://2.bp.blogspot.com/-IRbEDVlhzXM/ULoFfFXvUfI/AAAAAAAAC7Q/h2WmzHkzd2E/s1600/IMG_0257x.JPG)[![](/images/IMG_0236x.JPG)](http://2.bp.blogspot.com/-b5M0_-icQmA/ULoFduVq4WI/AAAAAAAAC7I/9O0IeMi7z8U/s1600/IMG_0236x.JPG)
 
-[![](/images/ak.png)](http://2.bp.blogspot.com/-ieJypYksgxw/ULoFxgfSf3I/AAAAAAAAC7Y/Ui_by5Raq8w/s1600/ak.png)
+[![](/images/ak.jpg)](http://2.bp.blogspot.com/-ieJypYksgxw/ULoFxgfSf3I/AAAAAAAAC7Y/Ui_by5Raq8w/s1600/ak.jpg)

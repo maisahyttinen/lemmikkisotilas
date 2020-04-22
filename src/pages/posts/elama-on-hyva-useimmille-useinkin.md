@@ -20,4 +20,4 @@ Tänään tuntuu siltä, että elämä voittanee. Eilisen hirveyksistä huolimat
 
 [![](/images/IMG_0137.JPG)](http://3.bp.blogspot.com/-tKUXfjKOpmA/UYUGKCOZfxI/AAAAAAAAFro/RIgrnGSTmTM/s1600/IMG_0137.JPG)
 
-[![](/images/ak.png)](http://2.bp.blogspot.com/-vd6FvSR-grg/UYUJWBy4E9I/AAAAAAAAFsQ/V-nbvgwhb6s/s1600/ak.png)
+[![](/images/ak.jpg)](http://2.bp.blogspot.com/-vd6FvSR-grg/UYUJWBy4E9I/AAAAAAAAFsQ/V-nbvgwhb6s/s1600/ak.jpg)

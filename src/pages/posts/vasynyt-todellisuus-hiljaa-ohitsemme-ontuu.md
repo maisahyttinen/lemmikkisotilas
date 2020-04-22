@@ -8,7 +8,7 @@ template: "page"
 post_button_label: "Lue lisää"
 ---
 
-[![](/images/jalat.png)](http://2.bp.blogspot.com/-fosS_n_ZWB4/UjdXO6NAOPI/AAAAAAAAG0k/Be7IG9r0S9w/s1600/jalat.png)
+[![](/images/jalat.jpg)](http://2.bp.blogspot.com/-fosS_n_ZWB4/UjdXO6NAOPI/AAAAAAAAG0k/Be7IG9r0S9w/s1600/jalat.jpg)
 
 _Pari sanaa syksystä, jaloista ja siitä miten hurjasti Sotilaan hinkattu harja surettaa!_
 
@@ -18,6 +18,6 @@ Harmittaa, satutin omia jalkojani hieman könytessäni eilen alas Sotilaan selä
 
 Sotilas on hinkannut melkein kokonaan pois upean harjansa. Pitkästä ja tuuheasta harjasta on jäljellä ohut kerros pitkiä jouhia ja loput ovat muuttuneet hölmösti törröttäväksi siiliksi harjantyveen.. Puut ovat ilmeisesti olleet melkein yhtä tehokas harjankuluttaja kuin putkiaita. Myös häntä on saanut osansa rapsuttamisesta, joskin hieman hillitymmissä määrin. En ymmärrä mistä hinkkaaminen johtuu tällä kertaa, mutta kivennäisen jättäminen pois iltaruuista lopetti kutinan. Hiekkakivennäinen on aiemmin aiheuttanut vastaavan reaktion, mutta muroksi puristettua kivennäistä Sotilas on syönyt ongelmitta jo yli vuoden. Ei näköjään enää.. Pitänee lisätä myslin määrää (sen pitäisi sisältää kaiken tarvittavan) ja huolehtia että mokomalla nirsolla on himalajankivi aina saatavilla (tavallinen suolakivi kun  ei tietenkään kelpaa). Hinkattua harjaa ei pelasta enää mikään, mutta menkööt sitten ravurilookilla koko hevonen tämän syksyn - huomenna leikkelen sille pitkän jenkkisiilin. Näyttäkööt sitten starttarilta, haha!
 
-[![](/images/ak.png)](http://2.bp.blogspot.com/-H7VlmKABJME/UjdqqgaWPdI/AAAAAAAAG1A/y1cm9cyIJoU/s1600/ak.png)
+[![](/images/ak.jpg)](http://2.bp.blogspot.com/-H7VlmKABJME/UjdqqgaWPdI/AAAAAAAAG1A/y1cm9cyIJoU/s1600/ak.jpg)
 
-[![](/images/naama.png)](http://1.bp.blogspot.com/-zlrM9F7Yih4/UjdXPYrqf7I/AAAAAAAAG00/3yr-qhrXIwc/s1600/naama.png)
+[![](/images/naama.jpg)](http://1.bp.blogspot.com/-zlrM9F7Yih4/UjdXPYrqf7I/AAAAAAAAG00/3yr-qhrXIwc/s1600/naama.jpg)

@@ -30,4 +30,4 @@ Oikeanpuolimmaisessa kuvassa on jo hieman keskittymistäkin mukana. Tänään si
 
 Säteet aiheuttavat meille taas murhetta, mutta toivottavasti vuoleminen auttaa asiaa. Mieluiten pitäisin söpön pikkumieheni yhtä terveenä kuin se tähänkin asti on ollut.. Jos saisin sen vaikka synttärilahjaksi! Tänään paras ystäväni oli kaivanut suomenhevosensa esiin ja lenkkeili tuomaan lahjan jonka melkein jo arvasinkin etukäteen (haha, kymmenen vuoden päästä ruotsalainen lastenkirjakokoelmani on varmaan aika mittava). Huomenna siis hyvää syntymäpäivää minä ja ylihuomenna hyvää uutta vuotta kaikille! Toivottavasti tekin saatte hevosinenne terveen ja hyvän vuoden.
 
-[![](/images/ak.png)](http://2.bp.blogspot.com/-msOMpBSMwEU/UN9JgcMdMPI/AAAAAAAAEao/v8OyK0N2D5I/s1600/ak.png)
+[![](/images/ak.jpg)](http://2.bp.blogspot.com/-msOMpBSMwEU/UN9JgcMdMPI/AAAAAAAAEao/v8OyK0N2D5I/s1600/ak.jpg)

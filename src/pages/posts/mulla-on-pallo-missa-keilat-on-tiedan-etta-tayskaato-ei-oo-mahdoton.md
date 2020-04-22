@@ -20,4 +20,4 @@ Pallo oli tarhan ulkopuolella huomattavasti jännittävämpi kuin kosketusetäis
 
 Yrmy pikkuinen. Viime tiistaina alkoi taas koeviikko, joten voin hyvin samaistua molempiin ilmeisiin.. Onneksi jäljellä on enää äidinkieli (helppoahelppoa minulle) ja vapaapäivän kautta on hyvä siirtyä koko tähänastisen lukioajan helpoimpaan jaksoon - yli 15 tuntia vapaata viikossa. Ihanaa!
 
-[![](/images/ak.png)](http://2.bp.blogspot.com/-AI6kRRZcclk/UWGTWaoNgLI/AAAAAAAAFmU/xsWTt_obYrE/s1600/ak.png)
+[![](/images/ak.jpg)](http://2.bp.blogspot.com/-AI6kRRZcclk/UWGTWaoNgLI/AAAAAAAAFmU/xsWTt_obYrE/s1600/ak.jpg)

@@ -16,4 +16,4 @@ Yllättäen sää ei erityisemmin suosinut kameran ulkoiluttamista, mutta Toinen
 
 [![](/images/IMG_0268%25C3%25A5.JPG)](http://3.bp.blogspot.com/-aYuY_uEW8uA/ULDfUkDSqVI/AAAAAAAACnA/y0DkhiyLyDs/s1600/IMG_0268%25C3%25A5.JPG)
 
-[![](/images/ak.png)](http://4.bp.blogspot.com/-jweFclg0USo/ULDfalCp90I/AAAAAAAACnI/ntf0J2bfYhI/s1600/ak.png)
+[![](/images/ak.jpg)](http://4.bp.blogspot.com/-jweFclg0USo/ULDfalCp90I/AAAAAAAACnI/ntf0J2bfYhI/s1600/ak.jpg)

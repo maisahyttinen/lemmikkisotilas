@@ -24,13 +24,13 @@ Alkutalvi 2016 sujui hyvinkin rauhallisesti peruskuntoa rakentaessa. Keväällä
 
 Pörröisiä talvikuvia voi käydä katselemassa **[täällä](https://maisahyttinen.kuvat.fi/kuvat/2017/Unknown+Soldier/Talvi/)**, ja kevään treenikuvia [**täällä**](https://maisahyttinen.kuvat.fi/kuvat/2017/Unknown+Soldier/Kevät/).
 
-\[caption id="attachment_1427" align="aligncenter" width="930"\]![](/images/MG_8400-1.png) Toukokuu 2017. Laidunmaisemat eivät jättäneet toivomisen varaa.\[/caption\]
+\[caption id="attachment_1427" align="aligncenter" width="930"\]![](/images/MG_8400-1.jpg) Toukokuu 2017. Laidunmaisemat eivät jättäneet toivomisen varaa.\[/caption\]
 
 Aikaisemmin Sotilas on ollut aina lauman pohjimmainen. Se ei ole koskaan oikein ymmärtänyt sosiaalisia juttuja ja vetäytynyt hieman syrjemmälle muiden selvitellessä välejään. Nyt ensimmäistä kertaa poikaporukassa tilanne oli aivan toinen. Varsamaisen nahistelun ja pienen paininkin jälkeen Sotilas oli oman laumansa herra. Johtajan rooli ei luonnistunut entiseltä koulukiusatulta kovin hyvin, mutta ainakin karkea diktaattori itse vaikutti kovin tyytyväiseltä asemaansa. Sitä iloa kesti muutaman viikon.
 
 Lisää kuvia laidununelmasta voi käydä katselemassa [**täällä**](https://maisahyttinen.kuvat.fi/kuvat/2017/Unknown+Soldier/Kesä/).
 
-\[caption id="attachment_1415" align="aligncenter" width="993"\]![](/images/Näyttökuva-2018-02-09-kello-22.42.02-1.png) 27. kesäkuuta 2017 sain viestin, että Sotilas on telonut itsensä kesken täysin tavallisen laidunaamun.\[/caption\]
+\[caption id="attachment_1415" align="aligncenter" width="993"\]![](/images/Näyttökuva-2018-02-09-kello-22.42.02-1.jpg) 27. kesäkuuta 2017 sain viestin, että Sotilas on telonut itsensä kesken täysin tavallisen laidunaamun.\[/caption\]
 
 Tässä on oikeastaan koko loppukesä ja seuraava syksykin tiivistettynä yhteen kollaasiin. Niin tasaista ja paljasta nurmilaidunta ei olekaan, etteikö sieltä löytyisi jotain millä itseään satuttaa. Kaikista etsinnöistä huolimatta jäi mysteeriksi mihin Sotilas kylkensä repi, mutta lopputuloksena oli kymmenisen senttiä syvä kyljen myötäinen repaleinen pistohaava. Reikään mahtui pahimmillaan kaksi sormea. Kylkiluut ja suuremmat elimet säästyivät, mutta kyljen lihaksista ei voi sanoa samaa. Ensimmäistä kertaa olin kiitollinen Sotilaan epätavallisen korkeasta kipukynnyksestä. Haava täytyi pitää auki ja puhtaana, ja pahimpien helteiden aikaan se tarkoitti melkoista kaivelua ja painehuuhtelua.
 

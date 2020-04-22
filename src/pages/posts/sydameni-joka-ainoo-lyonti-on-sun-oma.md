@@ -16,7 +16,7 @@ _Vaikka tiedän ettet nää mua kuvan läpi_
 
 \_
 
-[![](/images/IMG_1251.png)](http://3.bp.blogspot.com/-NQo4wpnzx08/Td_c-KVuIgI/AAAAAAAAAGQ/qUb-QI13NrI/s1600/IMG_1251.png)
+[![](/images/IMG_1251.jpg)](http://3.bp.blogspot.com/-NQo4wpnzx08/Td_c-KVuIgI/AAAAAAAAAGQ/qUb-QI13NrI/s1600/IMG_1251.jpg)
 
 _Joka ilta, joka aamu ja yö_
 

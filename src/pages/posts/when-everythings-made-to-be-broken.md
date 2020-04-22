@@ -10,7 +10,7 @@ post_button_label: "Lue lisää"
 
 _And I'd give up forever to touch you.._
 
-[![](/images/IMG_0262.png)](http://1.bp.blogspot.com/-1lEjsHWC7Y4/TyKqaIi6Y0I/AAAAAAAAAPY/UmSlK4dpbPM/s1600/IMG_0262.png)[![](/images/IMG_0754.png)](http://1.bp.blogspot.com/-rVszqvdDUZw/TyKqxn_wYmI/AAAAAAAAAPo/WSY2DYas514/s1600/IMG_0754.png)
+[![](/images/IMG_0262.jpg)](http://1.bp.blogspot.com/-1lEjsHWC7Y4/TyKqaIi6Y0I/AAAAAAAAAPY/UmSlK4dpbPM/s1600/IMG_0262.jpg)[![](/images/IMG_0754.jpg)](http://1.bp.blogspot.com/-rVszqvdDUZw/TyKqxn_wYmI/AAAAAAAAAPo/WSY2DYas514/s1600/IMG_0754.jpg)
 
 Vuosi sitten, mutta silti melkein eilen. 11 kuukautta sitten lohdutti ajatella, että joskus kaikesta on vuosi ja sitten joskus ei tunnu yhtä pahalta. Hyvä, etten silloin tiennyt, ettei vuosi vie pois painajaisia eikä kamalaa ikävää eikä oikein muutakaan. Prinsessa elää edelleen kaikkialla. Lumisessa metsässä, jokaisessa yöpöydälle sytytetyssä kynttilässä ja kaikissa hyvissä hetkissä Sotilaan kanssa. Vuosi sitten ehkä toivoin, että voisin antaa prinsessan mennä, mutta tänään toivon, ettei se koskaan mene.
 

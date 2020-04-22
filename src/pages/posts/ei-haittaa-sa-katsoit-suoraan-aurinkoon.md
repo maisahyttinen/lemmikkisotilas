@@ -14,7 +14,7 @@ Tottakai tännekin saatiin talvi takaisin. Tosin etenkin tänään aurinko on pa
 
 Huomenna postailen ison kasan lumikuvia, siihen saakka viihdyttäkää itseänne **ruokintapohdinnoilla**!
 
-[![](/images/ruokaa.png)](http://2.bp.blogspot.com/-B-ZnJRiq8KI/UyNoZ-wjH5I/AAAAAAAAIFU/CS6hMP8tiNI/s1600/ruokaa.png)
+[![](/images/ruokaa.jpg)](http://2.bp.blogspot.com/-B-ZnJRiq8KI/UyNoZ-wjH5I/AAAAAAAAIFU/CS6hMP8tiNI/s1600/ruokaa.jpg)
 
 Sotilaan iltaruoka-annos. Tällä hetkellä se sisältää ½ litraa kauraa, ½ litraa Racingin Builder Mix -mysliä, mitallisen (20g) Racingin valkosipulia ja porkkanaa. Talven aikana Sotilas on syönyt pääasiassa pelkkää heinää ja iltaisin puolisen litraa kauraa ihan vain tavan vuoksi, mutta kevään lähestyminen ja etenkin karvanlähtöaika vaativat vähän ennakointia. Tarkoitus olisi siirtyä takaisin viime vuonna hyväksi todettuun ruokintaan joka sisälsi lähinnä heinän, myslin ja suolakiven. Myslin määrä noussee pariin kolmeen litraan päivässä kevään edetessä ja liikunnan lisääntyessä. Siihen asti jatketaan varmaankin näin.
 
@@ -22,4 +22,4 @@ Builder Mix on itsessään aika näppärästi vitaminoitu ja valtaosa tarpeellis
 
 Sotilas on luonnostaankin lihaksikas ja sitä kautta aika haastava liikutettava. Se juoksee 20 kilometriä juuri hengästymättä, mutta keskittyminen sileällä työskentelyyn (josta tulee ihan oikea hikikin) riittää toistaiseksi parikymmentä minuuttia. Liikuttamalla se pysyy sopivassa lihavuuskunnossa, mutta etenkin suurten lihasten rasittaminen on ihan toivotonta hommaa. Viime kesänä huomasin, että säännöllinen monipuolinen liikunta yhdistettynä muutamaan litraan mysliä piti sen ainakin ulkonäöllisesti näyttävässä lihaskunnossa. Lihasten käyttöominaisuuksista en tiedä, niiden kestävyyskunnon testaaminen on aina ollut toivoton homma. Liikkuu mielellään ja helposti, se riittänee? (Toivottavasti liikunta ja riittävä valkuainen alkavat vähitellen tuntua ja näkyä ratsupuuhissakin!)
 
-[![](/images/rehut.png)](http://2.bp.blogspot.com/-E3UmOXZuNw4/UyceesVdopI/AAAAAAAAIIQ/qUBd6p64o-M/s1600/rehut.png)
+[![](/images/rehut.jpg)](http://2.bp.blogspot.com/-E3UmOXZuNw4/UyceesVdopI/AAAAAAAAIIQ/qUBd6p64o-M/s1600/rehut.jpg)

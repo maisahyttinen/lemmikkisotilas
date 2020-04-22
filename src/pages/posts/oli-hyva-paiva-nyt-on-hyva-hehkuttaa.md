@@ -20,4 +20,4 @@ Viime tekstistä on .. yli kolme viikkoa? Vieläkään ei ole mitään kerrottav
 
 PS. Minulle ja Sotilaalle kuuluu ihan hyvää. Istuin terveystiedon yo-kokeessa vain hieman vajaat 6 tuntia eikä se varmaan ihan toivottoman huonosti mennyt. Olo on kyllä edelleen kuin jyrän alle jääneellä.. Onneksi kahdella seuraavalla viikolla on vain neljä koulupäivää. Tosin vielä sitäkin paremmasta jutusta saatte kuulla ensi viikolla, hehe ;) (Tunsin itseni eilen pitkästä aikaa valokuvaajaksi, jee!)
 
-[![](/images/ak.png)](http://4.bp.blogspot.com/-Yd2FZ_ogY-Q/UU63wYuPvEI/AAAAAAAAFgY/heFJ4dDAxIw/s1600/ak.png)
+[![](/images/ak.jpg)](http://4.bp.blogspot.com/-Yd2FZ_ogY-Q/UU63wYuPvEI/AAAAAAAAFgY/heFJ4dDAxIw/s1600/ak.jpg)

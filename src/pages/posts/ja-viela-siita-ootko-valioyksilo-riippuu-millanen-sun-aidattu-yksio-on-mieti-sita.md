@@ -8,7 +8,7 @@ template: "page"
 post_button_label: "Lue lisää"
 ---
 
-[![](/images/201511051538537126.png)](http://2.bp.blogspot.com/-CavFdc8vpik/VjtgvO3lwRI/AAAAAAAAKWY/DqH-fy5KyWA/s1600/201511051538537126.png)
+[![](/images/201511051538537126.jpg)](http://2.bp.blogspot.com/-CavFdc8vpik/VjtgvO3lwRI/AAAAAAAAKWY/DqH-fy5KyWA/s1600/201511051538537126.jpg)
 
 Sotilas voi oikein hyvin - tällä hetkellä se pääasiassa ulkoilee ja syö paljon. Olemme käyneet pitkillä kävelylenkeillä "niin kuin ennen vanhaan" ja vanhoista tutuista sairaslomarutiineista on saatu vähitellen kiinni. Oikea takajalka on suuren osan ajasta käärittynä arnikaan ja Back On Trackeihin. Yhdistelmä on tälläkin kertaa osoittautunut luottamuksen arvoiseksi ja kuroutuneeseen jännetuppeen kertyvä turvotus on sulanut oikeastaan kokonaan pois (vaikka sekä klinikka että meillä kotona käynyt eläinlääkäri pitivät sitä hyvin epätodennäköisenä). Sotilas on onneksi oma iloinen itsensä. Tuntuu hyvältä nähdä että se viihtyy nykyisessä kodissaan yhtä hyvin kuin minäkin. Tallilla on paljon mukavampi käydä kuin viime syksynä, vaikka nyt matkaa on kymmenkertaisesti.
 

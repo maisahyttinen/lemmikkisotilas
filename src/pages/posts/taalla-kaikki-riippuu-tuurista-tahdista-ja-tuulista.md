@@ -20,4 +20,4 @@ PS. _Et palannut niinkuin toivomme oli, \_\_et tullut luoksemme enää._
 
 _Vaikka aika suruumme lohtua tois, ei tyhjyyttä koskaan se poistaa vois._
 
-[![](/images/ak.png)](http://1.bp.blogspot.com/-oYiNgsv7Irs/UeKHS4TveYI/AAAAAAAAGSc/MyBvPwWV_NM/s1600/ak.png)
+[![](/images/ak.jpg)](http://1.bp.blogspot.com/-oYiNgsv7Irs/UeKHS4TveYI/AAAAAAAAGSc/MyBvPwWV_NM/s1600/ak.jpg)

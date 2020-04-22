@@ -28,4 +28,4 @@ c. [Valokuvaus Hehku](http://valokuvaushehku.fi/)
 
 Joo, olen niinkin syksyihminen, että voisin jäädä sänkyyn ja ryömiä sieltä pois sitten kun pakkasta ja lunta on sen verran, ettei kaikkialla ole liukasta ja kuraista. On ihan uskomattoman pimeääkin. Lumi valaisee niin paljon, että koulupäivän jälkeen voi hyvin pyörähtää pellolla. Kuutamoiltoina on valoisampaa kuin päivällä. Hankitreenimahdollisuus tuo muutenkin ihan uutta intoa puuhailuun ja jos joulufiiliksestä saisi vähän muutakin energiaa.. Ihme kyllä en ole kestoväsyneenä ja -vihaisena onnistnut suututtamaan Toista täydellistä miestä enkä Sotilastakaan. Oikeastaan Sotilaan kanssa on syksyisinkin ihan kivaa. Ei sekään halua ulos sateeseen ja pimeään ja ottaa kaatosadepäivät ilolla vastaan sisätiloissa. Ollaan kivoja ja iloisia seuraavan kerran sitten talvella.
 
-[![](/images/ak.png)](http://3.bp.blogspot.com/-9nQTYNVPJN0/Un-eKXDVkXI/AAAAAAAAHT4/5lLyrjWFxrQ/s1600/ak.png)
+[![](/images/ak.jpg)](http://3.bp.blogspot.com/-9nQTYNVPJN0/Un-eKXDVkXI/AAAAAAAAHT4/5lLyrjWFxrQ/s1600/ak.jpg)

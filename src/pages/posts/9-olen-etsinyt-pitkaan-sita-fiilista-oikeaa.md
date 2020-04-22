@@ -8,7 +8,7 @@ template: "page"
 post_button_label: "Lue lisää"
 ---
 
-[![](/images/k9.png)](http://4.bp.blogspot.com/-GMcox22kGMQ/UMTP1H6R4AI/AAAAAAAADSQ/rKybUlBvkw4/s1600/k9.png)
+[![](/images/k9.jpg)](http://4.bp.blogspot.com/-GMcox22kGMQ/UMTP1H6R4AI/AAAAAAAADSQ/rKybUlBvkw4/s1600/k9.jpg)
 
 Maailman paras täplä-ällä! Lenan kanssa on puuhailtu mukavia jo pitkään ja jo pari vuotta sitten se oli luottoratsu kun aurinko paistoi ja kaikki oli täydellistä pellolla rallittelua varten. Sen lisäksi, että se on kiva ja turvallinen se myös näyttää ihan hysteerisen söpöltä kuvissa joten valinta ei vielä nykyäänkään ole vaikea jos on mahdollisuus käyttää kaunis talvipäivä hevosten ja kameran kanssa. Toivottavasti täplis tupsujalkatovereineen päätyy kameran eteen tänäkin talvena. (Tupsujalat ovat suurensuuri talvirakkaus, aina.)
 
@@ -30,4 +30,4 @@ Yrmy pikkuinen! Vielä kesällä se ei ymmärtänyt yhtään miten päin sen oli
 
 PS. Haen perjantaina tämän joulun ehdottomasti parhaan joululahjan itselleni ja Sotilaalle!
 
-[![](/images/ak.png)](http://1.bp.blogspot.com/-nP6gCNMj9Bw/UMTP3qYBnhI/AAAAAAAADSY/MS5R3U85F1I/s1600/ak.png)
+[![](/images/ak.jpg)](http://1.bp.blogspot.com/-nP6gCNMj9Bw/UMTP3qYBnhI/AAAAAAAADSY/MS5R3U85F1I/s1600/ak.jpg)

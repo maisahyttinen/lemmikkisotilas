@@ -16,8 +16,8 @@ Torstaina kävi kengittäjä ja Sotilas sai vanhat kengät alleen uudelleen. Toi
 
 Viikonlopun vietin tätini luona Helsingissä. Kävimme leffassa (katsomassa Hobitin), söimme roskaruokaa ja Ikean mansikkajuustokakkua, kiertelimme kaupoilla ja löhösimme rauhassa. Olisin voinut melkein arvata, että reissu Hööksille ei jää pelkästään viattomaksi kaikkien ihanien varusteiden kuolailemiseksi.. Normaalisti kiroan alimpaan helvettiin ne loimivalmistajat, joiden loimet eivät vastaa ilmoitettua kokoa, mutta tällä kertaa olen reippaasti reilummasta koosta hurjan iloinen! Tai sitten Sotilas onkin ihan oikea my little _pony_. Loimivalikoimamme nimittäin kasvoi maailman ihanimmalla tähtikuosisella sadetakilla - koossa 135cm! Sopivakin se on! (Joskin Sotilas on poniloimeensa hieman liian lihava..)
 
-[![](/images/loimi.png)](http://4.bp.blogspot.com/-TLVUHfxc2Ow/UTYvi1kVaVI/AAAAAAAAFSY/iz-8lsI-Y_c/s1600/loimi.png)
+[![](/images/loimi.jpg)](http://4.bp.blogspot.com/-TLVUHfxc2Ow/UTYvi1kVaVI/AAAAAAAAFSY/iz-8lsI-Y_c/s1600/loimi.jpg)
 
 Loimen lisäksi Hööksiltä tarttui mukaan huijjauslampaankarva satulavyöhön ja muualta loimen väreihin sopiva sinipunainen riimu, kalanmaksaöljyä ja lämpölinimenttiä. Sotilaskin päätti järjestää mukavan yllätyksen ja sunnuntaina ajeltiinkin kotiin apteekin kautta.. Odotin pientä ja siistiä hokinraapaisua, mutta olisihan se nyt ollut ihan liian pliisu ylläri. Sen sijaan vastassa olikin melkoisen ruhjottu etujalka - lähinnä viiltohaavan näköinen ja ihan hyvän kokoinen railo kannalla. En ymmärrä miten tuo ei onnu eikä edes haavan ronkkiminen tunnu inhottavan koko hevosta (minua sen sijaan kyllä). Huoh!
 
-[![](/images/ak.png)](http://3.bp.blogspot.com/-5IramMJo32M/UTYv0wX-m7I/AAAAAAAAFSg/JeREjjZy84A/s1600/ak.png)
+[![](/images/ak.jpg)](http://3.bp.blogspot.com/-5IramMJo32M/UTYv0wX-m7I/AAAAAAAAFSg/JeREjjZy84A/s1600/ak.jpg)

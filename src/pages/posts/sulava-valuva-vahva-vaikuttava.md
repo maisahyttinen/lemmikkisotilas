@@ -22,4 +22,4 @@ Ainakin saan kuvata tänä kesänä tarpeeksi uivia hevosia! Olen päässyt uima
 
 Selvisin ensimmäisestä työpäivästäkin! Tämän vuoden ensimmäinen 20km pyöräilysuorituskaan ei tuntunut miltään verrattuna viime kevääseen, joten taidan selvitä aika kivuttomasti seuraavasta parista viikosta. Tupsujalat ja lapset ovat ihania eikä hellekään tunnu yhtään pahalta, jee :) Mitä mieltä olisitte ruokintaa käsittelevästä vähän tekstipainotteisemmasta postauksesta? Kesäinen kuvamateriaali kun ei monipuolisuudellaan huimaa. Kertokaahan mielipiteenne/ehdotuksenne!
 
-[![](/images/ak.png)](http://2.bp.blogspot.com/-apVg3BEHAog/UayVP8RFg5I/AAAAAAAAF8w/w-b907LJu1U/s1600/ak.png)
+[![](/images/ak.jpg)](http://2.bp.blogspot.com/-apVg3BEHAog/UayVP8RFg5I/AAAAAAAAF8w/w-b907LJu1U/s1600/ak.jpg)

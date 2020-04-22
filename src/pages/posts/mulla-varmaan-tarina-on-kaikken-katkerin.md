@@ -22,7 +22,7 @@ _Onnellinen pikku hevosenomistaja 4.9.2006. Jälkimmäisen kuvauspäivämäärä
 
 Mikään kummoinen ravihevonen se ei ollut. Juoksi vain omaa tappavan tasaista tahtiaan vaikka maailman tappiin asti, mutta ei siitä kirijäksi ollut. Sillä ei kuitenkaan ollut mitään väliä monesko oma aarteeni oli maalissa. Jännitin jokaista starttia niin paljon, että edeltävänä päivänä ei ruoka kelvannut ja raviradan aitaa sai puristaa rystyset valkoisina kun hevoset kutsuttiin esittelyyn. Kaikkein paras palkinto oli se, että prinsessa tuli radalta hyväntuulisena. (Oikeastaan se oli hyvällä tuulella vain silloin, kun se oli saanut tyydytettyä valtavan liikkumisentarpeensa.) Se keräili viimeisiä rahasijoja ja teki minut rajattoman ylpeäksi ollessaan aina lähtönsä parhaiten puettu hevonen (minun mielestäni ainakin, haha) - kelpuutin sille vain punamustat varusteet ja jonkin ajan päästä kokoelma oli täydellinen. Mikään ei korvaa niitä fiiliksiä, kun pesin kylmänä iltana kuraista hevosta startin jälkeen ja olin lopulta enemmän pesty kuin hevonen tai kun talutin ihan omaa hevostani oman kylän paikallisraveissa. Se oli minun omani ja suurin ylpeydenaiheeni. Rajattoman rakas prinsessani.
 
-[![](/images/mmm2.png)](http://3.bp.blogspot.com/-y0-v66oUAXA/UP-6A-QXIYI/AAAAAAAAE9U/BVGtNuCX-rc/s1600/mmm2.png)[![](/images/mmm1.png)](http://4.bp.blogspot.com/-j1cd5Fs3MW8/UP-6AwRZaEI/AAAAAAAAE9Q/H1i-HowZhqw/s1600/mmm1.png)
+[![](/images/mmm2.jpg)](http://3.bp.blogspot.com/-y0-v66oUAXA/UP-6A-QXIYI/AAAAAAAAE9U/BVGtNuCX-rc/s1600/mmm2.jpg)[![](/images/mmm1.jpg)](http://4.bp.blogspot.com/-j1cd5Fs3MW8/UP-6AwRZaEI/AAAAAAAAE9Q/H1i-HowZhqw/s1600/mmm1.jpg)
 
 _Prinsessa entiseltä omistajaltaan Joensuussa 27.7.2004 ja 10.4.2005. Molemmat c. Jutta Ikonen._
 
@@ -34,25 +34,25 @@ _Kouvolassa 27.8.2009 ja 11.4.2010. Hieno muttei kovin nopea._
 
 1.8.2010 prinsessani muutti yksityistallille Artjärvelle ja siirtyi kokonaan minun omistukseeni. Siitä alkoi siihenastisen elämäni parhaat puoli vuotta. Ratsun alkeet Pentu oli oppinut jo aikaisemmin - laukka nousi ja perusavut olivat tuttuja. Kentällä ratsastaminen toi touhuun kuitenkin paljon uutta, joten yhteinen aikamme kentän aitojen sisäpuolella kului lähes kokonaan uusia asioita opetellessa. Alku oli haparoiva, mutta nopeasti huomasin istuvani hevosen selässä, joka antoi itsestään aina juuri yhtä paljon kuin minäkin annoin. Sen jälkeen en enää koskaan tuntenut oloani turvattomaksi omani kanssa. En ole varma kumpi meistä oppi enemmän. Olin ensimmäistä kertaa omillani hevoseni kanssa.
 
-[![](/images/mmm4.png)](http://4.bp.blogspot.com/-AUELzVyaCi0/UP_BXqTbt_I/AAAAAAAAE-Q/aQKekd1or7Q/s1600/mmm4.png)[![](/images/IMG_1699.png)](http://4.bp.blogspot.com/-BVm3USgz9bk/UP_BTy2E0II/AAAAAAAAE-I/VjL5Rn0qoFk/s1600/IMG_1699.png)
+[![](/images/mmm4.jpg)](http://4.bp.blogspot.com/-AUELzVyaCi0/UP_BXqTbt_I/AAAAAAAAE-Q/aQKekd1or7Q/s1600/mmm4.jpg)[![](/images/IMG_1699.jpg)](http://4.bp.blogspot.com/-BVm3USgz9bk/UP_BTy2E0II/AAAAAAAAE-I/VjL5Rn0qoFk/s1600/IMG_1699.jpg)
 
 _Hieno se oli, mutta välillä mistään ei tullut mitään. Maltti ei meinannut millään riittää kenttäpuuhailuun._
 
 Ei mennyt kovinkaan kauaa, että varmaan jokainen kotitallimme kanssa tekemisissä ollut ihminen tiesi kuka minun hevoseni oli. Pieni hevonen ja valtava persoona. Oikeasti se oli ihan mukava ja yhteistyöhaluinen kaveri, mutta piilotti sen halutessaan taitavasti. Elämää vaikeutti hieman vain se, että prinsessalla oli kovin valikoiva maku ihmisten suhteen eikä juuri sinä päivänä inhottavien tyyppien kanssa kiinnostanut matkata edes tallista tarhaan. Nämäkin epäsuositut ihmiset vaihtelivat päivittäin. Perustoimista sen kanssa selviytyi kyllä oikeastaan kuka tahansa (niin, kuka tahansa joka osasi ottaa huumorilla kaiken muun ohella esimerkiksi sen, että loimen takajalkalenkkien kanssa oli suositeltavaa havaita hevosen mielipide ennen hyökkäystä takajalkojen väliin), mutta liikutuksen suhteen olimme täysin kahden. Vaati useita tuskaisiakin hetkiä ennen kuin löysimme yhteistyömme punaisen langan, jonka jälkeen hevoseni ei enää koskaan heittäytynyt toivottoman mahdottomaksi.
 
-[![](/images/IMG_2177.png)](http://2.bp.blogspot.com/-R1l2FX-GzTw/UP_CcGpZIlI/AAAAAAAAE-g/wRyvyFox5Y4/s1600/IMG_2177.png)[![](/images/IMG_6082_.png)](http://3.bp.blogspot.com/-oxTfubbaMow/UP_CyM91ohI/AAAAAAAAE-w/uq6RKYOxPac/s1600/IMG_6082_.png)
+[![](/images/IMG_2177.jpg)](http://2.bp.blogspot.com/-R1l2FX-GzTw/UP_CcGpZIlI/AAAAAAAAE-g/wRyvyFox5Y4/s1600/IMG_2177.jpg)[![](/images/IMG_6082_.jpg)](http://3.bp.blogspot.com/-oxTfubbaMow/UP_CyM91ohI/AAAAAAAAE-w/uq6RKYOxPac/s1600/IMG_6082_.jpg)
 
 _Ruma ja vähän inhottava hevonen oli neljässä vuodessa muuttunut kivaksi ja hienoksi kiiltokuvahevoseksi._
 
 Harvat Pentuun liittyvät asiat naurattavat vieläkään, mutta yksi niistä on kerta, jolloin kouluratsastajaystäväni (ja aiemmin poninsa kanssa täälläkin esiintynyt terveysriski) Christa kiipesi jo jonkin aikaa ratsujuttuja harjoitelleen prinsessani selkään. Parempaa ratsastajaa se ei selkäänsä olisi voinut saada, mutta ilmeisesti Pentu oli eri mieltä asiasta ja hoiti homman kotiin huolellisesti.. Onneksi reippaat kyydit kentän ympäri niskojen nakkelun kera päättyivät vain hyviin nauruihin emmekä onnistuneet vahingoittamaan ketään. Toisen ratsastajan kanssa homma kuitenkin toimi ja minun estearkuudestani huolimatta Pentu pääsi kerran elämässään kokeilemaan miltä hyppääminen tuntuu. Kunniakkaasti se ylitti 90cm ilman ratsastajaa ja 80cm ratsastajan kanssa. Harmi, että se kerta jäi ketterän ja innolla yrittävän prinsessani viimeiseksi.
 
-[![](/images/IMG_0658.png)](http://1.bp.blogspot.com/-7kOSO8-g9Ug/UP_EHKfzMOI/AAAAAAAAE_A/-Con3GKUnEk/s1600/IMG_0658.png)[![](/images/IMG_0642.png)](http://1.bp.blogspot.com/-5dwOO7NNp1Y/UP_EQKgpPjI/AAAAAAAAE_I/40v0re9L4xI/s1600/IMG_0642.png)
+[![](/images/IMG_0658.jpg)](http://1.bp.blogspot.com/-7kOSO8-g9Ug/UP_EHKfzMOI/AAAAAAAAE_A/-Con3GKUnEk/s1600/IMG_0658.jpg)[![](/images/IMG_0642.jpg)](http://1.bp.blogspot.com/-5dwOO7NNp1Y/UP_EQKgpPjI/AAAAAAAAE_I/40v0re9L4xI/s1600/IMG_0642.jpg)
 
 _17.10.2010, ensimmäiset kavaletteja suuremmat esteet ratsastajan kanssa. Vetoa riitti!_
 
 Laukkaamaan Pentu oppi silloisen valmentajansa kanssa jo vuosia aikaisemmin, mutta hypätessään syksyllä 2010 se keksi yhdessä viikonlopussa miten jalat pitää kentällä järjestellä. Laukkaympyröitä oltiin toki hinkattu paljon jo aikaisemmin, mutta yht'äkkiä kaikki olikin helppoa - lapa edellä höntyilevä kirahvi oli poissa. Apunani oli näppärä itseäni hieman nuorempi tyttö Helmi, jonka kanssa oli mukavaa puuhailla. Petukin tykkäsi pikku apulaisestani. Pakkasten tultua kenttä meni huonoon kuntoon, joten siirryimme vähitellen lähes kokonaan maastoilemaan. 10 kilometrin laukkalenkeillä harjoittelimme temponvaihdoksia ja homma kävi ihan kuntoliikunnasta, molemmille. Kärryttelimme jonkin verran ja lumien tultua kävimme läheisellä ratsastuskoululla laukkaamassa pellolle auratulla radalla. Välillä kaikki tökki, mutta yleensä viihdymme loistavasti yhdessä.
 
-[![](/images/IMG_0104.png)](http://4.bp.blogspot.com/-Djgw_Y-tVtw/UP_JxOEmyNI/AAAAAAAAE_c/lUV90VGZeRo/s1600/IMG_0104.png)[![](/images/IMG_0397.png)](http://3.bp.blogspot.com/-X4wjiZaD5ZM/UP_KjsG4WmI/AAAAAAAAE_s/xDnqQjj9P0g/s1600/IMG_0397.png)
+[![](/images/IMG_0104.jpg)](http://4.bp.blogspot.com/-Djgw_Y-tVtw/UP_JxOEmyNI/AAAAAAAAE_c/lUV90VGZeRo/s1600/IMG_0104.jpg)[![](/images/IMG_0397.jpg)](http://3.bp.blogspot.com/-X4wjiZaD5ZM/UP_KjsG4WmI/AAAAAAAAE_s/xDnqQjj9P0g/s1600/IMG_0397.jpg)
 
 _Irrallaan juokseminen kentällä oli parhautta ja Tortolan peltoradalla otteet olivat kuin laukkahevosella._
 
@@ -62,7 +62,7 @@ Laitakammoinen prinsessani ei olisi suostunut kiipeämään traileriin, joten p�
 
 Koko matkan prinsessa jaksoi seistä pystyssä niin tukevasti kuin kolmella jalallaan pystyi. Ehkä ensimmäistä kertaa se matkusti rauhassa ja tyhjensi ilolla heinäverkkoaan. Istuin koko matkan autossa sen seurana ja olin melkein hyvällä tuulella, mikä pahan tappaisi! Olimme Hyvinkäällä vasta myöhään illalla ja pääsimme suoraan röntgenkuviin. Onnistumisen ilo loppui lyhyeen - en tarvinnut klinikkaeläinlääkäriä kertomaan ettei mitään ole tehtävissä. Ilmeisesti Pentu oli riehunut tarhassaan ja kääntynyt nopeasti paikallaan niin, että hokit pitivät mutta vuohisnivel antoi periksi. Se oli sirpaleina. Ja niin oli hevosen omistajakin. En koskaan unohda sitä sinistä pehmustettua huonetta johon maailman paras prinsessa minua seurasi ja johon jouduin sen jättämään. Viimeisen kerran. Sinne päättyi siihenastisen elämäni viisi parasta vuotta.
 
-[![](/images/Kausala+331_pieni.png)](http://3.bp.blogspot.com/-d8LCWkRCK4o/UP_vIT0P4TI/AAAAAAAAFAU/CvZMWpDiaAg/s1600/Kausala+331_pieni.png)
+[![](/images/Kausala+331_pieni.jpg)](http://3.bp.blogspot.com/-d8LCWkRCK4o/UP_vIT0P4TI/AAAAAAAAFAU/CvZMWpDiaAg/s1600/Kausala+331_pieni.jpg)
 
 Rakastakaa omia aarteitanne niin kauan kun siihen on mahdollisuus, sillä yhteinen matka saattaa loppua milloin tahansa. Jos niin käy, haluat tietää tehneesi parhaasi. Äläkä kieltäydy jos joku pyytää apuasi, koska se joku saattaa olla juuri se, joka pelastaa sinut kun tarvitset apua enemmän kuin koskaan aikaisemmin. Ihan älyttömän iso kiitos kaikille niille jotka meitä matkan varrella auttoivat ja etenkin teille, jotka olitte apuna ja tukena viimeisenä päivänä. Ilman teitä en voisi nukkua öitäni rauhassa tietäen, että teimme kaikkemme!
 
@@ -70,4 +70,4 @@ NUKU RAUHASSA, MINUN RAKAS PRINSESSANI
 
 6.5.1997 - 27.1.2011
 
-[![](/images/ak.png)](http://3.bp.blogspot.com/-M8eSXRuVCxQ/UP_0_fDziUI/AAAAAAAAFAo/MXBylYzhxMI/s1600/ak.png)
+[![](/images/ak.jpg)](http://3.bp.blogspot.com/-M8eSXRuVCxQ/UP_0_fDziUI/AAAAAAAAFAo/MXBylYzhxMI/s1600/ak.jpg)

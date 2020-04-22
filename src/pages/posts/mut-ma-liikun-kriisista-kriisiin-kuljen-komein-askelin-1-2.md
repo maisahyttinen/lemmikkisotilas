@@ -12,7 +12,7 @@ Halusin alun perin kertoa Sotilaan paranemisesta (tai kuntoutumisesta, miten vai
 
 Jännevamma ei itsessään ole kovin mystinen juttu. Jänteiden tehtävä on liittää lihakset luihin ja sitä kautta välittää liikkeet lihakselta eteenpäin, toimia iskunvaimentimina ja osaltaan tukea vuohista. Hevosen liikkuessa jännekudos venyy, joka aiheuttaa etenkin ylivenymistilanteissa kudokseen pieniä mikrovaurioita. Mikrovauriot korjaantuvat esimerkiksi kylmähoidolla ja riittävällä palautumisella, mutta mikäli niitä syntyy paljon ja usein, ne heikentävät jänteen venymis- ja kestokykyä. Jänne ei enää kestä samaa venytystä kuin ennen ja sen säikeet katkeavat. Nämä vauriot voidaan nähdä ultraäänellä jännevammaa tutkittaessa. Säikeet voivat repeytyä/katketa myös yksittäisen rajun ylivenymisen seurauksena.
 
-[![](/images/IMG_0736_.png)](http://1.bp.blogspot.com/-knSLGEkulFQ/VV78JNe_JcI/AAAAAAAAJqU/miqARxnAaDM/s1600/IMG_0736_.png)
+[![](/images/IMG_0736_.jpg)](http://1.bp.blogspot.com/-knSLGEkulFQ/VV78JNe_JcI/AAAAAAAAJqU/miqARxnAaDM/s1600/IMG_0736_.jpg)
 
 VASEMMALLA ENSIMMÄINEN ULTRAKUVA 5. SYYSKUUTA, OIKEALLA TOINEN 7. LOKAKUUTA
 
@@ -28,7 +28,7 @@ Klinikkalääkäri arveli, että jalka hajosi käytännössä yhteen askeleeseen
 
 Jännevammat yleensä oireilevat lämpönä, turvotuksena, puristusarkuutena ja liikkeen epäpuhtautena. Raju ontuminen ei ole kovin tyypillistä ja riippuu hyvin paljon yksilöstä - ontuman perusteella ei voida tulkita kuinka suuri vamma on kyseessä. Oireet ovat muutenkin yksilöllisiä. Sotilaan jalka ei missään vaiheessa turvonnut tai kuumentunut kovin paljon. Puristusarka kohta löytyi vain miehen käsin, minä en saanut mitään reaktiota aikaan vaikka kuinka puristelin. Sen sijaan Sotilas ontui pahasti melkein kaksi viikkoa.
 
-[![](/images/8.png)](http://2.bp.blogspot.com/-C6RVHmIhHHY/VV8AFlJTj6I/AAAAAAAAJqk/8ZGOc15RUNU/s1600/8.png)[![](/images/9.png)](http://3.bp.blogspot.com/-VV-WpxFkugc/VV8AFm5oAcI/AAAAAAAAJqg/FzHufXHGeLs/s1600/9.png)
+[![](/images/8.jpg)](http://2.bp.blogspot.com/-C6RVHmIhHHY/VV8AFlJTj6I/AAAAAAAAJqk/8ZGOc15RUNU/s1600/8.jpg)[![](/images/9.jpg)](http://3.bp.blogspot.com/-VV-WpxFkugc/VV8AFm5oAcI/AAAAAAAAJqg/FzHufXHGeLs/s1600/9.jpg)
 
 TURVOTUS PAHIMMILLAAN 12. ELOKUUTA. LASER JA BACK ON TRACKIT SULATTIVAT SEN KUITENKIN NOPEASTI. TOINEN KUVA OTETTU 5. SYYSKUUTA.
 
@@ -38,7 +38,7 @@ Vamman suuruus arvioidaan ultraäänikuvien perusteella prosentteina. Alle 25 % 
 
 Kontrollitutkimuksia tehdään urheiluhevosille yleensä 6-8 viikon välein kunnes vamma on täysin parantunut. Harrastehevosille harvemmin, osa ultraa kerran tai ei ollenkaan. Sotilas ultrattiin ensimmäisen kerran Hevoskylän klinikalla syyskuussa, toisen kerran marraskuussa ja kolmannen tammikuussa. Vamma lähti paranemaan jopa poikkeuksellisen hyvin. Sen jälkeen jalka ei ole reagoinut ja liikunta on keskittynyt hyvin maltilliseen peruskunnon uudelleenrakennukseen, joten tarvetta lisätutkimuksille ei ole toistaiseksi ollut. Seuraava ja toivottavasti viimeinen ultra on parin kuukauden sisällä. Toimenpiteenä ultraäänitutkimus ei ole kovin kallis - 70-100 €.
 
-[![](/images/6.png)](http://1.bp.blogspot.com/-7uYVav_ULTE/VV77TMgCE5I/AAAAAAAAJqE/_iatIzGaoQo/s1600/6.png)[![](/images/5.png)](http://1.bp.blogspot.com/-NITrBbw4Trc/VV77TI28iiI/AAAAAAAAJqI/xWNuKj8_gxY/s1600/5.png)
+[![](/images/6.jpg)](http://1.bp.blogspot.com/-7uYVav_ULTE/VV77TMgCE5I/AAAAAAAAJqE/_iatIzGaoQo/s1600/6.jpg)[![](/images/5.jpg)](http://1.bp.blogspot.com/-NITrBbw4Trc/VV77TI28iiI/AAAAAAAAJqI/xWNuKj8_gxY/s1600/5.jpg)
 
 TOISTA KERTAA KLINIKALLA ORIMATTILASSA, 7. MARRASKUUTA 2014
 
@@ -46,7 +46,7 @@ Jännekudos on tiivistä sidekudosta, joka koostuu pääasiassa kollageenisyist�
 
 Mitä parempi aineenvaihdunta vaurioituneessa jänteessä on, sitä nopeammin ja paremmin kudos uusiutuu. Runsas turvotus hidastaa vammakohdan aineenvaihduntaa entisestään. Siinä mielessä jännevamman hoito vaatii tarkkuutta, että akuutissa vaiheessa (1-2 ensimmäistä viikkoa) aineenvaihduntaa täytyisi hillitä, ettei tulehdus pääse syömään kudosta. Arpikudoksen muodostuminen on kuitenkin kaikkein nopeinta kolmannella viikolla, jolloin terveen kudoksen aineenvaihduntaa pitäisi tukea mahdollisimman paljon. Akuutissa vaiheessa pelkkä kylmähoito on kaikkein paras, mutta myöhemmin lämpö nopeuttaa aineenvaihduntaa tehokkaasti.
 
-[![](/images/201408201632432809.jpg)](http://1.bp.blogspot.com/-e2TpGAbBILs/VV7s9BzxB6I/AAAAAAAAJpE/OPUmKSPsFnM/s1600/201408201632432809.jpg)[![](/images/201408201632214850.png)](http://2.bp.blogspot.com/-p-KtuyhEL9g/VV7s9gryYoI/AAAAAAAAJpM/6YkuhbbB44E/s1600/201408201632214850.png)
+[![](/images/201408201632432809.jpg)](http://1.bp.blogspot.com/-e2TpGAbBILs/VV7s9BzxB6I/AAAAAAAAJpE/OPUmKSPsFnM/s1600/201408201632432809.jpg)[![](/images/201408201632214850.jpg)](http://2.bp.blogspot.com/-p-KtuyhEL9g/VV7s9gryYoI/AAAAAAAAJpM/6YkuhbbB44E/s1600/201408201632214850.jpg)
 
 SAIRASKENGITYS - PATENTTIKENKÄ KANTAKIILALLA JA HOKEILLA.
 
@@ -56,13 +56,13 @@ Pari päivää loukkaantumisen jälkeen Sotilas sairaskengitettiin. Molempiin et
 
 Akuutin vaiheen jälkeen kylmähoitoa jatkettiin, mutta käärin jalat aina iltaisin. Paikallaan seistessään terveenkin hevosen jalkojen aineenvaihdunta hidastuu merkittävästi, joten yöllä sitä täytyy tukea kaikkein eniten. Jo pelkästään kylmä-kuuma -vaihtelu ja esimerkiksi sormin hierominen kiihdyttävät aineenvaihduntaa. Meillä on jo monta vuotta ollut käytössä Back on Trackin pintelipatjat ja loukkaantumisen yhteydessä ne jäivät päivittäiseen käyttöön. Back on Trackin Welltex-kankaan sisältämä keramiikka heijastaa ruumiinlämmön takaisin infrapuna-aaltoina, jotka mm. kiihdyttävät verenkiertoa. Ne sulattivat viimeisenkin turvotuksen ja pitivät huolta siitä, ettei uutta päässyt yön aikana kertymään. Vastoin kaikkia virallisia ohjeita käytin Back on Trackien alla pitkään arnikageeliä. Myös arnika kiihdyttää aineenvaihduntaa enkä halunnut vaihtaa BoT-kääreitä villapatjoihin. Yhteisvaikutus on melkoinen. Sotilas ei iho-oireita ole saanut, mutta varoitus Back on Trackien käyttöohjeissa ei ole turha. Veri ja muut nesteet lähtevät sen verran rajusti liikkeelle, etten ihmettele mikäli joissain tapauksissa ihokin lähtee mukana. Sotilas ei ole koskaan reagoinut hoitoaineisiin kovin vahvasti.
 
-[![](/images/2.png)](http://3.bp.blogspot.com/-tRyc_gS7pPE/VV7uVzXZFyI/AAAAAAAAJpc/Zyf9s7DdAHU/s1600/2.png)[![](/images/1.png)](http://1.bp.blogspot.com/-Zz4jyGfdtHg/VV7uV6ZjS1I/AAAAAAAAJpY/zt7ZEeseZhc/s1600/1.png)
+[![](/images/2.jpg)](http://3.bp.blogspot.com/-tRyc_gS7pPE/VV7uVzXZFyI/AAAAAAAAJpc/Zyf9s7DdAHU/s1600/2.jpg)[![](/images/1.jpg)](http://1.bp.blogspot.com/-Zz4jyGfdtHg/VV7uV6ZjS1I/AAAAAAAAJpY/zt7ZEeseZhc/s1600/1.jpg)
 
 ERILAISIA KYLMÄYSKOKEILUJA. PINTELEILLÄ KIINNITETYT JÄÄPALAPUSSIT PYSYIVÄT TARHASSA PAIKOILLAAN KAIKKEIN PARHAITEN.
 
 Jännevammat ovat urheiluhevosten kaikkein yleisin vaiva, mutta varsinaisia hoitokeinoja on vähän. Klinikalla vammoja voidaan hoitaa verihiutaleplasmalla (PRP) ja kantasoluilla. Sekä verihiutaleplasma että kantasolut otetaan ja jalostetaan hevosesta itsestään. Tavoitteena on minimoida tulehduksen aiheuttamat vahingot ja tukea uuden kollageenin muodostumista. Molemmat operaatiot ovat kalliita eivätkä lyhennä paranemisaikaa, lopputulos on kuitenkin hyvässä tapauksessa kestävämpi (arpikudosta on mahdollisimman vähän). Jännevammoja hoidetaan jonkin verran myös mm. shockwavella ja laserilla. Kaikkein tärkeintä on kuitenkin aika, lepo ja liikunta. Joskus aiemmin jänteitä myös poltettiin, mutta varsinaista hyötyä siitä ei ole havaittu olevan.
 
-[![](/images/10.png)](http://4.bp.blogspot.com/-YOrwoREQpck/VV8JdlN8kmI/AAAAAAAAJrE/gaIgTnqihKQ/s1600/10.png)
+[![](/images/10.jpg)](http://4.bp.blogspot.com/-YOrwoREQpck/VV8JdlN8kmI/AAAAAAAAJrE/gaIgTnqihKQ/s1600/10.jpg)
 
 HEVOSET REAGOIVAT LASERIIN HERKÄSTI. HOITO PUUDUTTAA, MUTTA VOI AIHEUTTAA JOITAIN TUNTEJA HOIDON JÄLKEEN ILMENEVÄÄ (OHIMENEVÄÄ) KIPUA.
 
@@ -70,7 +70,7 @@ Sotilasta hoidettiin alusta asti laserilla. Ensimmäisen kotidiagnoosin ja saira
 
 Tarhaaminen ja liikunta ovat ehkä kaikkein kiistellyin osa jännevammojen hoitoa. Jotkin eläinlääkärit suosittelevat täyttä koppilepoa vähintään akuutin vaiheen ajaksi, toiset painottavat vapaan tarhaamisen tärkeyttä mikäli hevonen maltaa ulkoilla rauhassa. Lukuisten ammattilaismielipiteiden perusteella Sotilas sai olla alusta asti ulkona. Koko sairaslomansa aikana se vietti sisällä vain muutaman kurjan ja liukkaan sadepäivän. Ensimmäiset pari viikkoa Sotilas oli sen verran kipeä, ettei varsinaista sairastarhaa tarvinnut rakentaa. Kipulääkintää pohdittiin pitkään, mutta päädyimme eläinlääkärin kanssa siihen tulokseen, että lääkitsemme vasta kun se on välttämätöntä. Hiukan kipeää jalkaa Sotilas muisti varoa ja sai elää vapaammin, kipulääkittynä tilanne olisi todennäköisesti ollut toinen. Välttämätöntä tarvetta ei koskaan tullut - joka aamu vastassa oli pirteä, makuullaan nukkunut hevonen joka kinkkasi iloisena tarhaan, söi hyvin ja jaksoi puuhailla normaalisti. Akuutti vaihe sujui kaikkineen hyvin rauhallisesti. Jatkuvan kylmäyksen lisäksi käärin kipeän jalan vuohiseen tarhailun ajaksi tukisiteen, joka rajoitti nivelen liikkumista jonkin verran ja olisi estänyt mahdolliset ylivenymistilanteet.
 
-[![](/images/3.png)](http://4.bp.blogspot.com/-tJca8rp-GKw/VV746Cx9awI/AAAAAAAAJp0/nP_0A3U-jDI/s1600/3.png)[![](/images/4.png)](http://1.bp.blogspot.com/-I3PUdpVrE7g/VV745vg7u-I/AAAAAAAAJpw/UhX4b2RIv5k/s1600/4.png)
+[![](/images/3.jpg)](http://4.bp.blogspot.com/-tJca8rp-GKw/VV746Cx9awI/AAAAAAAAJp0/nP_0A3U-jDI/s1600/3.jpg)[![](/images/4.jpg)](http://1.bp.blogspot.com/-I3PUdpVrE7g/VV745vg7u-I/AAAAAAAAJpw/UhX4b2RIv5k/s1600/4.jpg)
 
 BACK ON TRACKIN NEOPREENISUOJAT JA TUKISIDE LIUKKAASEEN TARHAAN.
 
@@ -80,7 +80,7 @@ Ensimmäiset pari viikkoa Sotilas vietti päivänsä vain tarhassa, ontuvana se 
 
 > " _Kirpeä sää on taas herättänyt Sotilaan sisäisen varsan. Tuntuu hyvältä, että viikonloppuisin vastassa on kirkassilmäinen ja iloinen hevonen. Toisaalta se on edelleen yhtä hyväkäytöksinen kuin aina ennenkin. -- Viettäisin mielelläni enemmän aikaa Sotilaan kanssa juuri nyt - sen kanssa on niin helppoa ja hauskaa tehdä mitä tahansa kun se sille tuulelle sattuu. Se oppi antamaan suukon parissa illassa ja muitakin temppuja olisi kiva harjoitella._ " (28. LOKAKUUTA 2014, LOPPUJEN LOPUKSI NAUTIMME MOLEMMAT TÄYSIN TAVOITEVAPAASTA YHDESSÄOLOSTA. SIINÄ MIELESSÄ LOUKKAANTUMISESTA ON SEURANNUT PALJON HYVÄÄKIN.)
 
-[![](/images/11.png)](http://4.bp.blogspot.com/-ai7iX-IcG38/VV8LuvmM00I/AAAAAAAAJrY/uiFkAIQeQBU/s1600/11.png)[![](/images/13.png)](http://3.bp.blogspot.com/-YYt3Cts2Ooc/VV8QAtSCmvI/AAAAAAAAJrw/VINrFzNDwPY/s1600/13.png)
+[![](/images/11.jpg)](http://4.bp.blogspot.com/-ai7iX-IcG38/VV8LuvmM00I/AAAAAAAAJrY/uiFkAIQeQBU/s1600/11.jpg)[![](/images/13.jpg)](http://3.bp.blogspot.com/-YYt3Cts2Ooc/VV8QAtSCmvI/AAAAAAAAJrw/VINrFzNDwPY/s1600/13.jpg)
 
 Ensimmäisessä kontrolliultrassa (3kk loukkaantumisen jälkeen) muutos oli häkellyttävä. Uutta kudosta oli parissa kuukaudessa kasvanut paljon odotettua enemmän. Arvioitua puolen vuoden täyttä sairaslomaa (eli käytännössä kävelyä) olisi ollut jäljellä vielä puolet, mutta saimme luvan siirtyä varovaiseen hölkkään. Miksi? Koska olen saanut älyttömästi apua ja tukea todella taitavilta ja omistautuneilta ihmisiltä, teimme näemmä paljon oikein. Uskon, että laser ja Back on Track ratkaisivat paljon. Ostin myöhemmin syksyllä pintelipatjojen kaveriksi neopreeniset ratsastussuojat, joita Sotilas käytti aina kävellessään. Lämpiminä jänteet kestävät enemmän venytystä ja mikrovaurioita syntyy vähemmän - Back on Trackit tukivat ja lämmittivät jalkoja rauhallisessa kävelyssäkin (jonka huomasi selvästi suojia riisuessa myös viileällä syyssäällä). Loukkaantumisestaan alkaen Sotilas on viettänyt puolet vuorokaudesta BoT:it jalassa.
 
@@ -88,4 +88,4 @@ Ajattelin, että yksi postaus riittää. Ei näemmä riittänytkään. Ensimmäi
 
 **PROJEKTISSA MUKANA**
 
-[![](/images/b%25C3%25A4kk%25C3%25A4rilogo.png)](http://www.backontrack.com/fi/)
+[![](/images/b%25C3%25A4kk%25C3%25A4rilogo.jpg)](http://www.backontrack.com/fi/)

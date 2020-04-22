@@ -20,8 +20,8 @@ Rakennekuvalle oli pakko tirskahtaa ääneen - onko se oikeasti näyttänyt _tuo
 
 .. Toisen täydellisen miehen kamera muuttaa meille! Seisoskelin aamulla tupsulassa ja katselin miten maailman söpöin pörröjalkalauma puuhaili omiaan aamuhämärissä. Mietin, että kamera on ihan pakko saada. Onneksi työtunteja tupsulassa kertyy sen verran seuraavallekin kuukaudelle, että siihen on mahdollisuus yllättävän pian! Tahdon mahdollisimman paljon söpöjä talvikuvia Sotilaasta ja Libbystä, talvi kotona saattaa olla meille viimeinen.
 
-[![](/images/IMG_2382%5B1%5D.png)](http://3.bp.blogspot.com/-683dfQzaCkI/Up4TYp38ZmI/AAAAAAAAHbw/9vJDj0SHpgo/s1600/IMG_2382%5B1%5D.png)
+[![](/images/IMG_2382%5B1%5D.jpg)](http://3.bp.blogspot.com/-683dfQzaCkI/Up4TYp38ZmI/AAAAAAAAHbw/9vJDj0SHpgo/s1600/IMG_2382%5B1%5D.jpg)
 
 Sininen hetki ja satuponit!
 
-[![](/images/ak_uusi.png)](http://3.bp.blogspot.com/-T7f4SXU5OLk/Up4TyOqdQZI/AAAAAAAAHb4/wExg242fbBI/s1600/ak_uusi.png)
+[![](/images/ak_uusi.jpg)](http://3.bp.blogspot.com/-T7f4SXU5OLk/Up4TyOqdQZI/AAAAAAAAHb4/wExg242fbBI/s1600/ak_uusi.jpg)

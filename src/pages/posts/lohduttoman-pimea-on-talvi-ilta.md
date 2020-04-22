@@ -16,4 +16,4 @@ Tänään ulkoilutin kameraa ensimmäistä kertaa ikuisuuksiin ja tässä tulos.
 
 [![](/images/IMG_0069.JPG)](http://2.bp.blogspot.com/-Jn7NBEp2LOY/UJ4m29lATHI/AAAAAAAACEE/oJzB3P0v-5Q/s1600/IMG_0069.JPG)
 
-[![](/images/ak.png)](http://1.bp.blogspot.com/-Nt1TL_OR-fo/UJ6nCJDsh6I/AAAAAAAACFs/lkR2nTRP1M8/s1600/ak.png)
+[![](/images/ak.jpg)](http://1.bp.blogspot.com/-Nt1TL_OR-fo/UJ6nCJDsh6I/AAAAAAAACFs/lkR2nTRP1M8/s1600/ak.jpg)

@@ -14,4 +14,4 @@ PS. [Elämäni ponityttönä](http://elamaniponityttona.blogspot.fi/2012/12/joul
 
 [![](/images/IMG_0210.JPG)](http://1.bp.blogspot.com/-poFErTZD1LM/UNh6A62adyI/AAAAAAAAEN0/geVeG80_NFk/s1600/IMG_0210.JPG)
 
-[![](/images/ak.png)](http://3.bp.blogspot.com/-wZY-90CVKsg/UNh6JnFDUxI/AAAAAAAAEN8/oPiIIWHEPfE/s1600/ak.png)
+[![](/images/ak.jpg)](http://3.bp.blogspot.com/-wZY-90CVKsg/UNh6JnFDUxI/AAAAAAAAEN8/oPiIIWHEPfE/s1600/ak.jpg)

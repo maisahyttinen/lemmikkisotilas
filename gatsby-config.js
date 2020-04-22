@@ -2,36 +2,28 @@ module.exports = {
   pathPrefix: "/",
   siteMetadata: require("./site-metadata.json"),
   plugins: [
-    `gatsby-plugin-react-helmet`,
-    `gatsby-source-data`,
-    `gatsby-plugin-sharp`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        name: `pages`,
-        path: `${__dirname}/src/pages`
-      }
-    },
-    {
-      resolve: `gatsby-source-filesystem`,
-      options: {
+        path: `${__dirname}/static/images`,
         name: "images",
-        path: `${__dirname}/static/images`
-      }
+      },
     },
     {
-      resolve: `gatsby-plugin-stackbit-static-sass`,
+      resolve: `gatsby-source-filesystem`,
       options: {
-        inputFile: `${__dirname}/src/sass/main.scss`,
-        outputFile: `${__dirname}/public/assets/css/main.css`
-      }
+        path: `${__dirname}/src/pages`,
+        name: "pages",
+      },
     },
+    `gatsby-plugin-sharp`,
+    `gatsby-transformer-sharp`,
     {
       resolve: `gatsby-transformer-remark`,
       options: {
         plugins: [
           {
-            resolve: "gatsby-remark-relative-images"
+            resolve: "gatsby-remark-relative-images",
           },
           {
             resolve: `gatsby-remark-images`,
@@ -39,31 +31,38 @@ module.exports = {
               // It's important to specify the maxWidth (in pixels) of
               // the content container as this plugin uses this as the
               // base for generating different widths of each image.
-              maxWidth: 900
-            }
+              maxWidth: 800,
+              quality: 80,
+              backgroundColor: "transparent",
+              withWebp: { quality: 80 },
+            },
           },
-          `gatsby-remark-lazy-load`,
-          `gatsby-remark-component`
-        ]
-      }
+          //`gatsby-remark-lazy-load`,
+          `gatsby-remark-component`,
+        ],
+      },
     },
+    `gatsby-plugin-react-helmet`,
+    `gatsby-source-data`,
     {
-      resolve: `gatsby-transformer-remark`,
+      resolve: `gatsby-plugin-stackbit-static-sass`,
       options: {
-        plugins: [`gatsby-remark-component`]
-      }
+        inputFile: `${__dirname}/src/sass/main.scss`,
+        outputFile: `${__dirname}/public/assets/css/main.css`,
+      },
     },
+
     {
       resolve: `gatsby-remark-page-creator`,
-      options: {}
+      options: {},
     },
     {
       resolve: `@stackbit/gatsby-plugin-menus`,
       options: {
         sourceUrlPath: `fields.url`,
         pageContextProperty: `menus`,
-        menus: require("./src/data/menus.json")
-      }
+        menus: require("./src/data/menus.json"),
+      },
     },
     {
       resolve: `gatsby-plugin-google-analytics`,
@@ -76,8 +75,8 @@ module.exports = {
         exclude: ["/preview/**", "/do-not-track/me/too/"],
         // Delays sending pageview hits on route update (in milliseconds)
         pageTransitionDelay: 0,
-        cookieDomain: "maisahyttinen.fi"
-      }
-    }
-  ]
+        cookieDomain: "maisahyttinen.fi",
+      },
+    },
+  ],
 };

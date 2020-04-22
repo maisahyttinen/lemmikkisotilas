@@ -20,6 +20,6 @@ Vietin eilisen sateisella Seinäjoella (melkein 9 tuntia tosin meni jo pelkäst�
 
 Minunkin ravikevääni alkoi tänäkin vuonna Seinäjoelta ja parin viikon päästä kausi jatkuu. Ainakaan näillä näkymin kamera ei lähde mukaan Vermoon, mutta yritän keksiä Sotilaasta jotain vähän ylläolevaa kehittävämpää materiaalia. Tänään tarkoituksena oli napsia tämän kuun edustavammat kuvat, mutta eilisen sadepäivän jäljiltä vain juuri ja juuri sulamiselta välttynyt rassukka oli niin vihainen, että ei näitä kovin edustaviksi voi sanoa.. (Laadusta puhumattakaan, äh..) Huomatkaa kuitenkin kovaa vauhtia vähenevä karva ja oheneva rasvakerros! Ei enää niin valas.
 
-[![](/images/IMG_0027_.png)](http://3.bp.blogspot.com/-5jisK1oc1Wk/UWsAyiqTq6I/AAAAAAAAFm0/WBs1v9CfHfY/s1600/IMG_0027_.png)
+[![](/images/IMG_0027_.jpg)](http://3.bp.blogspot.com/-5jisK1oc1Wk/UWsAyiqTq6I/AAAAAAAAFm0/WBs1v9CfHfY/s1600/IMG_0027_.jpg)
 
-[![](/images/ak.png)](http://4.bp.blogspot.com/-CSYg5NC-yWw/UWsF_DrHBMI/AAAAAAAAFoY/ZplEmUqoB9s/s1600/ak.png)
+[![](/images/ak.jpg)](http://4.bp.blogspot.com/-CSYg5NC-yWw/UWsF_DrHBMI/AAAAAAAAFoY/ZplEmUqoB9s/s1600/ak.jpg)

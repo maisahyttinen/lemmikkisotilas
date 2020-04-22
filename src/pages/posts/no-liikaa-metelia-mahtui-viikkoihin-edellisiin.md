@@ -24,4 +24,4 @@ PS. Lentokoneen leikkiminen silmät kiinni tuntui ihan yhtä siistiltä kuin ain
 
 Sotilas viettää rauhallisen kotijuhannuksen - lähden mökkeilemään Toisen täydellisen miehen kanssa ja sunnuntaina tarkoituksena olisi ajella Kokemäelle raveihin. Alkuviikon ohjelma on kuitenkin vahvasti Sotilaspainotteinen. Saran olisi tarkoitus tulla käymään ja Sotilaalle se tietää väistämättä reipasta liikuntaa!
 
-[![](/images/ak.png)](http://1.bp.blogspot.com/-6NLXGDRlQug/UcP6zDOHB2I/AAAAAAAAGFA/GAHHTh_WIlA/s1600/ak.png)
+[![](/images/ak.jpg)](http://1.bp.blogspot.com/-6NLXGDRlQug/UcP6zDOHB2I/AAAAAAAAGFA/GAHHTh_WIlA/s1600/ak.jpg)
