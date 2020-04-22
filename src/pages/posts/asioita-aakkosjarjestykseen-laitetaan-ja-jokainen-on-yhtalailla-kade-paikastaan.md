@@ -12,10 +12,10 @@ Sotilas on viimeviikkoina ollut vain kärryjen edessä. Viimeksi sillä ratsasti
 
 Rallittelun jälkeen kierroksia löytyi vieläkin, mutta kotiinpäästessä ilme oli jo huomattavasti lähtötilannetta iloisempi. Kuulemma uudella kengityksellä vauhtia löytyi laukalla vielä enemmän kuin viimeksi (ja jalatkin järjestyivät alle vähän näppärämmin) ja kiitäminen vei tarhassa liukastelun tuomat jumit mennessään. Tänä aamuna karsinassa odotti hyväntuulinen, kuivajalkainen ja vetreä kaveri. Fiilistelin pari päivää sitten viime kesän kilpajuoksijakuvia, tulos: Reilun viikon päästä saamme toivottavasti montesatulan lainaan - maailman paras syy kiivetä hevosen selkään! Voin heittää hyvästit kävelykyvylle, haha!
 
-[![](/images/_MG_18161.png)](http://3.bp.blogspot.com/-4m7upzmdf3k/UhBijtd8BcI/AAAAAAAAGrM/TM2cuJisotA/s1600/_MG_18161.png)
+[![](/images/_MG_18161.jpg)](http://3.bp.blogspot.com/-4m7upzmdf3k/UhBijtd8BcI/AAAAAAAAGrM/TM2cuJisotA/s1600/_MG_18161.jpg)
 
 PS. **299 + 82** <3
 
 PPS. Jo illalla saatan saada _ihan kamalan pitkästä aikaa_ oman ja minun käyttööni riittävän tietokoneen!
 
-[![](/images/ak.png)](http://3.bp.blogspot.com/-Zf3ksfy8wEY/UhBldtZ7l3I/AAAAAAAAGrg/K9V2N0OYaFk/s1600/ak.png)
+[![](/images/ak.jpg)](http://3.bp.blogspot.com/-Zf3ksfy8wEY/UhBldtZ7l3I/AAAAAAAAGrg/K9V2N0OYaFk/s1600/ak.jpg)

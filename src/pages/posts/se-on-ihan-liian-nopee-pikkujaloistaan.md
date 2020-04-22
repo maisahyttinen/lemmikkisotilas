@@ -14,6 +14,6 @@ Kaikkein hyödyllisintähän olisi jumppailla liinassa vartti sivuohjien kanssa,
 
 Selitellä osaan kyllä. Sotilaan selkään ehdin vasta lauantaina (kiitos huomisen pitkän työpäivän) ja toivon todella, että saamme jotain oikeasti rakentavaa aikaan. Tämä sää ja ratsastuspohjat houkuttelisivat pysymään sängyssä, mutta kuten totesin - ei tekosyitä, ylös sängystä. _Millä ihmeellä te kaikki muut tsemppaatte itsenne ylös sängystä_, hevosen selkään ja ulos mukavuusalueelta? Hevosessa ei ole vikaa, ratsastaja vain on hävyttömän laiska..
 
-[![](/images/IMG_0336.png)](http://1.bp.blogspot.com/-itFS49Orqzo/Uuq0o-tIp6I/AAAAAAAAH5A/_-UOVIhGeW8/s1600/IMG_0336.png)
+[![](/images/IMG_0336.jpg)](http://1.bp.blogspot.com/-itFS49Orqzo/Uuq0o-tIp6I/AAAAAAAAH5A/_-UOVIhGeW8/s1600/IMG_0336.jpg)
 
 Ensimmäisiä ratsastuksia "sileällä" puolitoista vuotta sitten. Ainoa järkevä muistikuvani näistä ratsastuksista on, että miten kamalan jäykkä se olikaan..

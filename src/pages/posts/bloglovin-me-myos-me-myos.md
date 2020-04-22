@@ -12,4 +12,4 @@ post_button_label: "Lue lisää"
 
 [![](/images/uimiskuvat2.JPG)](http://3.bp.blogspot.com/-D3EzVQX13bE/UeOe13BHySI/AAAAAAAAGSs/djakdHG2kRw/s1600/uimiskuvat2.JPG)
 
-[![](/images/ak.png)](http://2.bp.blogspot.com/-CtdxwnEYhTw/UeOe3AFG3QI/AAAAAAAAGS0/5ZFXSe0JIY8/s1600/ak.png)
+[![](/images/ak.jpg)](http://2.bp.blogspot.com/-CtdxwnEYhTw/UeOe3AFG3QI/AAAAAAAAGS0/5ZFXSe0JIY8/s1600/ak.jpg)

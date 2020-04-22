@@ -12,7 +12,7 @@ Olkaa hyvä! Jouduin valitettavasti karsimaan kysymyksiä hieman, koska niistä 
 
 [![](/images/IMG_0414.JPG)](http://3.bp.blogspot.com/-f3dfHbodX1w/UIVsixEYVcI/AAAAAAAAB48/JymzR8Yge-o/s1600/IMG_0414.JPG)
 
-[![](/images/1.png)](http://4.bp.blogspot.com/-rCiXmWXMSfM/UIVtJuu64kI/AAAAAAAAB5c/bTi33DIx6Ko/s1600/1.png)
+[![](/images/1.jpg)](http://4.bp.blogspot.com/-rCiXmWXMSfM/UIVtJuu64kI/AAAAAAAAB5c/bTi33DIx6Ko/s1600/1.jpg)
 
 **Millainen olisi täydellinen päivä?**
 
@@ -36,7 +36,7 @@ TV-sarjoista ehdottomasti Greyn Anatomia ja House. Elokuvien suhteen olen yhtä 
 
 [![](/images/IMG_0043.JPG)](http://2.bp.blogspot.com/-Exwl4mLrHzw/UIVsm2tmABI/AAAAAAAAB5E/Gsp-NsTcc38/s1600/IMG_0043.JPG)
 
-[![](/images/2.png)](http://2.bp.blogspot.com/-86ynxQRVzno/UIRbn6zQoMI/AAAAAAAAB0A/rt0vwG51Nwc/s1600/2.png)
+[![](/images/2.jpg)](http://2.bp.blogspot.com/-86ynxQRVzno/UIRbn6zQoMI/AAAAAAAAB0A/rt0vwG51Nwc/s1600/2.jpg)
 
 **Miksi juuri hevoset? Miksi ratsastus?**  
 \- Tähän ei taida olla yhtä ainoaa vastausta. Lapsena isot eläimet viehättivät ja hevosista tuli äkkiä tosi iso osa elämää. Tottakai ensin oli hinku ratsastamaan, mutta vähitellen hevonen alkoi kiinnostaa eläimenä aina vain enemmän. Nykyään en välitä ratsastamisesta yhtään niin paljon kuin muusta yhteisestä ajasta hevosen kanssa ja tähän touhuun on jäänyt pahasti koukkuun.
@@ -76,7 +76,7 @@ TV-sarjoista ehdottomasti Greyn Anatomia ja House. Elokuvien suhteen olen yhtä 
 
 [![](/images/IMG_0008.JPG)](http://1.bp.blogspot.com/-sJj2Tbo7dWI/UIVsqepbGQI/AAAAAAAAB5U/QjlvPSgrpi4/s1600/IMG_0008.JPG)
 
-[![](/images/3.png)](http://1.bp.blogspot.com/-ge4P5dicQp4/UIRbo6msVtI/AAAAAAAAB0E/4-bGihCheUA/s1600/3.png)
+[![](/images/3.jpg)](http://1.bp.blogspot.com/-ge4P5dicQp4/UIRbo6msVtI/AAAAAAAAB0E/4-bGihCheUA/s1600/3.jpg)
 
 **Miten Sotilas tuli sulle ja oliko se ns. rakkautta ensi silmäyksellä? Miksi juuri Sotilas?**  
 \- Olin vitsaillut yhden ystäväni kanssa jo useampaan kertaa, että heidän hevosensa muuttavat meille eläkepäiville sitä mukaa kun raviurat päättyvät. Sotilaastakin oli puhuttu ohimennen jonkin verran. Kaikki oli kuitenkin vain ajatuksilla leikkimistä ainakin siihen asti, kunnes Pentu lähti. Emme etsineet uutta hevosta, mutta viime lokakuussa tilanne muuttui kertaheitolla. Olin [Christan](http://kilpasilakka.blogspot.fi/) kanssa Ypäjällä ja sain ystävältäni aika hämmentävän tekstiviestin: "_Saat hakee Sotilaan millon haluut_". Asiasta juteltiin kotona ja päätettiin lähteä ainakin katsomaan. 22.10. meitä odotti älyttömän sympaattisen näköinen silkkiturkki, johon ei voinut olla ihastumatta heti. Olin kuullut siitä niin paljon hyvää, että päätös ei ollut kovin vaikea. Ajattelin, että todennäköisesti kadun loppuelämäni jos en tartu tähän tilaisuuteen. Niin olisin varmaan katunutkin, koska ilmeisesti talutin silloin traileriin toisen elämäni hevosen, jota en uskonut olevan edes olemassa.
@@ -113,7 +113,7 @@ TV-sarjoista ehdottomasti Greyn Anatomia ja House. Elokuvien suhteen olen yhtä 
 
 [![](/images/IMG_0073.JPG)](http://4.bp.blogspot.com/-3vKMyaKMSYw/UIVtcq-COjI/AAAAAAAAB5k/6TXz-J34y8E/s1600/IMG_0073.JPG)
 
-[![](/images/4_.png)](http://1.bp.blogspot.com/-AdWNjnQujF4/UIRc37WA_5I/AAAAAAAAB0Y/H2CbmG1pBPE/s1600/4_.png)
+[![](/images/4_.jpg)](http://1.bp.blogspot.com/-AdWNjnQujF4/UIRc37WA_5I/AAAAAAAAB0Y/H2CbmG1pBPE/s1600/4_.jpg)
 
 **Mikä on kivoin puuha mitä tykkäät tehdä?**  
 \- Syöminen? Pitkät hölkkälenkit aurinkoisessa metsässä ja kaikki muutkin reissut kotipihan ulkopuolelle ovat mukavaa tekemistä ruoka-aikojen välissä. Aina välillä on hauskaa villiintyä sinkoilemaan jos on tarpeeksi tilaa juosta ja pomppia.

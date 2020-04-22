@@ -8,7 +8,7 @@ template: "page"
 post_button_label: "Lue lisää"
 ---
 
-[![](/images/joulut.png)](http://1.bp.blogspot.com/-aGOYk80NRtQ/UNdNPP1pyrI/AAAAAAAAEEA/McXbOpMkZrs/s1600/joulut.png)
+[![](/images/joulut.jpg)](http://1.bp.blogspot.com/-aGOYk80NRtQ/UNdNPP1pyrI/AAAAAAAAEEA/McXbOpMkZrs/s1600/joulut.jpg)
 
 [![](/images/22.12.3011.JPG)](http://1.bp.blogspot.com/-f5qe4k7gVnM/UNYwN85vxUI/AAAAAAAAD_4/tTFYKgYxFOQ/s1600/22.12.3011.JPG)[![](/images/22.12.3012.JPG)](http://3.bp.blogspot.com/-mknjh0zrXZw/UNYwOgzA9_I/AAAAAAAAEAA/Xh3qKfAfM90/s1600/22.12.3012.JPG)
 
@@ -24,4 +24,4 @@ Niin.. Ei tuota kaikkea massaa voi millään kuitata pelkällä talvikarvalla, m
 
 Viimeaikoina olen onneksi ehtinyt käymään raveissa jopa useammin kuin kerran kuukaudessa. On melkein itsestäänselvyys, että jokainen suomalainen raviurheilua paikan päälle seuraamaan saapunut ihminen istuu katsomossa hiljaa ja mahdollisimman kaukana muista katsojista. Talven iltaraveissa koko katsomo on hiiren hiljaa ja kaikki kymmenen ihmistä välttävät kaikkia sosiaalisia kontakteja, hienoa. Siispä 75-ravit ja ravintolakatsomo olivat piristävää vaihtelua. Mitkä tahansa pikkuravitkin tuntuvat suurkilpailulta kun edessä on kanakori, vieressä ystävä ja kaikki ympärillä elävät mukana jokaisen lähdön. Kaiken muun hyvän lisäksi joulun oli ilmeisesti määrätty alkavan onnellisesti, sillä hurjan kolarin seurauksena radalle makaamaan jäänyt hevonen nousi kaikkien yllätykseksi ehjänä ylös ja käveli tukevasti omin jaloin takaisin tallialueelle. Onneksi kaikki tuurit ovat joskus mukana.
 
-[![](/images/ak.png)](http://2.bp.blogspot.com/-DrlCLDOo7G0/UNYwRtNmStI/AAAAAAAAEAU/ipE1w6RIiVM/s1600/ak.png)
+[![](/images/ak.jpg)](http://2.bp.blogspot.com/-DrlCLDOo7G0/UNYwRtNmStI/AAAAAAAAEAU/ipE1w6RIiVM/s1600/ak.jpg)

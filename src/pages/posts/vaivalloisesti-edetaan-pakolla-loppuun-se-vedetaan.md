@@ -16,4 +16,4 @@ Hieman kesäisempää banneria ei-minkään tilalle! Kuvankäsittelyvälineistö
 
 PS. Kertokaa ihmeessä kommenttinne niin uudesta ilmeestä, bannerista kuin nykyisestä sisällöstäkin! Mitä tahtoisitte lisää, mitä on liikaa? **Kuinka moni teistä seuraa meitä vielä aktiivisesti?** Kommenttipuolella on kovin hiljaista. Antakaa itsenne jotenkin ilmi, jooko! :)
 
-[![](/images/ak.png)](http://2.bp.blogspot.com/-lJAVX8meGGE/UaJUSIyWhbI/AAAAAAAAF2U/cKKqgMqmT3I/s1600/ak.png)
+[![](/images/ak.jpg)](http://2.bp.blogspot.com/-lJAVX8meGGE/UaJUSIyWhbI/AAAAAAAAF2U/cKKqgMqmT3I/s1600/ak.jpg)

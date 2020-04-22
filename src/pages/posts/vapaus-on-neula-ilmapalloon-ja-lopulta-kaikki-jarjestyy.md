@@ -28,4 +28,4 @@ Paino (kg) =  (Rinnanympärys, cm)² x Rungon pituus, cm = (190cm)² x 146cm = 
 PS. Maailman parasta musiikkia just tällä hetkellä!  
 PPS. Kesäkuu alkaa sittenkin hevostöillä. Kivaa!
 
-[![](/images/ak.png)](http://1.bp.blogspot.com/-FniC4EyGaw4/UZpSA0z60iI/AAAAAAAAFy4/EkVK5YmH1Lw/s1600/ak.png)
+[![](/images/ak.jpg)](http://1.bp.blogspot.com/-FniC4EyGaw4/UZpSA0z60iI/AAAAAAAAFy4/EkVK5YmH1Lw/s1600/ak.jpg)

@@ -8,7 +8,7 @@ template: "page"
 post_button_label: "Lue lisää"
 ---
 
-[![](/images/huomenna2.png)](http://4.bp.blogspot.com/-UkMl1Uk8hEc/T8eHGxaVC4I/AAAAAAAAAsA/wFFlciyJ8nY/s1600/huomenna2.png)
+[![](/images/huomenna2.jpg)](http://4.bp.blogspot.com/-UkMl1Uk8hEc/T8eHGxaVC4I/AAAAAAAAAsA/wFFlciyJ8nY/s1600/huomenna2.jpg)
 
 Mulla ei oo yhtään järkevää syytä tulla kirjottamaan mitään mut sivuutetaan se muka ovelasti. (Ihan tajuttomissa paineissa jo nyt. Tuntuu ettei huaminen tule ikinä. Pikku himoinnokas heppatyttö on täällä taas.) Huomenillalla me muutetaan! Sunnuntaina ajateltiin ratsastaa rantaan, mutta tällä hetkellä säätiedotus näyttää ukkosta, joten asiaa pitää vielä myöhemmin miettiä. Pääasia kuitenkin on, että huamenna ätin nasu pakataan traileriin ja kärrätään se uuteen väliaikakotiin! Lauantaiksi on luvattu hauskaa kaatosadetta koko päiväksi. Pakollisten ylioppilasjuhlallisuuksien jälkeen pitää joka tapauksessa lentää Sotilaan luokse kerta siihen on mahdollisuus. Pitkästä aikaa pääsee vaivattomasti oman hevosensa luo. Ihanaa.
 

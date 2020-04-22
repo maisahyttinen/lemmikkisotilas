@@ -58,13 +58,13 @@ Kaikkein suurin ja näkyvin merkitys on MSM:llä, sekä Libbylle että perheen v
 
 Sotilas ei normaalisti tule ns. iholle lainkaan, edes luvan kanssa, vaan pitää kohteliasta välimatkaa tuttuihinkin ihmisiin. Toisaalta se omaan hillittyyn tapaansa toivoo ihmisenkin kunnioittavan hevosen omaa henkilökohtaista tilaa. Minä saan kyllä halailla ja minuun Sotilas uskaltaa itsekin koskea, mutta MSM:ää syödessään se on avoimempi muidenkin perheenjäsenten kanssa. Eläimillä MSM:n vaikutusta mielialaan on tutkittu ilmeisesti aika vähän, mutta ihmispuolelta tutkimuksia löytyy jonkin verran. Kaikkein merkittävimmät hyödyt taitavat Sotilaallakin kuitenkin löytyä pinnan alta, jalkaterveydestä.
 
-[![](/images/IMG_6322_.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/09/IMG_6322_.png)
+[![](/images/IMG_6322_.jpg)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/09/IMG_6322_.jpg)
 
 Toinen merkittävä huomio on Sotilaan kutinattomuus. Se on lievästi yliherkkä oikeastaan kaikille ötököille ja etenkin keväisin ihan tavallisista hyttysistäkin nousevat paukamat ovat kauheita. Ja kutisevat tolkuttomasti. Olemme jo monta vuotta luottaneet alunperin naudoille suunniteltuun pitkävaikutteiseen Coopersectiin. Niskaan laitetaan pieni tippa, josta se leviää ympäri hevosta ja pitää valtaosan ötököistä loitolla vähintään kuukauden. Lisäksi tervarasvaa, tervalaastaria ja Porcivetia on läträtty aiemmin purkkitolkulla. Sekä Sotilas että minä inhoamme molemmat tervan hajua eikä jatkuva rinnusten, harjantyven, jalkovälin jne. tahmaaminen ole mukavaa tai käytännöllistä. Tänä kesänä harja ja hännäntyvi ovat saaneet jäädä rauhaan eikä rinnuksia ole kupattu verille.
 
 Kaikkineen hyvinhän nuo voivat. Ne saavat hyvää kuivaa heinää viidesti päivässä ja iltaisin vähän lisukkeita. Sotilas jonkin verran kauraa ja Libby Racingin seniorirehua. Libby kuivahti taas keväällä hieman liian hoikaksi ja molemmille maistunut Builder Mix vaihdettiin nykyisiin. Sotilas on ollut tänä kesänä läikikkäämpi (ne sellaiset karvaan ilmestyvät kolikkokuviot, tiedättehän) kuin koskaan aikaisemmin. Lisäksi ensimmäistä kertaa ikinä sen kavioita on täytynyt vuolla viiden viikon välein, vaikka se on ollut tammikuusta asti kengättömänä (joka ei ole aiemmin varsinaisesti sopinut sille). Pahimmillaan kengitysväli oli yli 10 viikkoa ja siltikin uudet naulat piti lyödä liian lähelle vanhoja reikiä. Jalat ylipäätään voivat juuri nyt hyvin eivätkä ole reagoineet satunnaiseen aika rankkaankin liikuntaan.
 
-[![](/images/25-image-300x200.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/09/25-image.png)[![](/images/26-image-2B-25281-2529-300x200.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/09/26-image-2B-25281-2529.png)
+[![](/images/25-image-300x200.jpg)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/09/25-image.jpg)[![](/images/26-image-2B-25281-2529-300x200.jpg)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/09/26-image-2B-25281-2529.jpg)
 
 NÄMÄ ÄLYTTÖMÄN EDUSTAVAT PUHELINKUVAT OVAT KEVÄÄLTÄ. OIKEANPUOLEISESSA KUVASSA NÄKYY HYVIN TUO KARVANLÄHDÖN ONGELMA. JA NÄTIT KOLIKOT!
 

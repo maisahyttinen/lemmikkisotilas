@@ -26,4 +26,4 @@ Haha, näin läskipään korvat saatiin nousemaan pystyyn pariksi sekunniksi ker
 
 PS. Puhdistelin etujalkaa äsken ja taitaa ensi viikolla tulla eläinlääkäri käymään.. Polkihan se samaan paikkaan sitten vielä uudelleenkin. Voi äh :(
 
-[![](/images/ak.png)](http://2.bp.blogspot.com/-VDBKMD6z_vE/UTzidI-3UmI/AAAAAAAAFdQ/IjYnIgGzd-A/s1600/ak.png)
+[![](/images/ak.jpg)](http://2.bp.blogspot.com/-VDBKMD6z_vE/UTzidI-3UmI/AAAAAAAAFdQ/IjYnIgGzd-A/s1600/ak.jpg)

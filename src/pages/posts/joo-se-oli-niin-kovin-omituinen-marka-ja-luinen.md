@@ -16,8 +16,8 @@ NOPSAJALKA - NAUTINTOO
 
 Liimailin kauralastuja yhteen sulatetulla maitosuklaalla. Tulos oli oikein kelvollinen, joskin jämäsuklaaseen dipatut omenalohkot olivat ehkä vielä vähän parempia? Toissapäivänä leivoin kolme pellillistä pullaa. Oikeastaan mitään muuta järkevää en pariin viikkoon olekaan tehnyt. Mitähän sitä huomenna leipoisi?
 
-[![](/images/IMG_0480.png)](http://2.bp.blogspot.com/-2CkEzYRlPCw/UmFhO3zzgJI/AAAAAAAAHEs/vFNzH0edAsI/s1600/IMG_0480.png) [![](/images/IMG_0516.png)](http://1.bp.blogspot.com/-f444WAyo_Tc/UmFiTgOMWaI/AAAAAAAAHE0/alBgKbodKT0/s1600/IMG_0516.png)
+[![](/images/IMG_0480.jpg)](http://2.bp.blogspot.com/-2CkEzYRlPCw/UmFhO3zzgJI/AAAAAAAAHEs/vFNzH0edAsI/s1600/IMG_0480.jpg) [![](/images/IMG_0516.jpg)](http://1.bp.blogspot.com/-f444WAyo_Tc/UmFiTgOMWaI/AAAAAAAAHE0/alBgKbodKT0/s1600/IMG_0516.jpg)
 
 Laaturavintoa oli tarjolla aiemmin tällä viikolla. Porkkanatikut ja barbecue-dippi on aina yhtä hyvää ja nyt löytyi vihreää teetä joka kelpaa minullekin! Liptonin toinen uutuus (mikälie mustikkamuffinssi) pitää testata myös. Onneksi kylmyys on aina torjuttavissa untuvapeitolla ja kuumalla teemukillisella. HRRRRRR..
 
-[![](/images/ak.png)](http://4.bp.blogspot.com/-6MsUHXVk55c/UmFi4YgDYMI/AAAAAAAAHE8/BKNKDS-3nlY/s1600/ak.png)
+[![](/images/ak.jpg)](http://4.bp.blogspot.com/-6MsUHXVk55c/UmFi4YgDYMI/AAAAAAAAHE8/BKNKDS-3nlY/s1600/ak.jpg)

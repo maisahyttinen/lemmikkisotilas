@@ -14,4 +14,4 @@ Täälläkin sulaa kuumuuteen. Minä viihdyn kyllä hyvin, mutta Sotilas on näy
 
 [![](/images/myrkky1.JPG)](http://2.bp.blogspot.com/-TRpi6TUeBJM/UcsayZ8kuTI/AAAAAAAAGF0/MowciE72v8E/s1600/myrkky1.JPG)
 
-[![](/images/ak.png)](http://3.bp.blogspot.com/-UvIGbHpGj1s/UcsayY1-yUI/AAAAAAAAGFs/0wiyNfZzM2E/s1600/ak.png)
+[![](/images/ak.jpg)](http://3.bp.blogspot.com/-UvIGbHpGj1s/UcsayY1-yUI/AAAAAAAAGFs/0wiyNfZzM2E/s1600/ak.jpg)

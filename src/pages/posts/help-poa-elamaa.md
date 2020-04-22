@@ -14,4 +14,4 @@ Pieni videokooste eilisestä! (Laatu ei ole kovinkaan huikaiseva, mutta toivotta
 
 [![](/images/2013.02.26_25.JPG)](http://4.bp.blogspot.com/-FofGJIMjUnA/US5AfWVtrQI/AAAAAAAAFRE/PK3GlnHNJGE/s1600/2013.02.26_25.JPG)
 
-[![](/images/ak.png)](http://3.bp.blogspot.com/-kPTvfNOjsAU/US5Aw0ObWTI/AAAAAAAAFRY/QbneTljnpeE/s1600/ak.png)
+[![](/images/ak.jpg)](http://3.bp.blogspot.com/-kPTvfNOjsAU/US5Aw0ObWTI/AAAAAAAAFRY/QbneTljnpeE/s1600/ak.jpg)

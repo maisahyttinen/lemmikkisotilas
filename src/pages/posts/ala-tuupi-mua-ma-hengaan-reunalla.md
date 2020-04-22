@@ -8,7 +8,7 @@ template: "page"
 post_button_label: "Lue lisää"
 ---
 
-[![](/images/IMG_1855.png)](http://4.bp.blogspot.com/-a3K7sgiAhFU/TgjvMrS4hkI/AAAAAAAAAG0/qrPfWkdjTLk/s1600/IMG_1855.png)
+[![](/images/IMG_1855.jpg)](http://4.bp.blogspot.com/-a3K7sgiAhFU/TgjvMrS4hkI/AAAAAAAAAG0/qrPfWkdjTLk/s1600/IMG_1855.jpg)
 
 _I reach towards the sky I've said my goodbyes_  
 _My heart's always with you now_  

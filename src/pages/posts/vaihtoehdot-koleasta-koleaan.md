@@ -14,4 +14,4 @@ Tänään olen velttoillut Vilpun vieressä, tehnyt lasagnea, leiponut sämpylö
 
 Hyvää yötä! Ihan kohta teitä on jo 400, kiitos <3
 
-[![](/images/blendior.png)](http://1.bp.blogspot.com/-WOxbTaOrflg/UxzLnUUHLBI/AAAAAAAAIDQ/mmy9H6b9xNM/s1600/blendior.png)[![](/images/tupsut.png)](http://3.bp.blogspot.com/-jHUGnIiGXmQ/UxzLnnoOuLI/AAAAAAAAIDU/LXidBJGe1ZE/s1600/tupsut.png)
+[![](/images/blendior.jpg)](http://1.bp.blogspot.com/-WOxbTaOrflg/UxzLnUUHLBI/AAAAAAAAIDQ/mmy9H6b9xNM/s1600/blendior.jpg)[![](/images/tupsut.jpg)](http://3.bp.blogspot.com/-jHUGnIiGXmQ/UxzLnnoOuLI/AAAAAAAAIDU/LXidBJGe1ZE/s1600/tupsut.jpg)

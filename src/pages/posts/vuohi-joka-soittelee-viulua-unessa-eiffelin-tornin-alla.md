@@ -28,4 +28,4 @@ Kohta Sotilaallekin on tarjota kokoistaan lenkkeilyseuraa. Kunhan Neilikka saa k
 
 Toivottavasti jarrut ovat tallella vielä viikonlopun jäljiltä, sillä karvapylly lopettelee juuri ruokailuaan ja pääsee vielä viimeiselle ratsastusreissulle ennen omaa minilomaani. Sotilas jää äitini ruokittavaksi, joten tullessani kotiin minua todennäköisesti odottaa iloinen ja hyvin ruokittu hevonen, hehe. Pitänee siis käydä vähän liikkumassa varastoon. (+ Toinen täydellinen mies tulee yöllä omalta lomaltaan maailmalla eli kotiin ei harmita yhtään tulla.)
 
-[![](/images/ak.png)](http://2.bp.blogspot.com/-MFL6D2EkAjE/UI7W3K-O6oI/AAAAAAAACAw/t-mrjiYljI8/s1600/ak.png)
+[![](/images/ak.jpg)](http://2.bp.blogspot.com/-MFL6D2EkAjE/UI7W3K-O6oI/AAAAAAAACAw/t-mrjiYljI8/s1600/ak.jpg)

@@ -24,4 +24,4 @@ Siitäkin on pitkä aika kun tämä daami on viimeksi ollut kuvattavanani. Työp
 
 Sotilas saa maanantaina hokkikengät alle, joten hankien käyttökelvottomuus suojasään jäljiltä ei haittaa. Päästään ajelemaan! Ja ratsastaaman muutenkin vähän enemmän "oikeasti", minun mittapuullani. Hangessa tarpominen on pitänyt pikku pullamössön ihan hyvässä lihaksessa toivottoman alas valahtaneesta mahalinjasta huolimatta, joten ei tarvitse kahdesti miettiä kumman kunto pääsee kovemmin koetukselle!
 
-[![](/images/ak.png)](http://3.bp.blogspot.com/-AMagGNCJnvg/UNzBxc2PRII/AAAAAAAAEV4/yWfxW3EPLnw/s1600/ak.png)
+[![](/images/ak.jpg)](http://3.bp.blogspot.com/-AMagGNCJnvg/UNzBxc2PRII/AAAAAAAAEV4/yWfxW3EPLnw/s1600/ak.jpg)

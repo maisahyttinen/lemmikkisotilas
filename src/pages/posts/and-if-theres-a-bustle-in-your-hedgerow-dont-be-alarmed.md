@@ -29,4 +29,4 @@ Tämä äärettömän iloinen kuva on perjantailta lenkkeilyn jälkeen. Istutin 
 [![](/images/IMG_8954.JPG)](http://2.bp.blogspot.com/-swDPX-UkUnk/UGsQ-VBMP1I/AAAAAAAABbk/Usz5OhGholQ/s1600/IMG_8954.JPG)
 
 Ja loppuun vielä tämä - hurjan söpö ja kiva lammasmamma Lempi :)  
-[![](/images/ak.png)](http://4.bp.blogspot.com/-bMazPKI2Pjg/UGsfA3AIU5I/AAAAAAAABcg/sZxTKIbqHcs/s1600/ak.png)
+[![](/images/ak.jpg)](http://4.bp.blogspot.com/-bMazPKI2Pjg/UGsfA3AIU5I/AAAAAAAABcg/sZxTKIbqHcs/s1600/ak.jpg)

@@ -22,4 +22,4 @@ Toinen täydellinen mies otti ihan älyttömän kivoja kuvia. Kaikki kuvat meist
 
 Sotilaalla oli eilen synttärit. Uusi toppaloimi (violetti vaaleanpunaisilla kanteilla) haettiin postista ja Forssasta tarttui mukaan pintelipatjat, sinisenä tottakai. Loistava tekosyy hankkia jotain uutta kivaa. Pikkukaveri täytti 9, Pentu olisi täyttänyt 16 ja luottoystävä Täplä-Älläkin on jo 14. Miten nämä kaikki vanhenevat näin? Sotilaskin oli tullessaan kaksi vuotta nuorempi.. Toivottavasti sillä on ainakin kymmenen vuotta vielä edessä.
 
-[![](/images/ak.png)](http://1.bp.blogspot.com/-FV4GMbnkEDw/Ub41EPZDywI/AAAAAAAAGCY/dv2NrDgIFa4/s1600/ak.png)
+[![](/images/ak.jpg)](http://1.bp.blogspot.com/-FV4GMbnkEDw/Ub41EPZDywI/AAAAAAAAGCY/dv2NrDgIFa4/s1600/ak.jpg)

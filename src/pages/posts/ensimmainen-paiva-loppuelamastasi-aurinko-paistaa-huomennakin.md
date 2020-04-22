@@ -23,4 +23,4 @@ Muuta uutta ei eilisen jälkeen ei taida olla tullut. Kuvat ovat eiliseltä ja p
 [![](/images/IMG_9040j.JPG)](http://1.bp.blogspot.com/-ksxk6pnJKfs/UHGWcOYgDhI/AAAAAAAABi4/ak0PXCp3UbQ/s1600/IMG_9040j.JPG)
 
 [  
-](http://1.bp.blogspot.com/-fWN3itFI1OY/UHGam4qbyZI/AAAAAAAABkg/fka2b-_R5uM/s1600/ak.png)[![](/images/ak.png)](http://1.bp.blogspot.com/-fWN3itFI1OY/UHGam4qbyZI/AAAAAAAABkg/fka2b-_R5uM/s1600/ak.png)
+](http://1.bp.blogspot.com/-fWN3itFI1OY/UHGam4qbyZI/AAAAAAAABkg/fka2b-_R5uM/s1600/ak.jpg)[![](/images/ak.jpg)](http://1.bp.blogspot.com/-fWN3itFI1OY/UHGam4qbyZI/AAAAAAAABkg/fka2b-_R5uM/s1600/ak.jpg)

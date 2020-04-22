@@ -8,7 +8,7 @@ template: "page"
 post_button_label: "Lue lisää"
 ---
 
-[![](/images/IMG_1916_.png)](http://4.bp.blogspot.com/-CdKYJzal9Xs/Vh-9BIdBnPI/AAAAAAAAKSA/H-J85iR47UQ/s1600/IMG_1916_.png)
+[![](/images/IMG_1916_.jpg)](http://4.bp.blogspot.com/-CdKYJzal9Xs/Vh-9BIdBnPI/AAAAAAAAKSA/H-J85iR47UQ/s1600/IMG_1916_.jpg)
 
 Huomenna on eläinlääkäripäivä. Sotilas on saanut tämän viikon olla ihan kaikessa rauhassa, yhdessä muuten vain vietettyä aikaa ja lyhyitä liinassa pyörähtämisiä lukuunottamatta. (Kerrankin tenttiviikko ja Sotilaan lomailu osuivat samalle viikolle!) Jännetupen hoitaminen kortisonilla ei helpottanut takapään jäykkyyteen, joten tilannetta on lähinnä seurailtu jonkin aikaa ja huomenna tutkitaan kunnolla. Sotilas liikkuu takaa edelleen aika jähmeästi, mutta on ulkoisesti yhtä oireeton kuin aikaisemminkin. Otin siltä maanantaina kengät pois lähinnä testimielessä ja aamun jäykkyys karsinasta lähtiessä helpotti kuulemma heti. Jalkoja sai väännellä ja käännellä mielin määrin, ja Sotilas oli muutenkin oma helppo ja leppoisa itsensä. Olen aika optimistinen.
 
@@ -26,7 +26,7 @@ Kaikki alkaa siitä, että tunnistetaan oireet. Hevosen loukkaantuminen tai sair
 
 > Onko jokin kohta lämmin tai turvonnut? Tuntuuko jossakin poikkeuksellinen pulssi?
 
-[![](/images/IMG_1939_.png)](http://4.bp.blogspot.com/-TJ7XvkLQAoQ/Vh_RwGHxS9I/AAAAAAAAKSM/Bvc-4J5QTFg/s1600/IMG_1939_.png)
+[![](/images/IMG_1939_.jpg)](http://4.bp.blogspot.com/-TJ7XvkLQAoQ/Vh_RwGHxS9I/AAAAAAAAKSM/Bvc-4J5QTFg/s1600/IMG_1939_.jpg)
 
 Kun oireet on "tutkittu", voidaan tehdä seuraava lista. Missä vaiva voisi sijaita, ja mistä voisi olla kyse. Otetaan esimerkiksi vaikka Sotilas; iloinen normaali yleisilme, muutamassa päivässä edennyt epäpuhtaus ja jäykkyys liikkuessa (etenkin vasempaan kierrokseen), vertyy jonkin verran liikkuessaan, ei kipeitä kohtia tai epämukavia asentoja, ei turvotusta/lämpöä/pulssia.
 

@@ -10,17 +10,17 @@ post_button_label: "Lue lisää"
 
 Nnoniin, nyt tämä hiljaisuus saa riittää! Netti on kiukutellut viimeiset pari viikkoa ja olen roikkunut netissä lähinnä puhelimella (Blogger ei oikein toimi puhelimessakaan..). Reilu viikko sitten iPhone 4S saapui kotiin (kiitos Toinen täydellinen mies <3) ja ainakin kuvia on tullut napsittua vaikka kuinka paljon. Eilen Toinen täydellinen mies sai yhteyspisteenkin toimimaan, joten ainakin netti on tästä eteenpäin turvattu tietokoneessakin! Siispä: kuvia esillekin!
 
-[![](/images/IMG_0151.png)](http://4.bp.blogspot.com/-8mbHgD20XRI/UlwCcIhX8PI/AAAAAAAAG94/Lbo6ZOdT4IQ/s1600/IMG_0151.png)[![](/images/IMG_0181.png)](http://2.bp.blogspot.com/-K4RkRgrKfAI/UlwCcMxQS2I/AAAAAAAAG-A/_h3bmxbN-cA/s1600/IMG_0181.png)
+[![](/images/IMG_0151.jpg)](http://4.bp.blogspot.com/-8mbHgD20XRI/UlwCcIhX8PI/AAAAAAAAG94/Lbo6ZOdT4IQ/s1600/IMG_0151.jpg)[![](/images/IMG_0181.jpg)](http://2.bp.blogspot.com/-K4RkRgrKfAI/UlwCcMxQS2I/AAAAAAAAG-A/_h3bmxbN-cA/s1600/IMG_0181.jpg)
 
-[![](/images/IMG_0197.png)](http://1.bp.blogspot.com/-g_e2QQ99MW0/UlwCdJ7rqgI/AAAAAAAAG-I/hViOxvykhJM/s1600/IMG_0197.png)[![](/images/IMG_0233.png)](http://1.bp.blogspot.com/-lmkKIdGvZdM/UlwCddh6fTI/AAAAAAAAG-Q/MRwCS0a9LQk/s1600/IMG_0233.png)
+[![](/images/IMG_0197.jpg)](http://1.bp.blogspot.com/-g_e2QQ99MW0/UlwCdJ7rqgI/AAAAAAAAG-I/hViOxvykhJM/s1600/IMG_0197.jpg)[![](/images/IMG_0233.jpg)](http://1.bp.blogspot.com/-lmkKIdGvZdM/UlwCddh6fTI/AAAAAAAAG-Q/MRwCS0a9LQk/s1600/IMG_0233.jpg)
 
-[![](/images/IMG_0224.png)](http://3.bp.blogspot.com/-Y1RyLZDYLQM/UlwChFks_-I/AAAAAAAAG-c/_goebX68fZs/s1600/IMG_0224.png)[![](/images/IMG_0258.png)](http://2.bp.blogspot.com/-n_bjtRsXiOM/UlwChSDbU0I/AAAAAAAAG-o/QBggQxgpaf0/s1600/IMG_0258.png)
+[![](/images/IMG_0224.jpg)](http://3.bp.blogspot.com/-Y1RyLZDYLQM/UlwChFks_-I/AAAAAAAAG-c/_goebX68fZs/s1600/IMG_0224.jpg)[![](/images/IMG_0258.jpg)](http://2.bp.blogspot.com/-n_bjtRsXiOM/UlwChSDbU0I/AAAAAAAAG-o/QBggQxgpaf0/s1600/IMG_0258.jpg)
 
-[![](/images/IMG_0290.png)](http://3.bp.blogspot.com/-MpbWorXyots/UlwCicCvk3I/AAAAAAAAG-w/HL42XG0mEd4/s1600/IMG_0290.png)[![](/images/IMG_0320.png)](http://1.bp.blogspot.com/-amk3f_VnYOU/UlwCjD6-SwI/AAAAAAAAG_E/ANaeUBbSqdE/s1600/IMG_0320.png)
+[![](/images/IMG_0290.jpg)](http://3.bp.blogspot.com/-MpbWorXyots/UlwCicCvk3I/AAAAAAAAG-w/HL42XG0mEd4/s1600/IMG_0290.jpg)[![](/images/IMG_0320.jpg)](http://1.bp.blogspot.com/-amk3f_VnYOU/UlwCjD6-SwI/AAAAAAAAG_E/ANaeUBbSqdE/s1600/IMG_0320.jpg)
 
-[![](/images/IMG_0340.png)](http://4.bp.blogspot.com/-hfDZ8A5srPU/UlwCj8PvCmI/AAAAAAAAG_I/XNww8eMG3bU/s1600/IMG_0340.png)[![](/images/IMG_0413.png)](http://3.bp.blogspot.com/-XOmBY0fnGxw/UlwClDJ4XBI/AAAAAAAAG_Y/fc82djnxcqk/s1600/IMG_0413.png)
+[![](/images/IMG_0340.jpg)](http://4.bp.blogspot.com/-hfDZ8A5srPU/UlwCj8PvCmI/AAAAAAAAG_I/XNww8eMG3bU/s1600/IMG_0340.jpg)[![](/images/IMG_0413.jpg)](http://3.bp.blogspot.com/-XOmBY0fnGxw/UlwClDJ4XBI/AAAAAAAAG_Y/fc82djnxcqk/s1600/IMG_0413.jpg)
 
-[![](/images/IMG_0348.png)](http://3.bp.blogspot.com/-MHIMopCf8uo/UlwCkCaSKlI/AAAAAAAAG_U/you-zfGqsNo/s1600/IMG_0348.png)[![](/images/IMG_0468.png)](http://2.bp.blogspot.com/-CuyB3AzFBBg/UlwClshy3tI/AAAAAAAAG_g/vOrLjpOktUU/s1600/IMG_0468.png)
+[![](/images/IMG_0348.jpg)](http://3.bp.blogspot.com/-MHIMopCf8uo/UlwCkCaSKlI/AAAAAAAAG_U/you-zfGqsNo/s1600/IMG_0348.jpg)[![](/images/IMG_0468.jpg)](http://2.bp.blogspot.com/-CuyB3AzFBBg/UlwClshy3tI/AAAAAAAAG_g/vOrLjpOktUU/s1600/IMG_0468.jpg)
 
 Nykyään meitä voi muuten seurata myös Instagramissa! Klikkailkaa itsenne profiiliini **[tästä](http://instagram.com/maisahyttinen)**. Vähän myöhemmin linkki ilmestyy sivupalkkiinkin. Facebookissa seuraajia on nyt ihan muutamaa vaille _sata_! Ihan älyttömän huisia! Kiitos kaikille <3 Pistäkäähän se sata pian rikki!
 
@@ -32,7 +32,7 @@ Eilen käväisimme Sotilaan kanssa oman kylän mätsäreissä. Nätti keli, palj
 
 [![](/images/IMG_1951_.JPG)](http://1.bp.blogspot.com/-keEHP-vwWJk/UlwFLFncCOI/AAAAAAAAHAQ/u7sM3QANN0g/s1600/IMG_1951_.JPG)[![](/images/IMG_1955_.JPG)](http://3.bp.blogspot.com/-0KUV-DlW878/UlwFLd92FoI/AAAAAAAAHAc/Zq1zNIQqyYA/s1600/IMG_1955_.JPG)
 
-[![](/images/IMG_1956_pieni.png)](http://3.bp.blogspot.com/-96kOy7M5eKU/UlwFNMrV_8I/AAAAAAAAHAo/MQ3rgEoXPZg/s1600/IMG_1956_pieni.png)
+[![](/images/IMG_1956_pieni.jpg)](http://3.bp.blogspot.com/-96kOy7M5eKU/UlwFNMrV_8I/AAAAAAAAHAo/MQ3rgEoXPZg/s1600/IMG_1956_pieni.jpg)
 
 Paikallaan seisominen meinasi tuottaa hieman vaikeuksia, mutta muuten suoritus meni ihan hyvin! Pöllöilyn jälkeen irtosi näyttävintä mahdollista showravia ja saimme punaisen ruusukkeen omassa parissamme. Loppukehä sujui kaikessa rauhassa (jopa muovinauhat menettivät tauolla kiinnostavuutensa, hoho) ja olimme kehässä vielä aivan viimeisten joukossa. Lisää palkintoja ei kuitenkaan irronnut. Rauhoittuminen tauolla oli valtava voitto tosin jo sekin!
 
@@ -48,4 +48,4 @@ _Takajalan vuohiset vennot käynnissä. Lennokas joustava ravi. Palkinto: I._
 
 PS. Kaikista kuvista valtava kiitos Toiselle täydelliselle miehelle! <3 Eilisestä jäi moooonta kivaa kuvamuistoakin.
 
-[![](/images/ak.png)](http://2.bp.blogspot.com/-uiAirS46phA/UlwHPvLfdaI/AAAAAAAAHBE/mDze0pXhCKs/s1600/ak.png)
+[![](/images/ak.jpg)](http://2.bp.blogspot.com/-uiAirS46phA/UlwHPvLfdaI/AAAAAAAAHBE/mDze0pXhCKs/s1600/ak.jpg)

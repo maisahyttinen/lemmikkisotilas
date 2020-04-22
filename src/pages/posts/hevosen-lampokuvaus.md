@@ -37,7 +37,7 @@ Lämpökamera mittaa ihon pintalämpötilaa. Vammat, tulehdukset ja jopa lihaski
 
 Sotilaasta otetut kuvat osoittavat hyvin miksi lämpökuvaus on niin siisti juttu! Kesän haavereiden ja oikean takajalan ontuman jälkeen Sotilas on lepuutellut takajalkojaan paljon. Olin lähes varma, että ongelma on yhä oikeassa takajalassa - se on reagoinut jo kolmesti ja rujo ulkonäkö piilottaa sisäänsä nestekierto-ongelman poikineen. Varasin jo ajan ultraankin, mutta kuinka väärässä olinkaan.
 
-![](/images/Nimetön-suunn.malli-8-1000x565.png)
+![](/images/Nimetön-suunn.malli-8-1000x565.jpg)
 
 Yllä olevista kuvista näkee hyvin, miten vasen takajalka on kintereestä alaspäin huomattavasti oikeaa lämpimämpi. Lämpö jakautuu onneksi melko tasaisesti koko jalkaan, eikä keskity esimerkiksi nivelalueelle. Mitään selvää vammaa lämpökuvissa ei siis näy. Mahdollisuus on kyllä silti olemassa.
 

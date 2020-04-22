@@ -16,7 +16,7 @@ Aloitimme viime vuoden lopulla **[Veljekset Wahlsténin](http://veljwahlsten.com
 
 Wahlsténin oma nahkavarustesarja **[W-Profile](http://www.w-profile.com/)** pitää sisällään tottakai myös erilaisia suitsia. Yksinkertaisia, klassisesti muotoiltuja perusmalleja monenlaiseen käyttöön. Tottakai käsin valmistettuna, kasviparkitusta Tärnsjö-laatunahasta. Settiin voi valita niska- ja turpahihnan sekä otsapannan mielensä mukaan erilaisista vaihtoehdoista. Kaikki osat on saatavilla myös mittatilaustyönä.
 
-[![](/images/suitset.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/03/suitset.png)
+[![](/images/suitset.jpg)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/03/suitset.jpg)
 
 Mahdollisuudet eivät kuitenkaan pääty mittatilauksiin. Kun tuotteet tehdään alusta loppuun itse, käsin ja lähellä, on varaa soveltaa. Vain mielikuvitus on rajana. Halusin suitsiin leveän, isosti muotoillun niskahihnan, leveän pullback-turpahihnan ja jotain vähän erityistä. Sovittelin ja tutustuin ensin W-Profilen "perussuitsiin" ja mietin miten niitä haluaisin muokata. Olen hehkuttanut Wahlsténia jo niin moneen kertaan, ettei varmaan tarvitse erikseen mainita kuinka kivasti palvelu ja koko prosessi sujui!
 
@@ -34,7 +34,7 @@ Tässä näkyy aika hyvin toteutuksen ainoa lapsus. Meidän suitsissamme turpahi
 
 Kalliitahan nämä ovat, ei siitä oikein mihinkään pääse. Kestävä suunnittelu, paras mahdollinen materiaali, käsityö ja kotimaisuus ovat kuitenkin sellaisia ominaisuuksia, jotka painavat paljon ainakin minun vaakakupissani. Yhteensopivia varaosiakin saa helposti, jos sellaisille tulee jostain yllätävästä syystä tarve. Tarkoitus kun olisi, että suitset kestävät vaikka hevonenkin vaihtuisi välissä. Ja näyttäväthän nämä aivan hitsin hyvältä! Kaikkia yksityiskohtia myöten niin tarkasti ja huolella tehty.
 
-[![](/images/IMG_3551_.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/03/IMG_3551_.png)
+[![](/images/IMG_3551_.jpg)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/03/IMG_3551_.jpg)
 
 Suitsiasian lisäksi mietittävänä olivat joululahjat. Äitini on koiraihminen, joten **W-Profilen kaulapannat** olivat aika luonnollinen valinta. Nämäkin on suunniteltu kestämään käyttöä, joten koirat voivat huoletta pyöriä näteissä kaulapannoissa kotipihalla ja tallissa. Iän myötä nahka vain pehmenee ja kuluu nätisti. Nämäkin ovat mittatilaustyötä - halusin pitkäkarvaisille koirille leveät pannat.
 
@@ -42,4 +42,4 @@ Sekä suitsia että kaulapantoja saa monessa eri värissä, esimerkiksi mustana 
 
 [![](/images/2015-12-23-2B01.08.02-2B1.jpg)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/03/2015-12-23-2B01.08.02-2B1.jpg)
 
-[![](/images/IMG_2977_-300x200.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/03/IMG_2977_.png)[![](/images/IMG_2980_-300x200.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/03/IMG_2980_.png)
+[![](/images/IMG_2977_-300x200.jpg)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/03/IMG_2977_.jpg)[![](/images/IMG_2980_-300x200.jpg)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/03/IMG_2980_.jpg)

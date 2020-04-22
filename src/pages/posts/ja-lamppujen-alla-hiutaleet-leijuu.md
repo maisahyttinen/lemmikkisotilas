@@ -16,4 +16,4 @@ Moni on jo kysellyt missä blogiesittelyt viipyvät. Iloksenne voin kertoa julka
 
 Haha, todellisuudessa tämä lumi on ihan kivaa vaihtelua kaiken sen kuran jälkeen.
 
-[![](/images/ak.png)](http://3.bp.blogspot.com/-gXy40u0_EOQ/UI7VWg_soYI/AAAAAAAACAo/smtrCkWD-ks/s1600/ak.png)
+[![](/images/ak.jpg)](http://3.bp.blogspot.com/-gXy40u0_EOQ/UI7VWg_soYI/AAAAAAAACAo/smtrCkWD-ks/s1600/ak.jpg)

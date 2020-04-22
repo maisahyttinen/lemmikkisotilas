@@ -18,4 +18,4 @@ Olin ihan häpeällisen edustava.. Hauskaa oli, vaikkei kaikista kuvista sitä e
 
 [![](/images/sotilas_sara_6.JPG)](http://4.bp.blogspot.com/-LCX4WQ8TlJY/UaTKIwKVswI/AAAAAAAAF5Y/MbPXbFu841o/s1600/sotilas_sara_6.JPG)
 
-[![](/images/ak.png)](http://3.bp.blogspot.com/-JzGePbQ9gHM/UaTJS6ZtkYI/AAAAAAAAF5M/4bKXbaDGjZk/s1600/ak.png)
+[![](/images/ak.jpg)](http://3.bp.blogspot.com/-JzGePbQ9gHM/UaTJS6ZtkYI/AAAAAAAAF5M/4bKXbaDGjZk/s1600/ak.jpg)

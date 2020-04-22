@@ -14,4 +14,4 @@ Selvisin koeviikosta (jopa lähes kunnialla) ja eilen oli viimeiset tanssiharjoi
 
 PS. Omakohtaisen kokemuksen perusteella voin suositella hankkiutumista eroon univeloista. En ole viimepäivinä kyennyt yhtään mihinkään eikä tappoväsy tunnu katoavan millään.. Onneksi hiihtolomaan on vain yksi kokonainen kouluviikko, huh.
 
-[![](/images/ak.png)](http://2.bp.blogspot.com/-E2ba7cTKCdU/URbDODSKpkI/AAAAAAAAFKI/uw7uN7TkgvY/s1600/ak.png)
+[![](/images/ak.jpg)](http://2.bp.blogspot.com/-E2ba7cTKCdU/URbDODSKpkI/AAAAAAAAFKI/uw7uN7TkgvY/s1600/ak.jpg)

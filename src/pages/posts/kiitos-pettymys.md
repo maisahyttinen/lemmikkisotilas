@@ -12,4 +12,4 @@ Blogi jää määrittelemättömäksi ajaksi hiljaiselolle.. Oma tietokoneeni j�
 
 Sotilaalle kuuluu ihan hyvää. Se saa kesäkengät vihdoin perjantai-iltana ja toivottavasti tiet alkavat vähitellen kestämään ratsastelua. (Lenkkiseurakin saa kengät alle loppuviikosta!) Onneksi huomenna on kevyt päivä, keskiviikkona vapaa ja jäljellä muutenkin vain 20 koulupäivää. Kipeilyttää..
 
-[![](/images/ak.png)](http://2.bp.blogspot.com/-BHRnFcTbvnQ/UX6e6UpVH8I/AAAAAAAAFq4/ZE-4TGwDU6I/s1600/ak.png)
+[![](/images/ak.jpg)](http://2.bp.blogspot.com/-BHRnFcTbvnQ/UX6e6UpVH8I/AAAAAAAAFq4/ZE-4TGwDU6I/s1600/ak.jpg)

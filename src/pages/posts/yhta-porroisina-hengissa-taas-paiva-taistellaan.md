@@ -12,4 +12,4 @@ post_button_label: "Lue lisää"
 
 Melkein kevätaurinko paistaa, mutta herätessäni oli -18 ja vielä iltapäivälläkin pakkanen saa hengityksen höyryämään.. :( Etujalkakaan ei oikein tunnu paranevan putsin sisällä niin hyvin kuin toivoisin, joten tänä aamuna otin riskin ja heitin pompulan ulos suojattomana. Vielä toistaiseksi ainakin (KOPKOP) sillä on kaikki jalat alla.. Sen lisäksi hain koulun jälkeen haavasprayn (joskaan en saanut haluamaani violettia), joka toivottavasti auttaa edes vähän. Kauhea miten jokainen pienikin haava stressaa kun niiden hoiteleminen ei enää ole jokapäiväistä. Että puhumattakaan sitten tämän kokoisesta! Satulahuopavalikoimammekin onneksi kasvoi tänään ihanalla tummanharmaa-violetilla huovalla haettuani sen postista. <3
 
-[![](/images/ak.png)](http://1.bp.blogspot.com/-mefXPhwqIH4/UToLBva99pI/AAAAAAAAFcI/waG1SmYYCpk/s1600/ak.png)
+[![](/images/ak.jpg)](http://1.bp.blogspot.com/-mefXPhwqIH4/UToLBva99pI/AAAAAAAAFcI/waG1SmYYCpk/s1600/ak.jpg)

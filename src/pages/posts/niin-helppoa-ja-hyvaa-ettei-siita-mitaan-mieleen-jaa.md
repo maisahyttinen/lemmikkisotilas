@@ -26,6 +26,6 @@ Jees-mies -hevonen tuntuu huomattavasti haastavammalta kuin rajattoman suora Pen
 
 PS. Minun uusi suuri rakkauteni ja jalkojeni (ainakin väliaikainen) kuolema. Ette uskokaan kuinka hyvät kaupat tein! Ettekä usko sitäkään miten törkeän ihana rintaremmi meille tulee toivottavasti jo huomenna! Sitten voin esitellä meidän ajovarusteetkin ;) Täydellinen setti!
 
-[![](/images/IMG_0896.png)](http://3.bp.blogspot.com/-2ySEBrLza0I/UXgvhgUZeRI/AAAAAAAAFqA/myqU3N0V1VA/s1600/IMG_0896.png)
+[![](/images/IMG_0896.jpg)](http://3.bp.blogspot.com/-2ySEBrLza0I/UXgvhgUZeRI/AAAAAAAAFqA/myqU3N0V1VA/s1600/IMG_0896.jpg)
 
-[![](/images/ak.png)](http://1.bp.blogspot.com/-Ou8wXZPWMjA/UXg3-wH04TI/AAAAAAAAFqk/cIyik5IwKKE/s1600/ak.png)
+[![](/images/ak.jpg)](http://1.bp.blogspot.com/-Ou8wXZPWMjA/UXg3-wH04TI/AAAAAAAAFqk/cIyik5IwKKE/s1600/ak.jpg)

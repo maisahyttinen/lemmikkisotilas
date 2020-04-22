@@ -22,4 +22,4 @@ Tässä muutama lemppareista (olipa vaikeaa valita!) ja loppuihin tulette törm�
 
 Tottakai Sarakin piti saada mukaan muutamaan kuvaan (Sotilas toivoo, että käyt kylässä useamminkin) ja lopuksi kestona niin iloisen näköinen poni sai kunniatehtävän kuljettaa vähän valokuvaajaakin. Sotilas on mahtava vieraiden ratsastajien kanssa: se kantaa huteralta tuntuvan kuorman valtavalla varovaisuudella, mutta uskaltaa rentoutua turvallisen tuntuisen vieraankin kanssa. Ei tosin sillä, että sen selkään kuka tahansa pääsisikään.
 
-[![](/images/ak.png)](http://1.bp.blogspot.com/-b68htMta9sA/UmmQ5WZWSCI/AAAAAAAAHLo/qYrwmO1FL9U/s1600/ak.png)
+[![](/images/ak.jpg)](http://1.bp.blogspot.com/-b68htMta9sA/UmmQ5WZWSCI/AAAAAAAAHLo/qYrwmO1FL9U/s1600/ak.jpg)

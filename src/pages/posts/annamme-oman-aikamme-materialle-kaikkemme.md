@@ -14,4 +14,4 @@ post_button_label: "Lue lisää"
 
 Toisen täydellisen miehen isä toteutti suurensuuren haaveen ja nyt varusteurheilijan kokoelmaan kuuluu Finntackin siniset Beta-ohjat! Valjaat ovat roikkuneet ulko-ovessani (haha joo, sisäpuolella kylläkin) kuukausitolkulla käyttämättöminä ohjien puuttuessa, mutta viikonloppuna nekin pääsevät käyttöön. Viimeistään syksyllä kasvatan varustevuortani Beta-rintaremmillä ja jo lähiviikkoina väreihin sopivalla silatyynyllä. (Myytävänä on muuten melkein uusi Wahlstenin vihreä Action-silatyyny! Ei sovi meidän väreihin.)  Oh god, pääsen ajamaan!
 
-[![](/images/ak.png)](http://3.bp.blogspot.com/-FIdLZGgAOv8/UVHqJpms6VI/AAAAAAAAFhw/N4BBGmvMnC4/s1600/ak.png)
+[![](/images/ak.jpg)](http://3.bp.blogspot.com/-FIdLZGgAOv8/UVHqJpms6VI/AAAAAAAAFhw/N4BBGmvMnC4/s1600/ak.jpg)

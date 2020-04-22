@@ -12,6 +12,6 @@ Käykääs äänestämässä [Tölttiä ja pukkilaukkaa](http://tolttiajapukkila
 
 Sotilaan kanssa ei olla rehellisesti sanottuna tehty mitään oikeaa. Rapsuteltu ja paijailtu. Muuten se on saanut viettää laidunelämää kaverinsa Surakan kanssa. Kotona ollaan kaivettu tallin pohjaa ja pystytetty ja maalattu aitatolppia. Ainakin Sotilas saa hienon valkoisen aidan. Koulukin alkoi ja tasan kahden viikon päästä istun toisen täydellisen miehen ja monen muun siistin tyypin kanssa Helsinki-Vantaan lentokentällä odottamassa lentoa Ruotsiin! Sinne en valitettavasti ota kameraa mukaan, mutta Riihimäen raveihin tänään sen sijaan kyllä.
 
-[![](/images/IMG_6082_.png)](http://2.bp.blogspot.com/-huRUHh0-4hc/UDCwx_mNnqI/AAAAAAAABDw/T4s98OHVM3g/s1600/IMG_6082_.png)
+[![](/images/IMG_6082_.jpg)](http://2.bp.blogspot.com/-huRUHh0-4hc/UDCwx_mNnqI/AAAAAAAABDw/T4s98OHVM3g/s1600/IMG_6082_.jpg)
 
 Ettei ihan kuvattomaksi jäisi, niin yksi kauneimmista kuvista, joka Pennusta koskaan otettiin. Seuraavan postauksen saatte vähän oikeammista aiheista. Se ilahduttaa varmasti myös niitä, jotka ovat toivoneet enemmänkin kuvia Pennusta.

@@ -33,4 +33,4 @@ Talvimölli maaliskuussa 2013. Komea on!
 
 PS. Kilpajuoksijaksi suunniteltu sporttimallin lämminverinen näyttää auttamatta kamalalta talvikarvan, kulahtaneiden lihasten ja heinämahan kanssa. Kauhistelevista kommenteista ei kannata yllättyä. Deal with it tai sitten mars klippaukseen, talviruokinta tarkistukseen ja lenkille! Se hevonen on tehty liikkumaan. Vaihtoehtoisesti voi myös hankkia ponin joka näyttää samalta 100 kiloa sitten ja 100 kiloa myöhemmin, karvaan ja liikutukseen katsomatta.
 
-[![](/images/ak_uusi.png)](http://1.bp.blogspot.com/-2H9JzEzjKSU/Urdwjf5s4NI/AAAAAAAAHpE/wAem4HTFslo/s1600/ak_uusi.png)
+[![](/images/ak_uusi.jpg)](http://1.bp.blogspot.com/-2H9JzEzjKSU/Urdwjf5s4NI/AAAAAAAAHpE/wAem4HTFslo/s1600/ak_uusi.jpg)

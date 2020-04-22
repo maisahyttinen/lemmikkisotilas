@@ -18,4 +18,4 @@ Tämän vuoden ensimmäiset kuvat! Kaivauduin ulos Toisen täydellisen miehen ka
 
 Etenkin viimeinen kuva on aika traumaattinen. (Kuinka moni löytäisi siitä kantavan tamman, ellei tietäisi hevosen olevan ruuna?) Todellisuudessa tilanne ei kuitenkaan ole ihan noin hurja. Ja huomiseksi toivotaan vähän lämpimämpää säätä, että päästään taas lenkkeilemään kaverin kanssa.
 
-[![](/images/ak.png)](http://1.bp.blogspot.com/-JiE0H6YooqA/UPGEURZbMCI/AAAAAAAAE6Q/jM-uh_mNA2U/s1600/ak.png)
+[![](/images/ak.jpg)](http://1.bp.blogspot.com/-JiE0H6YooqA/UPGEURZbMCI/AAAAAAAAE6Q/jM-uh_mNA2U/s1600/ak.jpg)

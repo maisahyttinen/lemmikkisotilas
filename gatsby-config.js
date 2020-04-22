@@ -5,17 +5,17 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        path: `${__dirname}/src/pages`,
+        path: `${__dirname}/static/images`,
+        name: "images",
       },
     },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        path: `${__dirname}/static/images`,
+        path: `${__dirname}/src/pages`,
+        name: "pages",
       },
     },
-    `gatsby-plugin-react-helmet`,
-    `gatsby-source-data`,
     `gatsby-plugin-sharp`,
     `gatsby-transformer-sharp`,
     {
@@ -31,14 +31,16 @@ module.exports = {
               // It's important to specify the maxWidth (in pixels) of
               // the content container as this plugin uses this as the
               // base for generating different widths of each image.
-              maxWidth: 900,
+              maxWidth: 800,
             },
           },
-          `gatsby-remark-lazy-load`,
+          //`gatsby-remark-lazy-load`,
           `gatsby-remark-component`,
         ],
       },
     },
+    `gatsby-plugin-react-helmet`,
+    `gatsby-source-data`,
     {
       resolve: `gatsby-plugin-stackbit-static-sass`,
       options: {

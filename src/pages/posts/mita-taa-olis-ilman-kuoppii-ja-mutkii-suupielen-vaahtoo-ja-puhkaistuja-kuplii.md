@@ -8,11 +8,11 @@ template: "page"
 post_button_label: "Lue lisää"
 ---
 
-[![](/images/2016-03-01-2B10.09.38-2B1.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/03/2016-03-01-2B10.09.38-2B1.png)
+[![](/images/2016-03-01-2B10.09.38-2B1.jpg)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/03/2016-03-01-2B10.09.38-2B1.jpg)
 
 Aamu numero 61. Muutaman viime viikon jälkeen on tuntunut uskomattoman hyvältä herätä parina aamuna vaihteeksi Haminassa.. Vajaa kuukausi sitten saimme tietää koulutushaaravalinnat, ja kolme viikkoa takaperin muutin Haminasta Lappeenrantaan. Lähtö tuntui nyrkiltä päin näköä, mutta näin jälkeenpäin ajateltuna se oli vasta kevyttä alkua. Viimeaikoina kasvoihin on osunut vähän kaikenlaista ihan oikeasta nyrkistä paprikasumutteeseen. Usein ja paljon. Henkinen tuska vaihtui nopeasti fyysiseksi. Näin kevyen viikon päätteeksi sillekin jaksaa vähän jo nauraa. Kaikki peruskoulutuskauden läheisimmät kaverit jäivät Haminaan, suurimmasta osasta tulee aliupseereita tai jotain vielä vähän suurempaa ja hienompaa. Minusta sotilaspoliisi.
 
-[![](/images/2016-02-15-2B09.48.15-2B1.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/03/2016-02-15-2B09.48.15-2B1.png)
+[![](/images/2016-02-15-2B09.48.15-2B1.jpg)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/03/2016-02-15-2B09.48.15-2B1.jpg)
 
 Vaikka haaveet kaatuu -päivä oli nimensä veroinen, olen tällä hetkellä oikeastaan aika tyytyväinen. Kasarmilla touhu on Haminaan tottuneelle ihan raivostuttavan löysää, mutta koulutus on hyvää ja hommat ovat olleet juuri niin mielenkiintoisia kuin salaa haaveilinkin. Ensimmäiset pari kolme viikkoa harjoittelimme pääasiassa pelkkää käskytystä ja voimankäyttöä; fyysistä hallintaa, kiinniottoa ja raudoittamista sekä pampun ja sumuttimen käyttöä. Käytännössä painimme, joka päivä kahdeksasta neljään. Vartiotehtävissä meillä täytyy olla voimankäyttöluvat, joita varten järjestettiin sekä kirjallinen että käytännön koe. Maanantaina kokeen läpäisseet saivat koulutushaaramerkit (ensimmäinen kuva) ja lunastimme "virallisesti" paikkamme kurssilla.
 
@@ -20,7 +20,7 @@ Vajaan kuukauden perusteella on vaikea sanoa, mitä seuraava puoli vuotta pitä�
 
 Meidän saapumiserämme kohdalla stereotypia varuskunta-alueen portilla asuvasta sotilaspoliisista tuskin tulee pitämään paikkaansa. Vartiossa olemme kyllä, mutta vain joka kolmannen viikon. Välissä on aina kaksi viikkoa koulutusta, kasarmilla tai metsässä. Ainakin seuraavan kuukauden ohjelmat näyttävät siltä, että lepoviikko portilla tulee todella tarpeeseen.. Kaiken muun hyvän lisäksi minä saan viettää vartioviikkoni Haminassa! Hyviä hommia.
 
-[![](/images/2016-02-08-2B02.29.27-2B1-200x300.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/03/2016-02-08-2B02.29.27-2B1.png)[![](/images/2016-02-22-2B08.46.44-2B1-200x300.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/03/2016-02-22-2B08.46.44-2B1.png)
+[![](/images/2016-02-08-2B02.29.27-2B1-200x300.jpg)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/03/2016-02-08-2B02.29.27-2B1.jpg)[![](/images/2016-02-22-2B08.46.44-2B1-200x300.jpg)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/03/2016-02-22-2B08.46.44-2B1.jpg)
 
 Päälimmäinen fiilis on, että koko ajan väsyttää ja sattuu johonkin. Jossei fyysisen koulutuksen takia niin jatkuva odotteleminen hoitaa sen kyllä. Eilen huomasin, että vaaka näyttää nyt melkein 10 kiloa enemmän kuin pari kuukautta sitten. Urheilu ja taukosuklaat, ehkä. Täysin vieraiden ihmisten keskellä kaikki on paljon vaikeampaa (verrattuna oman tuttuun ryhmään), mutta armeija on siitä hauska paikka, että kaikkeen tottuu ja kaikki löytävät paikkansa lopulta kuitenkin. Rankat jutut yhdistävät ja kevyen ohjelman ohella ehtii riitelemään..
 

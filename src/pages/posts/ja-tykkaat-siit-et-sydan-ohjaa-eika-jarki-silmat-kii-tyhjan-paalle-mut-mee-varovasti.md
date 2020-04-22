@@ -18,8 +18,8 @@ Alla oleva video tiivistää 35 sekuntiin yhden maailman hienoimmista fiiliksist
 
 <iframe allowfullscreen data-thumbnail-src="https://i.ytimg.com/vi/l835pt4jzcI/0.jpg" frameborder="0" height="500" src="https://www.youtube.com/embed/l835pt4jzcI?feature=player_embedded" width="850"></iframe>
 
-[![](/images/2016-03-18-2B10.31.50-2B1-2B-25281-2529-300x200.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/03/2016-03-18-2B10.31.50-2B1-2B-25281-2529.png)[![](/images/2016-03-18-2B07.34.23-2B1-300x200.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/03/2016-03-18-2B07.34.23-2B1.png)
+[![](/images/2016-03-18-2B10.31.50-2B1-2B-25281-2529-300x200.jpg)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/03/2016-03-18-2B10.31.50-2B1-2B-25281-2529.jpg)[![](/images/2016-03-18-2B07.34.23-2B1-300x200.jpg)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/03/2016-03-18-2B07.34.23-2B1.jpg)
 
 Minä sen sijaan olen pakkolomalla, pitkällä sellaisella. Mitä sitä muuta mieluummin tekisikään kun aurinko paistaa ja viikko-ohjelmassakin olisi kaikkea kivaa. Viikon jaksoin sitkeillä 39 kuumeessa, sitten kävi sängystä nouseminen liian raskaaksi. Keuhkokuume, 10 päivän antibioottikuuri tuplana ja toistaiseksi määrittelemätön aika sivussa koulutuksesta. Voisi sanoa, että sitä saa mitä tilaa.. Olen makaillut lepo-osastolla ja kotihoidossa nyt reilun viikon ja olen ihme kyllä hengissä vielä. Toimettomana lojuminen alkoi käydä sietämättömäksi jo kahden päivän jälkeen. Tämä viikko pitäisi vielä kestää ehdotonta pakkolomaa, ensi viikko rennosti vartiossa ja jos sen jälkeen kulkisi henkikin jo vähän paremmin. Pääsen sentään huomenna mukaan leirille, metsäöiden missaaminen olisi jo liikaa.
 
-[![](/images/3-image-200x300.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/03/3-image.png)[![](/images/9-image-200x300.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/03/9-image.png)
+[![](/images/3-image-200x300.jpg)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/03/3-image.jpg)[![](/images/9-image-200x300.jpg)](https://qpm.kda.mybluehost.me/wp-content/uploads/2016/03/9-image.jpg)

@@ -12,7 +12,7 @@ Löysin loistavan postausidean vähintään yhtä loistavasta blogista [Working 
 
 A \- Aakkoset. Rakastan suomen kieltä niin oppiaineena kuin välineenä vaikuttaa ympäristööni. Olen käsittämättömän huono sisäistämään vieraiden kielten sääntöjä ja muita teoreettisia asioita, mutta omasta kielestäni tiedän kyllä miten sen pitää mennä. Olen tiennyt oikeastaan aina. Pidän yhtenä hyödyllisimmistä ja parhaista taidoistani sitä, että osaan kirjoittamalla ilmaista mielipiteeni vaivatta, virheettömästi ja jopa rakentavasti. Olen huono puhumaan järkevästi, mutta kirjoittaminen on täydellinen keino järjestellä ajatuksia ja toteuttaa yhtä niistä harvoista kurinalaisuuksista, joista pidän. Kielioppinatsin suuri suuri rakkaus.
 
-[![](/images/tumblr_m2qx97BRVN1r7769mo1_500.png)](http://4.bp.blogspot.com/-WY7CPTZbe_Q/ULe4TuFzAAI/AAAAAAAACzA/ARn6VsoqORk/s1600/tumblr_m2qx97BRVN1r7769mo1_500.png)[![](/images/nazi.png)](http://2.bp.blogspot.com/-1V2irup51Xk/ULe5szyiKQI/AAAAAAAACzw/4yvPbBkAT38/s1600/nazi.png)
+[![](/images/tumblr_m2qx97BRVN1r7769mo1_500.jpg)](http://4.bp.blogspot.com/-WY7CPTZbe_Q/ULe4TuFzAAI/AAAAAAAACzA/ARn6VsoqORk/s1600/tumblr_m2qx97BRVN1r7769mo1_500.jpg)[![](/images/nazi.jpg)](http://2.bp.blogspot.com/-1V2irup51Xk/ULe5szyiKQI/AAAAAAAACzw/4yvPbBkAT38/s1600/nazi.jpg)
 
 B \- Blogi. Oikeasti käytän tähän paljon energiaa ja ajattelen blogiani monta kertaa päivässä silloinkin kun en ole lähelläkään tietokonetta, vaikka ajankäyttöni ei valitettavasti näy täällä kovinkaan merkittävästi etenkään tällä hetkellä. En ole oikein koskaan keksinyt mitään bloggaamisen syvempää merkitystä, mutta tämä on ihanan sekalainen ja vapaa paikka toteuttaa itseäni ja purkaa vähän ajatuksia.
 
@@ -24,7 +24,7 @@ F \- Facebook. Minäkin olen niitä ihmisiä, jotka eivät ole julkisesti kovink
 
 H - Herkut. Syöminen on kivaa ja ruoka on hyvää. Hyvä ruoka etenkin. Voisin syödä älyttömät määrät suklaata, mutta muuten olen enemmän vähän terveellisempien herkkujen ystävä. Hedelmät ja kaikki itse tehdyt leivonnaiset on parhautta. Ja juustokakku! Kana- ja pastaruuat ovat lemppareita eikä mikään voita kuumaa aamuteetä (mieluiten joku hedelmä-/marjatee) kylmänä aamuna.
 
-[![](/images/tumblr_m7gz9h06kc1r7769mo1_500.png)](http://1.bp.blogspot.com/-gLPuQX3hdD4/UKPx-4L9cOI/AAAAAAAACJM/x5s8IHukfTU/s1600/tumblr_m7gz9h06kc1r7769mo1_500.png)[![](/images/tumblr_mb87a37O9Y1r7769mo1_500.png)](http://4.bp.blogspot.com/-klBAFVZ3B9U/UKPx_53oIxI/AAAAAAAACJQ/D_YHkwIMeFM/s1600/tumblr_mb87a37O9Y1r7769mo1_500.png)
+[![](/images/tumblr_m7gz9h06kc1r7769mo1_500.jpg)](http://1.bp.blogspot.com/-gLPuQX3hdD4/UKPx-4L9cOI/AAAAAAAACJM/x5s8IHukfTU/s1600/tumblr_m7gz9h06kc1r7769mo1_500.jpg)[![](/images/tumblr_mb87a37O9Y1r7769mo1_500.jpg)](http://4.bp.blogspot.com/-klBAFVZ3B9U/UKPx_53oIxI/AAAAAAAACJQ/D_YHkwIMeFM/s1600/tumblr_mb87a37O9Y1r7769mo1_500.jpg)
 
 I \- Illat. Ne, jolloin tietää, ettei mitään tärkeää ole tekemättä ja seuraavana aamuna saan nukkua pitkään. Kupillinen teetä ja hyvä kirja, hyvät ihmiset ympärillä ja vasta seuraava päivä varattu nukkumiselle, maailman rakkain ihminen ja nätti talvi-ilta tai ihan mitä tahansa juuri sillä hetkellä tärkeää. Ne, jotka ovat ihan liian harvassa. Mutta myös ne illat, jolloin nään viimeiseksi ennen nukkumaanmenoani miten Sotilas jää omaan lämpimään kotiinsa syömään ja voin nukkua rauhassa. Arki-illat.
 
@@ -38,7 +38,7 @@ M - Musiikki. Siitä huolimatta, että tunnen itseni joka kerta pieneksi lapsek
 
 N \- Nukkuminen. Joskus nuorempana pystyin hyvin valvomaan pari vuorokautta putkeen, mutta nykyään juuri mikään ei ole yhtä ihanaa kuin nukkua pitkään ja heräillä rauhassa Toisen täydellisen miehen vierestä ilman kiirettä minnekään. Harmi, että rauhallisia aamuja on nykyään ihan liian harvassa. (Ja inhoan talvea senkin takia, että jatkuva pimeä väsyttää älyttömästi, mutta juuri silloin on eniten kouluaamuja..)
 
-[![](/images/tumblr_m39olbks9y1r5f0jbo1_500.png)](http://3.bp.blogspot.com/-ucnJeQy5z-E/ULe5DIFq9hI/AAAAAAAACzg/-41ANLnis3Q/s1600/tumblr_m39olbks9y1r5f0jbo1_500.png)[![](/images/tumblr_mcqgcsbZhO1r49seco1_500.png)](http://4.bp.blogspot.com/-CCChcXQDnf4/ULe5EJMkeRI/AAAAAAAACzo/9Elkvcz6jyc/s1600/tumblr_mcqgcsbZhO1r49seco1_500.png)
+[![](/images/tumblr_m39olbks9y1r5f0jbo1_500.jpg)](http://3.bp.blogspot.com/-ucnJeQy5z-E/ULe5DIFq9hI/AAAAAAAACzg/-41ANLnis3Q/s1600/tumblr_m39olbks9y1r5f0jbo1_500.jpg)[![](/images/tumblr_mcqgcsbZhO1r49seco1_500.jpg)](http://4.bp.blogspot.com/-CCChcXQDnf4/ULe5EJMkeRI/AAAAAAAACzo/9Elkvcz6jyc/s1600/tumblr_mcqgcsbZhO1r49seco1_500.jpg)
 
 O - Onnistuminen. Näin vähän itseriittoisesti ilmaistuna olen aina lopulta saanut kaiken minkä haluan. Ensimmäiset ratsastuskilpailuni päättyivät ylivoimavoittoon, Sotilaan mätsäreiden jäljiltä kotiin on saanut kantaa ruusukkeita, olen saanut ajaa mahdollisesti koko maailman huipulle nousevia varsoja ja niin edelleen. Mitään en kuitenkaan ole saanut ilmaiseksi, näkemättä hurjasti vaivaa, eikä yksikään aiemmista saavutuksista korvaa pienintäkään uutta onnistumisentunnetta, vaikka olen tottunut onnistumaan yrittämällä.
 
@@ -50,7 +50,7 @@ S \- Sotilas. Ehdottomasti toinen maailman tärkeimmistä asioista tällä hetke
 
 T \- Toinen täydellinen mies, joka on oikeasti se ykkönen. Harmiton koulututtu, josta tulikin puolivahingossa paljon enemmän. Kiltti ja hurjan söötti ihminen, jonka kanssa on aina ollut helppo jutella eikä elämästä ole tarvinnut tehdä liian vaikeaa. Elän vieläkin siinä käsityksessä, että olen liian vaikea kenellekään, mutta ilmeisesti maailmasta löytyy vielä ihmisiä jotka harrastavat projektivaimoja.
 
-[![](/images/tumblr_mb2a3cCSW21r5f0jbo1_500.png)](http://1.bp.blogspot.com/-vWmuR7bxHyQ/UKPwBXfDSJI/AAAAAAAACIk/kpWWeZ7H74Y/s1600/tumblr_mb2a3cCSW21r5f0jbo1_500.png)[![](/images/1.png)](http://1.bp.blogspot.com/-3tS6DgFrcVU/UKPwhllfMkI/AAAAAAAACI0/talqwz3RNwY/s1600/1.png)
+[![](/images/tumblr_mb2a3cCSW21r5f0jbo1_500.jpg)](http://1.bp.blogspot.com/-vWmuR7bxHyQ/UKPwBXfDSJI/AAAAAAAACIk/kpWWeZ7H74Y/s1600/tumblr_mb2a3cCSW21r5f0jbo1_500.jpg)[![](/images/1.jpg)](http://1.bp.blogspot.com/-3tS6DgFrcVU/UKPwhllfMkI/AAAAAAAACI0/talqwz3RNwY/s1600/1.jpg)
 
 U - Usko. Itseensä, maailmaan, toisiin ihmisiin, selviämiseen.. Kaikkeen sellaiseen. Jätin rakkaimman ystäväni pehmustettuun siniseen huoneeseen Hyvinkään hevosklinikalle, mutta toin lopulta itseni pois sieltä, joten uskoisin selviäväni aika monesta muustakin mahdollisesta hirveydestä enkä mielelläni antaisi kenellekään muullekaan lupaa luovuttaa. Ainakin haluan säilyttää optimistisen asenteen, vaikka todellisuudessa maailma on kamala paikka. (Älkääkä vaan sekoittako tätä mitenkään uskontoon. Olen varmaan epäuskonnollisin ihminen jonka löydätte!)
 
@@ -64,4 +64,4 @@ Y \- Ystävät. En ole kovin sosiaalinen ihminen ja pidän ihan liian vähän yh
 
 Ä - Äkkipikaisuus. Teen asioita huomattavasti nopeammin kuin ehdin ajatella enkä joskus hieman nuorempana sensuroinut mielipiteitäni juurikaan. En ole koskaan ollut se kaikkien kaveri etupulpetista ja tajusin jo kauan sitten, että maailmassa pärjää loistavasti mielistelemättäkin. Jostain syystä Toisen täydellisen miehen kärsivällisyys on riittänyt projektinsa kanssa ja nykyään riiviö osaa sulkea suunsa ja hymyillä nätisti niissäkin tilanteissa joissa sen on rajattoman vaikeaa niellä ylpeytensä.
 
-[![](/images/ak.png)](http://3.bp.blogspot.com/-XWwdDHSnYIQ/ULe6P1AVG3I/AAAAAAAACz4/exI_Z1A49RQ/s1600/ak.png)
+[![](/images/ak.jpg)](http://3.bp.blogspot.com/-XWwdDHSnYIQ/ULe6P1AVG3I/AAAAAAAACz4/exI_Z1A49RQ/s1600/ak.jpg)

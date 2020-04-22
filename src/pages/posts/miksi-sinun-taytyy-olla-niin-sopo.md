@@ -28,8 +28,8 @@ _Sunnuntai:_ rentoa hölkkäilyä ratsastellen tai kärryjen kanssa
 
 Pitkästä aikaa päivän parhaat ilmeet tallentuivat kuviinkin! Toimivat ajovarusteet ovat piristäneet niin kuskia kuin hevostakin ja lenkille on ainakin toistaiseksi paljon kivempaa lähteä kun juttukaverin saa mukaan. Tukkirekkavaaran takia en mielelläni kärryttele yksin muutenkaan. Reilun kymmenen kilometrin hölkkä tuntuu hiostavan jopa Sotilaan, joten rasvakerros taitaa ohentua lenkki lenkiltä! Jos jaksan sitkeästi valjastaa sen neljä kertaa viikossa niin toiveet kohtuullisesta kesäkunnosta ovat tuskin kohtuuttomat. Muutenkin tilanne on tällä hetkellä valoisa - tänään Sotilaskin taisi aloittaa karvanvaihdon! Kevätaurinko ja kalanmaksaöljy purevat sittenkin jopa tuohon karvapyllyyn.
 
-[![](/images/IMG_0034.png)](http://2.bp.blogspot.com/-AC3z7ZEBr-8/UVxrNZDfNjI/AAAAAAAAFlI/n8KRRZM5F5I/s1600/IMG_0034.png)
+[![](/images/IMG_0034.jpg)](http://2.bp.blogspot.com/-AC3z7ZEBr-8/UVxrNZDfNjI/AAAAAAAAFlI/n8KRRZM5F5I/s1600/IMG_0034.jpg)
 
 Kuvista tosiaan kiitos pikkusysterille! Kysely uudesta ulkoasusta päättyi ja nyt anonyymeillä lukijoilla on mahdollisuus ilmiantaa itsensä. Käykäähän klikkailemassa. 257 rekisteröitynyttäkin lukijaa lämmittävät mieltä hurjasti!
 
-[![](/images/ak.png)](http://4.bp.blogspot.com/-JCWCvxsm7yI/UVxv4baus0I/AAAAAAAAFlU/XlupqPlFOjI/s1600/ak.png)
+[![](/images/ak.jpg)](http://4.bp.blogspot.com/-JCWCvxsm7yI/UVxv4baus0I/AAAAAAAAFlU/XlupqPlFOjI/s1600/ak.jpg)

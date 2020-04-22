@@ -24,4 +24,4 @@ Meidän vuosipäivämmekin muuten lähestyy! 22.10. taitaa siis olla kakkua tied
 
 Kiitos taas näistäkin hurjan kivoista kuvista Toinen täydellinen mies <3
 
-[![](/images/ak.png)](http://2.bp.blogspot.com/-VaKmc67lnXI/UHAlciJR3VI/AAAAAAAABfs/-QdNBrKTNeo/s1600/ak.png)
+[![](/images/ak.jpg)](http://2.bp.blogspot.com/-VaKmc67lnXI/UHAlciJR3VI/AAAAAAAABfs/-QdNBrKTNeo/s1600/ak.jpg)

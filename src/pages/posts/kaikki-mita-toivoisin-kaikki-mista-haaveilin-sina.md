@@ -8,7 +8,7 @@ template: "page"
 post_button_label: "Lue lisää"
 ---
 
-[![](/images/melli2.png)](http://2.bp.blogspot.com/-aIRq2b4qtc4/T3x0gyap37I/AAAAAAAAAgw/l9GvcVq8f4Y/s1600/melli2.png)
+[![](/images/melli2.jpg)](http://2.bp.blogspot.com/-aIRq2b4qtc4/T3x0gyap37I/AAAAAAAAAgw/l9GvcVq8f4Y/s1600/melli2.jpg)
 
 Voi miten onki ollu pari hurjan kivaa päivää. Tai oikeastaan muutamakin. Maanantaina kävin moikkaamassa Sotilasta. Olin viikonlopun kotona ja pikkukaveri oli kovin yllättynyt maanantaivierailusta, mutta iloisena se kuitenkin lähti pitkälle kävelylle ja viihtyi rapsuteltavana. Muuten maanantaissa ei erityistä juhlittavaa ollut. En yllättäen loistanut mainittavasti englannin kokeessa.. Elinen matikankoe taisi silti olla tämän viikon kuluttavin kokemus, ei oo helppoa ei. Pyhpah tyhmiä ja turhia asioita.
 
@@ -18,4 +18,4 @@ Ja voooi miten rakastan kaikkia kivoja pikkujuttuja heppasen kanssa, etenki tois
 
 Okeiokei yritän keksiä jotain järkevää kirjoitettavaa lähipäivinä..
 
-[![](/images/11.png)](http://2.bp.blogspot.com/-_md45XlH5Dg/T3x0iorS5AI/AAAAAAAAAg4/p7N0G4cd9js/s1600/11.png)
+[![](/images/11.jpg)](http://2.bp.blogspot.com/-_md45XlH5Dg/T3x0iorS5AI/AAAAAAAAAg4/p7N0G4cd9js/s1600/11.jpg)

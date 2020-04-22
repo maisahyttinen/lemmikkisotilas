@@ -14,10 +14,10 @@ Tässä säässä ei mukava pikku sunnuntairatsastelu huvittanut, joten Sotilas 
 
 Tänään ette saa vain yhtä joulukalenterikuvaa vaan hieman useamman! Ne kaikki on otettu yhtenä älyttömän nättinä iltana toissatalvena (c. Sara Rautiainen). Tallipäivän päätteeksi ripustin kameran toisaalle ja ratsastelin hetken lumisella kentällä maailman kultaisimmalla jättiläisellä. <3
 
-[![](</images/Dedicated+Kemp+(9).png>)](<http://2.bp.blogspot.com/-VNJQi4_K9s0/UM4e2AWC_8I/AAAAAAAADwY/nYdCtq_PwiU/s1600/Dedicated+Kemp+(9).png>)
+[![](</images/Dedicated+Kemp+(9).jpg>)](<http://2.bp.blogspot.com/-VNJQi4_K9s0/UM4e2AWC_8I/AAAAAAAADwY/nYdCtq_PwiU/s1600/Dedicated+Kemp+(9).jpg>)
 
-[![](</images/Dedicated+Kemp+(5).png>)](<http://1.bp.blogspot.com/-5Ygmly9A65o/UM4ezQPnaZI/AAAAAAAADwI/ooA02iIhfkI/s1600/Dedicated+Kemp+(5).png>)[![](</images/Dedicated+Kemp+(7).png>)](<http://4.bp.blogspot.com/-ThZve6Uqwg8/UM4e0hSkqhI/AAAAAAAADwQ/DfMTX_o3NS8/s1600/Dedicated+Kemp+(7).png>)[![](</images/Dedicated+Kemp+(4).png>)](<http://4.bp.blogspot.com/-Oe4fS9pQjpk/UM4eyP7sujI/AAAAAAAADwA/dqo3RedSD6s/s1600/Dedicated+Kemp+(4).png>)
+[![](</images/Dedicated+Kemp+(5).jpg>)](<http://1.bp.blogspot.com/-5Ygmly9A65o/UM4ezQPnaZI/AAAAAAAADwI/ooA02iIhfkI/s1600/Dedicated+Kemp+(5).jpg>)[![](</images/Dedicated+Kemp+(7).jpg>)](<http://4.bp.blogspot.com/-ThZve6Uqwg8/UM4e0hSkqhI/AAAAAAAADwQ/DfMTX_o3NS8/s1600/Dedicated+Kemp+(7).jpg>)[![](</images/Dedicated+Kemp+(4).jpg>)](<http://4.bp.blogspot.com/-Oe4fS9pQjpk/UM4eyP7sujI/AAAAAAAADwA/dqo3RedSD6s/s1600/Dedicated+Kemp+(4).jpg>)
 
-[![](/images/Dedicated+Kemp+%25283%2529.png)](http://4.bp.blogspot.com/--0JXB55ctUs/UM4e7WEI1sI/AAAAAAAADwg/tQNSlS4CszI/s1600/Dedicated+Kemp+%25283%2529.png)[![](/images/Dedicated+Kemp+%25282%2529.png)](http://4.bp.blogspot.com/-a9KnY8oyBDU/UM4ewpwCb4I/AAAAAAAADv4/pSjkGLjeRAA/s1600/Dedicated+Kemp+%25282%2529.png)
+[![](/images/Dedicated+Kemp+%25283%2529.jpg)](http://4.bp.blogspot.com/--0JXB55ctUs/UM4e7WEI1sI/AAAAAAAADwg/tQNSlS4CszI/s1600/Dedicated+Kemp+%25283%2529.jpg)[![](/images/Dedicated+Kemp+%25282%2529.jpg)](http://4.bp.blogspot.com/-a9KnY8oyBDU/UM4ewpwCb4I/AAAAAAAADv4/pSjkGLjeRAA/s1600/Dedicated+Kemp+%25282%2529.jpg)
 
-[![](/images/ak.png)](http://4.bp.blogspot.com/-tBLv2b-zTAA/UM4Y6lcQESI/AAAAAAAADsQ/S40L7hpL6os/s1600/ak.png)
+[![](/images/ak.jpg)](http://4.bp.blogspot.com/-tBLv2b-zTAA/UM4Y6lcQESI/AAAAAAAADsQ/S40L7hpL6os/s1600/ak.jpg)

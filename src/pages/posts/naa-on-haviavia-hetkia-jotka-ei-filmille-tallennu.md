@@ -14,7 +14,7 @@ Peruutukset ja väistöt alkavat sujua, samoin etu-ja takaosakäännösten alkee
 
 Sotilaan lisäksi kamerakin pääsi sunnuntaina ulkoilemaan. Edellisestä "oikeasta" valokuvaustuokiosta alkoikin olla jo useampi kuukausi. Tällä kertaa minut ajoi aivan liian aikaiseen sunntaiaamuun vastikään Suomeen saapunut hauskan näköinen ponilapsi. Kävi ihan älytön tuuri ja olimme auringon kanssa samaan aikaan liikkeellä. Sisäinen valokuvaajani hyppi riemusta.
 
-[![](/images/IMG_2507_-300x200.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2015/12/IMG_2507_.png)[![](/images/IMG_2815_2-300x200.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2015/12/IMG_2815_2.png)
+[![](/images/IMG_2507_-300x200.jpg)](https://qpm.kda.mybluehost.me/wp-content/uploads/2015/12/IMG_2507_.jpg)[![](/images/IMG_2815_2-300x200.jpg)](https://qpm.kda.mybluehost.me/wp-content/uploads/2015/12/IMG_2815_2.jpg)
 
 KLIKKAILKAA KAIKKI TÄMÄN POSTAUKSEN KUVAT SUUREMMIKSI! KAIKKI JULKAISTUT PONIKUVAT VOI KÄYDÄ KURKKAAMASSA **[TÄÄLTÄ](http://maisahyttinen.kuvat.fi/kuvat/2015/13.12.+Sipsik/).**
 
@@ -24,25 +24,25 @@ Kymmenen vuoden aikana olen huomannut, että valokuvaajat jakautuvat aika rajust
 
 **.. Heihin, joille välineet ovat keskeisiä.** Avain täydelliseen kuvaan löytyy teknisestä täydellisyydestä. Tai sitten ei, mutta kaluston on oltava kunnossa. Osa seuraa uusien laitteiden ympärillä pyörivää hypeä, osa tutkii ja vertailee pitkään ja hartaasti teknisiä ominaisuuksia, review-videoita ja valitsee työkaverinsa sen tiedon pohjalta. Aikoinaan minäkin jaksoin monta kertaa vuodessa vaihtaa kameraa, aina hieman parempaan budjetin salliessa. Kiinnostus jatkuvaan kamerakauppaan kuitenkin lopahti. Tällä hetkellä tavoittelen omaa teknistä täydellisyyttäni **Canon EOS M**:n kanssa. Canonin ensimmäinen peilitön mikrojärkkäri, jonka Vilppu metsästi minulle viime joulun alennusmyynneistä alle 200 eurolla. Enpä ole enää aikoihin mitään muuta kameraa kaivannutkaan.
 
-[![](/images/kalusto.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2015/12/kalusto.png)
+[![](/images/kalusto.jpg)](https://qpm.kda.mybluehost.me/wp-content/uploads/2015/12/kalusto.jpg)
 
 CANON EOS M, ADAPTERI EF-OBJEKTIIVEJA VARTEN, CANON EF 40MM F/2.8, CANON EF 70-200MM F/4 L. HOMMA TOIMII, KALAA TULEE JA NIIN EDELLEEN.
 
 **.. Heihin, jotka luottavat enemmän mielikuvitukseen.** Arjen pienet yllättävät hetket osuvat eteen harvoin juuri silloin, kun kamera on sopivasti esillä. Ne on pakon edessä ikuistettava juuri sillä välineellä joka on kättä lähinnä. Ainakin minun tapauksessani se väline on puhelin. (Kuten edellisistäkin postauksista voidaan huomata..) Puhelinystäväni oli pitkään **Iphone 4S**, joka kyllä täytti paikkansa paremmin kuin hyvin. Mielikuvitus on välillä koetuksella, kun hämärässä/ahtaassa/milloin mistäkin syytä ikävässä paikassa pitäisi saada kelvollinen kuva nopeasti elävästä tilanteesta. Vaikka puhelin on kohtuullisen yksinkertainen laite, niin aikansa senkin kanssa harjoittelee.
 
-[![](/images/IMG_2844-300x200.jpg)](https://qpm.kda.mybluehost.me/wp-content/uploads/2015/12/IMG_2844.jpg)[![](/images/IMG_2844_-300x200.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2015/12/IMG_2844_.png)
+[![](/images/IMG_2844-300x200.jpg)](https://qpm.kda.mybluehost.me/wp-content/uploads/2015/12/IMG_2844.jpg)[![](/images/IMG_2844_-300x200.jpg)](https://qpm.kda.mybluehost.me/wp-content/uploads/2015/12/IMG_2844_.jpg)
 
 SUORAAN KAMERASTA VS. DPP:N JA PSP:N LÄPIKÄYNYT VERSIO.
 
 **.. Heihin, jotka jälkikäsittelevät.** Paljon. Jälkikäsittelyn mahdollisuus ja helppous on ehdottomasti yksi digikuvan keskeisistä ominaisuuksista. Etenkin raw vie valokuvien muokkaamisen aivan uudelle tasolle. Raw-kuviin eli CR2-tiedostoihin tallentuu yli 260 kertaa enemmän tietoa kuin tavalliseen JPEG-kuvaan. Kaikkea tätä lisätietoa voidaan hyödyntää jälkikäsittelyssä. Käsittelen raakakuvani Canonin omalla **Digital Photo Professional** \-ohjelmalla. Kaikki jo kuvausvaiheessa kamerasta säädettävissä olevat jutut (esim. värikylläisyys, värisävy, terävyys, valkotasapaino, kontrasti jne.) voidaan säätää myös jälkikäsittelyn yhteydessä. Grafiikkaa ja valokuvien jälkijälkikäsittelyä varten minulla on pian kymmenen vuotta vanha ohjelmistohelmi - **Jasc Paint Shop Pro 9**. On hieman vaikeaa perustella miksi en ole vaihtanut uudempaan. Photoshopista ei aivan vasta-alkaja saa kovin helposti kiinni ja Lightroom on toistaiseksi opiskelijabudjetin ulottumattomissa. Ehkä siksi. Tämän kanssa olen hyvä.
 
-[![](/images/IMG_20151216_143536-300x225.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2015/12/IMG_20151216_143536.png)[![](/images/IMG_20151216_222742-300x225.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2015/12/IMG_20151216_222742.png)
+[![](/images/IMG_20151216_143536-300x225.jpg)](https://qpm.kda.mybluehost.me/wp-content/uploads/2015/12/IMG_20151216_143536.jpg)[![](/images/IMG_20151216_222742-300x225.jpg)](https://qpm.kda.mybluehost.me/wp-content/uploads/2015/12/IMG_20151216_222742.jpg)
 
 KUVAN VOI KÄSITELLÄ SUORAAN MYÖS PUHELIMESSA. ESIMERKIKSI PHOTOSHOP EXPRESS + VSCO TEKI BLUBOO XTOUCHILLA OTETULLE KUVALLE IHMEITÄ.
 
 **.. Heihin, jotka eivät jälkikäsittele.** Sinällään ymmärrän tämän. Jälkikäsittelemään oppii kuka tahansa, mutta täysin valmiin kuvan aikaansaaminen pelkällä kameran manuaalilla kysyy huomattavasti enemmän taitoa ja kokemusta. Hieno taito, joka kuitenkin ehkä odottelee vielä "uutta tulemistaan". Kulta-aika hiipui filmikameroiden vaihtuessa digiin. Jokainen vakavastiotettava valokuvaaja kuitenkin vihaa ylikäsittelyä avoimesti. Etenkin filttereitä, nykyajan keksinnöistä kammottavimpia.
 
-[![](/images/IMG_2760-300x200.jpg)](https://qpm.kda.mybluehost.me/wp-content/uploads/2015/12/IMG_2760.jpg)[![](/images/IMG_2760_2-300x200.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2015/12/IMG_2760_2.png)
+[![](/images/IMG_2760-300x200.jpg)](https://qpm.kda.mybluehost.me/wp-content/uploads/2015/12/IMG_2760.jpg)[![](/images/IMG_2760_2-300x200.jpg)](https://qpm.kda.mybluehost.me/wp-content/uploads/2015/12/IMG_2760_2.jpg)
 
 TOIMIKOON NÄMÄ KUVAT ESIMERKKINÄ MYÖS SIITÄ, MIKSI SUORA AURINKO EI AINA TOIMI.. VÄRIEN PELASTAMINEN ON TOISINAAN HITSIN VAIKEAA.
 
@@ -50,7 +50,7 @@ TOIMIKOON NÄMÄ KUVAT ESIMERKKINÄ MYÖS SIITÄ, MIKSI SUORA AURINKO EI AINA TO
 
 .**. Heihin, jotka luottavat sääntöihin ja sarjakuvaukseen.** Minä! Kun hevonen esitetään tietyssä asennossa ja tietynlaista taustaa vasten, kamera säädetään tietyllä tavalla ottaen huomioon sään ja hevosen värin, aurinko tai muu valonlähde huolehditaan kuvaajan selän taa.. Ja niin edelleen. Hyvä kuva muodostuu samoista toistuvista palikoista. Ja sitten vain toivotaan, että hevonen nostaa korvat pystyyn ja tuo tilanteeseen ehkä jotakin persoonallista. Kyllä sadasta kuvasta aina yksi osuu. Varsinaista valokuvaajan silmää tarvitaan vasta sitten, kun kameran edessä on ihan kauhea mönkijäinen tai kohde jostain muusta syystä on edustava vain noin puolitoista sekuntia kerrallaan. Siinä minä olen hyvä. Sellaista hevosta olekaan, etteikö siitä saisi irti klassisia hyvän näköisiä edustuskuvia.
 
-[![](/images/IMG_2788-300x200.jpg)](https://qpm.kda.mybluehost.me/wp-content/uploads/2015/12/IMG_2788.jpg)[![](/images/IMG_2788850_-300x200.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2015/12/IMG_2788850_.png)
+[![](/images/IMG_2788-300x200.jpg)](https://qpm.kda.mybluehost.me/wp-content/uploads/2015/12/IMG_2788.jpg)[![](/images/IMG_2788850_-300x200.jpg)](https://qpm.kda.mybluehost.me/wp-content/uploads/2015/12/IMG_2788850_.jpg)
 
 SAMA HIEMAN LIIOITELTU PERUSKÄSITTELY KUIN EDELLISISSÄKIN.
 
@@ -60,6 +60,6 @@ Esikuvia on hyvä olla. Minun ihailunkohteeni on saksalainen **[Jacques Toffi](
 
 **Ketä ovat teidän valokuvaajasuosikkinne? Miksi?**
 
-[![](/images/IMG_2651-200x300.jpg)](https://qpm.kda.mybluehost.me/wp-content/uploads/2015/12/IMG_2651.jpg)[![](/images/IMG_2651_-200x300.png)](https://qpm.kda.mybluehost.me/wp-content/uploads/2015/12/IMG_2651_.png)
+[![](/images/IMG_2651-200x300.jpg)](https://qpm.kda.mybluehost.me/wp-content/uploads/2015/12/IMG_2651.jpg)[![](/images/IMG_2651_-200x300.jpg)](https://qpm.kda.mybluehost.me/wp-content/uploads/2015/12/IMG_2651_.jpg)
 
 TÄMÄKIN TÄYSIN ALKUPERÄINEN, RAJAAMATON KUVA VS. KÄSITELTY VERSIO

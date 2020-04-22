@@ -10,19 +10,19 @@ post_button_label: "Lue lisää"
 
 Ja näin ravihevosesta tuli piloille hemmoteltu pullamössölemmikki! Ehdottomasti parhaimmalta se on näyttänyt viime kesänä, mutta ei tuo kai ihan toivottoman löysässä kunnossa ole tälläkään hetkellä. Saa nähdä millaiseen tulokseen päästään ensi kesänä. (Ja kuinka nopeasti talvikarva tällä kertaa irtoaa..) PS. Kohta puolitoista vuotta, vau!
 
-[![](/images/IMG_1826.png)](http://2.bp.blogspot.com/-tEtY8pmmUaQ/URdWgVJh8bI/AAAAAAAAFLE/xwrz-cp5Kn0/s1600/IMG_1826.png)[![](/images/sotilas4.png)](http://2.bp.blogspot.com/-30Rf3aSoZyA/URdWiUuCbWI/AAAAAAAAFLo/UWBXKqodWUk/s1600/sotilas4.png)
+[![](/images/IMG_1826.jpg)](http://2.bp.blogspot.com/-tEtY8pmmUaQ/URdWgVJh8bI/AAAAAAAAFLE/xwrz-cp5Kn0/s1600/IMG_1826.jpg)[![](/images/sotilas4.jpg)](http://2.bp.blogspot.com/-30Rf3aSoZyA/URdWiUuCbWI/AAAAAAAAFLo/UWBXKqodWUk/s1600/sotilas4.jpg)
 
 27.10.2011 - 29.10.2011
 
 Ei näistä ensimmäisistä kuvista enää omaansa tunnista. Napakka pikku tynnyri näyttää jopa hevosen korkuiselta ja kuukauden sairaslomankin jälkeen se oli aika hyvässä lihaksessa. (Kokemukseni mukaan se näyttää liikuttamattomanakin lihaksikkaalta.)
 
-[![](/images/1-unknown_soldier5.png)](http://1.bp.blogspot.com/-VpV36I7-hfs/URdWe8t3v_I/AAAAAAAAFKo/oJ_88njiSgY/s1600/1-unknown_soldier5.png)[![](/images/IMG_9898.png)](http://4.bp.blogspot.com/-JrhxYt9xHag/URdWiOaOhsI/AAAAAAAAFLg/uoWGhKqGW8A/s1600/IMG_9898.png)
+[![](/images/1-unknown_soldier5.jpg)](http://1.bp.blogspot.com/-VpV36I7-hfs/URdWe8t3v_I/AAAAAAAAFKo/oJ_88njiSgY/s1600/1-unknown_soldier5.jpg)[![](/images/IMG_9898.jpg)](http://4.bp.blogspot.com/-JrhxYt9xHag/URdWiOaOhsI/AAAAAAAAFLg/uoWGhKqGW8A/s1600/IMG_9898.jpg)
 
 29.2.2012 - 17.5.2012
 
 Ehkä kurjin pätkä meidän historiastamme, ainakin ulkonäöllisesti. Paino putosi, mutta aiemmin napakka mahalinja valui alas eikä pelkkä viikonloppuisin ratsastaminen riittänyt. Onneksi Sotilas piti kuntoaan yllä riehumalla laitumella talvellakin.
 
-[![](/images/uijuijui.png)](http://2.bp.blogspot.com/-L8ztOLW4m_U/URdWjZs69zI/AAAAAAAAFL0/PYd-l5YxV2I/s1600/uijuijui.png)[![](/images/IMG_2574.png)](http://1.bp.blogspot.com/-D6rfuOW1tWs/URdWgXO-BlI/AAAAAAAAFLA/sVwO_T7S1iM/s1600/IMG_2574.png)
+[![](/images/uijuijui.jpg)](http://2.bp.blogspot.com/-L8ztOLW4m_U/URdWjZs69zI/AAAAAAAAFL0/PYd-l5YxV2I/s1600/uijuijui.jpg)[![](/images/IMG_2574.jpg)](http://1.bp.blogspot.com/-D6rfuOW1tWs/URdWgXO-BlI/AAAAAAAAFLA/sVwO_T7S1iM/s1600/IMG_2574.jpg)
 
 4.6.2012 - 21.6.2012
 
@@ -47,4 +47,4 @@ Mätsäreissä piti kiskoa mahalinja ryhdikkäästi ylös, mutta todellisuudessa
 Kuvat c. [Jonna Sjögren](http://jjonnas.kuvat.fi/), [Mirella Ruotsalainen](http://hertjekker.net/), Toinen täydellinen mies, [Laura Taimioja](http://tuulis.net/kuvat/) ja [Roosa](http://sanoinkuvaamaton.blogspot.fi/).  
 Säännöllisesti otetuista rakennekuvista on yllättävän paljon iloa kun haluaa nähdä miten hevonen on ulkoisesti muuttunut!
 
-[![](/images/ak.png)](http://2.bp.blogspot.com/-C93t3TcCeOE/URdevhiaTPI/AAAAAAAAFMQ/kvphv06TOCE/s1600/ak.png)
+[![](/images/ak.jpg)](http://2.bp.blogspot.com/-C93t3TcCeOE/URdevhiaTPI/AAAAAAAAFMQ/kvphv06TOCE/s1600/ak.jpg)

@@ -12,15 +12,15 @@ post_button_label: "Lue lisää"
 
 **POSTAUS TOTEUTETTU YHTEISTYÖSSÄ VELJEKSET WAHLSTÉNIN KANSSA!**
 
-[![](/images/IMG_2337_2_.png)](http://3.bp.blogspot.com/-MlTZOJ4zngc/VTgB2uSrmYI/AAAAAAAAJk4/6WhT-zOvNVo/s1600/IMG_2337_2_.png)
+[![](/images/IMG_2337_2_.jpg)](http://3.bp.blogspot.com/-MlTZOJ4zngc/VTgB2uSrmYI/AAAAAAAAJk4/6WhT-zOvNVo/s1600/IMG_2337_2_.jpg)
 
 Ohjien lisäksi mukaan tarttui **Horse Comfortin ihana canvas-lompakko** ja pussi **TRM:n granuloitua valkosipulia**. Lompakko on osoittautunut käytössä yllättävän tilavaksi - hillitystä koostaan huolimatta sinne mahtuvat niin puhelin kuin kotiavaimetkin. Hevosihmiselle herkkä likaantuminen ja vaikea puhdistaminen on tottakai miinus, mutta onhan tuo nyt ihan älyttömän sievä! (Ja hintaakin on vain 20€.) Tämä valkosipuli oli meille jo tuttu tuote. Sotilas jättää tavallisen valkosipulijauheen syömättä, mutta jostain syystä karkeampi rouhe maistuu hyvin. Edullistakin, 11,90€ /1kg. Ehdottomasti ykkösjuttu meille! Ohjilla on hintaa 68€.
 
-[![](/images/IMG_2355_2_.png)](http://1.bp.blogspot.com/-6QbHtIZPLQ0/VTgB2l89ZNI/AAAAAAAAJk0/peKT2xrWiOU/s1600/IMG_2355_2_.png)[![](/images/IMG_2374_2_.png)](http://3.bp.blogspot.com/-UgMPNg6WFxs/VTgB2lfGlpI/AAAAAAAAJkw/fSE72xJqWWk/s1600/IMG_2374_2_.png)
+[![](/images/IMG_2355_2_.jpg)](http://1.bp.blogspot.com/-6QbHtIZPLQ0/VTgB2l89ZNI/AAAAAAAAJk0/peKT2xrWiOU/s1600/IMG_2355_2_.jpg)[![](/images/IMG_2374_2_.jpg)](http://3.bp.blogspot.com/-UgMPNg6WFxs/VTgB2lfGlpI/AAAAAAAAJkw/fSE72xJqWWk/s1600/IMG_2374_2_.jpg)
 
 Monté on suomalaisille vielä aika uusi juttu; ensimmäinen montélähtö ajettiin vuonna 1979 ja laji on kehittynyt hitaasti. Muun maailman varusteet ja käytännöt rantautuvat tänne vähitellen. Perinteisesti (jos perinteestä voidaan vielä puhua) suomalaiset ratsastavat monilenkkiohjilla, mutta montén alkuperämaassa Ranskassa käytössä on vain suoria puuvillaohjia. Monilenkkiohjia on jonkin verran käytössä myös USA:ssa ja Australiassa, mutta esimerkiksi monet Keski-Euroopan montémaat (Belgia, Hollanti, Saksa jne.) seuraavat Ranskan esimerkkiä.
 
-[![](/images/lenkkiohjat.png)](http://2.bp.blogspot.com/-mNm_fjHvnfw/VS5DB0WugII/AAAAAAAAJjo/1YA4aYCVqus/s1600/lenkkiohjat.png)[![](/images/suoraohja.png)](http://1.bp.blogspot.com/-I19_-bt1W_U/VS5DPqTwEcI/AAAAAAAAJj0/asa_QNaB5xE/s1600/suoraohja.png)
+[![](/images/lenkkiohjat.jpg)](http://2.bp.blogspot.com/-mNm_fjHvnfw/VS5DB0WugII/AAAAAAAAJjo/1YA4aYCVqus/s1600/lenkkiohjat.jpg)[![](/images/suoraohja.jpg)](http://1.bp.blogspot.com/-I19_-bt1W_U/VS5DPqTwEcI/AAAAAAAAJj0/asa_QNaB5xE/s1600/suoraohja.jpg)
 
 VASEMMALLA WAHLSTÉNIN NAHKAISET MONILENKKIOHJAT, OIKEALLA SUORAT PUUVILLAOHJAT.
 
@@ -30,7 +30,7 @@ Minä hankin ohjani pääasiassa maastoilukäyttöön. Nahkaohja on liukas ja ep
 
 Suomessa juoksevat hevoset ovat tyypiltään pääasiassa amerikkalaisia. Kevyitä, ketteriä ja hyvin nuoresta asti helpporavisia "luonnonjuoksijoita". Ranskalainen on usein fyysisesti suurempi ja raskaampi, vahva ja kestävä pitkän matkan juoksija. Tottakai myös ratsastettavuudessa on eroja: "_Suomessa juoksevat jenkit ovat helppoja ratsastettavia verrattuna ranskalaiseen hevoseen. Vanhan tyypin ranskalaishevonen on ratsastettava versio._" Helpon hevosen kanssa on tottakai helpompi treenata ja kilpailla, ratsastajan ja varusteiden merkitys on pienempi. Apua tarvitseva hevonen vaatii enemmän hienosäätöä ja tarkkuutta.
 
-[![](</images/Organdi%2BdOr%2B(2).png>)](<http://2.bp.blogspot.com/-pT05kNc40Hc/VTfwy8P95pI/AAAAAAAAJkM/ZiYFa-DC8LQ/s1600/Organdi%2BdOr%2B(2).png>)[![](</images/Kundun%2B%C3%96stervang%2B(5).JPG>)](<http://1.bp.blogspot.com/-mf0O6Lgc5Bg/VTfwypS-pOI/AAAAAAAAJkI/ZgmQqz17X88/s1600/Kundun%2B%C3%96stervang%2B(5).JPG>)
+[![](</images/Organdi%2BdOr%2B(2).jpg>)](<http://2.bp.blogspot.com/-pT05kNc40Hc/VTfwy8P95pI/AAAAAAAAJkM/ZiYFa-DC8LQ/s1600/Organdi%2BdOr%2B(2).jpg>)[![](</images/Kundun%2B%C3%96stervang%2B(5).JPG>)](<http://1.bp.blogspot.com/-mf0O6Lgc5Bg/VTfwypS-pOI/AAAAAAAAJkI/ZgmQqz17X88/s1600/Kundun%2B%C3%96stervang%2B(5).JPG>)
 
 VASEMMALLA RANSKALAINEN RATSUKKO (MOLEMMAT OHJAT KIINNI KUOLAIMESSA),  
 OIKEALLA SUOMALAINEN (TOINEN OHJA KIINNI KUOLAIMESSA, TOINEN MUSTALAISRIIMUSSA)
@@ -49,6 +49,6 @@ Monté on jossain määrin samanlaista ratsastusurheilua kuin muutkin lajit. Har
 
 > _" On löydettävä oikea asento ja kohta vasemmalle kädelle, oikea asento ja kohta oikealle kädelle. Toisessa kädessä pidät piiskaa jolla suoristat hevosta. Kurviin ehkä joudut vaihtamaan piiskan toiselle puolelle, sillä hevonen painaa eri suuntiin suoralla ja kaarteessa. On löydettävä oikea kohta kropalle; jos hevonen on vino, on sitä autettava siirtämällä omaa painoaan jommalle kummalle puolelle. Lenkkiohjissa ei ole varaa näihin muutamien millien mittaisiin säätöihin. "_
 
-[![](/images/viipihepu2.png)](http://2.bp.blogspot.com/-h4fMTPTtwWg/VTgFyQkrOCI/AAAAAAAAJlc/qoCDN2d4cp0/s1600/viipihepu2.png)
+[![](/images/viipihepu2.jpg)](http://2.bp.blogspot.com/-h4fMTPTtwWg/VTgFyQkrOCI/AAAAAAAAJlc/qoCDN2d4cp0/s1600/viipihepu2.jpg)
 
 KÄYTTÖKUVIA OHJISTA (JA WAHLSTENIN IHANASTA COOLERISTA) SAATTE LISÄÄ MYÖHEMMIN. PITKÄSTÄ AIKAA SAIN MOLEMMAT SOTILAAT SAMAAN KUVAAN <3

@@ -8,7 +8,7 @@ template: "page"
 post_button_label: "Lue lisää"
 ---
 
-[![](/images/IMG_1488_.png)](http://1.bp.blogspot.com/-HRZUiU1q7W4/VE0UcapnX9I/AAAAAAAAJDY/eFAGfk-hKs8/s1600/IMG_1488_.png)
+[![](/images/IMG_1488_.jpg)](http://1.bp.blogspot.com/-HRZUiU1q7W4/VE0UcapnX9I/AAAAAAAAJDY/eFAGfk-hKs8/s1600/IMG_1488_.jpg)
 
 Ettei pääsisi unohtumaan: Haaverista on nyt kaksi kuukautta ja kolme viikkoa. **Olemme siis lähes sairasloman puolivälissä!** Eikä edes turhauta vielä kumpaakaan. Kontrolliultra on alustavasti sovittu ensi perjantaille.
 
@@ -18,18 +18,18 @@ Pari viikkoa sitten sain Sotilaasta tuoreita syksykuvia! Alun perin oli tarkoitu
 
 Melkein kolmen kuukauden liikkumattomuus muuttaa hevosta kyllä hurjasti.. Meinasi itku tulla kun huvikseni sovitin Sotilaalle satulaa. Ihan kamalan lihakseton se on, vaikka sopiva ruokinta pitääkin sen kauempaa katsottuna ihan kohtuullisen näköisenä. Onneksi meillä on Wintec, saapahan ainakin fiksattua kaarta vaihtamalla sopivaksi. Olisi ihan toivoton homma etsiä jotain opiskelijabudjettiin sopivaa välikausisatulaa, etenkin kun oikeaan ratsastamiseen voi olla vielä yllättävän paljon matkaa. Enkä toisaalta haluaisi luopua tuosta satulasta muutenkaan. Se on uusi, kaikilta ominaisuuksiltaan hitsin kätevä ja hyvän näköinenkin. Ehkä se vielä joskus pääsee hevosen selkäänkin..
 
-[![](/images/IMG_1440_.png)](http://2.bp.blogspot.com/-nfOwyTIs2FQ/VE0WPW8YAXI/AAAAAAAAJEA/xnoZhecdovM/s1600/IMG_1440_.png)
+[![](/images/IMG_1440_.jpg)](http://2.bp.blogspot.com/-nfOwyTIs2FQ/VE0WPW8YAXI/AAAAAAAAJEA/xnoZhecdovM/s1600/IMG_1440_.jpg)
 
-[![](/images/IMG_1342_.png)](http://2.bp.blogspot.com/-C-7VOtHSjQM/VE0VXAttwcI/AAAAAAAAJD4/A30L09gJ-LI/s1600/IMG_1342_.png)[![](/images/IMG_1495_2.png)](http://2.bp.blogspot.com/-GGGXbNKpnIA/VE0UdTGX5AI/AAAAAAAAJDc/ikwjTud7Noc/s1600/IMG_1495_2.png)
+[![](/images/IMG_1342_.jpg)](http://2.bp.blogspot.com/-C-7VOtHSjQM/VE0VXAttwcI/AAAAAAAAJD4/A30L09gJ-LI/s1600/IMG_1342_.jpg)[![](/images/IMG_1495_2.jpg)](http://2.bp.blogspot.com/-GGGXbNKpnIA/VE0UdTGX5AI/AAAAAAAAJDc/ikwjTud7Noc/s1600/IMG_1495_2.jpg)
 
 Kirpeä sää on taas herättänyt Sotilaan sisäisen varsan. Tuntuu hyvältä, että viikonloppuisin vastassa on kirkassilmäinen ja iloinen hevonen. Toisaalta se on edelleen yhtä hyväkäytöksinen kuin aina ennenkin. Ihme sinänsä, äitin kanssa tähän mennessä kaikki meillä olleet lemmikit ovat muuttuneet enemmän tai vähemmän (yleensä enemmän) mahdottomiksi, haha! Viettäisin mielelläni enemmän aikaa Sotilaan kanssa juuri nyt - sen kanssa on niin helppoa ja hauskaa tehdä mitä tahansa kun se sille tuulelle sattuu. Se oppi antamaan suukon parissa illassa ja muitakin temppuja olisi kiva harjoitella. Onneksi se on jo kuukauden päästä täällä!
 
 Alla olevassa kuvassa näkyy Sotilaan tämänhetkinen suojitus. Back on Trackin neopreeniset ratsastussuojat (melko tuore hankinta, hintaa noin 100e/pari), heijastimet ja putsit. Putseja se ei varsinaisesti vielä tarvitse, mutta opetelkoot nyt viettämään aikaa ne jalassa. Talvella se todennäköisesti joutuu myös tarhaamaan suojat jalassa, vaikken suojien liikakäytöstä tykkääkään. Liukastelu on tuoreelle vammalle kuitenkin niin vaarallista, että tiedossa on 6 pitkää hokkia/kavio. Sotilas on ihan megatehokas reikiintyjä ja ainakin viime talvena se onnistui rikkomaan jalkojaan niin hyvin, etten ota vastaavaa riskiä tänä talvena. Yksi kuntoutettava vamma riittää, enkä toisaalta toivo myöskään jatkuvia eläinlääkärikuluja jalkojen paikkaamisesta. (Vaikkakin tähän mennessä Sotilaan hokinpolkemat ovat olleet sellaisia, että tikata ehkä pitäisi jos olisi jotain mitä tikata.. Paha harsia kasaan jos kannat ovat kadonneet kokonaan.) Back on Trackeja en raaski uhrata tarhakäyttöön, vaikke ne epäilemättä hyvät siihen olisivatkin. Todennäköisesti Sotilas tulee tarhaamaan talven sellaisissa neopreenisuojissa, jotka tulevat reilusti vuohisen ympärille. Ainakin Hevari myy sellaisia, joita voidaan käyttää myös ventovuohissuojina. Vähän tukea vuohiselle.
 
-[![](/images/IMG_1467_.png)](http://2.bp.blogspot.com/-P3D1dj4h2iE/VE0UcQ4PmrI/AAAAAAAAJDQ/SEEX7C_vTOw/s1600/IMG_1467_.png)
+[![](/images/IMG_1467_.jpg)](http://2.bp.blogspot.com/-P3D1dj4h2iE/VE0UcQ4PmrI/AAAAAAAAJDQ/SEEX7C_vTOw/s1600/IMG_1467_.jpg)
 
 Tältä se näyttää melkolailla juuri nyt. Vähän turhan pyöreä ja lihakseton. Ero etenkin selän osalta on jyrkkä verrattuna aiemmin otettuihin kuviin. Jostain syystä kaulan ylälinja on säilynyt kohtuullisena, onneksi. Syksy ja karvaantuminen muuttaa Sotilaan joka tapauksessa ponin näköiseksi, joten ehkei pieni pyöreyskään näytä niin häiritsevältä. Muuton jälkeen se joutuu luopumaan ainakin valtaosasta karvoistaan, ellei jopa kaikista. Tuleva talli on melko lämmin talvellakin ja käytössä on pesupaikka jota haluan ehdottomasti hyödyntää. Hölkätä kun pitäisi kohtuullisesti kerrallaan ja mahdollisimman usein, sitten kun siihen asti päästään. Kuivatusloimiakin pitänee hankkia jokunen lisää, jotta on mitä vaihdella. En tiedä mihin ihmeeseen saan jemmattua kaikki Sotilaan tavarat, tallilla on säilytystilaa aika rajallisesti ja tällä hetkellä kaikkea erittäin tarpeellista on pienen asunnollisen verran..
 
 PS. Kolmisen kuukautta haaverista enkä ole vielä saanut yhtään suoraa ikävää kommenttia rikotusta hevosesta. Epäsuoria jokusen. Ollaan siis suoriuduttu ihan hyvin, siitä huolimatta ettemme ole nähneet vaivaa piilotellaksemme täystuhoa tai puhuaksemme siitä hissun kissun syrjemmällä. Toivottavasti voin muutaman kuukauden päästä hehkuttaa yhtä avoimesti, että se on kunnossa taas.
 
-[![](/images/IMG_1251_.png)](http://2.bp.blogspot.com/-Z8ZP5ZVexc4/VE0UcVKhV2I/AAAAAAAAJDU/5vkzDuwci6U/s1600/IMG_1251_.png)
+[![](/images/IMG_1251_.jpg)](http://2.bp.blogspot.com/-Z8ZP5ZVexc4/VE0UcVKhV2I/AAAAAAAAJDU/5vkzDuwci6U/s1600/IMG_1251_.jpg)

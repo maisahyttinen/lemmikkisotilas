@@ -14,4 +14,4 @@ Toiset aamut on hieman haastavampia kuin toiset. Myös niille, jotka muuttuvat s
 
 [![](/images/22.12.004.JPG)](http://3.bp.blogspot.com/-wo1brRaHcZU/UNV7D4owxiI/AAAAAAAAD9Y/-fxcYqPDEcM/s1600/22.12.004.JPG)
 
-[![](/images/ak.png)](http://4.bp.blogspot.com/-TB8cMTO6uag/UNV7cIjIHPI/AAAAAAAAD90/SdT7zpCzy6M/s1600/ak.png)
+[![](/images/ak.jpg)](http://4.bp.blogspot.com/-TB8cMTO6uag/UNV7cIjIHPI/AAAAAAAAD90/SdT7zpCzy6M/s1600/ak.jpg)

@@ -16,35 +16,35 @@ Ei se ole itsestäänselvää, että kukaan valitsee sen kaiken fyysisen ja henk
 
 Siksi tätä jaksaa.
 
-[![](/images/IMG_8063_.png)](http://2.bp.blogspot.com/-qbxbLZ_-EnE/VcKLBXsAaSI/AAAAAAAAJ4w/7iFQOG8trhc/s1600/IMG_8063_.png)
+[![](/images/IMG_8063_.jpg)](http://2.bp.blogspot.com/-qbxbLZ_-EnE/VcKLBXsAaSI/AAAAAAAAJ4w/7iFQOG8trhc/s1600/IMG_8063_.jpg)
 
 Ihan vain itseäni kerta toisensa jälkeen toistaakseni - viime viikot ovat olleet älytöntä hulinaa.
 
-[![](/images/IMG_8142_.png)](http://4.bp.blogspot.com/-2xHXQCHv9Rw/VcKLBw4bhWI/AAAAAAAAJ5E/Yf3xvjc8gCk/s1600/IMG_8142_.png)
+[![](/images/IMG_8142_.jpg)](http://4.bp.blogspot.com/-2xHXQCHv9Rw/VcKLBw4bhWI/AAAAAAAAJ5E/Yf3xvjc8gCk/s1600/IMG_8142_.jpg)
 
 Ehdimme Sotilaan kanssa nauttia hienoista säistä ja ratsastuspaikoista pari kolme viikkoa.
 
 Sen jälkeen onkin lähinnä satanut ja aika mennyt kylmätessä ja kävelyttäessä. Tuntuu onneksi lähinnä tutulta ja arkiselta.
 
-[![](/images/IMG_8269_.png)](http://1.bp.blogspot.com/-fwARZs4l99E/VcKLBxmU5qI/AAAAAAAAJ5A/NXaHXkREwK0/s1600/IMG_8269_.png)
+[![](/images/IMG_8269_.jpg)](http://1.bp.blogspot.com/-fwARZs4l99E/VcKLBxmU5qI/AAAAAAAAJ5A/NXaHXkREwK0/s1600/IMG_8269_.jpg)
 
 Takaisin kotiin Sotilas tuli viime viikolla.
 
 Klinikalle mennään perjantaiaamuna. Huomenna. Jännevamma se on, muuta en vielä uskalla arvailla.
 
-[![](/images/IMG_8374_.png)](http://1.bp.blogspot.com/-TQxG_9fORWI/VcKLFoIY8oI/AAAAAAAAJ5o/CzySE5tWzu4/s1600/IMG_8374_.png)
+[![](/images/IMG_8374_.jpg)](http://1.bp.blogspot.com/-TQxG_9fORWI/VcKLFoIY8oI/AAAAAAAAJ5o/CzySE5tWzu4/s1600/IMG_8374_.jpg)
 
 Viime viikonloppuna juhlittiin Joensuussa ravikesän kohokohtaa, Kuninkuusraveja.
 
 Ainoa kerta vuodessa, kun voin täysin rehellisesti sanoa ihailevani suomenhevosia. Kerta onneksi riittää.
 
-[![](/images/IMG_8365_.png)](http://2.bp.blogspot.com/-Yk2a44vsufM/VcKLEfLbl3I/AAAAAAAAJ5Y/gI7xk1dX-I0/s1600/IMG_8365_.png)
+[![](/images/IMG_8365_.jpg)](http://2.bp.blogspot.com/-Yk2a44vsufM/VcKLEfLbl3I/AAAAAAAAJ5Y/gI7xk1dX-I0/s1600/IMG_8365_.jpg)
 
 Juhlittiin tosiaan. Seura, viini ja mansikat olivat hyvää. Tottakai!
 
 Suomalainen ravikansa on raastavan pidättyväistä, mutta Kuninkuusravit tuntuvat festareilta.
 
-[![](/images/IMG_8353_.png)](http://4.bp.blogspot.com/-pB3vjonJ3A8/VcKLDy186JI/AAAAAAAAJ5U/dZ5vfFx3cHs/s1600/IMG_8353_.png)
+[![](/images/IMG_8353_.jpg)](http://4.bp.blogspot.com/-pB3vjonJ3A8/VcKLDy186JI/AAAAAAAAJ5U/dZ5vfFx3cHs/s1600/IMG_8353_.jpg)
 
 Sormet ristiin.
 
