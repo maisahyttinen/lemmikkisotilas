@@ -8,6 +8,7 @@ import {
   htmlToReact,
   getPostsByYear,
   getSeparateDate,
+  Link,
 } from "../utils";
 
 const Allposts = (props) => {
@@ -46,10 +47,10 @@ const Allposts = (props) => {
               const { month, day } = getSeparateDate(post.frontmatter.date);
               return (
                 <React.Fragment key={i}>
-                  <a href={`../posts/${post.name}`}>
+                  <Link to={`../posts/${post.name}`}>
                     <strong>{`${day}.${month}.`}</strong>
                     {`  ${post.frontmatter.title}`}
-                  </a>
+                  </Link>
                   <br />
                   <br />
                 </React.Fragment>

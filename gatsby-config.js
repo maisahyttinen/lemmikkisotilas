@@ -34,7 +34,7 @@ module.exports = {
               maxWidth: 800,
               quality: 80,
               backgroundColor: "transparent",
-              withWebp: { quality: 80 },
+              //withWebp: { quality: 80 },
             },
           },
           //`gatsby-remark-lazy-load`,
