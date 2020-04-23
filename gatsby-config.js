@@ -37,7 +37,6 @@ module.exports = {
               //withWebp: { quality: 80 },
             },
           },
-          //`gatsby-remark-lazy-load`,
           `gatsby-remark-component`,
         ],
       },

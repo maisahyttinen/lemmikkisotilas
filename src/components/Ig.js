@@ -47,7 +47,7 @@ export const Instagram = () => {
         }}
       >
         {images.map((image) => (
-          <img key={image} src={image} alt="instagram" />
+          <img key={image} src={image} loading="lazy" alt="instagram" />
         ))}
       </div>
     </div>

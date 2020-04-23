@@ -3,7 +3,7 @@ header-title: Tutustu tekijään
 title: Hän pakastaan, sai Sotilaan.
 subtitle: Eli kymmenen vuoden kertomus siitä, miten teinin hevosblogiharrastus
   karkasi käsistä.
-img_path: /images/IMG_1440_.png
+img_path: /images/IMG_1440_.jpg
 menus:
   main:
     title: Tutustu tekijään
