@@ -8,7 +8,7 @@ template: "page"
 post_button_label: "Lue lisää"
 ---
 
-<iframe allowfullscreen data-thumbnail-src="https://i.ytimg.com/vi/Yd6YnCKW5Wc/0.jpg" frameborder="0" height="500" src="http://www.youtube.com/embed/Yd6YnCKW5Wc?feature=player_embedded" width="850"></iframe>
+<iframe allowfullscreen data-thumbnail-src="https://i.ytimg.com/vi/Yd6YnCKW5Wc/0.jpg" frameborder="0" height="500" src="https://www.youtube.com/embed/Yd6YnCKW5Wc?feature=player_embedded" width="850"></iframe>
 
 Sotilasta on ratsastettu "tosissaan" nyt 7 viikkoa. Minun lisäkseni sillä on kerran viikossa ratsastanut ratsastuksenopettajani. Alku on pääosin ollut ihan hyvä. Hirveästi ei pääse moittimaan. Onhan se vähän laiska, keskittymiskyky on ihan päiväkohtaista (hyvät päivät ovat älyttömän hyviä, huonot älyttömän huonoja) ja jo pelkästään perusratsastuksessa on paljon tekemistä, mutta suunta on oikea. Hyvinä päivinä mennään niin paljon eteenpäin että välissä saa ollakin pari huonoa. Ei tämä nyt liian helppoakaan saa olla, heh..
 

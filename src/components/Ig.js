@@ -10,8 +10,8 @@ export const Instagram = () => {
           node {
             localFile {
               childImageSharp {
-                fixed(width: 150, height: 150) {
-                  ...GatsbyImageSharpFixed
+                fluid(maxWidth: 150, maxHeight: 150) {
+                  ...GatsbyImageSharpFluid_tracedSVG
                 }
               }
             }
@@ -50,6 +50,7 @@ export const Instagram = () => {
     >
       <div
         style={{
+          width: "100%",
           maxWidth: "460px",
           display: "grid",
           gridGap: "5px",
@@ -58,7 +59,7 @@ export const Instagram = () => {
       >
         {images
           ? images.map(({ childImageSharp }, index) => (
-              <Img key={index} fixed={childImageSharp.fixed} />
+              <Img key={index} alt="" fluid={childImageSharp.fluid} />
             ))
           : null}
       </div>
