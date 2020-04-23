@@ -28,12 +28,14 @@ export default class Page extends React.Component {
     const helmetDescription =
       seoDescription && seoDescription !== "" ? seoDescription : subtitle;
 
-    const imagePath = _.get(
-      this.props,
-      "pageContext.frontmatter.img_path"
-    ).split("/");
+    const imagePath = _.get(this.props, "pageContext.frontmatter.img_path");
+
+    const splittedImagePath = imagePath ? imagePath.split("/") : undefined;
+
     const imageFileName =
-      imagePath.length > 0 ? imagePath[imagePath.length - 1] : imagePath;
+      splittedImagePath && splittedImagePath.length > 0
+        ? splittedImagePath[splittedImagePath.length - 1]
+        : undefined;
 
     return (
       <Layout {...this.props}>
@@ -51,7 +53,7 @@ export default class Page extends React.Component {
             </header>
             {_.get(this.props, "pageContext.frontmatter.img_path") && (
               <span className="image main">
-                <Image filename={imageFileName} alt="" />
+                {imageFileName && <Image filename={imageFileName} alt="" />}
               </span>
             )}
             {htmlToReact(_.get(this.props, "pageContext.html"))}
