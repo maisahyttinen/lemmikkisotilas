@@ -23,6 +23,7 @@
     "gatsby-remark-lazy-load": "^1.0.2",
     "gatsby-remark-relative-images": "^0.2.3",
     "gatsby-source-filesystem": "^2.2.4",
+    "gatsby-source-instagram": "^0.7.0",
     "gatsby-transformer-remark": "^2.7.3",
     "gatsby-transformer-sharp": "^2.4.6",
     "js-yaml": "^3.13.1",

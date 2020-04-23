@@ -1,32 +1,42 @@
-import React, { useEffect, useState } from "react";
+import React from "react";
+import { useStaticQuery, graphql } from "gatsby";
+import Img from "gatsby-image";
 
 export const Instagram = () => {
-  const [images, setImages] = useState(undefined);
-
-  const fetchImages = async () => {
-    try {
-      const response = await fetch(
-        "https://www.instagram.com/maisahyttinen/?__a=1"
-      );
-      const data = await response.json();
-      const images = data.graphql.user.edge_owner_to_timeline_media.edges
-        .map((node) => {
-          return node.node.thumbnail_resources[2].src;
-        })
-        .slice(0, 9);
-      setImages(images);
-    } catch (err) {
-      setImages(undefined);
+  const data = useStaticQuery(graphql`
+    query {
+      allInstaNode {
+        edges {
+          node {
+            localFile {
+              childImageSharp {
+                fixed(width: 150, height: 150) {
+                  ...GatsbyImageSharpFixed
+                }
+              }
+            }
+            # Only available with the public api scraper
+            thumbnails {
+              src
+              config_width
+              config_height
+            }
+            dimensions {
+              height
+              width
+            }
+          }
+        }
+      }
     }
-  };
+  `);
 
-  useEffect(() => {
-    fetchImages();
-  }, []);
-
-  if (!images) {
-    return null;
-  }
+  const posts = data.allInstaNode.edges;
+  const images = posts
+    .map(({ node }) => {
+      return node.localFile;
+    })
+    .slice(0, 9);
 
   return (
     <div
@@ -46,9 +56,11 @@ export const Instagram = () => {
           gridTemplateColumns: "repeat(3, 1fr)",
         }}
       >
-        {images.map((image) => (
-          <img key={image} src={image} loading="lazy" alt="instagram" />
-        ))}
+        {images
+          ? images.map(({ childImageSharp }, index) => (
+              <Img key={index} fixed={childImageSharp.fixed} />
+            ))
+          : null}
       </div>
     </div>
   );

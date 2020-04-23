@@ -77,5 +77,11 @@ module.exports = {
         cookieDomain: "maisahyttinen.fi",
       },
     },
+    {
+      resolve: `gatsby-source-instagram`,
+      options: {
+        username: `maisahyttinen`,
+      },
+    },
   ],
 };
