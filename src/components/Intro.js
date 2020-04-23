@@ -1,18 +1,18 @@
 import React from "react";
 import _ from "lodash";
-
+import Image from "./Image";
 import { safePrefix, markdownify, Link, classNames } from "../utils";
 
 export default class Intro extends React.Component {
   render() {
+    const imagePath = _.get(this.props, "section.img_path").split("/");
+    const imageFileName =
+      imagePath.length > 0 ? imagePath[imagePath.length - 1] : imagePath;
     return (
       <section id="intro" className="wrapper featured style1">
         <div className="inner" style={{ width: "100%", maxWidth: "63em" }}>
           <span className="image">
-            <img
-              src={safePrefix(_.get(this.props, "section.img_path"))}
-              alt=""
-            />
+            <Image filename={imageFileName} alt="" />
           </span>
           <div
             className="content"

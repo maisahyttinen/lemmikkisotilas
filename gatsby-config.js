@@ -50,7 +50,6 @@ module.exports = {
         outputFile: `${__dirname}/public/assets/css/main.css`,
       },
     },
-
     {
       resolve: `gatsby-remark-page-creator`,
       options: {},

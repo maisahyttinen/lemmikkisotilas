@@ -1,6 +1,6 @@
 import React from "react";
 import _ from "lodash";
-
+import Image from "./Image";
 import { markdownify, getPages, safePrefix, Link, classNames } from "../utils";
 
 export default class Spotlight extends React.Component {
@@ -19,13 +19,15 @@ export default class Spotlight extends React.Component {
               "desc"
             ),
             (post, post_idx) => {
+              const imagePath = _.get(post, "frontmatter.img_path").split("/");
+              const imageFileName =
+                imagePath.length > 0
+                  ? imagePath[imagePath.length - 1]
+                  : imagePath;
               return (
                 <section key={post_idx} className="spotlight">
                   <span className="image">
-                    <img
-                      src={safePrefix(_.get(post, "frontmatter.img_path"))}
-                      alt=""
-                    />
+                    <Image filename={imageFileName} alt="" />
                   </span>
                   <div className="content">
                     <header>

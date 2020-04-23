@@ -1,13 +1,9 @@
 import React from "react";
 import _ from "lodash";
+import Image from "../components/Image";
 
 import { Layout } from "../components/index";
-import {
-  markdownify,
-  safePrefix,
-  htmlToReact,
-  getSeparateDate,
-} from "../utils";
+import { markdownify, htmlToReact, getSeparateDate } from "../utils";
 import { HelmetSeo } from "../components/HelmetSeo";
 
 export default class Page extends React.Component {
@@ -32,6 +28,13 @@ export default class Page extends React.Component {
     const helmetDescription =
       seoDescription && seoDescription !== "" ? seoDescription : subtitle;
 
+    const imagePath = _.get(
+      this.props,
+      "pageContext.frontmatter.img_path"
+    ).split("/");
+    const imageFileName =
+      imagePath.length > 0 ? imagePath[imagePath.length - 1] : imagePath;
+
     return (
       <Layout {...this.props}>
         <HelmetSeo title={helmetTitle} description={helmetDescription} />
@@ -48,12 +51,7 @@ export default class Page extends React.Component {
             </header>
             {_.get(this.props, "pageContext.frontmatter.img_path") && (
               <span className="image main">
-                <img
-                  src={safePrefix(
-                    _.get(this.props, "pageContext.frontmatter.img_path")
-                  )}
-                  alt=""
-                />
+                <Image filename={imageFileName} alt="" />
               </span>
             )}
             {htmlToReact(_.get(this.props, "pageContext.html"))}
