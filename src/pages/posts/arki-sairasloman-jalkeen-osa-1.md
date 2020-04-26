@@ -14,42 +14,40 @@ excerpt: "*Arki sairasloman jälkeen* on artikkelisarja, jossa kerron,
   käsittelee lähtötilanteen arviointia."
 img_path: /images/img_0325.jpg
 post_button_label: Lue lisää
-date: 2020-04-26
+date: 2020-04-26T00:00:00.000Z
 template: page
 ---
 Sairaslomalta paluu sujuu meiltä siis jo melko rutiinilla. Toki tilanteeseen vaikuttavat aina sairasloman syyt ja pituus, mutta minun kokemukseni mukaan prosessi on joka tapauksessa samankaltainen. Sotilaan kohdalla tämä kerta on siinä mielessä erilainen, että se toipuu mahdollisesta vammasta tai vauriosta, jonka tilannetta ja parantumista on vaikeaa tutkia ja kuvantaa. Saimme eläinlääkäriltä ohjeen elää päivä kerrallaan ja tehdä sitä mikä parhaalta tuntuu, hevosen kunto ja fiilis huomioiden.
 
 ### Ajattelin kirjoittaa artikkelisarjan siitä, millainen sairaslomaltapaluurutiini meille on vuosien varrella kehittynyt.
 
-Osa 1: Katsaus kokonaistilanteeseen
+**Osa 1: Katsaus kokonaistilanteeseen**
 
-Osa 2: Painonhallinta ja peruskunto
+**Osa 2: Painonhallinta ja peruskunto**
 
-Osa 3: Ruokinta tukee toipumista
+**Osa 3: Ruokinta tukee toipumista**
 
-Osa 4: Henkinen hyvinvointi
+**Osa 4: Henkinen hyvinvointi**
 
-Nämä ovat luonnollisesti vain omia ajatuksiani ja kokemuksiani siitä, miten sairaslomalta voi palata takaisin arkeen harrastehevosen kanssa.
+Nämä ovat luonnollisesti vain omia ajatuksiani ja kokemuksiani siitä, miten sairaslomalta voi palata takaisin arkeen harrastehevosen kanssa. Prosessi on kuitenkin aina yksilöllinen hevosesta ja sairasloman syistä riippuen.
 
 ![](/images/img_0252.jpg)
 
-### Projekti alkaa katsauksella kokonaistilanteeseen.
+### Projekti alkaa katsauksella kokonaistilanteeseen. Ja valokuvauksella, tottakai.
 
 Eli arviolla siitä, millaisessa lähtötilanteessa ollaan, kun katsotaan koko hevosta. Se luonnollisesti vaihtelee suuresti vammasta tai sairaudesta sekä sairasloman pituudesta riippuen.
 
-Meidän tilannearviomme alkaa tavallisesti “tästä lähdettiin” -valokuvauksella.
+Meidän tilannearviomme starttaa tavallisesti “tästä lähdettiin” -valokuvauksella. Koska oman hevosensa kunnolle ja ulkomuodolle sokeutuu helposti, säännöllisesti otetut kuvat helpottavat muutosten arviointia matkan varrella. Kuva kertoo alussa myös raadollisen totuuden siitä, miltä hevonen todella näyttää. Me otamme yleensä rakennekuvat molemmilta kyljiltä sekä kuvat suoraan edestä ja takaa. Uusia kuvia kannattaa ottaa mahdollisuuksien mukaan parin viikon välein.
 
-Koska oman hevosensa kunnolle ja ulkomuodolle sokeutuu helposti, säännöllisesti otetut kuvat helpottavat muutosten arviointia matkan varrella. Kuva kertoo alussa myös raadollisen totuuden siitä, miltä hevonen todella näyttää. Me otamme yleensä rakennekuvat molemmilta kyljiltä sekä kuvat suoraan edestä ja takaa. Uusia kuvia kannattaa ottaa mahdollisuuksien mukaan parin viikon välein.
+### Sekä kuvien että paljaan silmän avulla on melko helppoa arvioida hevosen lihaskuntoa.
 
-### Sekä kuvien että paljaan silmän avulla on melko helppoa arvioida hevosen lihaskuntoa. Sairasloman pituus ja sen aikana harrastettu liikunta antavat myös viitteitä siitä, kuinka suuren uudelleenrakennustyön edessä ollaan.
-
-Sotilaan tapauksessa takana on 9 kuukauden jakso, jonka aikana olemme harrastaneet pääasiassa vain erittäin kevyttä liikuntaa. Käytännössä olemme käyneet lyhyillä 1-3 kilometrin kävelyillä vaihtelevassa maastossa. Menneinä vuosina tämän pituiset sairaslomat eivät ole vaikuttaneet Sotilaan peruskuntoon yhtä rajusti, mutta tällä kertaa lihaskuntoa, koordinaatiota ja tasapainoa lähdetään rakentamaan aika alkutekijöistään.
+Sairasloman pituus ja sen aikana harrastettu liikunta antavat myös viitteitä siitä, kuinka suuren uudelleenrakennustyön edessä ollaan. Sotilaan tapauksessa takana on 9 kuukauden jakso, jonka aikana olemme harrastaneet pääasiassa vain erittäin kevyttä liikuntaa. Käytännössä olemme käyneet lyhyillä 1-3 kilometrin kävelyillä vaihtelevassa maastossa. Menneinä vuosina tämän pituiset sairaslomat eivät ole vaikuttaneet Sotilaan peruskuntoon yhtä rajusti, mutta tällä kertaa lihaskuntoa, koordinaatiota ja tasapainoa lähdetään rakentamaan aika alkutekijöistään.
 
 Valkuaisen lisääminen ruokintaan auttaa lihasmassaa pysymään yllä sairaslomankin aikana, mutta kuten esimerkiksi Sotilaasta nähdään, ei ruokinnallakaan pystytä ihmeisiin ikääntyvän hevosen jäädessä seisomaan.
 
 ![](/images/img_0400.jpg)
 
-### Jos hevonen ei ole päässyt sairasloman aikana liikkumaan vapaasti, aineenvaihdunta ja lihaksisto ovat todennäköisesti tukossa.
+### Jos hevonen ei ole päässyt sairasloman aikana liikkumaan vapaasti, aineenvaihdunta ja lihaksisto ovat todennäköisesti jumissa.
 
 Liikunta ja osaltaan myös hikoilu pitävät hevosen aineenvaihduntaa yllä. Aineenvaihdunta vaikuttaa suoraan esimerkiksi lihasten toimintaan ja notkeuteen. Siksi on hyvä lähteä oletuksesta, että sairaslomalta palaavan hevosen lihaksista löytyy huollettavaa. Liikunta korjaa osansa ongelmista, mutta kireydet ja mahdolliset muut ongelmat vaikeuttavat laadukasta ja tasapainoista liikkumista jo muutoinkin haastavassa tilanteessa. Ylirasittumisenkin riski kasvaa.
 
@@ -71,6 +69,8 @@ Usein unohtuu, että sairaslomalta paluu on hevoselle sekä henkisesti että fyy
 
 Sotilaasta tulee sairaslomalla juuri niin laiskanpulskea miltä se näyttääkin. Se ei kerää ylimääräistä energiaa eikä haudo hölmöjä temppuja, oli vapaata sitten kaksi päivää tai kaksi kuukautta. Motivaatio ja yritteliäisyys kuitenkin laskevat sitä alemmas mitä pidempään kevyempi jakso jatkuu. Normaalisti ahkera ja hieman liiankin totinen työmyyrä muuttuu vastentahtoiseksi hikoilunvastustajaksi. Tilanne on onneksi jo tuttu ja helpottaa ajan kanssa, kun mukavuusaluetta venytetään vähän kerrallaan. Kohtuullisen työmäärän ja runsaan palkitsemisen merkitystä ei kuitenkaan voi väheksyä.
 
-### Kun lähtötilanne niin fyysisten kuin henkistenkin yksityiskohtien osalta on kartoitettu, voidaan käydä miettimään, miten kannattaa lähteä liikkeelle. Puhutaan siitä lisää osassa 2!
+### Kun lähtötilanne niin fyysisten kuin henkistenkin yksityiskohtien osalta on kartoitettu, voidaan käydä miettimään, miten kannattaa lähteä liikkeelle. 
+
+### Puhutaan siitä lisää osassa 2!
 
 ![](/images/img_0304.jpg)
