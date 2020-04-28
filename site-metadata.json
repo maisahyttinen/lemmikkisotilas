@@ -1,6 +1,36 @@
 {
-  "title": "Hevosvalokuvaaja Maisa Hyttinen",
-  "description": "Olen nuori viestinnän ammattilainen, someaktiivi, valokuvaaja, toimittaja ja hevosenomistaja. Bloggaaja vuodesta 2011.",
-  "none": "",
-  "siteUrl": "https://maisahyttinen.fi"
+  "title": "Hevosvalokuvaaja Maisa hyttinen",
+  "description": "This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.",
+  "menuLinks": [
+    {
+      "name": "Etusivu",
+      "to": "/",
+      "variant": "link"
+    },
+    {
+      "name": "Tutustu tekijään",
+      "to": "/tekija",
+      "variant": "link"
+    },
+    {
+      "name": "Arkisto",
+      "to": "/arkisto",
+      "variant": "link"
+    },
+    {
+      "name": "Portfolio",
+      "to": "https://portfolio.maisahyttinen.fi",
+      "variant": "button"
+    },
+    {
+      "name": "Hevosvalokuvaus",
+      "to": "https://hevosvalokuvaus.maisahyttinen.fi",
+      "variant": "button"
+    },
+    {
+      "name": "Hevoslehti Ride!",
+      "to": "https://www.123ride.fi",
+      "variant": "button"
+    }
+  ]
 }

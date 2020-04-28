@@ -1,61 +1,63 @@
 ---
-title: Etusivu
-sections:
-  - actions:
-      - is_scrolly: false
-        is_primary: true
-        label: Portfolio
-        url: https://portfolio.maisahyttinen.fi
-    component: Intro
-    content: Nuori viestinnän ammattilainen, someaktiivi, valokuvaaja, toimittaja ja
-      hevosenomistaja. Bloggaaja vuodesta 2011.
-    img_path: /images/kotisivulogo.png
-    title: Maisa Hyttinen
-    type: intro
-  - actions:
-      - is_primary: true
-        is_scrolly: false
-        label: Tutustu tekijään
-        url: /tekija
-      - is_primary: true
-        is_scrolly: false
-        label: Hevosvalokuvaus
-        url: https://hevosvalokuvaus.maisahyttinen.fi/
-    component: Features
-    content: Huvin vuoksi kirjoiteltu tallipäiväkirja on kymmenessä vuodessa
-      rönsyillyt päivätyöksi markkinoinnin parissa ja erilaisiksi rooleiksi
-      kirjoittajana, valokuvaajana ja sosiaalisen median vaikuttajana. Millainen
-      on ollut matka harrastebloggaajasta viestinnän ammattilaiseksi? Tutustu
-      tekijään!
-    subtitle: >-
-      Voi olla, että olemme jo tavanneet! Useimmille olen tuttu
-      hevostapahtumista ympäri Suomen - valokuvaajana, toimittajana tai jossakin
-      muussa roolissa.
+template: index-page
+header-title: Hevosvalokuvaaja Maisa Hyttinen
+header-description: Joojoojeejee
 
+main:
+  title: Maisa Hyttinen
+  image: /images/kotisivulogo.jpg
+  description: >
+    Nuori viestinnän ammattilainen, someaktiivi, valokuvaaja, toimittaja ja hevosenomistaja. Bloggaaja vuodesta 2011.
+  buttons:
+    - title: Testinappi
+      url: /jeejee
+intro:
+  title: Kuvaa, tekstiä & sosiaalista mediaa
+  description: |
+    Voi olla, että olemme jo tavanneet! Useimmille olen tuttu
+    hevostapahtumista ympäri Suomen - valokuvaajana, toimittajana tai jossakin
+    muussa roolissa.  
+    \
+    Olen valokuvannut ravi- ja ratsastuskilpailuja aktiivisesti yli kymmenen vuotta ja historiani bloggaajana on lähes yhtä pitkä. Henkilökohtaisten projektieni lisäksi työskentelen myös hevosalan printtijulkaisu [Hevoslehti RIDE!](https://www.123ride.fi):n päätoimittajana.  
+    \
+    **Etsitkö tapahtumallesi luotettavaa valokuvaajaa tai kaipaatko edustavaa kuvitusta yritystoimintaasi liittyen?** Tutustu [portfoliooni](https://portfolio.maisahyttinen.fi) ja ota yhteyttä! Autan mielelläni myös myyntiä tukevien somesisältöjen suunnittelussa ja toteutuksessa.
+  buttons:
+    - title: Testinappi
+      url: /jeejee
 
-      Olen valokuvannut ravi- ja ratsastuskilpailuja aktiivisesti yli kymmenen vuotta ja historiani bloggaajana on lähes yhtä pitkä. Henkilökohtaisten projektieni lisäksi työskentelen myös hevosalan printtijulkaisu [Hevoslehti RIDE!](https://www.123ride.fi):n päätoimittajana.
+spotlight:
+  title: Uudet artikkelit
+  description: >
+    Ajatuksia hevosurheilusta, hevosen omistamisesta ja ajankohtaisista ilmiöistä.
+  footer: >
+    Mitä tapahtui vuonna 2011? Mitä ajatteli tuolloin 15-vuotias hevosenomistaja? Arkistoon on koottu kaikki vuosien varrella julkaistut artikkelit. Vuosina 2011-2020 on julkaistu yli 300 artikkelia.
+  buttons:
+    - title: Arkisto
+      url: /arkisto
 
-
-      **Etsitkö tapahtumallesi luotettavaa valokuvaajaa tai kaipaatko edustavaa kuvitusta yritystoimintaasi liittyen?** Tutustu [portfoliooni](https://portfolio.maisahyttinen.fi) ja ota yhteyttä! Autan mielelläni myös myyntiä tukevien somesisältöjen suunnittelussa ja toteutuksessa.
-    symbol_display: []
-    title: Kuvaa, tekstiä & sosiaalista mediaa
-    type: features
-  - actions:
-      - is_primary: true
-        is_scrolly: false
-        label: Siirry arkistoon
-        url: /arkisto
-    component: Spotlight
-    content: Mitä tapahtui vuonna 2011? Mitä ajatteli tuolloin 15-vuotias
-      hevosenomistaja? Arkistoon on koottu kaikki vuosien varrella julkaistut
-      artikkelit. Vuosina 2011-2020 on julkaistu yli 300 artikkelia.
-    subtitle: Ajatuksia hevosurheilusta, hevosen omistamisesta ja ajankohtaisista
-      ilmiöistä.
-    title: Uudet artikkelit
-    type: spotlight
-menus:
-  main:
-    title: Etusivu
-    weight: 1
-template: home
+footer:
+  title: Törmäillään somessa!
+  description: |
+    Voit seurata kirjoittajaa hevosineen Instagramissa **@maisahyttinen**.
+    Facebookissa palvelee sivu **Hevosvalokuvaaja Maisa Hyttinen**.  
+    \
+    \
+    Someja sopii käyttää myös yhteydenottokanavana esimerkiksi kisakuvatilauksissa ja muissa rennoissa yhteydenotoissa.  
+    \
+    Ammatillisesti relevantimpaa sisältöä kannattaa etsiä LinkedInistä. Verkostoidun mielelläni!  
+    \
+    \
+    Virallisemmissa asioissa voi laittaa sähköpostia osoitteeseen maisa.hyttinen@123ride.fi.  
+    \
+    \
+    Muista myös **[Hevoslehti RIDE!](www.123ride.fi)**
+  social:
+    - icon: instagram
+      link: https://www.instagram.com/maisahyttinen/
+    - icon: facebook
+      link: https://www.facebook.com/eqphoto.maisahyttinen/
+    - icon: linkedin
+      link: https://www.linkedin.com/in/maisa-hyttinen-a7b761152/
+    - icon: camera
+      link: https://hevosvalokuvaus.maisahyttinen.fi
 ---
