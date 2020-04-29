@@ -51,13 +51,13 @@ footer:
     \
     \
     Muista myös **[Hevoslehti RIDE!](www.123ride.fi)**
-  social:
-    - icon: instagram
-      link: https://www.instagram.com/maisahyttinen/
-    - icon: facebook
-      link: https://www.facebook.com/eqphoto.maisahyttinen/
-    - icon: linkedin
-      link: https://www.linkedin.com/in/maisa-hyttinen-a7b761152/
-    - icon: camera
-      link: https://hevosvalokuvaus.maisahyttinen.fi
+social:
+  - icon: instagram
+    link: https://www.instagram.com/maisahyttinen/
+  - icon: facebook
+    link: https://www.facebook.com/eqphoto.maisahyttinen/
+  - icon: linkedin
+    link: https://www.linkedin.com/in/maisa-hyttinen-a7b761152/
+  - icon: camera
+    link: https://hevosvalokuvaus.maisahyttinen.fi
 ---
