@@ -70,7 +70,7 @@ collections:
         default: "blog-post"
       - label: Path / Slug / Filename (no äåö characters or spaces e.g. alamoloa-takaapain)
         name: path
-        widget: text
+        widget: string
         required: true
       - label: SEO Title
         name: header-title
@@ -91,8 +91,8 @@ collections:
         timeFormat: false
         format: YYYY-MM-DD
         required: true
-      - label: "Description"
-        name: "description"
+      - label: "Subtitle"
+        name: "subtitle"
         widget: "text"
       - label: "Featured Image"
         name: "img_path"
@@ -107,9 +107,6 @@ collections:
       - label: "Content"
         name: "body"
         widget: "markdown"
-      - label: "Tags"
-        name: "tags"
-        widget: "list"
 
   - name: "pages"
     label: "Generic Pages"
@@ -202,7 +199,7 @@ collections:
 
           - label: Intro,
             name: intro,
-            widget: object,
+            widget: object
             fields:
               - label: Title
                 name: title
@@ -221,9 +218,9 @@ collections:
                     name: url
                     widget: string
                     hint: Must be format "/posts/example" or "https://is.fi"
-          - label: Spotlight,
-            name: spotlight,
-            widget: object,
+          - label: Spotlight
+            name: spotlight
+            widget: object
             fields:
               - label: Title
                 name: title
@@ -245,9 +242,9 @@ collections:
                     name: url
                     widget: string
                     hint: Must be format "/posts/example" or "https://is.fi"
-          - label: Footer,
-            name: footer,
-            widget: object,
+          - label: Footer
+            name: footer
+            widget: object
             fields:
               - label: Title
                 name: description
@@ -256,9 +253,9 @@ collections:
                 name: description
                 widget: text
 
-          - label: Social,
-            name: social,
-            widget: list,
+          - label: Social
+            name: social
+            widget: list
             fields:
               - label: Icon
               - name: icon
