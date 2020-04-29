@@ -254,16 +254,15 @@ collections:
               - label: Description
                 name: description
                 widget: markdown
-
-          - label: Social
-            name: social
-            widget: list
-            fields:
-              - label: Icon
-                name: icon
-                widget: string
-                hint: instagram / facebook / linkedin / gallery
-              - label: Url
-                name: url
-                widget: string
-                hint: Must be format "/posts/example" or "https://is.fi"
+              - label: Social
+                name: social
+                widget: list
+                fields:
+                  - label: Icon
+                    name: icon
+                    widget: string
+                    hint: instagram / facebook / linkedin / gallery
+                  - label: Url
+                    name: url
+                    widget: string
+                    hint: Must be format "/posts/example" or "https://is.fi"
