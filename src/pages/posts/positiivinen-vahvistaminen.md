@@ -20,7 +20,9 @@ template: page
 ---
 ### Namitädit vastaan tolkun ihmiset.
 
-Positiivisesta vahvistamisesta on keskusteltu viime päivinä vilkkaasti Instagramissa. [Hellä Kanelisilmä kirjoitti aiheesta oikein hyvän bloginkin.](http://hellakanelisilma.blogspot.com/2020/04/ajatuksia-ponin-kouluttamisesta-ja.html) Ahkerimmin on etsitty ja esitelty millaisia haittoja ja vaaratilanteita positiivisen vahvistamisen ja ruokapalkkion käyttämisestä voi seurata. On myös ehditty pöyristyä, että ajatteleeko joku todella, että negatiiviseen vahvistamiseen liittyy väkivaltaa ja rankaisua. Toisaalta, kouluttajan osalta aggressiiviset koulutustilanteet harvoin syntyvät herkkuja syötellessä, mutta ehkä se on oma keskustelunsa.
+Positiivisesta vahvistamisesta on keskusteltu viime päivinä vilkkaasti Instagramissa. [Hellä Kanelisilmä kirjoitti aiheesta oikein hyvän bloginkin.](http://hellakanelisilma.blogspot.com/2020/04/ajatuksia-ponin-kouluttamisesta-ja.html) Ahkerimmin on etsitty ja esitelty millaisia haittoja ja vaaratilanteita positiivisen vahvistamisen ja ruokapalkkion käyttämisestä voi seurata. On myös ehditty pöyristyä, että ajatteleeko joku todella, että negatiiviseen vahvistamiseen liittyy väkivaltaa ja rankaisua.
+
+Toisaalta, kouluttajan osalta aggressiiviset koulutustilanteet harvoin syntyvät herkkuja syötellessä, mutta ehkä se on oma keskustelunsa.
 
 Perinteisen hevosurheilun ja suoraviivaisten koulutusmetodien kannattajana haluaisin kuitenkin työntää viime vuosina pehmenneen lusikkani tähän soppaan. Olenhan kaikkein paras jeesustelemaan aiheesta, kun oma hevoseni on sen nuoruudessa koulutettu lähes pelkästään negatiivista vahvistamista käyttäen ja työssä on onnistuttu vieläpä niin hyvin, ettei tolkku katoa edes nameja syöttelemällä.
 
@@ -34,7 +36,9 @@ Voisi sanoa, että negatiivinen vahvistaminen toimii parhaiten erittäin taitavi
 
 ### Kokemukseni mukaan paineen lisääminen kannustaa hevosta ennen kaikkea nopeisiin ja hätiköityihin ratkaisuihin.
 
-Useimmat hevoset haluavat epämiellyttävästä paineesta eroon mahdollisimman pian. Hevosen täytyy siis keksiä mahdollisimman nopeasti, mitä siltä halutaan. Mitä monimutkaisemmasta asiasta on kyse, sitä harvemmin hevosen ensimmäinen ratkaisuehdotus kuitenkaan osuu oikeaan. Kun vääriä toistoja tulee useita ja kouluttaja reagoi siihen säännönmukaisesti lisäämällä painetta, hevosen innokkuus oma-aloitteiseen ongelmanratkaisuun heikkenee vähitellen. Se ei uskalla eikä halua ehdottaa uutta ratkaisua, koska hevosen näkökulmasta ehdotukseen reagoidaan todennäköisimmin epämiellyttävästi. Passivoituminen on yksi Sotilaankin käyttämistä tavoista kohdata uusi ajatustyötä vaativa tehtävä.
+Useimmat hevoset haluavat epämiellyttävästä paineesta eroon mahdollisimman pian. Hevosen täytyy siis keksiä mahdollisimman nopeasti, mitä siltä halutaan. Mitä monimutkaisemmasta asiasta on kyse, sitä harvemmin hevosen ensimmäinen ratkaisuehdotus kuitenkaan osuu oikeaan.
+
+Kun vääriä toistoja tulee useita ja kouluttaja reagoi siihen säännönmukaisesti lisäämällä painetta, hevosen innokkuus oma-aloitteiseen ongelmanratkaisuun heikkenee vähitellen. Se ei uskalla eikä halua ehdottaa uutta ratkaisua, koska hevosen näkökulmasta ehdotukseen reagoidaan todennäköisimmin epämiellyttävästi. Passivoituminen on yksi Sotilaankin käyttämistä tavoista kohdata uusi ajatustyötä vaativa tehtävä.
 
 Kouluttajan työ olisi kuitenkin huomattavasti helpompaa, jos hevonen rohkeasti ja oma-aloitteisesti ehdottaisi erilaisia ratkaisuja ja kouluttajan tarvitsisi vain palkita hevosta silloin, kun ehdotus osuu oikeaan. Älykkään hevosenomistajan työkalupakista löytyy myös tämä vaihtoehto!
 
@@ -62,7 +66,7 @@ Ja mikäli hevosen kanssa kohtaa tilanteen, jossa rauhoittuminen ei toimi, jää
 
 Kun Sotilas harjoitteli ruokapalkkiosta luopumista, eli käytännössä rauhoittumista herkkujen lähellä, se korvasi aiemman kerjäämiskäyttäytymisensä uudella. Herkun sai kääntämällä päänsä pois, joten ärsyttävän härväämisen sijaan se kävi kerjäämään kääntymällä poispäin ihmisestä. Ruokapalkkiokeskustelusta päätellen monen muunkin hevonen on tehnyt samoin.
 
-Kiitos [Project Happy Atheleten](https://projecthappyathlete.com) yksityiskohtaisen ohjeistuksen, pääsimme eroon myös uusista kerjäämiseleistä. Aloitimme ruokapalkkioharjoittelun tilanteesta, jossa herkuille perso hevonen teki kirjaimellisesti lähes mitä hyvänsä saadakseen taskussa olevan porkkananpalan, ja päädyimme tilanteeseen, jossa sama porsas pystyy jättämään herkun rennosti huomiotta. Nykyään ruokapalkkio on edelleen hyvin mieluisa, mutta se ei häiritse keskittymistä pyydettyyn tehtävään.
+Kiitos [Project Happy Athleten](https://projecthappyathlete.com) yksityiskohtaisen ohjeistuksen, pääsimme eroon myös uusista kerjäämiseleistä. Aloitimme ruokapalkkioharjoittelun tilanteesta, jossa herkuille perso hevonen teki kirjaimellisesti lähes mitä hyvänsä saadakseen taskussa olevan porkkananpalan, ja päädyimme tilanteeseen, jossa sama porsas pystyy jättämään herkun rennosti huomiotta. Nykyään ruokapalkkio on edelleen hyvin mieluisa, mutta se ei häiritse keskittymistä pyydettyyn tehtävään.
 
 ### Kuten jokainen hevosten kanssa toimiva ihminen, minäkin käytän arjessani runsaasti negatiivista vahvistamista.
 
