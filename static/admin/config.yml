@@ -64,7 +64,7 @@ collections:
         name: "template"
         widget: "hidden"
         default: "blog-post"
-      - abel: Path / Slug / Filename (no äåö characters or spaces e.g. alamoloa-takaapain)
+      - label: Path / Slug / Filename (no äåö characters or spaces e.g. alamoloa-takaapain)
         name: path
         widget: text
         required: true
