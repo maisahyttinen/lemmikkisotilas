@@ -25,18 +25,19 @@ collections:
     label: Config
     files:
       - name: config
-        label: Config
+        label: Yleisasetukset
         file: site-metadata.json
         fields:
           - widget: string
             name: title
             label: Title
             required: true
-            hint: Site title
+            hint: Seo title / Header title, jota käytetään jos sivulla ei omia tietoja.
           - widget: text
             name: description
             label: Description
             required: true
+            hint: Seo description / Header description, jota käytetään jos sivulla ei omia tietoja.
           - widget: list
             name: menuLinks
             label: Menulinks
@@ -62,7 +63,7 @@ collections:
     label: "Blog"
     folder: "src/pages/blog"
     create: true
-    slug: "{{field.path}}"
+    slug: "{{fields.path}}"
     fields:
       - label: "Template Key"
         name: "template"
@@ -110,9 +111,9 @@ collections:
 
   - name: "pages"
     label: "Generic Pages"
-    folder: "src/pages/pages"
+    folder: "src/pages"
     create: true
-    slug: "{{field.path}}"
+    slug: "{{fields.path}}"
     fields:
       - label: "Template"
         name: "template"
@@ -197,8 +198,8 @@ collections:
                     widget: string
                     hint: Must be format "/posts/example" or "https://is.fi"
 
-          - label: Intro,
-            name: intro,
+          - label: Intro
+            name: intro
             widget: object
             fields:
               - label: Title
