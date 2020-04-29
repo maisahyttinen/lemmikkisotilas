@@ -57,11 +57,11 @@ export const PageTemplate = ({ date, title, subtitle, html, image }) => (
             {`${date} - Maisa Hyttinen`}
           </Heading>
         )}
-        
+
         <Box width="full" overflow="hidden" rounded="0.5rem">
-         {image && <Image fluid={image.childImageSharp.fluid} /> }
+          {image && <Image fluid={image.childImageSharp.fluid} />}
         </Box>
-        
+
         <Text as="div" fontWeight="light" textAlign={"left"}>
           <HTMLContent content={html} />
         </Text>
@@ -79,7 +79,7 @@ const IndexPage = ({ data }) => {
     title,
     excerpt,
     img_path,
-    subtitle
+    subtitle,
   } = frontmatter;
 
   return (
@@ -107,7 +107,7 @@ IndexPage.propTypes = {
 export default IndexPage;
 
 export const pageQuery = graphql`
-  query BlogPostByID($id: String!) {
+  query GenericPageByID($id: String!) {
     markdownRemark(id: { eq: $id }) {
       id
       html
