@@ -112,6 +112,7 @@ collections:
   - name: "pages"
     label: "Generic Pages"
     folder: "src/pages"
+    filter: { field: "template", value: "generic-page" }
     create: true
     slug: "{{fields.path}}"
     fields:
