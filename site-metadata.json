@@ -1,6 +1,37 @@
 {
-  "title": "Hevosvalokuvaaja Maisa Hyttinen",
+  "title": "Hevosvalokuvaaja Maisa hyttinen",
   "description": "Olen nuori viestinnän ammattilainen, someaktiivi, valokuvaaja, toimittaja ja hevosenomistaja. Bloggaaja vuodesta 2011.",
-  "none": "",
-  "siteUrl": "https://maisahyttinen.fi"
+  "siteUrl": "https://maisahyttinen.fi",
+  "menuLinks": [
+    {
+      "name": "Etusivu",
+      "to": "/",
+      "variant": "link"
+    },
+    {
+      "name": "Tutustu tekijään",
+      "to": "/tekija",
+      "variant": "link"
+    },
+    {
+      "name": "Arkisto",
+      "to": "/arkisto",
+      "variant": "link"
+    },
+    {
+      "name": "Portfolio",
+      "to": "https://portfolio.maisahyttinen.fi",
+      "variant": "button"
+    },
+    {
+      "name": "Hevosvalokuvaus",
+      "to": "https://hevosvalokuvaus.maisahyttinen.fi",
+      "variant": "button"
+    },
+    {
+      "name": "Hevoslehti Ride!",
+      "to": "https://www.123ride.fi",
+      "variant": "button"
+    }
+  ]
 }

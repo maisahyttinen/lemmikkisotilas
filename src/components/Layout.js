@@ -1,45 +1,33 @@
-import React from "react";
-import { Helmet } from "react-helmet";
-import _ from "lodash";
+import React, { useState } from "react";
+import { Box, Flex } from "@chakra-ui/core";
+import NavigationButton from "./NavigationButton";
+import useSiteMetadata from "./SiteMetadata";
+import { NavigationOverlay } from "./NavigationOverlay";
+import { Footer } from "../components/Footer";
+import { HelmetSeo } from "./HelmetSeo";
 
-import { safePrefix } from "../utils";
-import Header from "./Header";
-import Menu from "./Menu";
-import Footer from "./Footer";
+const TemplateWrapper = ({ children, seoTitle, seoDescription }) => {
+  const { title, description } = useSiteMetadata();
 
-export default class Body extends React.Component {
-  render() {
-    return (
-      <React.Fragment>
-        <Helmet>
-          <title>
-            {_.get(this.props, "pageContext.site.siteMetadata.title")}
-          </title>
-          <meta
-            name="description"
-            content={_.get(
-              this.props,
-              "pageContext.site.siteMetadata.description"
-            )}
-          />
-          <meta charSet="utf-8" />
-          <meta
-            name="viewport"
-            content="width=device-width, initialScale=1, userScalable=no"
-          />
-          <link rel="stylesheet" href={safePrefix("assets/css/main.css")} />
-          <link
-            rel="stylesheet"
-            href={safePrefix("assets/css/markdown-images.css")}
-          />
-        </Helmet>
-        <Header {...this.props} />
-        <Menu {...this.props} />
-        <div id="wrapper">
-          {this.props.children}
-          <Footer {...this.props} />
-        </div>
-      </React.Fragment>
-    );
-  }
-}
+  const [showNavigation, setShowNavigation] = useState(false);
+
+  return (
+    <Box width="full">
+      <HelmetSeo
+        title={seoTitle ? seoTitle : title}
+        description={seoDescription ? seoDescription : description}
+      />
+      <NavigationButton
+        onClick={() => setShowNavigation(!showNavigation)}
+        isNavigatioShown={showNavigation}
+      />
+      <Flex flex="1" flexDirection="column">
+        {children}
+      </Flex>
+      <Footer />
+      {showNavigation && <NavigationOverlay />}
+    </Box>
+  );
+};
+
+export default TemplateWrapper;

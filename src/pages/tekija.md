@@ -8,7 +8,7 @@ menus:
   main:
     title: Tutustu tekijään
     weight: 2
-template: page
+template: generic-page
 ---
 
 **Olen 24-vuotias tamperelainen, nuori viestinnän ammattilainen, valokuvaaja, toimittaja, bloggaaja, hevosenomistaja... Ja aika paljon muuta! Aina kun yksi lusikka jää vapaaksi, löytyy sille nopeasti uusi soppa.**

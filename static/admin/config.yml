@@ -1,25 +1,43 @@
 backend:
-  name: git-gateway
-  branch: master
+  name: github
+  branch: new-layout
+  repo: maisahyttinen/lemmikkisotilas
+
 media_folder: static/images
 public_folder: /images
+
 collections:
   - name: config
     label: Config
     files:
       - name: config
-        label: Config
+        label: Yleisasetukset
         file: site-metadata.json
         fields:
           - widget: string
             name: title
             label: Title
             required: true
-            hint: Site title
+            hint: Seo title / Header title, jota käytetään jos sivulla ei omia tietoja.
           - widget: text
             name: description
             label: Description
             required: true
+            hint: Seo description / Header description, jota käytetään jos sivulla ei omia tietoja.
+          - widget: list
+            name: menuLinks
+            label: Menulinks
+            fields:
+              - widget: string
+                name: name
+                label: name
+              - widget: string
+                name: to
+                label: To
+              - widget: string
+                name: variant
+                label: Variant (link/button)
+
           - widget: hidden
             name: none
             label: None
@@ -27,683 +45,218 @@ collections:
             hint: >-
               Just an empty param, allows the site params to be displayed
               properl
-  - name: menu
-    label: Menu Configuration
-    files:
-      - name: menu
-        label: Menu Configuration
-        file: src/data/menu.yml
-        fields:
-          - widget: list
-            name: actions
-            label: Menu Action Buttons
-            required: false
-            hint: The action buttons displayed at the bottom of the menu
-            fields:
-              - widget: string
-                name: label
-                label: Button Label
-                required: true
-                hint: The text displayed inside the button
-              - widget: string
-                name: url
-                label: Button URL
-                required: false
-              - widget: boolean
-                name: is_scrolly
-                label: Is Scrolly
-                required: false
-                default: false
-                hint: >-
-                  Gives the button a scroll animation (if the button URL is a
-                  section ID)
-              - widget: boolean
-                name: is_primary
-                label: Is Primary
-                required: false
-                default: false
-                hint: Gives the button a primary color scheme
-  - name: social
-    label: Social Configuration
-    files:
-      - name: social
-        label: Social Configuration
-        file: src/data/social.yml
-        fields:
-          - widget: boolean
-            name: enabled
-            label: Enabled
-            required: false
-            default: false
-            hint: Displays the social section in the page footer
-          - widget: string
-            name: title
-            label: Section Title
-            required: false
-            hint: The bold text displayed at the top of the section
-          - widget: markdown
-            name: social_content
-            label: Section Text
-            required: false
-            hint: The text displayed below the section title
-          - widget: list
-            name: social_links
-            label: Social Media
-            required: false
-            hint: >-
-              A list of social media icons displayed along the bottom of the
-              section
-            fields:
-              - widget: string
-                name: title
-                label: Icon Title
-                required: true
-              - widget: string
-                name: icon
-                label: Icon
-                required: true
-                hint: Font Awesome icon
-              - widget: string
-                name: link_url
-                label: URL
-                required: false
-  - name: footer
-    label: Footer Configuration
-    files:
-      - name: footer
-        label: Footer Configuration
-        file: src/data/footer.yml
-        fields:
-          - widget: boolean
-            name: enable_contact_section
-            label: Enable Contact Section
-            required: false
-            default: false
-            hint: Displays the contact section in the page footer
-          - widget: string
-            name: copyright
-            label: Copyright Text
-            required: false
-            hint: The text displayed at the bottom of the site footer
-          - widget: list
-            name: links
-            label: Links
-            required: false
-            hint: A list of links displayed in the footer.
-            fields:
-              - widget: string
-                name: text
-                label: Link text
-                required: false
-              - widget: string
-                name: url
-                label: URL
-                required: false
-              - widget: boolean
-                name: new_window
-                label: Open in new window
-                required: false
-                default: true
-  - name: home
-    label: Home
-    files:
-      - name: home
-        label: Home
-        file: src/pages/index.md
-        fields:
-          - widget: string
-            name: header-title
-            label: Header / SEO title
-            required: false
-          - widget: text
-            name: header-description
-            label: Header / SEO description
-            required: false
-          - widget: string
-            name: title
-            label: Page Title
-            required: true
-          - widget: list
-            name: sections
-            label: Sections
-            required: false
-            hint: Home Sections
-            types:
-              - name: intro
-                widget: object
-                label: Intro Section
-                fields:
-                  - widget: markdown
-                    name: content
-                    label: Section Content
-                    required: false
-                    hint: The text displayed as section content
-                  - widget: list
-                    name: actions
-                    label: Section Action Buttons
-                    required: false
-                    fields:
-                      - widget: string
-                        name: label
-                        label: Button Label
-                        required: true
-                        hint: The text displayed inside the button
-                      - widget: string
-                        name: url
-                        label: Button URL
-                        required: false
-                      - widget: boolean
-                        name: is_scrolly
-                        label: Is Scrolly
-                        required: false
-                        default: false
-                        hint: >-
-                          Gives the button a scroll animation (if the button URL
-                          is a section ID)
-                      - widget: boolean
-                        name: is_primary
-                        label: Is Primary
-                        required: false
-                        default: false
-                        hint: Gives the button a primary color scheme
-                  - widget: string
-                    name: title
-                    label: Title
-                    required: true
-                    default: Reflex
-                    hint: The bold text displayed at the top of the section
-                  - widget: image
-                    name: img_path
-                    label: Image
-                    required: false
-                    hint: The image displayed on the left side of the section
-                  - widget: hidden
-                    name: component
-                    label: Component
-                    required: true
-                    default: Intro
-                  - widget: hidden
-                    name: type
-                    label: Reference Type Name
-                    required: true
-                    hint: >-
-                      Name of the Stackbit object model, used by fields of type
-                      reference
-                    default: intro
-              - name: features
-                widget: object
-                label: Features Section
-                fields:
-                  - widget: markdown
-                    name: content
-                    label: Section Content
-                    required: false
-                    hint: The text displayed as section content
-                  - widget: list
-                    name: actions
-                    label: Section Action Buttons
-                    required: false
-                    fields:
-                      - widget: string
-                        name: label
-                        label: Button Label
-                        required: true
-                        hint: The text displayed inside the button
-                      - widget: string
-                        name: url
-                        label: Button URL
-                        required: false
-                      - widget: boolean
-                        name: is_scrolly
-                        label: Is Scrolly
-                        required: false
-                        default: false
-                        hint: >-
-                          Gives the button a scroll animation (if the button URL
-                          is a section ID)
-                      - widget: boolean
-                        name: is_primary
-                        label: Is Primary
-                        required: false
-                        default: false
-                        hint: Gives the button a primary color scheme
-                  - widget: string
-                    name: title
-                    label: Title
-                    required: true
-                    default: Ipsum malesuada
-                    hint: The bold text displayed at the top of the section
-                  - widget: markdown
-                    name: subtitle
-                    label: Section Subtitle
-                    required: false
-                    hint: The text displayed below the section title
-                  - widget: list
-                    name: symbol_display
-                    label: Icon Circles
-                    required: false
-                    hint: The icons displayed below the section subtitle
-                    fields:
-                      - widget: string
-                        name: title
-                        label: Icon Title
-                        required: true
-                      - widget: string
-                        name: icon
-                        label: Icon
-                        required: true
-                        hint: Font Awesome icon
-                  - widget: hidden
-                    name: component
-                    label: Component
-                    required: true
-                    default: Features
-                  - widget: hidden
-                    name: type
-                    label: Reference Type Name
-                    required: true
-                    hint: >-
-                      Name of the Stackbit object model, used by fields of type
-                      reference
-                    default: features
-              - name: spotlight
-                widget: object
-                label: Spotlight Section
-                fields:
-                  - widget: markdown
-                    name: content
-                    label: Section Content
-                    required: false
-                    hint: The text displayed as section content
-                  - widget: list
-                    name: actions
-                    label: Section Action Buttons
-                    required: false
-                    fields:
-                      - widget: string
-                        name: label
-                        label: Button Label
-                        required: true
-                        hint: The text displayed inside the button
-                      - widget: string
-                        name: url
-                        label: Button URL
-                        required: false
-                      - widget: boolean
-                        name: is_scrolly
-                        label: Is Scrolly
-                        required: false
-                        default: false
-                        hint: >-
-                          Gives the button a scroll animation (if the button URL
-                          is a section ID)
-                      - widget: boolean
-                        name: is_primary
-                        label: Is Primary
-                        required: false
-                        default: false
-                        hint: Gives the button a primary color scheme
-                  - widget: string
-                    name: title
-                    label: Title
-                    required: true
-                    default: Duis torquent
-                    hint: The bold text displayed at the top of the section
-                  - widget: markdown
-                    name: subtitle
-                    label: Section Subtitle
-                    required: false
-                    hint: The text displayed below the section title
-                  - widget: hidden
-                    name: component
-                    label: Component
-                    required: true
-                    default: Spotlight
-                  - widget: hidden
-                    name: type
-                    label: Reference Type Name
-                    required: true
-                    hint: >-
-                      Name of the Stackbit object model, used by fields of type
-                      reference
-                    default: spotlight
-              - name: mission
-                widget: object
-                label: Mission Section
-                fields:
-                  - widget: markdown
-                    name: content
-                    label: Section Content
-                    required: false
-                    hint: The text displayed as section content
-                  - widget: list
-                    name: actions
-                    label: Section Action Buttons
-                    required: false
-                    fields:
-                      - widget: string
-                        name: label
-                        label: Button Label
-                        required: true
-                        hint: The text displayed inside the button
-                      - widget: string
-                        name: url
-                        label: Button URL
-                        required: false
-                      - widget: boolean
-                        name: is_scrolly
-                        label: Is Scrolly
-                        required: false
-                        default: false
-                        hint: >-
-                          Gives the button a scroll animation (if the button URL
-                          is a section ID)
-                      - widget: boolean
-                        name: is_primary
-                        label: Is Primary
-                        required: false
-                        default: false
-                        hint: Gives the button a primary color scheme
-                  - widget: string
-                    name: title
-                    label: Title
-                    required: true
-                    default: Amet ullamcorper
-                    hint: The bold text displayed at the top of the section
-                  - widget: hidden
-                    name: component
-                    label: Component
-                    required: true
-                    default: Mission
-                  - widget: hidden
-                    name: type
-                    label: Reference Type Name
-                    required: true
-                    hint: >-
-                      Name of the Stackbit object model, used by fields of type
-                      reference
-                    default: mission
-          - widget: object
-            name: menus
-            label: Home Menus
-            required: false
-            hint: Which menus should this page show up in
-            fields:
-              - widget: object
-                name: main
-                label: Main menu item
-                required: false
-                hint: Main menu item for this page
-                fields:
-                  - widget: string
-                    name: title
-                    label: Title
-                    required: false
-                    hint: The title of the menu item
-                  - widget: number
-                    name: weight
-                    label: Weight
-                    required: false
-                    hint: Position for sorting
-                    valueType: int
-                  - widget: string
-                    name: identifier
-                    label: Identifier
-                    required: false
-                    hint: >-
-                      The identifier of a menu item could be used as a parent
-                      menu of another menu item
-          - widget: hidden
-            name: template
-            label: Template
-            required: true
-            default: home
-  - name: page
-    label: Pages
-    folder: src/pages/
+  - name: "blog"
+    label: "Blog"
+    folder: "src/pages/blog"
     create: true
-    extension: md
-    slug: "{{slug}}"
-    fields:
-      - widget: string
-        name: header-title
-        label: Header / SEO title
-        required: false
-      - widget: text
-        name: header-description
-        label: Header / SEO description
-        required: false
-      - widget: string
-        name: title
-        label: Page Title
-        required: true
-      - widget: markdown
-        name: subtitle
-        label: Page Subtitle
-        required: false
-        hint: The text displayed below the page title
-      - widget: image
-        name: img_path
-        label: Content Image
-        required: false
-        hint: The image displayed in the page content
-      - widget: object
-        name: menus
-        label: Page Menus
-        required: false
-        hint: Which menus should this page show up in
-        fields:
-          - widget: object
-            name: main
-            label: Main menu item
-            required: false
-            hint: Main menu item for this page
-            fields:
-              - widget: string
-                name: title
-                label: Title
-                required: false
-                hint: The title of the menu item
-              - widget: number
-                name: weight
-                label: Weight
-                required: false
-                hint: Position for sorting
-                valueType: int
-              - widget: string
-                name: identifier
-                label: Identifier
-                required: false
-                hint: >-
-                  The identifier of a menu item could be used as a parent menu
-                  of another menu item
-      - widget: hidden
-        name: template
-        label: Template
-        required: true
-        default: page
-      - widget: markdown
-        name: body
-        label: Content
-        required: false
-        hint: Page content
-    filter:
-      field: template
-      value: page
-  - name: post
-    label: Posts
-    folder: src/pages/posts
-    create: true
-    extension: md
     slug: "{{fields.path}}"
     fields:
-      - widget: string
-        name: header-title
-        label: Header / SEO title
-        required: false
-      - widget: text
-        name: header-description
-        label: Header / SEO description
-        required: false
-      - widget: string
-        name: title
-        label: Page Title
-        required: true
-      - widget: string
+      - label: "Template Key"
+        name: "template"
+        widget: "hidden"
+        default: "blog-post"
+      - label: Path / Slug / Filename (no äåö characters or spaces e.g. alamoloa-takaapain)
         name: path
-        label: Path / Slug / Filename (no äåö characters or spaces, e.g. alamoloa-takaapain)
-        hint: Needed for the system to work
+        widget: string
         required: true
-      - widget: markdown
-        name: subtitle
-        label: Page Subtitle
-        required: false
-        hint: The text displayed below the page title
-      - widget: markdown
-        name: excerpt
-        label: Post Excerpt
-        required: false
-        hint: The excerpt displayed in the spotlights section of the home page
-      - widget: image
-        name: img_path
-        label: Content Image
-        required: false
-        hint: The image displayed in the page content
-      - widget: string
-        name: post_button_label
-        label: Spotlights Button label
-        default: Lue lisää
-        required: false
-        hint: The text displayed in the home spotligh button
-      - widget: datetime
-        name: date
-        label: Post Date
+      - label: SEO Title
+        name: header-title
+        widget: string
+        hint: Näkyy googlessa otsikkona
+        required: true
+      - label: SEO Description
+        name: header-description
+        widget: text
+        hint: Näkyy googlessa
+        required: true
+      - label: "Title"
+        name: "title"
+        widget: "string"
+        required: true
+      - label: "Publish Date"
+        name: "date"
+        widget: "datetime"
         dateFormat: "YYYY-MM-DD"
         timeFormat: false
         format: YYYY-MM-DD
         required: true
-      - widget: object
-        name: menus
-        label: Post Menus
-        required: false
-        hint: Which menus should this page show up in
-        fields:
-          - widget: object
-            name: main
-            label: Main menu item
-            required: false
-            hint: Main menu item for this page
-            fields:
-              - widget: string
-                name: title
-                label: Title
-                required: false
-                hint: The title of the menu item
-              - widget: number
-                name: weight
-                label: Weight
-                required: false
-                hint: Position for sorting
-                valueType: int
-              - widget: string
-                name: identifier
-                label: Identifier
-                required: false
-                hint: >-
-                  The identifier of a menu item could be used as a parent menu
-                  of another menu item
-      - widget: hidden
-        name: template
-        label: Template
+      - label: "Subtitle"
+        name: "subtitle"
+        widget: "text"
+        hint: Se teksti joka näkyy blogipostauksessa otsikon alapuolla.
+      - label: "Excerpt"
+        name: "excerpt"
+        widget: "text"
+        hint: Se teksti joka näkyy etusivulla blogipostauksen katkelmana.
+      - label: "Featured Image"
+        name: "img_path"
+        widget: "image"
         required: true
-        default: page
-      - widget: markdown
-        name: body
-        label: Content
+        hint: Vain .jpg jookosta kookosta <3
+      - label: Spotlights Button label
+        widget: string
+        name: post_button_label
+        default: Lue lisää
         required: false
-        hint: Page content
-    filter:
-      field: template
-      value: page
-  - name: elements
-    label: Elements
+        hint: The text displayed in the home spotlight button
+      - label: "Content"
+        name: "body"
+        widget: "markdown"
+
+  - name: "pages"
+    label: "Generic Pages"
+    folder: "src/pages"
+    filter: { field: "template", value: "generic-page" }
+    create: true
+    slug: "{{fields.path}}"
+    fields:
+      - label: "Template"
+        name: "template"
+        widget: "hidden"
+        default: "generic-page"
+      - label: Path / Slug / Filename (no äåö characters or spaces e.g. alamoloa-takaapain)
+        name: path
+        widget: text
+        required: true
+      - label: SEO Title
+        name: header-title
+        widget: string
+        required: true
+      - label: SEO Description
+        name: header-description
+        widget: text
+        required: true
+      - label: "Title"
+        name: "title"
+        widget: "string"
+        required: true
+      - abel: "Publish Date"
+        name: "date"
+        widget: "datetime"
+        dateFormat: "YYYY-MM-DD"
+        timeFormat: false
+        format: YYYY-MM-DD
+        required: true
+      - label: "Description"
+        name: "description"
+        widget: "text"
+      - label: "Featured Image"
+        name: "img_path"
+        widget: "image"
+      - label: "Content"
+        name: "body"
+        widget: "markdown"
+      - label: "Tags"
+        name: "tags"
+        widget: "list"
+  - name: "homepage"
+    label: "Homepage"
     files:
-      - name: elements
-        label: Elements
-        file: src/pages/elements.md
+      - file: "src/pages/index.md"
+        label: "Homepage"
+        name: "index"
         fields:
-          - widget: string
-            name: title
-            label: Page Title
+          - label: "Template"
+            name: "template"
+            widget: "hidden"
+            default: "index-page"
+          - label: SEO Title
+            name: header-title
+            widget: string
             required: true
-          - widget: object
-            name: menus
-            label: Elements Menus
-            required: false
-            hint: Which menus should this page show up in
-            fields:
-              - widget: object
-                name: main
-                label: Main menu item
-                required: false
-                hint: Main menu item for this page
-                fields:
-                  - widget: string
-                    name: title
-                    label: Title
-                    required: false
-                    hint: The title of the menu item
-                  - widget: number
-                    name: weight
-                    label: Weight
-                    required: false
-                    hint: Position for sorting
-                    valueType: int
-                  - widget: string
-                    name: identifier
-                    label: Identifier
-                    required: false
-                    hint: >-
-                      The identifier of a menu item could be used as a parent
-                      menu of another menu item
-          - widget: hidden
-            name: template
-            label: Template
+          - label: SEO Description
+            name: header-description
+            widget: text
             required: true
-            default: elements
-  - name: site_menus
-    label: Site Menus
-    files:
-      - name: site_menus
-        label: Site Menus
-        file: src/data/menus.json
-        fields:
-          - widget: list
+          - label: Main
             name: main
-            label: Main menu
-            required: false
-            hint: List of items for Main menu
+            widget: object
             fields:
-              - widget: string
-                name: identifier
-                label: Identifier
-                required: true
-                hint: >-
-                  The identifier of a menu item could be used as a parent menu
-                  of another menu item
-              - widget: string
+              - label: Title
                 name: title
-                label: Title
-                required: true
-                hint: The title of the menu item
-              - widget: string
-                name: url
-                label: URL
-                required: true
-                hint: The URL the menu item links to
-              - widget: number
-                name: weight
-                label: Weight
-                required: false
-                hint: Position for sorting
-                valueType: int
+                widget: string
+              - label: Image
+                name: image
+                widget: image
+              - label: Description
+                name: description
+                widget: text
+              - label: Buttons
+                name: buttons
+                widget: list
+                fields:
+                  - label: Title
+                    name: title
+                    widget: string
+                  - label: Url
+                    name: url
+                    widget: string
+                    hint: Must be format "/posts/example" or "https://is.fi"
+
+          - label: Intro
+            name: intro
+            widget: object
+            fields:
+              - label: Title
+                name: title
+                widget: string
+              - label: Description
+                name: description
+                widget: markdown
+              - label: Buttons
+                name: buttons
+                widget: list
+                fields:
+                  - label: Title
+                    name: title
+                    widget: string
+                  - label: Url
+                    name: url
+                    widget: string
+                    hint: Must be format "/posts/example" or "https://is.fi"
+          - label: Spotlight
+            name: spotlight
+            widget: object
+            fields:
+              - label: Title
+                name: title
+                widget: string
+              - label: Description
+                name: description
+                widget: text
+              - label: Footer
+                name: footer
+                widget: text
+              - label: Buttons
+                name: buttons
+                widget: list
+                fields:
+                  - label: Title
+                    name: title
+                    widget: string
+                  - label: Url
+                    name: url
+                    widget: string
+                    hint: Must be format "/posts/example" or "https://is.fi"
+          - label: Footer
+            name: footer
+            widget: object
+            fields:
+              - label: Title
+                name: description
+                widget: string
+              - label: Description
+                name: description
+                widget: markdown
+              - label: Social
+                name: social
+                widget: list
+                fields:
+                  - label: Icon
+                    name: icon
+                    widget: string
+                    hint: instagram / facebook / linkedin / gallery
+                  - label: Url
+                    name: url
+                    widget: string
+                    hint: Must be format "/posts/example" or "https://is.fi"
