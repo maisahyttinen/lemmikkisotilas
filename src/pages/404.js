@@ -1,5 +1,5 @@
 import React from "react";
-import { Link } from "gatsby";
+import { Link } from "../components/Link";
 import { Flex, Heading, Text } from "@chakra-ui/core";
 import Layout from "../components/Layout";
 import { Button } from "../components/Button";

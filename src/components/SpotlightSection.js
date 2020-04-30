@@ -1,9 +1,10 @@
 import React from "react";
 import { Stack, Divider, Flex, Heading, Box, Text } from "@chakra-ui/core";
-import { useStaticQuery, graphql, Link } from "gatsby";
+import { useStaticQuery, graphql } from "gatsby";
 import Image from "gatsby-image";
 import { Button } from "./Button";
 import { Section } from "./Section";
+import { Link } from "../components/Link";
 
 const TextSide = ({ title, excerpt, path, post_button_label }) => {
   return (

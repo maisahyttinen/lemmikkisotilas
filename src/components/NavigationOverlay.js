@@ -2,7 +2,7 @@ import React from "react";
 import { Flex, Heading, Text } from "@chakra-ui/core";
 import useSiteMetaData from "./SiteMetadata";
 import { Button } from "./Button";
-import { Link } from "gatsby";
+import { Link } from "./Link";
 
 export const NavigationOverlay = () => {
   const siteMetaData = useSiteMetaData();

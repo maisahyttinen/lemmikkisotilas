@@ -1,6 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
-import { graphql, Link } from "gatsby";
+import { graphql } from "gatsby";
 import Image from "gatsby-image";
 
 import Layout from "../components/Layout";
@@ -10,6 +10,7 @@ import { Button } from "../components/Button";
 import { HTMLContent } from "../components/Content";
 import { markdownToHtml } from "../utils/markdown";
 import { SpotlightSection } from "../components/SpotlightSection";
+import { Link } from "../components/Link";
 
 export const IndexPageTemplate = ({ main, intro, spotlight }) => (
   <>
@@ -109,7 +110,7 @@ export const IndexPageTemplate = ({ main, intro, spotlight }) => (
           {intro.buttons &&
             intro.buttons.map((button, i) => {
               return (
-                <Link to={button.url}>
+                <Link key={i} to={button.url}>
                   <Button key={i} variant="dark" margin={3}>
                     {button.title}
                   </Button>

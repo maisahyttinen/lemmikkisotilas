@@ -46,7 +46,7 @@ Sairasloman pituus ja sen aikana harrastettu liikunta antavat myös viitteitä s
 
 Valkuaisen lisääminen ruokintaan auttaa lihasmassaa pysymään yllä sairaslomankin aikana, mutta kuten esimerkiksi Sotilaasta nähdään, ei ruokinnallakaan pystytä ihmeisiin ikääntyvän hevosen jäädessä seisomaan.
 
-![](/images/img_0400.jpg)
+![](/images/img_0400_2.jpg)
 
 ### Jos hevonen ei ole päässyt sairasloman aikana liikkumaan vapaasti, aineenvaihdunta ja lihaksisto ovat todennäköisesti jumissa.
 
