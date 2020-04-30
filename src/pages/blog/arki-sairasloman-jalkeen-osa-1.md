@@ -60,7 +60,7 @@ On ikävää, mutta tavallista, että etenkin pitkään lomailleen hevosen kavio
 
 Sotilaan sekä vanhat että uudet jalkavaivat ovat vaatineet jo vuosia erittäin säntillistä kengitystä, joten kaviot olivat melko hyvässä kunnossa jo valmiiksi. Siitä huolimatta kengittäjä kävi pari viikkoa sitten ja hokkikengät vaihdettiin joustaviin duploihin. Sotilaan suu on huollettu viimeksi joulukuussa ontumatutkimuksen yhteydessä ja seuraava hammastarkastus osuu kesä-heinäkuulle.
 
-![](/images/img_0392.jpg)
+![](/images/_img_0392_2.jpg)
 
 ### Ei ole yhdentekevää, millä mielellä hevonen on.
 
