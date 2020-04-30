@@ -16,8 +16,9 @@ excerpt: Namitädit vastaan tolkun ihmiset. Mistä syistä positiivista
 img_path: /images/img_0129.jpg
 post_button_label: Lue lisää
 date: 2020-04-28T00:00:00.000Z
-template: page
+template: blog-post
 ---
+
 ### Namitädit vastaan tolkun ihmiset.
 
 Positiivisesta vahvistamisesta on keskusteltu viime päivinä vilkkaasti Instagramissa. [Hellä Kanelisilmä kirjoitti aiheesta oikein hyvän bloginkin.](http://hellakanelisilma.blogspot.com/2020/04/ajatuksia-ponin-kouluttamisesta-ja.html) Ahkerimmin on etsitty ja esitelty millaisia haittoja ja vaaratilanteita positiivisen vahvistamisen ja ruokapalkkion käyttämisestä voi seurata. On myös ehditty pöyristyä, että ajatteleeko joku todella, että negatiiviseen vahvistamiseen liittyy väkivaltaa ja rankaisua.

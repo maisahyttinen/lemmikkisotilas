@@ -15,8 +15,9 @@ excerpt: "*Arki sairasloman jälkeen* on artikkelisarja, jossa kerron,
 img_path: /images/img_0325.jpg
 post_button_label: Lue lisää
 date: 2020-04-26T00:00:00.000Z
-template: page
+template: blog-post
 ---
+
 Sairaslomalta paluu sujuu meiltä siis jo melko rutiinilla. Toki tilanteeseen vaikuttavat aina sairasloman syyt ja pituus, mutta minun kokemukseni mukaan prosessi on joka tapauksessa samankaltainen. Sotilaan kohdalla tämä kerta on siinä mielessä erilainen, että se toipuu mahdollisesta vammasta tai vauriosta, jonka tilannetta ja parantumista on vaikeaa tutkia ja kuvantaa. Saimme eläinlääkäriltä ohjeen elää päivä kerrallaan ja tehdä sitä mikä parhaalta tuntuu, hevosen kunto ja fiilis huomioiden.
 
 ### Ajattelin kirjoittaa artikkelisarjan siitä, millainen sairaslomaltapaluurutiini meille on vuosien varrella kehittynyt.
@@ -69,7 +70,7 @@ Usein unohtuu, että sairaslomalta paluu on hevoselle sekä henkisesti että fyy
 
 Sotilaasta tulee sairaslomalla juuri niin laiskanpulskea miltä se näyttääkin. Se ei kerää ylimääräistä energiaa eikä haudo hölmöjä temppuja, oli vapaata sitten kaksi päivää tai kaksi kuukautta. Motivaatio ja yritteliäisyys kuitenkin laskevat sitä alemmas mitä pidempään kevyempi jakso jatkuu. Normaalisti ahkera ja hieman liiankin totinen työmyyrä muuttuu vastentahtoiseksi hikoilunvastustajaksi. Tilanne on onneksi jo tuttu ja helpottaa ajan kanssa, kun mukavuusaluetta venytetään vähän kerrallaan. Kohtuullisen työmäärän ja runsaan palkitsemisen merkitystä ei kuitenkaan voi väheksyä.
 
-### Kun lähtötilanne niin fyysisten kuin henkistenkin yksityiskohtien osalta on kartoitettu, voidaan käydä miettimään, miten kannattaa lähteä liikkeelle. 
+### Kun lähtötilanne niin fyysisten kuin henkistenkin yksityiskohtien osalta on kartoitettu, voidaan käydä miettimään, miten kannattaa lähteä liikkeelle.
 
 ### Puhutaan siitä lisää osassa 2!
 
