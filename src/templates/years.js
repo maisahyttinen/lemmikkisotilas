@@ -19,28 +19,45 @@ export const YearsTemplate = ({ posts, years, selectedYear }) => {
     <>
       <Section color="backgroundWhite">
         <Stack
-          width={["full", "full", "2xl", "3xl"]}
+          maxWidth={["full", "full", "2xl", "2xl"]}
+          width="full"
           marginTop={"20"}
           marginBottom={["32", "32", "32", "20"]}
           paddingLeft={["5", "6", "0", "0"]}
           paddingRight={["5", "6", "0", "0"]}
           flexDirection="column"
           justifyContent="space-evenly"
-          alignItems="center"
+          alignItems="flex-start"
           spacing="10"
         >
-          <Divider width={["10", "12", "15", "15"]} borderColor="brandGray" />
-          <Heading
-            as="h2"
-            fontSize={["3xl", "3xl", "4xl", "5xl"]}
-            fontWeight="light"
-            color="brand.gray"
-            textAlign="center"
-            marginBottom="10"
+          <Flex
+            flexDirection="column"
+            justifyContent="center"
+            alignItems="center"
+            width="full"
           >
-            Arkisto
-          </Heading>
-          <Flex flexDirection="row" justifyContent="center" alignItems="center">
+            <Divider
+              width={["10", "12", "15", "15"]}
+              borderColor="brandGray"
+              marginBottom="6"
+            />
+            <Heading
+              as="h2"
+              fontSize={["3xl", "3xl", "4xl", "5xl"]}
+              fontWeight="light"
+              color="brand.gray"
+              textAlign="center"
+              marginBottom="8"
+            >
+              Arkisto
+            </Heading>
+          </Flex>
+          <Flex
+            flexDirection="row"
+            flexWrap="wrap"
+            justifyContent="center"
+            alignItems="center"
+          >
             {years &&
               years.map((year, i) => {
                 return (
@@ -66,7 +83,10 @@ export const YearsTemplate = ({ posts, years, selectedYear }) => {
               const { date, path, title } = frontmatter;
               return (
                 <ChakraLink as={Link} key={i} to={path}>
-                  <Text fontWeight="light">{`${date} ${title}`}</Text>
+                  <Text
+                    fontWeight="light"
+                    fontSize={["sm", "md", "md", "md"]}
+                  >{`${date} ${title}`}</Text>
                 </ChakraLink>
               );
             })}

@@ -16,8 +16,8 @@ export const IndexPageTemplate = ({ main, intro, spotlight }) => (
     <Section color="backgroundWhite">
       <Flex
         width={["xs", "sm", "md", "5xl"]}
-        marginTop={["16", "26", "32", "40"]}
-        marginBottom={["32", "32", "32", "40"]}
+        marginTop={["16", "26", "32", "20"]}
+        marginBottom={["12", "12", "32", "26"]}
         flexDirection="row"
         justifyContent="space-evenly"
         alignItems="center"
@@ -63,7 +63,9 @@ export const IndexPageTemplate = ({ main, intro, spotlight }) => (
               main.buttons.map((button, i) => {
                 return (
                   <Link key={i} to={button.url}>
-                    <Button variant="dark">{button.title}</Button>
+                    <Button variant="dark" margin={3}>
+                      {button.title}
+                    </Button>
                   </Link>
                 );
               })}
@@ -74,8 +76,8 @@ export const IndexPageTemplate = ({ main, intro, spotlight }) => (
     <Section color="backgroundGray">
       <Stack
         width={["full", "full", "2xl", "3xl"]}
-        marginTop={["32", "32", "32", "20"]}
-        marginBottom={["32", "32", "32", "20"]}
+        marginTop={["12", "12", "32", "20"]}
+        marginBottom={["12", "12", "32", "20"]}
         paddingLeft={["5", "6", "0", "0"]}
         paddingRight={["5", "6", "0", "0"]}
         flexDirection="column"
@@ -86,7 +88,7 @@ export const IndexPageTemplate = ({ main, intro, spotlight }) => (
         <Divider width={["10", "12", "15", "15"]} borderColor="brandGray" />
         <Heading
           as="h2"
-          fontSize={["3xl", "3xl", "4xl", "5xl"]}
+          fontSize={["3xl", "3xl", "4xl", "4xl"]}
           fontWeight="light"
           color="brand.gray"
           textAlign={["center", "center", "center", "left"]}
@@ -103,12 +105,12 @@ export const IndexPageTemplate = ({ main, intro, spotlight }) => (
         >
           <HTMLContent content={markdownToHtml(intro.description)} />
         </Text>
-        <Flex>
+        <Flex flexWrap="wrap" justifyContent="center">
           {intro.buttons &&
             intro.buttons.map((button, i) => {
               return (
                 <Link to={button.url}>
-                  <Button key={i} variant="dark">
+                  <Button key={i} variant="dark" margin={3}>
                     {button.title}
                   </Button>
                 </Link>
@@ -124,8 +126,6 @@ export const IndexPageTemplate = ({ main, intro, spotlight }) => (
 const IndexPage = ({ data }) => {
   const { frontmatter } = data.markdownRemark;
   const { main, intro, spotlight } = frontmatter;
-
-  console.log(frontmatter);
 
   return (
     <Layout
@@ -172,6 +172,10 @@ export const pageQuery = graphql`
         intro {
           description
           title
+          buttons {
+            title
+            url
+          }
         }
         spotlight {
           description

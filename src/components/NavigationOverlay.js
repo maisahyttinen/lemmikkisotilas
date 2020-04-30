@@ -29,7 +29,7 @@ export const NavigationOverlay = () => {
         if (link.variant === "button") {
           return (
             <Link key={i} to={link.to}>
-              <Button variant="light" marginBottom="4">
+              <Button variant="light" marginBottom="6">
                 {link.name}
               </Button>
             </Link>
@@ -37,7 +37,7 @@ export const NavigationOverlay = () => {
         }
         return (
           <Link key={i} to={link.to}>
-            <Text fontWeight="light" key={i} color="white" marginBottom="4">
+            <Text fontWeight="light" key={i} color="white" marginBottom="6">
               {link.name}
             </Text>
           </Link>

@@ -15,8 +15,8 @@ export const PageTemplate = ({ date, title, subtitle, html, image }) => (
         width={["full", "full", "2xl", "3xl"]}
         marginTop={"20"}
         marginBottom={["32", "32", "32", "20"]}
-        paddingLeft={["5", "6", "0", "0"]}
-        paddingRight={["5", "6", "0", "0"]}
+        paddingLeft={["8", "8", "0", "0"]}
+        paddingRight={["8", "8", "0", "0"]}
         flexDirection="column"
         justifyContent="space-evenly"
         alignItems="center"
@@ -57,11 +57,11 @@ export const PageTemplate = ({ date, title, subtitle, html, image }) => (
             {`${date} - Maisa Hyttinen`}
           </Heading>
         )}
-        
+
         <Box width="full" overflow="hidden" rounded="0.5rem">
-         {image && <Image fluid={image.childImageSharp.fluid} /> }
+          {image && <Image fluid={image.childImageSharp.fluid} />}
         </Box>
-        
+
         <Text as="div" fontWeight="light" textAlign={"left"}>
           <HTMLContent content={html} />
         </Text>
@@ -79,7 +79,7 @@ const IndexPage = ({ data }) => {
     title,
     excerpt,
     img_path,
-    subtitle
+    subtitle,
   } = frontmatter;
 
   return (

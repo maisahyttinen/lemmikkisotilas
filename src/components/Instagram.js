@@ -12,7 +12,7 @@ export const Instagram = () => {
             localFile {
               childImageSharp {
                 fluid(maxWidth: 150, maxHeight: 150) {
-                  ...GatsbyImageSharpFluid_tracedSVG
+                  ...GatsbyImageSharpFluid
                 }
               }
             }
@@ -48,7 +48,11 @@ export const Instagram = () => {
                 key={index}
                 alt=""
                 fluid={childImageSharp.fluid}
-                style={{ borderRadius: "0.5rem" }}
+                style={{
+                  borderRadius: "0.5rem",
+                  width: "auto",
+                  height: "auto",
+                }}
               />
             ))
           : null}

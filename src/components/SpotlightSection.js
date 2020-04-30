@@ -21,21 +21,21 @@ const TextSide = ({ title, excerpt, path, post_button_label }) => {
         width="full"
         justifyContent={["center", "center", "flex-start", "flex-start"]}
       >
-        <Divider
+        {/* <Divider
           width={["10", "12", "15", "15"]}
           borderColor="brandGray"
           marginBottom="10"
           textAlign="center"
-        />
+        /> */}
       </Flex>
       <Heading
         as="h3"
-        fontSize={["2xl", "3xl", "4xl", "3xl"]}
+        fontSize={["2xl", "3xl", "3xl", "3xl"]}
         fontWeight="light"
         color="brand.gray"
         textAlign={["center", "center", "center", "left"]}
         marginBottom="6"
-        marginTop={["2", "4", "6", "0"]}
+        marginTop={["8", "8", "6", "0"]}
       >
         {title}
       </Heading>
@@ -157,8 +157,8 @@ export const SpotlightSection = ({ title, description, footer, buttons }) => {
     <Section color="backgroundWhite">
       <Stack
         width={["full", "full", "2xl", "4xl"]}
-        marginTop={["32", "32", "32", "20"]}
-        marginBottom={["32", "32", "32", "20"]}
+        marginTop={["12", "12", "32", "20"]}
+        marginBottom={["12", "12", "32", "20"]}
         paddingLeft={["5", "5", "5", "0"]}
         paddingRight={["5", "5", "5", "0"]}
         flexDirection="column"
@@ -173,7 +173,7 @@ export const SpotlightSection = ({ title, description, footer, buttons }) => {
         />
         <Heading
           as="h2"
-          fontSize={["3xl", "3xl", "4xl", "5xl"]}
+          fontSize={["3xl", "3xl", "4xl", "4xl"]}
           fontWeight="light"
           color="brand.gray"
           textAlign={["center", "center", "center", "left"]}
@@ -213,6 +213,7 @@ export const SpotlightSection = ({ title, description, footer, buttons }) => {
         <Text
           fontWeight="light"
           textAlign={"center"}
+          maxWidth={["full", "full", "2xl", "3xl"]}
           fontSize={["md", "lg", "xl", "xl"]}
         >
           {footer}
@@ -222,7 +223,7 @@ export const SpotlightSection = ({ title, description, footer, buttons }) => {
             buttons.map((button, i) => {
               return (
                 <Link key={i} to={button.url}>
-                  <Button key={i} variant="dark">
+                  <Button key={i} variant="dark" margin={3}>
                     {button.title}
                   </Button>
                 </Link>

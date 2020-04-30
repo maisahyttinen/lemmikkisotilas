@@ -30,8 +30,8 @@ export const Footer = () => {
     <Section as="footer" color="backgroundGray">
       <Flex
         width={["full", "full", "2xl", "4xl"]}
-        marginTop={["32", "32", "32", "20"]}
-        marginBottom={["32", "32", "32", "20"]}
+        marginTop={["12", "12", "32", "20"]}
+        marginBottom={["12", "12", "32", "20"]}
         paddingLeft={["5", "5", "5", "0"]}
         paddingRight={["5", "5", "5", "0"]}
         flexDirection="row"
@@ -43,7 +43,8 @@ export const Footer = () => {
         <Flex
           flex={1}
           flexDirection="column"
-          minWidth={["320px", "400px", "360px", "420px"]}
+          marginRight={["0", "0", "4", "4"]}
+          minWidth={["280px", "400px", "360px", "420px"]}
           maxWidth={["full", "500px", "600px", "800px"]}
         >
           <Heading
@@ -60,6 +61,7 @@ export const Footer = () => {
           <Text
             as="div"
             fontWeight="light"
+            fontSize={["sm", "sm", "md", "md"]}
             textAlign={["center", "center", "center", "left"]}
             letterSpacing="1px"
             marginBottom="10"
@@ -90,7 +92,8 @@ export const Footer = () => {
         </Flex>
         <Flex
           flex={1}
-          minWidth={["320px", "400px", "360px", "420px"]}
+          marginLeft={["0", "0", "4", "4"]}
+          minWidth={["280px", "400px", "360px", "420px"]}
           maxWidth={["360px", "450px", "450px", "600px"]}
         >
           <Instagram />

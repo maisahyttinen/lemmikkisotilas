@@ -27,7 +27,24 @@ const ContentContainer = styled("div")`
   p {
     margin: 0 0 2rem 0;
     line-height: 1.8;
+    font-size: 17px;
     font-weight: 300;
+
+    :last-child {
+      margin: 0 0 0.5rem 0;
+    }
+
+    @media screen and (max-width: ${Breakpoints.lg}) {
+      font-size: 16px;
+    }
+
+    @media screen and (max-width: ${Breakpoints.md}) {
+      font-size: 16px;
+    }
+
+    @media screen and (max-width: ${Breakpoints.sm}) {
+      font-size: 16px;
+    }
   }
 
   img {

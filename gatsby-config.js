@@ -88,63 +88,76 @@ module.exports = {
         username: `maisahyttinen`,
       },
     },
-    // {
-    //   resolve: `gatsby-plugin-feed`,
-    //   options: {
-    //     query: `
-    //       {
-    //         site {
-    //           siteMetadata {
-    //             title
-    //             description
-    //             siteUrl
-    //             site_url: siteUrl
-    //           }
-    //         }
-    //       }
-    //     `,
-    //     feeds: [
-    //       {
-    //         serialize: ({ query: { site, allMarkdownRemark } }) => {
-    //           return allMarkdownRemark.edges.map((edge) => {
-    //             const image = edge.node.frontmatter.img_path;
-    //             return Object.assign({}, edge.node.frontmatter, {
-    //               title: edge.node.frontmatter.title,
-    //               description: edge.node.excerpt,
-    //               date: edge.node.frontmatter.date,
-    //               url: site.siteMetadata.siteUrl + edge.node.frontmatter.path,
-    //               guid: site.siteMetadata.siteUrl + edge.node.frontmatter.path,
-    //               ...(image && { image }),
-    //               custom_elements: [{ "content:encoded": edge.node.html }],
-    //             });
-    //           });
-    //         },
-    //         query: `
-    //         {
-    //           allMarkdownRemark(sort: {order: DESC, fields: [frontmatter___date]}, filter: {fields: {slug: {nin: ["/", "/arkisto/", "/tekija/"]}}}) {
-    //             edges {
-    //               node {
-    //                 excerpt
-    //                 html
-    //                 fields {
-    //                   slug
-    //                 }
-    //                 frontmatter {
-    //                   title
-    //                   date
-    //                   path
-    //                 }
-    //               }
-    //             }
-    //           }
-    //         }
-    //         `,
-    //         output: "/rss.xml",
-    //         title: "Maisa Hyttinen",
-    //       },
-    //     ],
-    //   },
-    // },
+    {
+      resolve: `gatsby-plugin-feed`,
+      options: {
+        query: `
+          {
+            site {
+              siteMetadata {
+                title
+                description
+                siteUrl
+                site_url: siteUrl
+              }
+            }
+          }
+        `,
+        feeds: [
+          {
+            serialize: ({ query: { site, allMarkdownRemark } }) => {
+              return allMarkdownRemark.edges.map((edge) => {
+                let imageHtml;
+                let image;
+                try {
+                  let image = edge.node.frontmatter.img_path.publicURL;
+                  imageHtml = `<p><img src="${site.siteMetadata.siteUrl}${image}"/></p>`;
+                } catch (err) {}
+
+                return Object.assign({}, edge.node.frontmatter, {
+                  title: edge.node.frontmatter.title,
+                  description: edge.node.excerpt,
+                  date: edge.node.frontmatter.date,
+                  url: `${site.siteMetadata.siteUrl}/${edge.node.frontmatter.path}`,
+                  guid: `${site.siteMetadata.siteUrl}/${edge.node.frontmatter.path}`,
+                  ...(image && {
+                    image: `${site.siteMetadata.siteUrl}/${image}`,
+                  }),
+                  custom_elements: [
+                    { "content:encoded": `${imageHtml}${edge.node.html}` },
+                  ],
+                });
+              });
+            },
+            query: `
+            {
+              allMarkdownRemark(sort: {order: DESC, fields: [frontmatter___date]}, filter: {fields: {slug: {nin: ["/", "/arkisto/", "/tekija/"]}}}) {
+                edges {
+                  node {
+                    excerpt
+                    html
+                    fields {
+                      slug
+                    }
+                    frontmatter {
+                      title
+                      date
+                      path
+                      img_path{
+                        publicURL
+                      }
+                    }
+                  }
+                }
+              }
+            }
+            `,
+            output: "/rss.xml",
+            title: "Maisa Hyttinen",
+          },
+        ],
+      },
+    },
     {
       resolve: "gatsby-plugin-netlify-cms",
       options: {

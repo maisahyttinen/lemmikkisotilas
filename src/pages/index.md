@@ -1,7 +1,8 @@
 ---
 template: index-page
 header-title: Hevosvalokuvaaja Maisa Hyttinen
-header-description: Joojoojeejee
+header-description: |
+  Voi olla, että olemme jo tavanneet! Useimmille olen tuttu hevostapahtumista ympäri Suomen - valokuvaajana, toimittajana tai jossakin muussa roolissa.
 
 main:
   title: Maisa Hyttinen
@@ -9,8 +10,8 @@ main:
   description: >
     Nuori viestinnän ammattilainen, someaktiivi, valokuvaaja, toimittaja ja hevosenomistaja. Bloggaaja vuodesta 2011.
   buttons:
-    - title: Testinappi
-      url: /jeejee
+    - title: Portfolio
+      url: https://portfolio.maisahyttinen.fi
 intro:
   title: Kuvaa, tekstiä & sosiaalista mediaa
   description: |
@@ -22,8 +23,10 @@ intro:
     \
     **Etsitkö tapahtumallesi luotettavaa valokuvaajaa tai kaipaatko edustavaa kuvitusta yritystoimintaasi liittyen?** Tutustu [portfoliooni](https://portfolio.maisahyttinen.fi) ja ota yhteyttä! Autan mielelläni myös myyntiä tukevien somesisältöjen suunnittelussa ja toteutuksessa.
   buttons:
-    - title: Testinappi
-      url: /jeejee
+    - title: Tutustu tekijään
+      url: /tekija
+    - title: Hevosvalokuvaus
+      url: https://hevosvalokuvaus.maisahyttinen.fi/
 
 spotlight:
   title: Uudet artikkelit
@@ -32,7 +35,7 @@ spotlight:
   footer: >
     Mitä tapahtui vuonna 2011? Mitä ajatteli tuolloin 15-vuotias hevosenomistaja? Arkistoon on koottu kaikki vuosien varrella julkaistut artikkelit. Vuosina 2011-2020 on julkaistu yli 300 artikkelia.
   buttons:
-    - title: Arkisto
+    - title: Siirry arkistoon
       url: /arkisto
 
 footer:
