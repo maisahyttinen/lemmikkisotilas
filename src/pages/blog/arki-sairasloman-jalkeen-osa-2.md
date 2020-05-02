@@ -17,8 +17,6 @@ excerpt: Arki sairasloman jälkeen on artikkelisarja, jossa kerron, millaisella
 img_path: /images/sairaslomaltapaluu1.jpg
 post_button_label: Lue lisää
 ---
-<a href="https://www.bloglovin.com/blog/20439503/?claim=2wu4qms5rx9">Follow my blog with Bloglovin</a>
-
 Miettiessäni, mitä haluaisin kertoa meidän arjestamme nyt, huomasin, ettei postaus tai kaksikaan riitä avaamaan kaikkea sitä, mitä pitkältä sairaslomalta palaaminen pitää sisällään. Tämä ei ole meille suinkaan ensimmäinen kerta ja vuosien varrella olen huomannut monia käyttökelpoisia toimintatapoja.
 
 Haluan kuitenkin muistuttaa, että tässä artikkelisarjassa kerrotut asiat ovat vain omia ajatuksiani ja kokemuksiani siitä, miten sairaslomalta voi palata takaisin arkeen harrastehevosen kanssa.
