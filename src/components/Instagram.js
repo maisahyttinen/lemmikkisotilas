@@ -6,7 +6,7 @@ import Img from "gatsby-image";
 export const Instagram = () => {
   const data = useStaticQuery(graphql`
     query {
-      allInstaNode(sort: { order: DESC, fields: timestamp }, limit: 9) {
+      allInstaNode(sort: { order: DESC, fields: timestamp }, limit: 12) {
         edges {
           node {
             localFile {
