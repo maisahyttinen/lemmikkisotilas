@@ -1,10 +1,11 @@
 import React from "react";
-import { Stack, Divider, Flex, Heading, Box, Text } from "@chakra-ui/core";
+import { Stack, Divider, Flex, Heading, Box } from "@chakra-ui/core";
 import { useStaticQuery, graphql } from "gatsby";
 import Image from "gatsby-image";
 import { Button } from "./Button";
 import { Section } from "./Section";
 import { Link } from "../components/Link";
+import { Text } from "./Text";
 
 const TextSide = ({ title, excerpt, path, post_button_label }) => {
   return (
@@ -53,7 +54,14 @@ const TextSide = ({ title, excerpt, path, post_button_label }) => {
         justifyContent={["center", "center", "center", "flex-start"]}
       >
         <Link to={`/${path}`}>
-          <Button variant="light">{post_button_label}</Button>
+          <Button
+            variant="light"
+            _hover={{
+              bg: "brandLightGray",
+            }}
+          >
+            {post_button_label}
+          </Button>
         </Link>
       </Flex>
     </Flex>
@@ -158,14 +166,14 @@ export const SpotlightSection = ({ title, description, footer, buttons }) => {
     <Section color="backgroundWhite">
       <Stack
         width={["full", "full", "2xl", "4xl"]}
-        marginTop={["12", "12", "32", "20"]}
-        marginBottom={["12", "12", "32", "20"]}
+        marginTop={["12", "12", "20", "20"]}
+        marginBottom={["12", "12", "20", "20"]}
         paddingLeft={["5", "5", "5", "0"]}
         paddingRight={["5", "5", "5", "0"]}
         flexDirection="column"
         justifyContent="space-evenly"
         alignItems="center"
-        spacing="16"
+        spacing="10"
       >
         <Divider
           width={["10", "12", "15", "15"]}

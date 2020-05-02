@@ -8,6 +8,7 @@ const colors = {
   backgroundWhite: "#fff",
   brandGray: "rgb(36, 36, 36)",
   brandYellow: "rgb(254, 212, 56)",
+  brandLightGray: "#F5F5F5",
 
   whiteAlpha: {
     50: "rgba(255, 255, 255, 0.04)",

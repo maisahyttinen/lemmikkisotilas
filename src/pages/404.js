@@ -1,6 +1,7 @@
 import React from "react";
 import { Link } from "../components/Link";
-import { Flex, Heading, Text } from "@chakra-ui/core";
+import { Flex, Heading } from "@chakra-ui/core";
+import { Text } from "../components/Text";
 import Layout from "../components/Layout";
 import { Button } from "../components/Button";
 

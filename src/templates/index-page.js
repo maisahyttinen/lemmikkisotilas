@@ -4,21 +4,22 @@ import { graphql } from "gatsby";
 import Image from "gatsby-image";
 
 import Layout from "../components/Layout";
-import { Box, Flex, Text, Heading, Stack, Divider } from "@chakra-ui/core";
+import { Box, Flex, Heading, Stack, Divider } from "@chakra-ui/core";
 import { Section } from "../components/Section";
 import { Button } from "../components/Button";
 import { HTMLContent } from "../components/Content";
 import { markdownToHtml } from "../utils/markdown";
 import { SpotlightSection } from "../components/SpotlightSection";
 import { Link } from "../components/Link";
+import { Text } from "../components/Text";
 
 export const IndexPageTemplate = ({ main, intro, spotlight }) => (
   <>
     <Section color="backgroundWhite">
       <Flex
         width={["xs", "sm", "md", "5xl"]}
-        marginTop={["16", "26", "32", "20"]}
-        marginBottom={["12", "12", "32", "26"]}
+        marginTop={["16", "26", "20", "20"]}
+        marginBottom={["12", "12", "20", "26"]}
         flexDirection="row"
         justifyContent="space-evenly"
         alignItems="center"
@@ -37,13 +38,13 @@ export const IndexPageTemplate = ({ main, intro, spotlight }) => (
           flexDirection="column"
           justifyContent="center"
           alignItems={["center", "center", "center", "flex-start"]}
-          maxWidth={["full", "full", "md", "md"]}
+          maxWidth={["full", "full", "md", "lg"]}
           marginTop={["6", "6", "6", "0"]}
           padding={[3, 3, 3, 3]}
           spacing={[5, 5, 8, 8]}
         >
           <Heading
-            fontSize={["3xl", "4xl", "5xl", "5xl"]}
+            fontSize={["4xl", "5xl", "5xl", "6xl"]}
             fontWeight="light"
             color="brand.gray"
             textAlign={["center", "center", "center", "left"]}
@@ -52,6 +53,7 @@ export const IndexPageTemplate = ({ main, intro, spotlight }) => (
             {main.title}
           </Heading>
           <Text
+            maxWidth={["md", "md", "md", "md"]}
             fontSize={["md", "xl", "xl", "xl"]}
             fontWeight="light"
             textAlign={["center", "center", "center", "left"]}
@@ -77,8 +79,8 @@ export const IndexPageTemplate = ({ main, intro, spotlight }) => (
     <Section color="backgroundGray">
       <Stack
         width={["full", "full", "2xl", "3xl"]}
-        marginTop={["12", "12", "32", "20"]}
-        marginBottom={["12", "12", "32", "20"]}
+        marginTop={["12", "12", "20", "20"]}
+        marginBottom={["12", "12", "20", "20"]}
         paddingLeft={["5", "6", "0", "0"]}
         paddingRight={["5", "6", "0", "0"]}
         flexDirection="column"
@@ -89,7 +91,7 @@ export const IndexPageTemplate = ({ main, intro, spotlight }) => (
         <Divider width={["10", "12", "15", "15"]} borderColor="brandGray" />
         <Heading
           as="h2"
-          fontSize={["3xl", "3xl", "4xl", "4xl"]}
+          fontSize={["2xl", "3xl", "4xl", "4xl"]}
           fontWeight="light"
           color="brand.gray"
           textAlign={["center", "center", "center", "left"]}

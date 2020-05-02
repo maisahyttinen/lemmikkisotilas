@@ -1,17 +1,10 @@
 import React from "react";
 import { graphql } from "gatsby";
 import { Link } from "../components/Link";
-import {
-  Text,
-  Heading,
-  Divider,
-  Stack,
-  Flex,
-  Link as ChakraLink,
-} from "@chakra-ui/core";
+import { Heading, Divider, Stack, Flex } from "@chakra-ui/core";
 
 import Layout from "../components/Layout";
-
+import { Text } from "../components/Text";
 import { Section } from "../components/Section";
 import { Button } from "../components/Button";
 
@@ -23,7 +16,7 @@ export const YearsTemplate = ({ posts, years, selectedYear }) => {
           maxWidth={["full", "full", "2xl", "2xl"]}
           width="full"
           marginTop={"20"}
-          marginBottom={["32", "32", "32", "20"]}
+          marginBottom={["12", "12", "16", "20"]}
           paddingLeft={["5", "6", "0", "0"]}
           paddingRight={["5", "6", "0", "0"]}
           flexDirection="column"
@@ -83,12 +76,13 @@ export const YearsTemplate = ({ posts, years, selectedYear }) => {
               const { frontmatter } = node;
               const { date, path, title } = frontmatter;
               return (
-                <ChakraLink as={Link} key={i} to={path}>
+                <Link key={i} to={path}>
                   <Text
                     fontWeight="light"
                     fontSize={["sm", "md", "md", "md"]}
+                    marginBottom="4"
                   >{`${date} ${title}`}</Text>
-                </ChakraLink>
+                </Link>
               );
             })}
           </Stack>

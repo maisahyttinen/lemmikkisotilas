@@ -15,6 +15,12 @@ const NavigationButton = ({ onClick, isNavigatioShown }) => {
       icon={isNavigatioShown ? "close" : "menu"}
       rounded="full"
       onClick={onClick}
+      _active={{
+        bg: "brandGray",
+      }}
+      _hover={{
+        bg: "brandYellow",
+      }}
     >
       testing
     </IconButton>

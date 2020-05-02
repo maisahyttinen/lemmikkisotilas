@@ -1,10 +1,12 @@
 import React from "react";
-import { Flex, Heading, Text, IconButton } from "@chakra-ui/core";
-import { useStaticQuery, graphql, Link } from "gatsby";
+import { Flex, Heading, IconButton } from "@chakra-ui/core";
+import { Text } from "./Text";
+import { useStaticQuery, graphql } from "gatsby";
 import { Section } from "./Section";
 import { Instagram } from "./Instagram";
 import { HTMLContent } from "./Content";
 import { markdownToHtml } from "../utils/markdown";
+import { Link } from "./Link";
 
 export const Footer = () => {
   const data = useStaticQuery(graphql`
@@ -30,8 +32,8 @@ export const Footer = () => {
     <Section as="footer" color="backgroundGray">
       <Flex
         width={["full", "full", "2xl", "4xl"]}
-        marginTop={["12", "12", "32", "20"]}
-        marginBottom={["12", "12", "32", "20"]}
+        marginTop={["12", "12", "16", "20"]}
+        marginBottom={["12", "12", "16", "20"]}
         paddingLeft={["5", "5", "5", "0"]}
         paddingRight={["5", "5", "5", "0"]}
         flexDirection="row"
@@ -63,7 +65,6 @@ export const Footer = () => {
             fontWeight="light"
             fontSize={["sm", "sm", "md", "md"]}
             textAlign={["center", "center", "center", "left"]}
-            letterSpacing="1px"
             marginBottom="10"
           >
             <HTMLContent content={markdownToHtml(description)} />

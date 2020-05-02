@@ -24,9 +24,6 @@ module.exports = {
         plugins: [
           {
             resolve: "gatsby-remark-relative-images",
-            options: {
-              name: "images",
-            },
           },
           {
             resolve: "gatsby-remark-images",
@@ -34,8 +31,9 @@ module.exports = {
               // It's important to specify the maxWidth (in pixels) of
               // the content container as this plugin uses this as the
               // base for generating different widths of each image.
-              maxWidth: 1000,
+              maxWidth: 800,
               quality: 80,
+              backgroundColor: "transparent",
             },
           },
         ],
@@ -114,9 +112,13 @@ module.exports = {
                   imageHtml = `<p><img src="${site.siteMetadata.siteUrl}${image}"/></p>`;
                 } catch (err) {}
 
+                const description = edge.node.frontmatter.excerpt
+                  ? edge.node.frontmatter.excerpt
+                  : edge.node.excerpt;
+
                 return Object.assign({}, edge.node.frontmatter, {
                   title: edge.node.frontmatter.title,
-                  description: edge.node.excerpt,
+                  description,
                   date: edge.node.frontmatter.date,
                   url: `${site.siteMetadata.siteUrl}/${edge.node.frontmatter.path}`,
                   guid: `${site.siteMetadata.siteUrl}/${edge.node.frontmatter.path}`,
@@ -143,6 +145,7 @@ module.exports = {
                       title
                       date
                       path
+                      excerpt
                       img_path{
                         publicURL
                       }
@@ -153,9 +156,46 @@ module.exports = {
             }
             `,
             output: "/rss.xml",
-            title: "Maisa Hyttinen",
+            title: "Hevosvalokuvaaja Maisa Hyttinen",
           },
         ],
+      },
+    },
+    {
+      resolve: `gatsby-plugin-sitemap`,
+      options: {
+        output: `/sitemap.xml`,
+        query: `
+          {
+            site {
+              siteMetadata {
+                siteUrl
+              }
+            }
+  
+            allSitePage {
+              nodes {
+                path
+              }
+            }
+        }`,
+        resolveSiteUrl: ({ site }) => {
+          return site.siteMetadata.siteUrl;
+        },
+        serialize: ({ site, allSitePage }) =>
+          allSitePage.nodes.map(({ path }) => {
+            return {
+              url: `${site.siteMetadata.siteUrl}${path}`,
+              changefreq: `weekly`,
+            };
+          }),
+      },
+    },
+    {
+      resolve: "gatsby-plugin-robots-txt",
+      options: {
+        host: "https://maisahyttinen.fi",
+        sitemap: "https://maisahyttinen.fi/sitemap.xml",
       },
     },
     {

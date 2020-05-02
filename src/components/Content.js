@@ -29,6 +29,7 @@ const ContentContainer = styled("div")`
     line-height: 1.8;
     font-size: 17px;
     font-weight: 300;
+    letter-spacing: 1px;
 
     :last-child {
       margin: 0 0 0.5rem 0;

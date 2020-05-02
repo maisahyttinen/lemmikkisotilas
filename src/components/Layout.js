@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { Box, Flex } from "@chakra-ui/core";
+import { Box, Flex, css } from "@chakra-ui/core";
 import NavigationButton from "./NavigationButton";
 import useSiteMetadata from "./SiteMetadata";
 import { NavigationOverlay } from "./NavigationOverlay";
@@ -12,7 +12,17 @@ const TemplateWrapper = ({ children, seoTitle, seoDescription }) => {
   const [showNavigation, setShowNavigation] = useState(false);
 
   return (
-    <Box width="full">
+    <Box
+      width="full"
+      className={css(`
+      *:focus {
+        outline: 0 !important;
+      }
+      *:active {
+        outline: 0 !important;
+      }
+    `)}
+    >
       <HelmetSeo
         title={seoTitle ? seoTitle : title}
         description={seoDescription ? seoDescription : description}
@@ -25,7 +35,9 @@ const TemplateWrapper = ({ children, seoTitle, seoDescription }) => {
         {children}
       </Flex>
       <Footer />
-      {showNavigation && <NavigationOverlay />}
+      {showNavigation && (
+        <NavigationOverlay onCloseClick={() => setShowNavigation(false)} />
+      )}
     </Box>
   );
 };

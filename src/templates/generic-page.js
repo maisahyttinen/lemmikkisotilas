@@ -4,9 +4,10 @@ import { graphql } from "gatsby";
 import Image from "gatsby-image";
 
 import Layout from "../components/Layout";
-import { Text, Heading, Divider, Stack, Box } from "@chakra-ui/core";
+import { Heading, Divider, Stack, Box } from "@chakra-ui/core";
 import { Section } from "../components/Section";
 import { HTMLContent } from "../components/Content";
+import { Text } from "../components/Text";
 
 export const PageTemplate = ({ date, title, subtitle, html, image }) => (
   <>
@@ -14,7 +15,7 @@ export const PageTemplate = ({ date, title, subtitle, html, image }) => (
       <Stack
         width={["full", "full", "2xl", "3xl"]}
         marginTop={"20"}
-        marginBottom={["32", "32", "32", "20"]}
+        marginBottom={["12", "12", "16s", "20"]}
         paddingLeft={["5", "6", "0", "0"]}
         paddingRight={["5", "6", "0", "0"]}
         flexDirection="column"
