@@ -1,6 +1,6 @@
 backend:
   name: github
-  branch: new-layout
+  branch: master
   repo: maisahyttinen/lemmikkisotilas
 
 media_folder: static/images
