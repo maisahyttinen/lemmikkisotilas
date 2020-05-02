@@ -94,7 +94,7 @@ const Post = ({ title, excerpt, image, path, align, post_button_label }) => {
       flexDirection="column"
       alignItems="center"
       justifyContent="center"
-      marginBottom="20"
+      marginBottom="12"
     >
       <Flex
         flexDirection="row"
@@ -194,6 +194,7 @@ export const SpotlightSection = ({ title, description, footer, buttons }) => {
           fontWeight="light"
           textAlign={"center"}
           fontSize={["md", "lg", "xl", "xl"]}
+          marginBottom="2"
         >
           {description}
         </Text>
