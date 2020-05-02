@@ -1,5 +1,7 @@
 import React from "react";
 import { Button as ChakraButton, Text } from "@chakra-ui/core";
+import Colors from "../gatsby-plugin-chakra-ui/colors";
+import { css } from "@emotion/core";
 
 export const Button = ({ variant, children, ...props }) => {
   const isLight = variant === "light";
@@ -11,6 +13,17 @@ export const Button = ({ variant, children, ...props }) => {
       border={isLight ? "1px solid" : "none"}
       borderColor={isLight ? "brandGray" : "none"}
       backgroundColor={isLight ? "white" : "brandGray"}
+      _hover={{
+        bg: isLight ? "brandLightGray" : "brandYellow",
+      }}
+      css={css(`
+          :hover{
+            * {
+              color: ${Colors.brandGray} !important;
+              transition-duration: 0.25s;
+            }
+          }
+        `)}
       {...props}
     >
       <Text
