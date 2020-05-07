@@ -11,7 +11,7 @@ subtitle: 30 vastausta 30 kysymykseen! Sotilas on tullut useimmille
   artikkelin kuvat on ottanut Mirella Ruotsalainen / Hertjekker.net.
 excerpt: 30 vastausta 30 kysymykseen! Sotilas on tullut useimmille
   seuraajillemme jo tutuksi, mutta kuka minä olen ja mitä minä puuhailen?
-img_path: /images/kuvaaja-mirella-ruotsalainen-_-hertjekker.net.jpg
+img_path: /images/unknown-soldier-131-edit-isoisoiso.jpg
 post_button_label: Lue lisää
 ---
 #### **1. Kuka olet?**
@@ -38,7 +38,7 @@ Ensimmäisellä omalla hevosella on yleensä erityinen asema. Pentu oli monella 
 
 Sotilas on hevosena aivan toista maata, mutta se on kaikessa tasapainoisuudessaan ja luotettavuudessaan uskomattoman rakastettava persoona. Sen kanssa olen nauttinut tästä harrastuksesta enemmän kuin koskaan aiemmin. Terveysmurheet ovat kasvattaneet sekä minua että tietotaitojani hurjasti.
 
-![](/images/unknown-soldier-3085-edit-2.jpg)
+![](/images/unknown-soldier-171-.jpg)
 
 #### **6. Suunnitelmasi vuodelle 2020?**
 
@@ -142,7 +142,7 @@ Kevät! Saan ihan hurjasti energiaa auringonpaisteesta ja tulevan kesän suunnit
 
 Kaikkein aktiivisimmin käytän Instagramia ([@maisahyttinen](https://www.instagram.com/maisahyttinen/)) ja Facebookia ([Hevosvalokuvaaja Maisa Hyttinen](https://www.facebook.com/eqphoto.maisahyttinen/)). TikTokkia ja LinkedIniä fiiliksen mukaan, mutta jokseenkin säännöllisesti.
 
-![](/images/76693386_10212677088201610_964007239243268096_o.jpg)
+![](/images/unknown-soldier-7-.jpg)
 
 #### **26. Unelmiesi työpaikka?**
 
@@ -166,4 +166,4 @@ Yhdellä sanalla varmaankin rutinoitunut. Meidän arkemme on jo vuosia ollut kii
 
 Viiden vuoden kuluttua olen viittä vaille 30. Siihen mennessä tahdon olla mennyt naimisiin, asunut hetken ulkomailla ja löytänyt oman paikkani työelämässä. Olen toivottavasti löytänyt Sotilaalle täydellisen seuraajan ja nautin yhä hevosharrastuksesta. En panisi pahakseni, vaikka viiden vuoden päästä oma omakotitalokin olisi jo suunnitteilla. Aika perinteisiä haaveita siis!
 
-![](/images/unknown-soldier-5438-edit.jpg)
+![](/images/unknown-soldier-3085-edit-2.jpg)
