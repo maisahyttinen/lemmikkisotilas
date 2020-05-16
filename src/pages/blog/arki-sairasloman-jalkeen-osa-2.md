@@ -17,16 +17,17 @@ excerpt: Arki sairasloman jälkeen on artikkelisarja, jossa kerron, millaisella
 img_path: /images/sairaslomaltapaluu1.jpg
 post_button_label: Lue lisää
 ---
-<a href="https://www.bloglovin.com/blog/20439503/?claim=2wu4qms5rx9">Follow my blog with Bloglovin</a>
-
 Miettiessäni, mitä haluaisin kertoa meidän arjestamme nyt, huomasin, ettei postaus tai kaksikaan riitä avaamaan kaikkea sitä, mitä pitkältä sairaslomalta palaaminen pitää sisällään. Tämä ei ole meille suinkaan ensimmäinen kerta ja vuosien varrella olen huomannut monia käyttökelpoisia toimintatapoja.
 
 Haluan kuitenkin muistuttaa, että tässä artikkelisarjassa kerrotut asiat ovat vain omia ajatuksiani ja kokemuksiani siitä, miten sairaslomalta voi palata takaisin arkeen harrastehevosen kanssa.
 
-\- [Osa 1: Katsaus kokonaistilanteeseen](https://www.maisahyttinen.fi/arki-sairasloman-jalkeen-osa-1)\
-- **Osa 2: Painonhallinta ja peruskunto**\
-- Osa 3: Ruokinta tukee toipumista\
-- Osa 4: Henkinen hyvinvointi
+[Osa 1: Katsaus kokonaistilanteeseen](https://www.maisahyttinen.fi/arki-sairasloman-jalkeen-osa-1)
+
+**Osa 2: Painonhallinta ja peruskunto**
+
+Osa 3: Ruokinta tukee toipumista
+
+Osa 4: Henkinen hyvinvointi
 
 Sotilaan tapauksessa taustalla on nivelvaivojen aiheuttama 9 kuukauden tauko kuntoa ylläpitävästä liikunnasta. Kengitys, suu ja yleinen terveydentila on tarkastettu vastikään. Seisomisesta jäykistynyttä kroppaa hoidetaan hieronnalla ja laserilla. Yleisfiilikseltään Sotilas on tuttuun tapaan laiskanpulskea, mutta se helpottanee liikunnan lisääntymisen myötä.
 
@@ -52,9 +53,7 @@ Sotilas kuuluu tällä hetkellä tähän ryhmään. Jo valmiiksi tynnyrin muotoi
 
 Meille sairaslomalta palaaminen on ollut liikunnan suhteen yleensä melko helppoa, koska Sotilasta on valmennettu tavoitteellisesti 1,5-vuotiaasta asti ja se on kasvanut fysiikaltaan aikuiseksi säännöllisessä treenissä. Esimerkiksi [theHorse on julkaissut kiinnostavan artikkelin](https://thehorse.com/117784/conditioning-young-horses/) siitä, millainen merkitys liikunnalla on hevosen kehitykselle kolmen ensimmäisen elinvuoden aikana.
 
-> “Research shows that appropriate amounts of exercise during the first three years of a horse’s life can benefit the musculoskeletal system. -- Researchers note that growing muscles adapt to the discipline for which the horse is preparing. That’s especially true for how these structures metabolize energy, meaning how they store oxygen and use fat as an energy source. So developing equine muscles properly via exercise is primordial in preparing the young athlete.”
->
-> \- theHorse: [Conditioning Young Horses](https://thehorse.com/117784/conditioning-young-horses/)
+“*Research shows that appropriate amounts of exercise during the first three years of a horse’s life can benefit the musculoskeletal system. -- Researchers note that growing muscles adapt to the discipline for which the horse is preparing. That’s especially true for how these structures metabolize energy, meaning how they store oxygen and use fat as an energy source. So developing equine muscles properly via exercise is primordial in preparing the young athlete.*” - **theHorse**: [Conditioning Young Horses](https://thehorse.com/117784/conditioning-young-horses/)
 
 Tutkimukset siis osoittavat, että sopiva määrä fyysistä rasitusta on jo nuoressa iässä eduksi hevosen tuki- ja liikuntaelimistön kehitykselle. Kasvavat lihakset sopeutuvat rasitukseen ja esimerkiksi kyky varastoida happea sekä käyttää rasvaa energianlähteenä kasvaa. Optimaalinen lihasaineenvaihdunta on merkityksellistä erityisesti silloin, kun kehoon kohdistuu poikkeuksellisen kova rasitus - esimerkiksi urheilusuorituksissa sekä liikunnan alkaessa uudelleen pitkän tauon jälkeen.
 
@@ -100,9 +99,14 @@ Tällä tapaa olemme liikkuneet nyt muutaman viikon. Todennäköisesti ainakin s
 
 ### Treenivinkit sairaslomalta palaajalle ja miksei muillekin:
 
-\- Mäkitreeni, sekä ylös että alas\
-- Metsäpolut ja monipuolinen maasto\
-- Peruutus tasamaalla\
-- Avo- ja sulkutaivutukset\
-- Puomitehtävät\
-- Väistöt
+Mäkitreeni, sekä ylös että alas
+
+Metsäpolut ja monipuolinen maasto
+
+Peruutus tasamaalla
+
+Avo- ja sulkutaivutukset
+
+Puomitehtävät
+
+Väistöt

@@ -134,7 +134,7 @@ export const SpotlightSection = ({ title, description, footer, buttons }) => {
       allMarkdownRemark(
         sort: { order: DESC, fields: [frontmatter___date] }
         filter: { frontmatter: { template: { eq: "blog-post" } } }
-        limit: 3
+        limit: 5
       ) {
         edges {
           node {
