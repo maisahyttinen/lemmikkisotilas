@@ -1,5 +1,5 @@
 ---
-title: "can you seize the day and dry your tears before you lose it all?"
+title: "Can you seize the day and dry your tears before you lose it all?"
 date: 2011-11-07
 id: "1159"
 path: "can-you-seize-the-day-and-dry-your-tears-before-you-lose-it-all"
