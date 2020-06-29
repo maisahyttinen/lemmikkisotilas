@@ -22,8 +22,16 @@ module.exports = {
       resolve: "gatsby-transformer-remark",
       options: {
         plugins: [
+          // Did not work, gatsby-plugin-netlify-cms-paths seems to work better
+          // {
+          //   resolve: "gatsby-remark-relative-images",
+          // },
           {
-            resolve: "gatsby-remark-relative-images",
+            resolve: `gatsby-plugin-netlify-cms-paths`,
+            options: {
+              // Path to your Netlify CMS config file
+              cmsConfig: `/static/admin/config.yml`,
+            },
           },
           {
             resolve: "gatsby-remark-images",
