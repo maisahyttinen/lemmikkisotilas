@@ -2,23 +2,23 @@
 template: blog-post
 path: testissa-hevosten-hyonteiskarkotteet
 header-title: Testissä hevosten hyönteiskarkotteet
-header-description: Testasimme seitsemää hevosille tarkoitettua
-  hyönteiskarkotetta; suihkeita, voiteita ja öljyä. Artikkeli on toteutettu
-  yhteistyössä Börjes Kotimäen kanssa ja kaikki testin tuotteet ovat saatavilla
-  Börjesin verkkokaupasta.
-title: Testissä hevosten hyönteiskarkotteet
-date: 2020-06-27
-subtitle: Testasimme seitsemää hevosille tarkoitettua hyönteiskarkotetta;
-  suihkeita, voiteita ja öljyä. Artikkeli on toteutettu yhteistyössä Börjes
+header-description: Testasimme kuutta hevosille tarkoitettua hyönteiskarkotetta;
+  suihkeita, voidetta ja öljyä. Artikkeli on toteutettu yhteistyössä Börjes
   Kotimäen kanssa ja kaikki testin tuotteet ovat saatavilla Börjesin
   verkkokaupasta.
-excerpt: Testasimme seitsemää hevosille tarkoitettua hyönteiskarkotetta;
-  suihkeita, voiteita ja öljyä. Artikkeli on toteutettu yhteistyössä Börjes
-  Kotimäen kanssa.
-img_path: /images/img_2597-kopio.jpg
+title: Testissä hevosten hyönteiskarkotteet
+date: 2020-06-27T00:00:00.000Z
+subtitle: Testasimme kuutta hevosille tarkoitettua hyönteiskarkotetta;
+  suihkeita, voidetta ja öljyä. Artikkeli on toteutettu yhteistyössä Börjes
+  Kotimäen kanssa ja kaikki testin tuotteet ovat saatavilla Börjesin
+  verkkokaupasta.
+excerpt: Testasimme kuutta hevosille tarkoitettua hyönteiskarkotetta; suihkeita,
+  voidetta ja öljyä. Artikkeli on toteutettu yhteistyössä Börjes Kotimäen
+  kanssa.
+img_path: /images/img_2597-kopio2.jpg
 post_button_label: Lue lisää
 ---
-Testissä olivat mukana [Effol Fly Blocker +](https://www.borjeskotimaki.fi/tuote/effol-fly-blocker-500ml/EF115700/?keywords=fly+blocker), [Dr Repel](https://www.borjeskotimaki.fi/tuote/dr-repel-hyonteiskarkoite-1l/12064/), [Solheds Derma 3 Summer Deo Cream](https://www.borjeskotimaki.fi/tuote/solheds-derma3-summer-deo-cream-750ml/Derma3cream/), [Ekholms Prob Deo Eucalyptus and Lemongrass](https://www.borjeskotimaki.fi/tuote/prob-hevos-deo-spray-750ml-eukalyptus/12360-7502/), [Ekholms Prob Deo Tar and Lemongrass Concentrate](https://www.borjeskotimaki.fi/tuote/prob-hevos-deo-500ml/12340/), Renons Flugkräm sekä [Tervaskanto Pikiöljy](https://www.borjeskotimaki.fi/tuote/pikioljy-50ml/T1003/). Kaikki tuotteet kuuluvat [Börjes Kotimäen](https://www.borjeskotimaki.fi) tämän kauden karkotevalikoimaan.
+Testissä olivat mukana [Effol Fly Blocker +](https://www.borjeskotimaki.fi/tuote/effol-fly-blocker-500ml/EF115700/?keywords=fly+blocker), [Dr Repel](https://www.borjeskotimaki.fi/tuote/dr-repel-hyonteiskarkoite-1l/12064/), [Solheds Derma 3 Summer Deo Cream](https://www.borjeskotimaki.fi/tuote/solheds-derma3-summer-deo-cream-750ml/Derma3cream/), [Ekholms Prob Deo Eucalyptus and Lemongrass](https://www.borjeskotimaki.fi/tuote/prob-hevos-deo-spray-750ml-eukalyptus/12360-7502/), [Ekholms Prob Deo Tar and Lemongrass Concentrate ](https://www.borjeskotimaki.fi/tuote/prob-hevos-deo-500ml/12340/)sekä [Tervaskanto Pikiöljy](https://www.borjeskotimaki.fi/tuote/pikioljy-50ml/T1003/). Kaikki tuotteet kuuluvat [Börjes Kotimäen](https://www.borjeskotimaki.fi) tämän kauden karkotevalikoimaan.
 
 Meillä Pirkanmaalla hyönteiskesä alkoi hyttysillä, jatkui pikkukärpästen invaasiolla ja helteiden myötä ovat ilmestyneet myös paarmat. Polttiaisia emme ole vielä suurissa määrin tavanneet.
 
@@ -104,20 +104,6 @@ Hyvän suihkepullon etsiminen ja suihkeen laimentaminen tuntuu kuitenkin sen ver
 
 **Arvosana 2 / 5**
 
-![](/images/renonsvoide.jpg)
-
-#### **Renons Flugkräm**
-
-250ml
-
-Hyönteisiä karkottava voide, joka sisältää demineralisoitua vettä, propeeniglykolia, emulgointiainetta, sitronellaöljyä, laventeliöljyä ja vaikuttavana aineena ikaridiinia (5g/100g). Voiteelle luvataan noin 5 tunnin vaikutusaika ja sitä suositellaan käytettäväksi päivittäin, erityisesti ratsastuksen aikana.
-
-Koostumukseltaan melko vetinen ja juokseva. Mieto tuoksu. Koostumuksesta johtuen voide leviää karvaan helposti, mutta yhtä helposti sotkee levittäjän ja vähän ympäristöäkin. Pitää ötökät loitolla kohtuullisesti heti levittämisen jälkeen.
-
-Toisin kuin muut testin tuotteet, fiksun kokoinen tuubi mahtuu helposti harjapakkiin tai -kassiin. Pieni tuubi ei kuitenkaan ole kovin riittoisa.
-
-**Arvosana 2,5 / 5**
-
 ![](/images/img_2853.jpg)
 
 #### **Tervaskanto Pikiöljy**
@@ -134,7 +120,7 @@ Tervan ainoa iso miinus on, että se haisee tervalta - jos siis ei pidä tervan 
 
 **Arvosana 4,5 / 5**
 
-![](/images/img_2597-kopio.jpg)
+![](/images/img_2597-kopio2.jpg)
 
 Uskalsin odottaa, että luottotuotteemme Effol on testissä vahvoilla. Sekä [Fly Blocker +](https://www.borjeskotimaki.fi/tuote/effol-fly-blocker-500ml/EF115700/) että [Anti Fly Gel](https://www.borjeskotimaki.fi/tuote/effol-anti-fly-hyonteisgeeli/EF115600/) ovat olleet käytössä jo useampina kesinä ja ne ovat ehtineet vakuuttaa hintalaatusuhteellaan. Vaikka onhan etenkin tuo suihke aika tyyris päivittäin käytettynä.
 
@@ -142,7 +128,7 @@ Uskalsin odottaa, että luottotuotteemme Effol on testissä vahvoilla. Sekä [Fl
 
 [Ekholmsin tuotteet](https://www.borjeskotimaki.fi/kauppa/tarkennettu-haku/11/?keywords=ekholm&nhbutton5=&categories_id=) olivat minulle aivan uusi tuttavuus ja ihastuin tuoksuun saman tien! Olen käyttänyt suihkeita melko ahkerasti myös itseeni – yksiäkään vaatteita tahraamatta. Tuoksukin haihtuu siististi pois, eikä jää hikisiin tallivaatteisiin eltaantumaan, vaikka pyykit unohtuisivatkin kylppärin lattialle…
 
-[Solhedsin voiteen](https://www.borjeskotimaki.fi/tuote/solheds-derma3-summer-deo-cream-750ml/Derma3cream/) miellyttävyys yllätti täysin! Onneksi pullo on iso ja ihanan tuoksuista voidetta riittää siveltäväksi. Uskon, että Summer Deo Cream on yhdessä [Calming Serumin](https://www.borjeskotimaki.fi/tuote/solheds-derma2-calming-serum-100ml/Derma2100/) kanssa täydellinen yhdistelmä etenkin loppukesästä, kun polttiaiset iskevät eikä sieltä täältä hieman rikkoutuneelle iholle tee mieli suihkuttaa mitä tahansa. Renonsin voide ei yltänyt käyttömukavuudessaan Solhedsin tasolle.
+[Solhedsin voiteen](https://www.borjeskotimaki.fi/tuote/solheds-derma3-summer-deo-cream-750ml/Derma3cream/) miellyttävyys yllätti täysin! Onneksi pullo on iso ja ihanan tuoksuista voidetta riittää siveltäväksi. Uskon, että Summer Deo Cream on yhdessä [Calming Serumin](https://www.borjeskotimaki.fi/tuote/solheds-derma2-calming-serum-100ml/Derma2100/) kanssa täydellinen yhdistelmä etenkin loppukesästä, kun polttiaiset iskevät eikä sieltä täältä hieman rikkoutuneelle iholle tee mieli suihkuttaa mitä tahansa. 
 
 Ja vaikka tervan hajua vähän inhoankin, on [kunnon pikiöljyllä](https://www.borjeskotimaki.fi/tuote/pikioljy-50ml/T1003/) kiistaton paikkansa. Suihkutettaviin öljylaimennoksiin en ryhdy ihan jo helteen ja ruokaöljyn härskiintymisen vuoksi, mutta [Helosaniin](https://www.borjeskotimaki.fi/tuote/helosan-300gr/87052/), Tummeliin tai muuhun yleisvoiteeseen sekoitettuna pikiöljy on aivan verraton tuote joka kutinaan. Ja pirun sitkeisiin polttiaisiinkin.
 
