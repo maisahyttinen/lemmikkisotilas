@@ -48,15 +48,13 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-plugin-prefetch-google-fonts`,
+      resolve: `gatsby-plugin-google-fonts`,
       options: {
         fonts: [
-          {
-            family: `Raleway`,
-            variants: [`300`, `500`],
-          },
+          `Raleway\:300,500` // you can also specify font weights and styles
         ],
-      },
+        display: 'block'
+      }
     },
     {
       resolve: "gatsby-plugin-chakra-ui",
