@@ -226,7 +226,7 @@ collections:
                 name: subtitle
                 widget: string
               - label: Sponsors
-                name: sponsors
+                name: sponsorsList
                 widget: list
                 fields:
                   - label: Description
