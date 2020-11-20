@@ -35,9 +35,6 @@ sponsors:
     - description: Pavo-rehut
       link: https://www.facebook.com/pavo.suomi/
       image: /images/pavologo_slogan.png
-    - description: Pavo-rehut
-      link: https://www.facebook.com/pavo.suomi/
-      image: /images/pavologo_slogan.png
 
 spotlight:
   title: Uudet artikkelit
