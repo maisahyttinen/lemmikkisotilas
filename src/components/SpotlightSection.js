@@ -163,7 +163,7 @@ export const SpotlightSection = ({ title, description, footer, buttons }) => {
   const posts = data.allMarkdownRemark.edges;
 
   return (
-    <Section color="backgroundWhite">
+    <Section color="backgroundGray">
       <Stack
         width={["full", "full", "2xl", "4xl"]}
         marginTop={["12", "12", "20", "20"]}

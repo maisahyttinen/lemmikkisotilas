@@ -214,6 +214,32 @@ collections:
                     name: url
                     widget: string
                     hint: Must be format "/posts/example" or "https://is.fi"
+
+          - label: Sponsors
+            name: sponsors
+            widget: object
+            fields:
+              - label: Title
+                name: title
+                widget: string
+              - label: Subtitle
+                name: subtitle
+                widget: string
+              - label: Sponsors
+                name: sponsors
+                widget: list
+                fields:
+                  - label: Description
+                    name: description
+                    widget: string
+                  - label: Link
+                    name: link
+                    widget: string
+                    hint: Must be format "/posts/example" or "https://is.fi"
+                  - label: Image
+                    name: image
+                    widget: image
+
           - label: Spotlight
             name: spotlight
             widget: object

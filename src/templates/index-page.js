@@ -12,8 +12,9 @@ import { markdownToHtml } from "../utils/markdown";
 import { SpotlightSection } from "../components/SpotlightSection";
 import { Link } from "../components/Link";
 import { Text } from "../components/Text";
+import { uniqueId } from "lodash";
 
-export const IndexPageTemplate = ({ main, intro, spotlight }) => (
+export const IndexPageTemplate = ({ main, intro, spotlight, sponsors }) => (
   <>
     <Section color="backgroundWhite">
       <Flex
@@ -122,20 +123,94 @@ export const IndexPageTemplate = ({ main, intro, spotlight }) => (
         </Flex>
       </Stack>
     </Section>
+
+    <Section color="backgroundWhite">
+      <Stack
+        width={["full", "full", "2xl", "3xl"]}
+        marginTop={["12", "12", "20", "20"]}
+        marginBottom={["12", "12", "20", "20"]}
+        paddingLeft={["5", "6", "0", "0"]}
+        paddingRight={["5", "6", "0", "0"]}
+        flexDirection="column"
+        justifyContent="space-evenly"
+        alignItems="center"
+        spacing="10"
+      >
+        <Heading
+          as="h2"
+          fontSize={["2xl", "3xl", "4xl", "4xl"]}
+          fontWeight="light"
+          color="brand.gray"
+          textAlign={["center", "center", "center", "left"]}
+          marginBottom="10"
+        >
+          {sponsors.title && sponsors.title}
+        </Heading>
+        <Text
+          as="div"
+          fontWeight="light"
+          textAlign={"center"}
+          fontSize={["md", "md", "lg", "xl"]}
+          lineHeight={["lg", "lg", "xl", "2xl"]}
+        >
+          {sponsors.subtitle.length > 0 && sponsors.subtitle}
+        </Text>
+
+        <Flex
+          flexDirection="row"
+          width="full"
+          alignItems="center"
+          justifyContent="space-evenly"
+          flexWrap="wrap"
+        >
+          {sponsors.sponsors &&
+            sponsors.sponsors.map((sponsor, i) => {
+              console.log("jjejee");
+              return (
+                <Box
+                  width="auto"
+                  height="full"
+                  //maxWidth={["3xs", "3xs", "2xs", "xs"]}
+                  maxHeight={["48", "48", "48", "48"]}
+                  minWidth={["48", "48", "48", "48"]}
+                  marginTop={["6vw", "6vw", "0", "0"]}
+                  marginBottom={["6vw", "6vw", "0", "0"]}
+                  marginLeft="6vw"
+                  marginRight="6vw"
+                  key={uniqueId("sponsor")}
+                >
+                  <Link to={sponsor.link}>
+                    <Image
+                      fluid={sponsor.image.childImageSharp.fluid}
+                      alt={sponsor.description}
+                    />
+                  </Link>
+                </Box>
+              );
+            })}
+        </Flex>
+      </Stack>
+    </Section>
+
     <SpotlightSection {...spotlight} />
   </>
 );
 
 const IndexPage = ({ data }) => {
   const { frontmatter } = data.markdownRemark;
-  const { main, intro, spotlight } = frontmatter;
+  const { main, intro, spotlight, sponsors } = frontmatter;
 
   return (
     <Layout
       seoTitle={frontmatter.header_title}
       seoDescription={frontmatter.header_description}
     >
-      <IndexPageTemplate main={main} intro={intro} spotlight={spotlight} />
+      <IndexPageTemplate
+        main={main}
+        intro={intro}
+        spotlight={spotlight}
+        sponsors={sponsors}
+      />
     </Layout>
   );
 };
@@ -178,6 +253,21 @@ export const pageQuery = graphql`
           buttons {
             title
             url
+          }
+        }
+        sponsors {
+          title
+          subtitle
+          sponsors {
+            description
+            link
+            image {
+              childImageSharp {
+                fluid(maxWidth: 320) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
           }
         }
         spotlight {
