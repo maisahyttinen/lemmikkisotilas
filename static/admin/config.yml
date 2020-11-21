@@ -269,7 +269,7 @@ collections:
             widget: object
             fields:
               - label: Title
-                name: description
+                name: title
                 widget: string
               - label: Description
                 name: description
