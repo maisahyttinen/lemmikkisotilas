@@ -163,8 +163,8 @@ export const IndexPageTemplate = ({ main, intro, spotlight, sponsors }) => (
           justifyContent="space-evenly"
           flexWrap="wrap"
         >
-          {sponsors.sponsorsList &&
-            sponsors.sponsorsList.map((sponsor, i) => {
+          {sponsors.sponsors &&
+            sponsors.sponsors.map((sponsor, i) => {
               console.log("jjejee");
               return (
                 <Box

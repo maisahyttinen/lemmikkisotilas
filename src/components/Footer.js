@@ -29,7 +29,7 @@ export const Footer = () => {
   const { title, description, social } = data.markdownRemark.frontmatter.footer;
 
   return (
-    <Section as="footer" color="backgroundGray">
+    <Section as="footer" color="backgroundWhite">
       <Flex
         width={["full", "full", "2xl", "4xl"]}
         marginTop={["12", "12", "16", "20"]}
