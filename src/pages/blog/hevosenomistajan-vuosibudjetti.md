@@ -65,7 +65,7 @@ Hevosten kiinteät kulut ovat yhteensä noin 9 440€ vuodessa.
 **Auton lainanlyhennys:** 2 400€\
 **Auton puskurirahasto:** 600€
 
-Asumiskustannukset pitävät sisällään kaikki ne kulut, jotka jaamme avopuolisoni kanssa. Summassa on yhteenlaskettuna minun osuuteni pienen kaksion vuokrasta, vesi- ja sähkömaksuista, vakuutuksista (koti ja auto), ajoneuvoverosta, kodin internetistä sekä suoratoistopalveluista. Lisäsin summaan myös oman tapaturmavakuutukseni sekä puhelinlaskun.
+Asumiskustannukset pitävät sisällään kaikki ne kulut, jotka jaamme avopuolisoni kanssa. Summassa on yhteenlaskettuna minun osuuteni pienen kaksion vuokrasta, vesi- ja sähkömaksuista, vakuutuksista (koti ja auto), ajoneuvoverosta, kotisiivouksesta 4 viikon välein, internetistä sekä suoratoistopalveluista. Lisäsin summaan myös oman tapaturmavakuutukseni sekä puhelinlaskun.
 
 Ostimme tänä vuonna uudehkon käytetyn auton lainalla, jota lyhennämme vielä reilut pari vuotta. Auton puskurirahastolla katetaan esimerkiksi huoltokustannuksia ja rengashankintoja.
 
