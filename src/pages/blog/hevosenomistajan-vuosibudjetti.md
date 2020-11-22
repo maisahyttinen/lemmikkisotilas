@@ -28,9 +28,9 @@ Kalenterin lisäksi olen tarkastellut ensi vuoden budjettia. Ensimmäistä kerta
 
 ![](/images/maisa-sotilas-10.jpg)
 
-### Tältä näyttää budjettini vuodelle 2021:
+### Tällainen on vuosibudjettini 2021:
 
-#### Tulot:
+#### **Tulot:**
 
 **Kokoaikainen päivätyö:** 30 000€\
 **Sivutoiminen valokuvaus:** 6 000€
@@ -89,10 +89,14 @@ Oikeasti summia on mahdoton sanoa kymmenen sentin tarkkuudella ja tulotkin tulev
 
 ### Olen käynyt miettimään rahankäyttöäni vasta hiljattain ja talouteni oli aika sekaisin ensimmäiset 5 vuotta omilleen muuton jälkeen.
 
-Muuttaessani Lappeenrantaan opiskelemaan, muutti Sotilas mukanani. Lukion ajan Sotilas oli asunut omassa tallissamme, joten en ollut tottunut tavallisiin tallipaikkakustannuksiin. Vaikka Itä-Suomen hintataso on aika maltillinen esimerkiksi nykyiseen asuinpaikkaamme Tampereeseen verrattuna, kuluivat opintotuet lainoineen saman tien vuokriin ja muihin laskuihin. Osa-aikatöillä ja vanhempieni tuella sain kuitattua arjen muut kulut. Jossain vaiheessa tein opintojen ohella kolmea eri työtä samaan aikaan. Siitä oli someglamouri aika kaukana.
+Muuttaessani Lappeenrantaan opiskelemaan, muutti Sotilas mukanani. Lukion ajan Sotilas oli asunut omassa tallissamme, joten en ollut tottunut tavallisiin tallipaikkakustannuksiin.
+
+Vaikka Itä-Suomen hintataso on aika maltillinen esimerkiksi nykyiseen asuinpaikkaamme Tampereeseen verrattuna, kuluivat opintotuet lainoineen saman tien vuokriin ja muihin laskuihin. Osa-aikatöillä ja vanhempieni tuella sain kuitattua arjen muut kulut. Jossain vaiheessa tein opintojen ohella kolmea eri työtä samaan aikaan. Siitä oli someglamouri aika kaukana.
 
 Tällä hetkellä olen mieluisissa oman alani töissä, yhä keskeneräisen korkeakoulututkinnon ja 19 000 euron opintolainan kera. Kiitos koronan, voin jatkaa tutkintoni hissukseen loppuun verkko-opintoina. Omaa talouttaan olisi ehkä kuitenkin kannattanut laskeskella jo hieman aiemmin, vaikka esimerkiksi luottotiedot ja mielenterveys ovat yhä tallella enkä ole haksahtanut esimerkiksi pikavippeihin.
 
-Näin jälkeenpäin ajateltuna näkisin arkiset taloustaidot mielelläni osana myös aloittavien korkeakouluopiskelijoiden opintosuunnitelmaa, koska kuten Aadakin [artikkelissaan](https://www.nuori.fi/2020/11/19/yha-useampi-nuori-rakentaa-identiteettiaan-kuluttamisen-kautta/) kirjoittaa: *“Ymmärrys taloudesta tuo mielenrauhaa, joka vaikuttaa suoraan ihmisen kokemaan hyvinvointiin. Samalla se ehkäisee mahdollisia tulevaisuuden talousongelmia, kuten ylivelkaantumista, ja on siten merkittävässä osassa paitsi nuoren itsensä elämää, myös yhteiskuntamme tulevaisuutta.”*
+Näin jälkeenpäin ajateltuna näkisin arkiset taloustaidot mielelläni osana myös aloittavien korkeakouluopiskelijoiden opintosuunnitelmaa, koska kuten Aadakin [artikkelissaan](https://www.nuori.fi/2020/11/19/yha-useampi-nuori-rakentaa-identiteettiaan-kuluttamisen-kautta/) kirjoittaa:
+
+> *“Ymmärrys taloudesta tuo mielenrauhaa, joka vaikuttaa suoraan ihmisen kokemaan hyvinvointiin. Samalla se ehkäisee mahdollisia tulevaisuuden talousongelmia, kuten ylivelkaantumista, ja on siten merkittävässä osassa paitsi nuoren itsensä elämää, myös yhteiskuntamme tulevaisuutta.”*
 
 PS. Tämän postauksen kuvat ovat ihanan [Marle Muurosen](https://www.instagram.com/marlemuuronen/) käsialaa!
