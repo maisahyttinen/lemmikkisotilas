@@ -99,4 +99,6 @@ Näin jälkeenpäin ajateltuna näkisin arkiset taloustaidot mielelläni osana m
 
 > *“Ymmärrys taloudesta tuo mielenrauhaa, joka vaikuttaa suoraan ihmisen kokemaan hyvinvointiin. Samalla se ehkäisee mahdollisia tulevaisuuden talousongelmia, kuten ylivelkaantumista, ja on siten merkittävässä osassa paitsi nuoren itsensä elämää, myös yhteiskuntamme tulevaisuutta.”*
 
+
+
 PS. Tämän postauksen kuvat ovat ihanan [Marle Muurosen](https://www.instagram.com/marlemuuronen/) käsialaa!
