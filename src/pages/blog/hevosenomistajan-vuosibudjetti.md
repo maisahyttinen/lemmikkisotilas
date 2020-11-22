@@ -41,7 +41,7 @@ Käytämme [kotisiivouspalvelua](https://www.kotipuhtaaksi.fi), josta saan kotit
 
 On hyvä huomioida, että valokuvauksesta saatavat eurot riippuvat suurilta osin siitä, voidaanko ravikilpailutoimintaa jatkaa ensi vuonna normaalisti koronasta huolimatta. Mikäli ei voida, täytyy tilalle keksiä korvaavaa hommaa. On myös mahdollista, että siltä osin vuositulot jäävät odotettua pienemmiksi ja sitä myöten menoistakin täytyy nipistää.
 
-#### Hevosmenot:
+#### **Hevosmenot:**
 
 **Tallivuokra:** 5 400€\
 **Kengitys:** 540€\
@@ -59,7 +59,7 @@ Olen mukana kahdessa nuoressa ravihevosessa, joiden kuluja maksan kuukausittain 
 
 Hevosten kiinteät kulut ovat yhteensä noin 9 440€ vuodessa.
 
-#### Omat menot:
+#### **Omat menot:**
 
 **Asumiskustannukset:** 4 500€\
 **Auton lainanlyhennys:** 2 400€\
@@ -93,8 +93,6 @@ Muuttaessani Lappeenrantaan opiskelemaan, muutti Sotilas mukanani. Lukion ajan S
 
 Tällä hetkellä olen mieluisissa oman alani töissä, yhä keskeneräisen korkeakoulututkinnon ja 19 000 euron opintolainan kera. Kiitos koronan, voin jatkaa tutkintoni hissukseen loppuun verkko-opintoina. Omaa talouttaan olisi ehkä kuitenkin kannattanut laskeskella jo hieman aiemmin, vaikka esimerkiksi luottotiedot ja mielenterveys ovat yhä tallella enkä ole haksahtanut esimerkiksi pikavippeihin.
 
-Näin jälkeenpäin ajateltuna näkisin arkiset taloustaidot mielelläni osana myös aloittavien korkeakouluopiskelijoiden opintosuunnitelmaa, koska kuten Aadakin [artikkelissaan](https://www.nuori.fi/2020/11/19/yha-useampi-nuori-rakentaa-identiteettiaan-kuluttamisen-kautta/) kirjoittaa:
-
-*“Ymmärrys taloudesta tuo mielenrauhaa, joka vaikuttaa suoraan ihmisen kokemaan hyvinvointiin. Samalla se ehkäisee mahdollisia tulevaisuuden talousongelmia, kuten ylivelkaantumista, ja on siten merkittävässä osassa paitsi nuoren itsensä elämää, myös yhteiskuntamme tulevaisuutta.”*
+Näin jälkeenpäin ajateltuna näkisin arkiset taloustaidot mielelläni osana myös aloittavien korkeakouluopiskelijoiden opintosuunnitelmaa, koska kuten Aadakin [artikkelissaan](https://www.nuori.fi/2020/11/19/yha-useampi-nuori-rakentaa-identiteettiaan-kuluttamisen-kautta/) kirjoittaa: *“Ymmärrys taloudesta tuo mielenrauhaa, joka vaikuttaa suoraan ihmisen kokemaan hyvinvointiin. Samalla se ehkäisee mahdollisia tulevaisuuden talousongelmia, kuten ylivelkaantumista, ja on siten merkittävässä osassa paitsi nuoren itsensä elämää, myös yhteiskuntamme tulevaisuutta.”*
 
 PS. Tämän postauksen kuvat ovat ihanan [Marle Muurosen](https://www.instagram.com/marlemuuronen/) käsialaa!
