@@ -97,8 +97,6 @@ Tällä hetkellä olen mieluisissa oman alani töissä, yhä keskeneräisen kork
 
 Näin jälkeenpäin ajateltuna näkisin arkiset taloustaidot mielelläni osana myös aloittavien korkeakouluopiskelijoiden opintosuunnitelmaa, koska kuten Aadakin [artikkelissaan](https://www.nuori.fi/2020/11/19/yha-useampi-nuori-rakentaa-identiteettiaan-kuluttamisen-kautta/) kirjoittaa:
 
-> *“Ymmärrys taloudesta tuo mielenrauhaa, joka vaikuttaa suoraan ihmisen kokemaan hyvinvointiin. Samalla se ehkäisee mahdollisia tulevaisuuden talousongelmia, kuten ylivelkaantumista, ja on siten merkittävässä osassa paitsi nuoren itsensä elämää, myös yhteiskuntamme tulevaisuutta.”*
-
-
+*“Ymmärrys taloudesta tuo mielenrauhaa, joka vaikuttaa suoraan ihmisen kokemaan hyvinvointiin. Samalla se ehkäisee mahdollisia tulevaisuuden talousongelmia, kuten ylivelkaantumista, ja on siten merkittävässä osassa paitsi nuoren itsensä elämää, myös yhteiskuntamme tulevaisuutta.”*
 
 PS. Tämän postauksen kuvat ovat ihanan [Marle Muurosen](https://www.instagram.com/marlemuuronen/) käsialaa!
