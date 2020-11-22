@@ -4,15 +4,15 @@ path: hevosenomistajan-vuosibudjetti
 header-title: Hevosenomistajan vuosibudjetti - mitä arki maksaa ja millä se maksetaan?
 header-description: Mitä hevosen omistaminen maksaa? Millaisilla tuloilla on
   varaa pitää omaa hevosta? Miksi henkilökohtaiset raha-asiat kuuluvat myös
-  someen? Tältä näyttää minun vuosibudjettini 2021.
+  someen? Tältä näyttää minun budjettini vuodelle 2021.
 title: Hevosenomistajan vuosibudjetti - mitä arki maksaa ja millä se maksetaan?
 date: 2020-11-22
 subtitle: Mitä hevosen omistaminen maksaa? Millaisilla tuloilla on varaa pitää
   omaa hevosta? Miksi henkilökohtaiset raha-asiat kuuluvat myös someen? Tältä
-  näyttää minun vuosibudjettini 2021.
+  näyttää minun budjettini vuodelle 2021.
 excerpt: Mitä hevosen omistaminen maksaa? Millaisilla tuloilla on varaa pitää
   omaa hevosta? Miksi henkilökohtaiset raha-asiat kuuluvat myös someen? Tältä
-  näyttää minun vuosibudjettini 2021.
+  näyttää minun budjettini vuodelle 2021.
 img_path: /images/maisa-sotilas-8.jpg
 post_button_label: Lue lisää
 ---
