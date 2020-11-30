@@ -142,20 +142,20 @@ export const IndexPageTemplate = ({ main, intro, spotlight, sponsors }) => (
           fontWeight="light"
           color="brand.gray"
           textAlign={["center", "center", "center", "left"]}
-          marginBottom="10"
         >
           {sponsors.title && sponsors.title}
         </Heading>
-        <Text
-          as="div"
-          fontWeight="light"
-          textAlign={"center"}
-          fontSize={["md", "md", "lg", "xl"]}
-          lineHeight={["lg", "lg", "xl", "2xl"]}
-        >
-          {sponsors.subtitle.length > 0 && sponsors.subtitle}
-        </Text>
-
+        {sponsors.subtitle.length > 0 && (
+          <Text
+            as="div"
+            fontWeight="light"
+            textAlign={"center"}
+            fontSize={["md", "md", "lg", "xl"]}
+            lineHeight={["lg", "lg", "xl", "2xl"]}
+          >
+            {sponsors.subtitle}
+          </Text>
+        )}
         <Flex
           flexDirection="row"
           width="full"
@@ -165,14 +165,13 @@ export const IndexPageTemplate = ({ main, intro, spotlight, sponsors }) => (
         >
           {sponsors.sponsors &&
             sponsors.sponsors.map((sponsor, i) => {
-              console.log("jjejee");
               return (
                 <Box
                   width="auto"
                   height="full"
                   //maxWidth={["3xs", "3xs", "2xs", "xs"]}
-                  maxHeight={["48", "48", "48", "48"]}
-                  minWidth={["48", "48", "48", "48"]}
+                  maxHeight={["64", "64", "64", "64"]}
+                  minWidth={["64", "64", "64", "64"]}
                   marginTop={["6vw", "6vw", "0", "0"]}
                   marginBottom={["6vw", "6vw", "0", "0"]}
                   marginLeft="6vw"
