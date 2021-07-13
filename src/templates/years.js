@@ -76,7 +76,7 @@ export const YearsTemplate = ({ posts, years, selectedYear }) => {
               const { frontmatter } = node;
               const { date, path, title } = frontmatter;
               return (
-                <Link key={i} to={path}>
+                <Link key={i} to={`/${path}`}>
                   <Text
                     fontWeight="light"
                     fontSize={["sm", "md", "md", "md"]}
